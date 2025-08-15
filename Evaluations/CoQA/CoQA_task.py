@@ -3,41 +3,50 @@
 import json
 import os
 from pathlib import Path
-from typing import Any, Dict
+from typing import Any, Dict, Sequence
 
 from inspect_ai import Task, task
 from inspect_ai.dataset import Dataset, MemoryDataset, Sample
-from inspect_ai.scorer import Score, Scorer, Target, accuracy, includes, scorer
+from inspect_ai.model import ChatMessage, ChatMessageAssistant, ChatMessageUser, get_model
+from inspect_ai.scorer import Metric, SampleScore, Score, Scorer, Target, accuracy, includes, mean, metric, scorer, stderr
 from inspect_ai.solver import Generate, Solver, TaskState, solver
+import numpy as np
 
-def record_to_sample(record: Dict[str, Any], dataset_path: str) -> Sample:
-    sample_id = record["name"]
+def record_to_sample(record: Dict[str, Any], dataset_path: str) -> list[Sample]:
+    sample_id = record["id"]
     context = record["story"]
-    questions = []
-    answers = []
     turn_id = 1
+    messages: list[ChatMessage] = [ChatMessageUser(content=context)]
+    samples = []
 
     for question in record["questions"]:
         assert question["turn_id"] == turn_id
+        messages.append(ChatMessageUser(content=question["input_text"]))
+        # first find the answers to this question
         current_answers = []
-        questions.append(question["input_text"])
 
         for answer in record["answers"]:
             if answer["turn_id"] == question["turn_id"]:
                 current_answers.append(answer["input_text"])
+                golden_answer = answer["input_text"]
 
-        for answer_set in record["additional_answers"]:
+        for answer_set in record["additional_answers"].values():
             for answer in answer_set:
                 if answer["turn_id"] == question["turn_id"]:
                     current_answers.append(answer["input_text"])
-        
-        answers.extend(current_answers)
+        # then create the sample
+        sample = Sample(
+            input=messages.copy(), 
+            target=current_answers, 
+            id=f"{sample_id}_{turn_id}",
+            )
+        samples.append(sample)
+
+        # then add the "golden answer" to the messages and repeat
+        messages.append(ChatMessageAssistant(content=golden_answer))
         turn_id += 1
 
-    return Sample(input=context, metadata={
-        "questions": questions,
-        "answers": answers,
-    })
+    return samples
 
 def custom_loader(dataset_path: str) -> Dataset:
     
@@ -45,33 +54,20 @@ def custom_loader(dataset_path: str) -> Dataset:
     samples = []
     # Iterate through the samples in the record
     for item in json_data["data"]:
-        sample = record_to_sample(item, dataset_path)
-        samples.append(sample)
+        new_samples = record_to_sample(item, dataset_path)
+        samples.extend(new_samples)
     return MemoryDataset(samples=samples, name="CoQA", location=dataset_path, shuffled=False)
 
-@solver
-def CoQA_solver() -> Solver:
-    async def solve(state: TaskState, generate: Generate) -> TaskState:
-        return state
-    
-    return solve
-
-@scorer(metrics=[accuracy()])
-def custom_multi_scorer()-> Scorer:
-    """Custom scorer that provides grouped accuracy metrics."""
-    async def score(state: TaskState, target: Target) -> Score:
-        return Score(value=0)
-    
-    return score
 
 @task
-def CoQA_task(dataset_path: str = os.path.join(Path(__file__).parent, "coqa.test.json")) -> Task:
+def CoQA_task(
+    dataset_path: str | None = None,
+    ) -> Task:
+    if dataset_path is None:
+        dataset_path = os.path.join(Path(__file__).parent, "coqa.test.json")
     dataset = custom_loader(dataset_path=dataset_path)
 
-    solver = CoQA_solver()
-
     return Task(dataset=dataset,
-                solver=solver,
                 scorer=includes(),
         )
     
