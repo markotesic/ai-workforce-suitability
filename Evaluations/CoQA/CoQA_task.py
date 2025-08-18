@@ -5,12 +5,14 @@ import os
 from pathlib import Path
 from typing import Any, Dict, Sequence
 
-from inspect_ai import Task, task
+from inspect_ai import Task, task, eval
 from inspect_ai.dataset import Dataset, MemoryDataset, Sample
 from inspect_ai.model import ChatMessage, ChatMessageAssistant, ChatMessageUser, get_model
 from inspect_ai.scorer import Metric, SampleScore, Score, Scorer, Target, accuracy, includes, mean, metric, scorer, stderr
 from inspect_ai.solver import Generate, Solver, TaskState, solver
 import numpy as np
+
+from Annotations.annotate_tasks import annotate_task
 
 def record_to_sample(record: Dict[str, Any], dataset_path: str) -> list[Sample]:
     sample_id = record["id"]
@@ -70,8 +72,24 @@ def CoQA_task(
     return Task(dataset=dataset,
                 scorer=includes(),
         )
-    
 
 
+def convert_input_to_string(dataset: Dataset) -> Dataset:
+    """takes a dataset and converts the inputs from messages to strings for annotation only"""
+    for sample in dataset:
+        new_input = ""
+        for message in sample.input:
+            new_input += f"{message.role}: {message.content}\n"
+        sample.input = new_input
+
+    return dataset
+
+if __name__ == "__main__":
+    dataset_path = os.path.join(Path(__file__).parent, "coqa.test.json")
+    dataset = custom_loader(dataset_path=dataset_path)
+    dataset = convert_input_to_string(dataset)
+
+    annotation_task = annotate_task(dataset)
+    eval(annotation_task, model="openai/azure/gpt-4o", max_connections=2)
 
 
