@@ -12,7 +12,7 @@ from inspect_ai.scorer import Metric, SampleScore, Score, Scorer, Target, accura
 from inspect_ai.solver import Generate, Solver, TaskState, solver
 import numpy as np
 
-from Annotations.annotate_tasks import annotate_task
+from Annotations.annotate_tasks import annotate_task, extract_annotations
 
 def record_to_sample(record: Dict[str, Any], dataset_path: str) -> list[Sample]:
     sample_id = record["id"]
@@ -86,10 +86,11 @@ def convert_input_to_string(dataset: Dataset) -> Dataset:
 
 if __name__ == "__main__":
     dataset_path = os.path.join(Path(__file__).parent, "coqa.test.json")
+    output_path = os.path.join(Path(__file__).parent, "coqa_annotations.csv")
     dataset = custom_loader(dataset_path=dataset_path)
     dataset = convert_input_to_string(dataset)
 
     annotation_task = annotate_task(dataset)
-    eval(annotation_task, model="openai/azure/gpt-4o", max_connections=2)
-
+    log = eval(annotation_task, model="openai/azure/gpt-4o", max_connections=2)
+    extract_annotations(log[0], output_path)
 
