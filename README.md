@@ -8,6 +8,7 @@ A package for evaluating AI workforce suitability through various tasks and anno
 
 - Python 3.8+
 - Virtual environment (recommended)
+- Modules for each model you wish to use (e.g., `openai`, `transformers`)
 
 ### Installation
 
@@ -45,26 +46,14 @@ The annotation system uses OECD capability rubrics to score tasks across multipl
 
 ### Running Annotations
 
-To annotate a task (e.g., CoQA):
+To annotate a task simply run the task python file. For example, to annotate the CoQA task:
 
-```python
-from Evaluations.CoQA.CoQA_task import custom_loader, convert_input_to_string
-from Annotations.annotate_tasks import annotate_task, extract_annotations
-from inspect_ai import eval
-
-# Load and prepare dataset
-dataset = custom_loader("path/to/dataset.json")
-dataset = convert_input_to_string(dataset)  # Convert chat messages to strings
-
-# Create annotation task
-annotation_task = annotate_task(dataset)
-
-# Run evaluation with your preferred model
-log = eval(annotation_task, model="openai/azure/gpt-4o", max_connections=2)
-
-# Extract results to CSV
-extract_annotations(log[0], "output_annotations.csv")
+```bash
+python ./Evaluations/CoQA/CoQA_task.py
 ```
+This will load the CoQA dataset, convert each sample into a string to be insterted into the annotation prompt, and apply the OECD capability rubrics to each sample.
+
+These are then passed to a model for annotation and the results will be saved to `coqa_annotations.csv`. The only custom code needed is to load the dataset (needed for evaluation anyway) and code to covert each sample to a string (relatively simple for most text based tasks).
 
 ### Understanding Rubrics
 
