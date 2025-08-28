@@ -14,7 +14,7 @@ A package for evaluating AI workforce suitability through various tasks and anno
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-org/ai-workforce-suitability.git
+git clone https://github.com/markotesic/ai-workforce-suitability.git
 cd ai-workforce-suitability
 ```
 
