@@ -16,12 +16,37 @@ PROMPT_TEMPLATE = """QUERY: The following rubric describes six distinct levels o
 required by different tasks:
 {rubric}
 TASK INSTANCE: {instance}
+ANSWER: {target}
 INSTRUCTION: Score the level of *{dimension}* demanded by the given
 TASK INSTANCE using a discrete value from 0 to 5. Use CHAIN-OF-THOUGHTS
 REASONING to reason step by step before assigning the score. After the
 CHAIN-OF-THOUGHTS REASONING STEPS, conclude your assessment with the
 statement: "Thus, the level of *{dimension}* demanded by the given TASK
 INSTANCE is: SCORE", where 'SCORE' is the integer score you have determined.
+"""
+
+FACTUALITY_PROMPT_TEMPLATE = """QUERY: {instance}
+ANSWER: {target}
+INSTRUCTION: Given the query and an answer above, evaluate the accuracy or
+factuality of this answer. Please rate it using a Likert scale from 1 to 5,
+where 5 means surely accurate while 1 means surely inaccurate. You may employ
+any reasoning strategy before providing your final answer. However, you must
+conclude your assessment with the statement: 'Thus, the accuracy of the given
+answer is: X', where 'X' is the score you've determined.
+"""
+
+AMBIGUITY_PROMPT_TEMPLATE = """QUERY: {instance}
+ANSWER: {target}
+INSTRUCTION: Given the query and an answer above, evaluate the ambiguity of
+this query, independently of the potential difficulty of answering it. That
+is, assess whether the query has a single clear interpretation with all
+necessary details provided, or if it lacks critical information making it
+difficult to answer confidently. Please rate it using a Likert scale from
+1 to 5, where 5 means surely unambiguous (very clear) while 1 means surely
+ambiguous (very unclear). You may employ any reasoning strategy before
+providing your final answer. However, you must conclude your assessment with
+the statement: 'Thus, the ambiguity of the given query is: X', where 'X' is
+the score you've determined.
 """
 
 
@@ -32,7 +57,7 @@ def combine_dataset(task_dataset: Dataset, rubric_data) -> Dataset:
         for rubric_dict in rubric_data:
             dimension = rubric_dict["dimension"]
             rubric = rubric_dict["rubric"]
-            combined_string = PROMPT_TEMPLATE.format(dimension=dimension, rubric=rubric, instance=instance)
+            combined_string = PROMPT_TEMPLATE.format(dimension=dimension, rubric=rubric, instance=instance, target=sample.target)
             new_sample = Sample(
                 input=combined_string,
                 id=f"{sample.id}_{dimension}",
@@ -42,6 +67,34 @@ def combine_dataset(task_dataset: Dataset, rubric_data) -> Dataset:
                 }
                 )
             new_samples.append(new_sample)
+
+        # manually add the ambiguity and factuality questions
+        ambiguity_string = AMBIGUITY_PROMPT_TEMPLATE.format(
+            instance=instance,
+            target=sample.target
+        )
+        ambiguity_sample = Sample(
+            input=ambiguity_string,
+            id=f"{sample.id}_ambiguity",
+            metadata={
+                "dimension": "ambiguity",
+                "sample_id": sample.id,
+            }
+        )
+        new_samples.append(ambiguity_sample)
+        factuality_string = FACTUALITY_PROMPT_TEMPLATE.format(
+            instance=instance,
+            target=sample.target
+        )
+        factuality_sample = Sample(
+            input=factuality_string,
+            id=f"{sample.id}_factuality",
+            metadata={
+                "dimension": "factuality",
+                "sample_id": sample.id,
+            }
+        )
+        new_samples.append(factuality_sample)
     return MemoryDataset(new_samples, name=f"{task_dataset.name}_annotation")
 
 def extract_annotations(log: EvalLog, output_file: str):
