@@ -75,11 +75,7 @@ def convert_input_to_string(dataset: Dataset) -> Dataset:
 if __name__ == "__main__":
     dataset = hf_dataset("socialnormdataset/social", 
         split="test", 
-        sample_fields=FieldSpec(
-            input="question",
-            choices="choices",
-            target="answer_idx",
-        )
+        sample_fields=record_to_sample,
     )
     dataset = convert_input_to_string(dataset)
     output_path = os.path.join(Path(__file__).parent, "socialnorm_annotations.csv")
