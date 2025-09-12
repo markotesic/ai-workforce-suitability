@@ -12,17 +12,16 @@ from inspect_ai.log import EvalLog
 from Annotations.annotation_agent import annotation_agent
 
 
-PROMPT_TEMPLATE = """QUERY: The following rubric describes six distinct levels of *{dimension}*
+PROMPT_TEMPLATE = """RUBRIC: The following rubric describes six distinct levels of *{dimension}*
 required by different tasks:
 {rubric}
-TASK INSTANCE: {instance}
+QUERY: {instance}
 ANSWER: {target}
-INSTRUCTION: Score the level of *{dimension}* demanded by the given
-TASK INSTANCE using a discrete value from 0 to 5. Use CHAIN-OF-THOUGHTS
+INSTRUCTION: Score the level of *{dimension}* demanded by the given QUERY–ANSWER pair using a discrete value from 0 to 5. Base your judgment on the *{dimension}* needed to
+produce the ANSWER in response to the QUERY. Use CHAIN-OF-THOUGHTS
 REASONING to reason step by step before assigning the score. After the
 CHAIN-OF-THOUGHTS REASONING STEPS, conclude your assessment with the
-statement: "Thus, the level of *{dimension}* demanded by the given TASK
-INSTANCE is: SCORE", where 'SCORE' is the integer score you have determined.
+statement: "Thus, the level of *{dimension}* demanded by the given QUERY-ANSWER pair is: SCORE", where 'SCORE' is the integer score you have determined.
 """
 
 FACTUALITY_PROMPT_TEMPLATE = """QUERY: {instance}
