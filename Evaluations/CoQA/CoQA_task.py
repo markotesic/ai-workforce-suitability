@@ -62,7 +62,7 @@ def custom_loader(dataset_path: str) -> Dataset:
 
 
 @task
-def CoQA_task(
+def coqa_task(
     dataset_path: str | None = None,
     ) -> Task:
     if dataset_path is None:
