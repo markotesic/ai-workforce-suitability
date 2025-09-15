@@ -8,8 +8,16 @@ from pathlib import Path
 from inspect_ai import Task, task
 from inspect_ai.dataset import Dataset, MemoryDataset, Sample
 from inspect_ai.log import EvalLog
+from inspect_ai.solver import system_message
 
 from Annotations.annotation_agent import annotation_agent
+
+DEFAULT_SYSTEM_MESSAGE = """You are an excellent annotation agent that labels benchmark instances using the instructions and rubric (if provided). Your goal is to assign a single integer score that reflects the dimension being evaluated (e.g., capability demand, factuality, ambiguity).
+
+Reason through the instructions, the benchmark instance and the rubric (if provided) before deciding on a score.
+
+When you have completed the task, call the submit() function to report your final answer.
+"""
 
 
 PROMPT_TEMPLATE = """RUBRIC: The following rubric describes six distinct levels of *{dimension}*
@@ -124,7 +132,7 @@ def annotate_task(
 
     return Task(
         dataset=annotation_dataset,
-        solver=annotation_agent(),
+        solver=annotation_agent(init=system_message(DEFAULT_SYSTEM_MESSAGE)),
     )
 
 
