@@ -33,7 +33,7 @@ def predict_task() -> Task:
                 )
 
 def plan_record_to_sample(record: Dict[str, Any]) -> Sample:
-    input = f"{record['env_description']} What actions should be taken to reach the target sub goal?:\n initial_state ((x, y), d) where d is the direction the agent is facing (east=0, south=1, west=2, north=3): {record['initial_state']}\n target sub goal: {record['target_subgoal']} \n give your answer as a comma seperated list of actions (left|right|forward)."
+    input = f"{record['env_description']} What actions should be taken to reach the target sub goal?:\n initial_state ((x, y), d) where d is the direction the agent is facing (east=0, south=1, west=2, north=3): {record['initial_state']}\n target sub goal: {record['target_subgoal']} \n give your answer as a comma seperated list of actions. The names of possible actions are again: left, right, forward, pickup, drop, toggle."
     target=record["expert_action_sequence"]
     sample = Sample(input=input,
                     target=target,
@@ -56,7 +56,7 @@ def plan_task() -> Task:
                          sample_fields=plan_record_to_sample
                          )
     return Task(dataset=dataset,
-                solver=generate(),
+                solver=basic_agent(),
                 scorer=[match(), plan_scorer()],
                 )
 
