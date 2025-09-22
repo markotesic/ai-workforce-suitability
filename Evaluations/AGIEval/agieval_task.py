@@ -127,6 +127,9 @@ if __name__ == "__main__":
     output_path_mcq = os.path.join(Path(__file__).parent, "agieval_mcq_annotations.csv")
     dataset_mcq = custom_loader(dataset_dir=dataset_dir, mcq=True)
     dataset_mcq = convert_input_to_string(dataset_mcq)
+    num_samples = 100
+    dataset_mcq.shuffle(42)
+    dataset_mcq = dataset_mcq[:num_samples]
 
     annotation_task = annotate_task(dataset_mcq)
     log = eval(annotation_task, model="openai/azure/gpt-4o", max_connections=2)
@@ -136,6 +139,9 @@ if __name__ == "__main__":
     output_path_freeform = os.path.join(Path(__file__).parent, "agieval_freeform_annotations.csv")
     dataset_freeform = custom_loader(dataset_dir=dataset_dir, mcq=False)
     dataset_freeform = convert_input_to_string(dataset_freeform)
+    num_samples = 100
+    dataset_freeform.shuffle(42)
+    dataset_freeform = dataset_freeform[:num_samples]
 
     annotation_task = annotate_task(dataset_freeform)
     log = eval(annotation_task, model="openai/azure/gpt-4o", max_connections=2)

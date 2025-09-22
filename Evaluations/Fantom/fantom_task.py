@@ -104,6 +104,9 @@ if __name__ == "__main__":
     dataset_path = os.path.join(Path(__file__).parent, "fantom_v1.json")
     output_path = os.path.join(Path(__file__).parent, "fantom_annotations.csv")
     dataset = custom_loader(dataset_path=dataset_path)
+    num_samples = 100
+    dataset.shuffle(42)
+    dataset = dataset[:num_samples]
 
     annotation_task = annotate_task(dataset)
     log = eval(annotation_task, model="openai/azure/gpt-4o", max_connections=2)

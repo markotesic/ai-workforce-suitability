@@ -94,6 +94,9 @@ if __name__ == "__main__":
     output_path = os.path.join(Path(__file__).parent, "abstract_narrative_understanding_annotations.csv")
     dataset = custom_loader(dataset_path=dataset_path)
     dataset = convert_input_to_string(dataset)
+    num_samples = 100
+    dataset.shuffle(42)
+    dataset = dataset[:num_samples]
 
     annotation_task = annotate_task(dataset)
     log = eval(annotation_task, model="openai/azure/gpt-4o", max_connections=2)
