@@ -62,6 +62,9 @@ if __name__ == "__main__":
     dataset_dir = os.path.join(Path(__file__).parent, "conditions")
     output_path = os.path.join(Path(__file__).parent, "bigtom_annotations.csv")
     dataset = custom_loader(dataset_dir=dataset_dir)
+    num_samples = 100
+    dataset.shuffle(42)
+    dataset = dataset[:num_samples]
 
     annotation_task = annotate_task(dataset)
     log = eval(annotation_task, model="openai/azure/gpt-4o", max_connections=2)

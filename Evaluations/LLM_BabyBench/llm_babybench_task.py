@@ -132,6 +132,9 @@ def decompose_task() -> Task:
                          split="train",
                          sample_fields=decompose_record_to_sample
                          )
+    num_samples = 100
+    dataset.shuffle(42)
+    dataset = dataset[:num_samples]
     return Task(dataset=dataset,
                 solver=basic_agent(),
                 scorer=decompose_scorer(),
