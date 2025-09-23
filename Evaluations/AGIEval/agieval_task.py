@@ -133,7 +133,7 @@ if __name__ == "__main__":
     dataset_mcq = dataset_mcq[:num_samples]
 
     annotation_task = annotate_task(dataset_mcq)
-    log = eval(annotation_task, model="openai/azure/gpt-4o", max_connections=2)
+    log = eval(annotation_task, model="openai/azure/gpt-4o" )
     extract_annotations(log[0], output_path_mcq)
 
 
@@ -145,7 +145,7 @@ if __name__ == "__main__":
     dataset_freeform = dataset_freeform[:num_samples]
 
     annotation_task = annotate_task(dataset_freeform)
-    log = eval(annotation_task, model="openai/azure/gpt-4o", max_connections=2)
+    log = eval(annotation_task, model="openai/azure/gpt-4o" )
     extract_annotations(log[0], output_path_freeform)
 
 
