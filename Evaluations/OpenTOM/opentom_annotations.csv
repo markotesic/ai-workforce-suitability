@@ -1,0 +1,211 @@
+dataset name,sample id,dimension,score
+OpenToM_annotation,11458,Causal Reasoning,1
+OpenToM_annotation,11458,Cognitive Flexibility,0
+OpenToM_annotation,11458,Emotion Perception & Empathy (EPE),0
+OpenToM_annotation,11458,Episodic/Episodic-Like Memory,1
+OpenToM_annotation,11458,Executive Function (EF),1
+OpenToM_annotation,11458,Functional perception,0
+OpenToM_annotation,11458,Inhibitory Control,1
+OpenToM_annotation,11458,Language,1
+OpenToM_annotation,11458,Mental Simulation,0
+OpenToM_annotation,11458,Metacognition,1
+OpenToM_annotation,11458,Object permanence,1
+OpenToM_annotation,11458,Perception and Pattern Recognition,1
+OpenToM_annotation,11458,Planning,0
+OpenToM_annotation,11458,Procedural Memory,0
+OpenToM_annotation,11458,Prospective Memory,0
+OpenToM_annotation,11458,Semantic Memory,0
+OpenToM_annotation,11458,Spatial reasoning and navigation,1
+OpenToM_annotation,11458,Theory of Mind,2
+OpenToM_annotation,11458,Working Memory,2
+OpenToM_annotation,11458,ambiguity,5
+OpenToM_annotation,11458,factuality,5
+OpenToM_annotation,11514,Causal Reasoning,1
+OpenToM_annotation,11514,Cognitive Flexibility,0
+OpenToM_annotation,11514,Emotion Perception & Empathy (EPE),0
+OpenToM_annotation,11514,Episodic/Episodic-Like Memory,1
+OpenToM_annotation,11514,Executive Function (EF),1
+OpenToM_annotation,11514,Functional perception,1
+OpenToM_annotation,11514,Inhibitory Control,1
+OpenToM_annotation,11514,Language,2
+OpenToM_annotation,11514,Mental Simulation,1
+OpenToM_annotation,11514,Metacognition,0
+OpenToM_annotation,11514,Object permanence,1
+OpenToM_annotation,11514,Perception and Pattern Recognition,1
+OpenToM_annotation,11514,Planning,0
+OpenToM_annotation,11514,Procedural Memory,0
+OpenToM_annotation,11514,Prospective Memory,0
+OpenToM_annotation,11514,Semantic Memory,0
+OpenToM_annotation,11514,Spatial reasoning and navigation,1
+OpenToM_annotation,11514,Theory of Mind,2
+OpenToM_annotation,11514,Working Memory,2
+OpenToM_annotation,11514,ambiguity,5
+OpenToM_annotation,11514,factuality,5
+OpenToM_annotation,4261,Causal Reasoning,1
+OpenToM_annotation,4261,Cognitive Flexibility,0
+OpenToM_annotation,4261,Emotion Perception & Empathy (EPE),1
+OpenToM_annotation,4261,Episodic/Episodic-Like Memory,1
+OpenToM_annotation,4261,Executive Function (EF),1
+OpenToM_annotation,4261,Functional perception,0
+OpenToM_annotation,4261,Inhibitory Control,0
+OpenToM_annotation,4261,Language,1
+OpenToM_annotation,4261,Mental Simulation,1
+OpenToM_annotation,4261,Metacognition,1
+OpenToM_annotation,4261,Object permanence,0
+OpenToM_annotation,4261,Perception and Pattern Recognition,1
+OpenToM_annotation,4261,Planning,0
+OpenToM_annotation,4261,Procedural Memory,0
+OpenToM_annotation,4261,Prospective Memory,0
+OpenToM_annotation,4261,Semantic Memory,1
+OpenToM_annotation,4261,Spatial reasoning and navigation,0
+OpenToM_annotation,4261,Theory of Mind,2
+OpenToM_annotation,4261,Working Memory,2
+OpenToM_annotation,4261,ambiguity,5
+OpenToM_annotation,4261,factuality,5
+OpenToM_annotation,4827,Causal Reasoning,1
+OpenToM_annotation,4827,Cognitive Flexibility,2
+OpenToM_annotation,4827,Emotion Perception & Empathy (EPE),0
+OpenToM_annotation,4827,Episodic/Episodic-Like Memory,1
+OpenToM_annotation,4827,Executive Function (EF),3
+OpenToM_annotation,4827,Functional perception,1
+OpenToM_annotation,4827,Inhibitory Control,1
+OpenToM_annotation,4827,Language,2
+OpenToM_annotation,4827,Mental Simulation,1
+OpenToM_annotation,4827,Metacognition,2
+OpenToM_annotation,4827,Object permanence,0
+OpenToM_annotation,4827,Perception and Pattern Recognition,1
+OpenToM_annotation,4827,Planning,0
+OpenToM_annotation,4827,Procedural Memory,0
+OpenToM_annotation,4827,Prospective Memory,0
+OpenToM_annotation,4827,Semantic Memory,1
+OpenToM_annotation,4827,Spatial reasoning and navigation,0
+OpenToM_annotation,4827,Theory of Mind,3
+OpenToM_annotation,4827,Working Memory,2
+OpenToM_annotation,4827,ambiguity,4
+OpenToM_annotation,4827,factuality,3
+OpenToM_annotation,6084,Causal Reasoning,1
+OpenToM_annotation,6084,Cognitive Flexibility,0
+OpenToM_annotation,6084,Emotion Perception & Empathy (EPE),1
+OpenToM_annotation,6084,Episodic/Episodic-Like Memory,1
+OpenToM_annotation,6084,Executive Function (EF),1
+OpenToM_annotation,6084,Functional perception,2
+OpenToM_annotation,6084,Inhibitory Control,0
+OpenToM_annotation,6084,Language,1
+OpenToM_annotation,6084,Mental Simulation,1
+OpenToM_annotation,6084,Metacognition,1
+OpenToM_annotation,6084,Object permanence,1
+OpenToM_annotation,6084,Perception and Pattern Recognition,2
+OpenToM_annotation,6084,Planning,1
+OpenToM_annotation,6084,Procedural Memory,0
+OpenToM_annotation,6084,Prospective Memory,0
+OpenToM_annotation,6084,Semantic Memory,2
+OpenToM_annotation,6084,Spatial reasoning and navigation,1
+OpenToM_annotation,6084,Theory of Mind,2
+OpenToM_annotation,6084,Working Memory,2
+OpenToM_annotation,6084,ambiguity,5
+OpenToM_annotation,6084,factuality,5
+OpenToM_annotation,6133,Causal Reasoning,1
+OpenToM_annotation,6133,Cognitive Flexibility,2
+OpenToM_annotation,6133,Emotion Perception & Empathy (EPE),0
+OpenToM_annotation,6133,Episodic/Episodic-Like Memory,0
+OpenToM_annotation,6133,Executive Function (EF),0
+OpenToM_annotation,6133,Functional perception,1
+OpenToM_annotation,6133,Inhibitory Control,1
+OpenToM_annotation,6133,Language,1
+OpenToM_annotation,6133,Mental Simulation,1
+OpenToM_annotation,6133,Metacognition,2
+OpenToM_annotation,6133,Object permanence,1
+OpenToM_annotation,6133,Perception and Pattern Recognition,1
+OpenToM_annotation,6133,Planning,0
+OpenToM_annotation,6133,Procedural Memory,0
+OpenToM_annotation,6133,Prospective Memory,0
+OpenToM_annotation,6133,Semantic Memory,1
+OpenToM_annotation,6133,Spatial reasoning and navigation,1
+OpenToM_annotation,6133,Theory of Mind,2
+OpenToM_annotation,6133,Working Memory,2
+OpenToM_annotation,6133,ambiguity,4
+OpenToM_annotation,6133,factuality,1
+OpenToM_annotation,8049,Causal Reasoning,1
+OpenToM_annotation,8049,Cognitive Flexibility,0
+OpenToM_annotation,8049,Emotion Perception & Empathy (EPE),0
+OpenToM_annotation,8049,Episodic/Episodic-Like Memory,0
+OpenToM_annotation,8049,Executive Function (EF),0
+OpenToM_annotation,8049,Functional perception,0
+OpenToM_annotation,8049,Inhibitory Control,0
+OpenToM_annotation,8049,Language,2
+OpenToM_annotation,8049,Mental Simulation,0
+OpenToM_annotation,8049,Metacognition,1
+OpenToM_annotation,8049,Object permanence,1
+OpenToM_annotation,8049,Perception and Pattern Recognition,1
+OpenToM_annotation,8049,Planning,0
+OpenToM_annotation,8049,Procedural Memory,0
+OpenToM_annotation,8049,Prospective Memory,0
+OpenToM_annotation,8049,Semantic Memory,1
+OpenToM_annotation,8049,Spatial reasoning and navigation,1
+OpenToM_annotation,8049,Theory of Mind,3
+OpenToM_annotation,8049,Working Memory,2
+OpenToM_annotation,8049,ambiguity,5
+OpenToM_annotation,8049,factuality,5
+OpenToM_annotation,830,Causal Reasoning,1
+OpenToM_annotation,830,Cognitive Flexibility,0
+OpenToM_annotation,830,Emotion Perception & Empathy (EPE),0
+OpenToM_annotation,830,Episodic/Episodic-Like Memory,1
+OpenToM_annotation,830,Executive Function (EF),1
+OpenToM_annotation,830,Functional perception,1
+OpenToM_annotation,830,Inhibitory Control,0
+OpenToM_annotation,830,Language,1
+OpenToM_annotation,830,Mental Simulation,1
+OpenToM_annotation,830,Metacognition,0
+OpenToM_annotation,830,Object permanence,1
+OpenToM_annotation,830,Perception and Pattern Recognition,1
+OpenToM_annotation,830,Planning,0
+OpenToM_annotation,830,Procedural Memory,0
+OpenToM_annotation,830,Prospective Memory,0
+OpenToM_annotation,830,Semantic Memory,1
+OpenToM_annotation,830,Spatial reasoning and navigation,1
+OpenToM_annotation,830,Theory of Mind,2
+OpenToM_annotation,830,Working Memory,2
+OpenToM_annotation,830,ambiguity,5
+OpenToM_annotation,830,factuality,5
+OpenToM_annotation,8600,Causal Reasoning,1
+OpenToM_annotation,8600,Cognitive Flexibility,0
+OpenToM_annotation,8600,Emotion Perception & Empathy (EPE),0
+OpenToM_annotation,8600,Episodic/Episodic-Like Memory,1
+OpenToM_annotation,8600,Executive Function (EF),1
+OpenToM_annotation,8600,Functional perception,1
+OpenToM_annotation,8600,Inhibitory Control,0
+OpenToM_annotation,8600,Language,1
+OpenToM_annotation,8600,Mental Simulation,1
+OpenToM_annotation,8600,Metacognition,1
+OpenToM_annotation,8600,Object permanence,1
+OpenToM_annotation,8600,Perception and Pattern Recognition,1
+OpenToM_annotation,8600,Planning,0
+OpenToM_annotation,8600,Procedural Memory,0
+OpenToM_annotation,8600,Prospective Memory,0
+OpenToM_annotation,8600,Semantic Memory,1
+OpenToM_annotation,8600,Spatial reasoning and navigation,1
+OpenToM_annotation,8600,Theory of Mind,4
+OpenToM_annotation,8600,Working Memory,2
+OpenToM_annotation,8600,ambiguity,5
+OpenToM_annotation,8600,factuality,5
+OpenToM_annotation,9686,Causal Reasoning,1
+OpenToM_annotation,9686,Cognitive Flexibility,0
+OpenToM_annotation,9686,Emotion Perception & Empathy (EPE),0
+OpenToM_annotation,9686,Episodic/Episodic-Like Memory,1
+OpenToM_annotation,9686,Executive Function (EF),2
+OpenToM_annotation,9686,Functional perception,1
+OpenToM_annotation,9686,Inhibitory Control,0
+OpenToM_annotation,9686,Language,2
+OpenToM_annotation,9686,Mental Simulation,1
+OpenToM_annotation,9686,Metacognition,1
+OpenToM_annotation,9686,Object permanence,1
+OpenToM_annotation,9686,Perception and Pattern Recognition,1
+OpenToM_annotation,9686,Planning,0
+OpenToM_annotation,9686,Procedural Memory,0
+OpenToM_annotation,9686,Prospective Memory,0
+OpenToM_annotation,9686,Semantic Memory,1
+OpenToM_annotation,9686,Spatial reasoning and navigation,1
+OpenToM_annotation,9686,Theory of Mind,3
+OpenToM_annotation,9686,Working Memory,2
+OpenToM_annotation,9686,ambiguity,5
+OpenToM_annotation,9686,factuality,5
