@@ -22,10 +22,16 @@ def record_to_sample(record: Dict[str, Any]) -> Sample:
     input = record["question"]
     target = answer_character(record["answer_idx"])
     choices = record["choices"]
+
+    # Create a unique identifier based on content hash since no index is available
+    import hashlib
+    content_hash = hashlib.md5(f"{input}{''.join(choices)}{target}".encode()).hexdigest()[:8]
+
     return Sample(
         input=input,
         target=target,
         choices=choices,
+        id=f"socialnorm_{content_hash}",
     )
 
 

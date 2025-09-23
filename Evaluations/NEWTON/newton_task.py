@@ -22,10 +22,16 @@ def record_to_sample(record) -> Sample:
     input = record["question"]
     choices = [record["option_1"], record["option_2"], record["option_3"]]
     target = answer_character(record["result_marjority"] - 1)
+
+    # Create a unique identifier based on content hash since no index is available
+    import hashlib
+    content_hash = hashlib.md5(f"{input}{''.join(choices)}{target}".encode()).hexdigest()[:8]
+
     return Sample(
         input=input,
         choices=choices,
         target=target,
+        id=f"newton_{content_hash}",
     )
 
 

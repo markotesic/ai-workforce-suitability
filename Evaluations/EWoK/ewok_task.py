@@ -68,10 +68,16 @@ def record_to_sample(record) -> list[Sample]:
     scenario_1 = record["Target1"]
     scenario_2 = record["Target2"]
 
+    # Create a unique identifier based on content hash since no index is available
+    import hashlib
+    content_hash = hashlib.md5(f"{context_1}{context_2}{scenario_1}{scenario_2}".encode()).hexdigest()[:8]
+
     sample_1 = Sample(input= INPUT_TEMPLATE.format(context_1=context_1, context_2=context_2, scenario=scenario_1),
-                      target="1")
+                      target="1",
+                      id=f"ewok_{content_hash}_1")
     sample_2 = Sample(input= INPUT_TEMPLATE.format(context_1=context_1, context_2=context_2, scenario=scenario_2),
-                      target="2")
+                      target="2",
+                      id=f"ewok_{content_hash}_2")
     return [sample_1, sample_2]
 
 @task

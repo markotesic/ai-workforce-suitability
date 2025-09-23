@@ -17,9 +17,15 @@ def record_to_sample(record: Dict[str, Any]) -> Sample:
         input += f"- {fact}\n"
     input += f"question: {record['question']}"
     target = record["label"]
+
+    # Create a unique identifier based on content hash since no index is available
+    import hashlib
+    content_hash = hashlib.md5(f"{input}{target}".encode()).hexdigest()[:8]
+
     return Sample(
         input=input,
         target=target,
+        id=f"stepgame_{content_hash}",
     )
 
 
