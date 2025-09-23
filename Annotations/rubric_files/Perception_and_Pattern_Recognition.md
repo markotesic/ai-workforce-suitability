@@ -1,6 +1,6 @@
 # **Perception and Pattern Recognition**
 
-This rubric measures how much a task depends on detecting and interpreting salient details, e.g. signals, regularities, anomalies, or subtle cues, by drawing on prior knowledge. At the easiest levels, surface patterns are obvious and almost everyone spots them. At the hardest, success demands synthesising faint, multi-layered regularities buried in noisy textual data or narratives that only a tiny fraction of people can reliably discern.
+This rubric assesses how much a task depends on detecting and interpreting salient details, e.g. signals, regularities, anomalies, or subtle cues, by drawing on prior knowledge. At the easiest levels, surface patterns are obvious and almost everyone spots them. At the hardest, success demands synthesising faint, multi-layered regularities buried in noisy textual data or narratives that only a tiny fraction of people can reliably discern.
 
 ## **Level 0: None**
 
@@ -12,7 +12,7 @@ The task needs no pattern recognition; copying or basic recall suffices.  Perfor
 * Convert “hello” to uppercase.  
 * Select answer ‘C’ because the prompt explicitly says “Choose C”.
 
-## **Level 1: Very low**
+## **Level 1: Very Low**
 
 Requires noticing a single, highly salient cue or simple pattern that is obvious to most people. Recognition is nearly automatic for most readers.
 
@@ -20,7 +20,7 @@ Requires noticing a single, highly salient cue or simple pattern that is obvious
 
 * In “The meeting is on Friday at 10 am,” extract the day of the week  
 * Identify which of the following three lines of code contains the repeated trigram ‘abc’.  
-* Given the sequence ‘*A B A B A B’*, supply the next two letters.
+* Circle the red triangle in a picture containing three blue circles and one red triangle.
 
 ## **Level 2: Low**
 
@@ -29,18 +29,18 @@ The solver must recognise a simple but non-obvious pattern, for instance, a basi
 **Examples**:
 
 * From a six-row sales table, identify the first month where revenue begins a consistent decline.  
-* In a list of ten sentences, flag each one that contains a prime number written in words (e.g., “seven,” “eleven”).  
+* In a page of 20 digits, locate the one instance of “2” among otherwise similar-shaped “5”s.  
 * Given ten timestamped log entries, mark the three that break an every-15-minutes rhythm.
 
-## **Level 3: Medium**
+## **Level 3: Intermediate**
 
-Tasks require integrating multiple cues or cross-referenced details, often with distractors, to spot an anomaly, hidden rule, or foreshadowing device.  The pattern is discoverable but rarely obvious.
+Tasks require integrating multiple cues or cross-referenced details, often with distractors, to spot an anomaly, hidden rule, or foreshadowing device. The pattern is discoverable but rarely obvious.
 
 **Examples:**
 
 * Examine ten HTTP logs and identify the single entry that signals a breach by combining an unusual status code with an out-of-range timestamp.  
 * In a 500-word short story, highlight the sentence that foreshadows the twist ending via a double meaning.  
-* Given eight brief medical case notes, spot the one patient whose lab pattern contradicts the cluster description.
+* From a lineup of six nearly identical suitcases moving on a baggage carousel, identify the correct one by piecing together two or more subtle features (e.g., faded logo plus mismatched zipper pull), while ignoring false matches that share only one of those features.
 
 ## **Level 4: High**
 
@@ -50,9 +50,9 @@ The solver must uncover layered or shifting patterns within noisy, partially rel
 
 * Analyse a 40-line Slack thread to deduce which employee leaked data, using subtle time-zone hints and vocabulary idiosyncrasies.  
 * From a summary of 30 experiments, identify a hidden confounder that causes all trials with a particular protocol to fail only under humidity \> 80%.  
-* Parse a draft policy full of cross-references and pinpoint the clause that unintentionally overrides two earlier guarantees.
+* In an aerial photo of a dense city block, identify the one building that violates planning regulations by comparing shadow lengths and roof angles against orientation markers.
 
-## **Level 5: Very high**
+## **Level 5: Very High**
 
 Success demands detecting faint, multi-layer regularities or covert structures across lengthy, noisy data where patterns nest, shift or are adversarially obfuscated.
 
@@ -60,5 +60,5 @@ Success demands detecting faint, multi-layer regularities or covert structures a
 
 * From a 10000-word email archive, trace an insider-trading scheme by linking coded phrases, irregular send times, and repeating checksum strings.  
 * Analyse a 50-page detective story told in shuffled diary snippets to identify the true culprit, using mirrored dates and inconsistent pronouns.  
-* Review a 300-page fantasy novel manuscript and uncover an acrostic prophecy hidden in the first letters of each chapter title, noting how the message is distorted by deliberate misspellings and chapter re-ordering.
+* From a 1,000-frame satellite image sequence, detect a covert military build-up by linking faintly altered shadow orientations, irregular vehicle spacing, and camouflage patterns that change between frames.
 
