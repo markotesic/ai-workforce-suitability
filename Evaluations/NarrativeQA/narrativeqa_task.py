@@ -20,11 +20,17 @@ Answer the following multiple choice question. The last line of your response sh
 
 
 def record_to_sample(record: Dict[str, Any]) -> Sample:
-    input = f"context: {record["document"]["text"]} \n question: {record["question"]["text"]}"
+    input = f"context: {record['document']['text']} \n question: {record['question']['text']}"
     target = [answer["text"] for answer in record["answers"]]
+
+    # Create a unique identifier based on content hash since no index is available
+    import hashlib
+    content_hash = hashlib.md5(f"{input}{''.join(target)}".encode()).hexdigest()[:8]
+
     return Sample(
         input=input,
         target=target,
+        id=f"narrativeqa_{content_hash}",
     )
 
 
