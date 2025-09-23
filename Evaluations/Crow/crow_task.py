@@ -9,6 +9,7 @@ from inspect_ai.solver import Choices, basic_agent, generate, multiple_choice
 from inspect_ai._util.answer import answer_character, answer_index
 
 from Annotations.annotate_tasks import annotate_task, extract_annotations
+from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
 
 def record_to_sample(record: Dict[str, Any], dataset_path: str, id : int = 0) -> list[Sample]:
@@ -84,7 +85,7 @@ if __name__ == "__main__":
     dataset_dir = os.path.join(Path(__file__).parent)
     output_path = os.path.join(Path(__file__).parent, "crow_annotations.csv")
     dataset = custom_loader(dataset_dir=dataset_dir)
-    num_samples = 100
+    num_samples = DEFAULT_NUM_SAMPLES
     dataset.shuffle(42)
     dataset = dataset[:num_samples]
 

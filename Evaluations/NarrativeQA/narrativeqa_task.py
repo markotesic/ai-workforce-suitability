@@ -8,6 +8,7 @@ from inspect_ai.solver import Choices, basic_agent, multiple_choice
 from inspect_ai._util.answer import answer_character
 
 from Annotations.annotate_tasks import annotate_task, extract_annotations
+from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
 SINGLE_ANSWER_TEMPLATE_COT = r"""
 Answer the following multiple choice question. The last line of your response should be of the following format: 'ANSWER: $LETTER' (without quotes) where LETTER is one of {letters}. Think step by step before answering.
@@ -48,7 +49,7 @@ if __name__ == "__main__":
         sample_fields=record_to_sample,
     )
     output_path = os.path.join(Path(__file__).parent, "narrativeqa_annotations.csv")
-    num_samples = 100
+    num_samples = DEFAULT_NUM_SAMPLES
     dataset.shuffle(42)
     dataset = dataset[:num_samples]
 

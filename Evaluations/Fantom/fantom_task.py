@@ -9,7 +9,7 @@ from inspect_ai.solver import Choices, basic_agent, multiple_choice
 from inspect_ai._util.answer import answer_character, answer_index
 
 from Annotations.annotate_tasks import annotate_task, extract_annotations
-
+from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
 
 def record_to_sample(record: Dict[str, Any], dataset_path: str, id : int = 0) -> list[Sample]:
@@ -104,7 +104,7 @@ if __name__ == "__main__":
     dataset_path = os.path.join(Path(__file__).parent, "fantom_v1.json")
     output_path = os.path.join(Path(__file__).parent, "fantom_annotations.csv")
     dataset = custom_loader(dataset_path=dataset_path)
-    num_samples = 100
+    num_samples = DEFAULT_NUM_SAMPLES
     dataset.shuffle(42)
     dataset = dataset[:num_samples]
 

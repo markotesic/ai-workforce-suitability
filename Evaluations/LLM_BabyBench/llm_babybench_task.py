@@ -8,6 +8,7 @@ from inspect_ai.solver import Choices, TaskState, basic_agent, generate, multipl
 from inspect_ai._util.answer import answer_character
 
 from Annotations.annotate_tasks import annotate_task, extract_annotations
+from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 from Evaluations.LLM_BabyBench.decompose import DecomposeEvaluator
 from Evaluations.LLM_BabyBench.plan import PlanEvaluator
 from Evaluations.LLM_BabyBench.register import register_envs
@@ -132,7 +133,7 @@ def decompose_task() -> Task:
                          split="train",
                          sample_fields=decompose_record_to_sample
                          )
-    num_samples = 100
+    num_samples = DEFAULT_NUM_SAMPLES
     dataset.shuffle(42)
     dataset = dataset[:num_samples]
     return Task(dataset=dataset,
