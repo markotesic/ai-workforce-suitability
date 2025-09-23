@@ -13,6 +13,7 @@ from inspect_ai.solver import Generate, Solver, TaskState, solver
 import numpy as np
 
 from Annotations.annotate_tasks import annotate_task, extract_annotations
+from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
 def record_to_sample(record: Dict[str, Any], dataset_path: str) -> list[Sample]:
     sample_id = record["id"]
@@ -89,7 +90,7 @@ if __name__ == "__main__":
     output_path = os.path.join(Path(__file__).parent, "coqa_annotations.csv")
     dataset = custom_loader(dataset_path=dataset_path)
     dataset = convert_input_to_string(dataset)
-    num_samples = 100
+    num_samples = DEFAULT_NUM_SAMPLES
     dataset.shuffle(42)
     dataset = dataset[:num_samples]
 

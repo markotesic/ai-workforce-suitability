@@ -9,6 +9,7 @@ from inspect_ai.solver import Choices, multiple_choice
 from inspect_ai._util.answer import answer_character, answer_index
 
 from Annotations.annotate_tasks import annotate_task, extract_annotations
+from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
 SINGLE_ANSWER_TEMPLATE_COT = r"""
 Answer the following multiple choice question. The last line of your response should be of the following format: 'ANSWER: $LETTER' (without quotes) where LETTER is one of {letters}. Think step by step before answering.
@@ -94,7 +95,7 @@ if __name__ == "__main__":
     output_path = os.path.join(Path(__file__).parent, "evaluating_information_essentiality_annotations.csv")
     dataset = custom_loader(dataset_path=dataset_path)
     dataset = convert_input_to_string(dataset)
-    num_samples = 100
+    num_samples = DEFAULT_NUM_SAMPLES
     dataset.shuffle(42)
     dataset = dataset[:num_samples]
 
