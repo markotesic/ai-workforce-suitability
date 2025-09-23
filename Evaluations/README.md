@@ -112,7 +112,7 @@ if __name__ == "__main__":
     dataset = convert_input_to_string(dataset)
     
     annotation_task = annotate_task(dataset)
-    log = eval(annotation_task, model="openai/azure/gpt-4o", max_connections=2)
+    log = eval(annotation_task, model="openai/azure/gpt-4o" )
     extract_annotations(log[0], output_path)
 ```
 
