@@ -1,0 +1,211 @@
+dataset name,sample id,dimension,score
+AGIEval_annotation,27,Causal Reasoning,0
+AGIEval_annotation,27,Cognitive Flexibility,3
+AGIEval_annotation,27,Emotion Perception & Empathy (EPE),0
+AGIEval_annotation,27,Episodic/Episodic-Like Memory,0
+AGIEval_annotation,27,Executive Function (EF),3
+AGIEval_annotation,27,Functional perception,2
+AGIEval_annotation,27,Inhibitory Control,3
+AGIEval_annotation,27,Language,1
+AGIEval_annotation,27,Mental Simulation,0
+AGIEval_annotation,27,Metacognition,2
+AGIEval_annotation,27,Object permanence,0
+AGIEval_annotation,27,Perception and Pattern Recognition,2
+AGIEval_annotation,27,Planning,1
+AGIEval_annotation,27,Procedural Memory,2
+AGIEval_annotation,27,Prospective Memory,0
+AGIEval_annotation,27,Semantic Memory,3
+AGIEval_annotation,27,Spatial reasoning and navigation,0
+AGIEval_annotation,27,Theory of Mind,0
+AGIEval_annotation,27,Working Memory,2
+AGIEval_annotation,27,ambiguity,5
+AGIEval_annotation,27,factuality,5
+AGIEval_annotation,335,Causal Reasoning,2
+AGIEval_annotation,335,Cognitive Flexibility,3
+AGIEval_annotation,335,Emotion Perception & Empathy (EPE),0
+AGIEval_annotation,335,Episodic/Episodic-Like Memory,0
+AGIEval_annotation,335,Executive Function (EF),3
+AGIEval_annotation,335,Functional perception,3
+AGIEval_annotation,335,Inhibitory Control,2
+AGIEval_annotation,335,Language,2
+AGIEval_annotation,335,Mental Simulation,2
+AGIEval_annotation,335,Metacognition,3
+AGIEval_annotation,335,Object permanence,0
+AGIEval_annotation,335,Perception and Pattern Recognition,3
+AGIEval_annotation,335,Planning,2
+AGIEval_annotation,335,Procedural Memory,3
+AGIEval_annotation,335,Prospective Memory,0
+AGIEval_annotation,335,Semantic Memory,3
+AGIEval_annotation,335,Spatial reasoning and navigation,3
+AGIEval_annotation,335,Theory of Mind,0
+AGIEval_annotation,335,Working Memory,3
+AGIEval_annotation,335,ambiguity,5
+AGIEval_annotation,335,factuality,5
+AGIEval_annotation,402,Causal Reasoning,0
+AGIEval_annotation,402,Cognitive Flexibility,0
+AGIEval_annotation,402,Emotion Perception & Empathy (EPE),0
+AGIEval_annotation,402,Episodic/Episodic-Like Memory,0
+AGIEval_annotation,402,Executive Function (EF),2
+AGIEval_annotation,402,Functional perception,0
+AGIEval_annotation,402,Inhibitory Control,1
+AGIEval_annotation,402,Language,0
+AGIEval_annotation,402,Mental Simulation,0
+AGIEval_annotation,402,Metacognition,1
+AGIEval_annotation,402,Object permanence,0
+AGIEval_annotation,402,Perception and Pattern Recognition,0
+AGIEval_annotation,402,Planning,1
+AGIEval_annotation,402,Procedural Memory,2
+AGIEval_annotation,402,Prospective Memory,0
+AGIEval_annotation,402,Semantic Memory,2
+AGIEval_annotation,402,Spatial reasoning and navigation,0
+AGIEval_annotation,402,Theory of Mind,0
+AGIEval_annotation,402,Working Memory,2
+AGIEval_annotation,402,ambiguity,5
+AGIEval_annotation,402,factuality,5
+AGIEval_annotation,414,Causal Reasoning,0
+AGIEval_annotation,414,Cognitive Flexibility,0
+AGIEval_annotation,414,Emotion Perception & Empathy (EPE),0
+AGIEval_annotation,414,Episodic/Episodic-Like Memory,0
+AGIEval_annotation,414,Executive Function (EF),3
+AGIEval_annotation,414,Functional perception,0
+AGIEval_annotation,414,Inhibitory Control,1
+AGIEval_annotation,414,Language,2
+AGIEval_annotation,414,Mental Simulation,0
+AGIEval_annotation,414,Metacognition,2
+AGIEval_annotation,414,Object permanence,0
+AGIEval_annotation,414,Perception and Pattern Recognition,2
+AGIEval_annotation,414,Planning,2
+AGIEval_annotation,414,Procedural Memory,3
+AGIEval_annotation,414,Prospective Memory,0
+AGIEval_annotation,414,Semantic Memory,2
+AGIEval_annotation,414,Spatial reasoning and navigation,0
+AGIEval_annotation,414,Theory of Mind,0
+AGIEval_annotation,414,Working Memory,3
+AGIEval_annotation,414,ambiguity,5
+AGIEval_annotation,414,factuality,5
+AGIEval_annotation,537,Causal Reasoning,0
+AGIEval_annotation,537,Cognitive Flexibility,0
+AGIEval_annotation,537,Emotion Perception & Empathy (EPE),0
+AGIEval_annotation,537,Episodic/Episodic-Like Memory,0
+AGIEval_annotation,537,Executive Function (EF),1
+AGIEval_annotation,537,Functional perception,0
+AGIEval_annotation,537,Inhibitory Control,1
+AGIEval_annotation,537,Language,2
+AGIEval_annotation,537,Mental Simulation,0
+AGIEval_annotation,537,Metacognition,1
+AGIEval_annotation,537,Object permanence,0
+AGIEval_annotation,537,Perception and Pattern Recognition,1
+AGIEval_annotation,537,Planning,0
+AGIEval_annotation,537,Procedural Memory,2
+AGIEval_annotation,537,Prospective Memory,0
+AGIEval_annotation,537,Semantic Memory,2
+AGIEval_annotation,537,Spatial reasoning and navigation,0
+AGIEval_annotation,537,Theory of Mind,0
+AGIEval_annotation,537,Working Memory,2
+AGIEval_annotation,537,ambiguity,5
+AGIEval_annotation,537,factuality,5
+AGIEval_annotation,815,Causal Reasoning,1
+AGIEval_annotation,815,Cognitive Flexibility,3
+AGIEval_annotation,815,Emotion Perception & Empathy (EPE),0
+AGIEval_annotation,815,Episodic/Episodic-Like Memory,0
+AGIEval_annotation,815,Executive Function (EF),3
+AGIEval_annotation,815,Functional perception,3
+AGIEval_annotation,815,Inhibitory Control,1
+AGIEval_annotation,815,Language,2
+AGIEval_annotation,815,Mental Simulation,0
+AGIEval_annotation,815,Metacognition,3
+AGIEval_annotation,815,Object permanence,0
+AGIEval_annotation,815,Perception and Pattern Recognition,3
+AGIEval_annotation,815,Planning,2
+AGIEval_annotation,815,Procedural Memory,3
+AGIEval_annotation,815,Prospective Memory,0
+AGIEval_annotation,815,Semantic Memory,3
+AGIEval_annotation,815,Spatial reasoning and navigation,2
+AGIEval_annotation,815,Theory of Mind,0
+AGIEval_annotation,815,Working Memory,3
+AGIEval_annotation,815,ambiguity,5
+AGIEval_annotation,815,factuality,5
+AGIEval_annotation,91,Causal Reasoning,0
+AGIEval_annotation,91,Cognitive Flexibility,2
+AGIEval_annotation,91,Emotion Perception & Empathy (EPE),0
+AGIEval_annotation,91,Episodic/Episodic-Like Memory,0
+AGIEval_annotation,91,Executive Function (EF),2
+AGIEval_annotation,91,Functional perception,2
+AGIEval_annotation,91,Inhibitory Control,3
+AGIEval_annotation,91,Language,2
+AGIEval_annotation,91,Mental Simulation,2
+AGIEval_annotation,91,Metacognition,3
+AGIEval_annotation,91,Object permanence,0
+AGIEval_annotation,91,Perception and Pattern Recognition,3
+AGIEval_annotation,91,Planning,1
+AGIEval_annotation,91,Procedural Memory,3
+AGIEval_annotation,91,Prospective Memory,0
+AGIEval_annotation,91,Semantic Memory,3
+AGIEval_annotation,91,Spatial reasoning and navigation,3
+AGIEval_annotation,91,Theory of Mind,0
+AGIEval_annotation,91,Working Memory,3
+AGIEval_annotation,91,ambiguity,5
+AGIEval_annotation,91,factuality,5
+AGIEval_annotation,920,Causal Reasoning,2
+AGIEval_annotation,920,Cognitive Flexibility,2
+AGIEval_annotation,920,Emotion Perception & Empathy (EPE),0
+AGIEval_annotation,920,Episodic/Episodic-Like Memory,0
+AGIEval_annotation,920,Executive Function (EF),3
+AGIEval_annotation,920,Functional perception,2
+AGIEval_annotation,920,Inhibitory Control,1
+AGIEval_annotation,920,Language,1
+AGIEval_annotation,920,Mental Simulation,0
+AGIEval_annotation,920,Metacognition,2
+AGIEval_annotation,920,Object permanence,0
+AGIEval_annotation,920,Perception and Pattern Recognition,2
+AGIEval_annotation,920,Planning,0
+AGIEval_annotation,920,Procedural Memory,2
+AGIEval_annotation,920,Prospective Memory,0
+AGIEval_annotation,920,Semantic Memory,3
+AGIEval_annotation,920,Spatial reasoning and navigation,1
+AGIEval_annotation,920,Theory of Mind,0
+AGIEval_annotation,920,Working Memory,2
+AGIEval_annotation,920,ambiguity,5
+AGIEval_annotation,920,factuality,5
+AGIEval_annotation,957,Causal Reasoning,0
+AGIEval_annotation,957,Cognitive Flexibility,0
+AGIEval_annotation,957,Emotion Perception & Empathy (EPE),0
+AGIEval_annotation,957,Episodic/Episodic-Like Memory,0
+AGIEval_annotation,957,Executive Function (EF),3
+AGIEval_annotation,957,Functional perception,2
+AGIEval_annotation,957,Inhibitory Control,1
+AGIEval_annotation,957,Language,1
+AGIEval_annotation,957,Mental Simulation,1
+AGIEval_annotation,957,Metacognition,2
+AGIEval_annotation,957,Object permanence,0
+AGIEval_annotation,957,Perception and Pattern Recognition,2
+AGIEval_annotation,957,Planning,1
+AGIEval_annotation,957,Procedural Memory,3
+AGIEval_annotation,957,Prospective Memory,0
+AGIEval_annotation,957,Semantic Memory,3
+AGIEval_annotation,957,Spatial reasoning and navigation,2
+AGIEval_annotation,957,Theory of Mind,0
+AGIEval_annotation,957,Working Memory,3
+AGIEval_annotation,957,ambiguity,5
+AGIEval_annotation,957,factuality,5
+AGIEval_annotation,999,Causal Reasoning,0
+AGIEval_annotation,999,Cognitive Flexibility,2
+AGIEval_annotation,999,Emotion Perception & Empathy (EPE),0
+AGIEval_annotation,999,Episodic/Episodic-Like Memory,0
+AGIEval_annotation,999,Executive Function (EF),3
+AGIEval_annotation,999,Functional perception,1
+AGIEval_annotation,999,Inhibitory Control,2
+AGIEval_annotation,999,Language,1
+AGIEval_annotation,999,Mental Simulation,1
+AGIEval_annotation,999,Metacognition,2
+AGIEval_annotation,999,Object permanence,0
+AGIEval_annotation,999,Perception and Pattern Recognition,2
+AGIEval_annotation,999,Planning,1
+AGIEval_annotation,999,Procedural Memory,3
+AGIEval_annotation,999,Prospective Memory,0
+AGIEval_annotation,999,Semantic Memory,3
+AGIEval_annotation,999,Spatial reasoning and navigation,0
+AGIEval_annotation,999,Theory of Mind,0
+AGIEval_annotation,999,Working Memory,3
+AGIEval_annotation,999,ambiguity,5
+AGIEval_annotation,999,factuality,5

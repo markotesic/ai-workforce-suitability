@@ -1,0 +1,211 @@
+dataset name,sample id,dimension,score
+fantasy_reasoning_annotation,101,Causal Reasoning,0
+fantasy_reasoning_annotation,101,Cognitive Flexibility,0
+fantasy_reasoning_annotation,101,Emotion Perception & Empathy (EPE),0
+fantasy_reasoning_annotation,101,Episodic/Episodic-Like Memory,0
+fantasy_reasoning_annotation,101,Executive Function (EF),1
+fantasy_reasoning_annotation,101,Functional perception,0
+fantasy_reasoning_annotation,101,Inhibitory Control,0
+fantasy_reasoning_annotation,101,Language,1
+fantasy_reasoning_annotation,101,Mental Simulation,0
+fantasy_reasoning_annotation,101,Metacognition,1
+fantasy_reasoning_annotation,101,Object permanence,0
+fantasy_reasoning_annotation,101,Perception and Pattern Recognition,1
+fantasy_reasoning_annotation,101,Planning,0
+fantasy_reasoning_annotation,101,Procedural Memory,0
+fantasy_reasoning_annotation,101,Prospective Memory,0
+fantasy_reasoning_annotation,101,Semantic Memory,1
+fantasy_reasoning_annotation,101,Spatial reasoning and navigation,0
+fantasy_reasoning_annotation,101,Theory of Mind,0
+fantasy_reasoning_annotation,101,Working Memory,0
+fantasy_reasoning_annotation,101,ambiguity,3
+fantasy_reasoning_annotation,101,factuality,1
+fantasy_reasoning_annotation,111,Causal Reasoning,0
+fantasy_reasoning_annotation,111,Cognitive Flexibility,0
+fantasy_reasoning_annotation,111,Emotion Perception & Empathy (EPE),0
+fantasy_reasoning_annotation,111,Episodic/Episodic-Like Memory,0
+fantasy_reasoning_annotation,111,Executive Function (EF),2
+fantasy_reasoning_annotation,111,Functional perception,0
+fantasy_reasoning_annotation,111,Inhibitory Control,1
+fantasy_reasoning_annotation,111,Language,1
+fantasy_reasoning_annotation,111,Mental Simulation,0
+fantasy_reasoning_annotation,111,Metacognition,0
+fantasy_reasoning_annotation,111,Object permanence,0
+fantasy_reasoning_annotation,111,Perception and Pattern Recognition,1
+fantasy_reasoning_annotation,111,Planning,0
+fantasy_reasoning_annotation,111,Procedural Memory,0
+fantasy_reasoning_annotation,111,Prospective Memory,0
+fantasy_reasoning_annotation,111,Semantic Memory,2
+fantasy_reasoning_annotation,111,Spatial reasoning and navigation,0
+fantasy_reasoning_annotation,111,Theory of Mind,0
+fantasy_reasoning_annotation,111,Working Memory,2
+fantasy_reasoning_annotation,111,ambiguity,5
+fantasy_reasoning_annotation,111,factuality,5
+fantasy_reasoning_annotation,121,Causal Reasoning,1
+fantasy_reasoning_annotation,121,Cognitive Flexibility,0
+fantasy_reasoning_annotation,121,Emotion Perception & Empathy (EPE),0
+fantasy_reasoning_annotation,121,Episodic/Episodic-Like Memory,0
+fantasy_reasoning_annotation,121,Executive Function (EF),1
+fantasy_reasoning_annotation,121,Functional perception,1
+fantasy_reasoning_annotation,121,Inhibitory Control,1
+fantasy_reasoning_annotation,121,Language,1
+fantasy_reasoning_annotation,121,Mental Simulation,0
+fantasy_reasoning_annotation,121,Metacognition,1
+fantasy_reasoning_annotation,121,Object permanence,0
+fantasy_reasoning_annotation,121,Perception and Pattern Recognition,1
+fantasy_reasoning_annotation,121,Planning,0
+fantasy_reasoning_annotation,121,Procedural Memory,0
+fantasy_reasoning_annotation,121,Prospective Memory,0
+fantasy_reasoning_annotation,121,Semantic Memory,1
+fantasy_reasoning_annotation,121,Spatial reasoning and navigation,0
+fantasy_reasoning_annotation,121,Theory of Mind,0
+fantasy_reasoning_annotation,121,Working Memory,0
+fantasy_reasoning_annotation,121,ambiguity,5
+fantasy_reasoning_annotation,121,factuality,5
+fantasy_reasoning_annotation,13,Causal Reasoning,1
+fantasy_reasoning_annotation,13,Cognitive Flexibility,0
+fantasy_reasoning_annotation,13,Emotion Perception & Empathy (EPE),0
+fantasy_reasoning_annotation,13,Episodic/Episodic-Like Memory,0
+fantasy_reasoning_annotation,13,Executive Function (EF),1
+fantasy_reasoning_annotation,13,Functional perception,1
+fantasy_reasoning_annotation,13,Inhibitory Control,1
+fantasy_reasoning_annotation,13,Language,2
+fantasy_reasoning_annotation,13,Mental Simulation,1
+fantasy_reasoning_annotation,13,Metacognition,1
+fantasy_reasoning_annotation,13,Object permanence,0
+fantasy_reasoning_annotation,13,Perception and Pattern Recognition,1
+fantasy_reasoning_annotation,13,Planning,0
+fantasy_reasoning_annotation,13,Procedural Memory,0
+fantasy_reasoning_annotation,13,Prospective Memory,0
+fantasy_reasoning_annotation,13,Semantic Memory,1
+fantasy_reasoning_annotation,13,Spatial reasoning and navigation,2
+fantasy_reasoning_annotation,13,Theory of Mind,0
+fantasy_reasoning_annotation,13,Working Memory,2
+fantasy_reasoning_annotation,13,ambiguity,5
+fantasy_reasoning_annotation,13,factuality,5
+fantasy_reasoning_annotation,187,Causal Reasoning,1
+fantasy_reasoning_annotation,187,Cognitive Flexibility,0
+fantasy_reasoning_annotation,187,Emotion Perception & Empathy (EPE),0
+fantasy_reasoning_annotation,187,Episodic/Episodic-Like Memory,0
+fantasy_reasoning_annotation,187,Executive Function (EF),0
+fantasy_reasoning_annotation,187,Functional perception,1
+fantasy_reasoning_annotation,187,Inhibitory Control,0
+fantasy_reasoning_annotation,187,Language,1
+fantasy_reasoning_annotation,187,Mental Simulation,1
+fantasy_reasoning_annotation,187,Metacognition,0
+fantasy_reasoning_annotation,187,Object permanence,0
+fantasy_reasoning_annotation,187,Perception and Pattern Recognition,1
+fantasy_reasoning_annotation,187,Planning,0
+fantasy_reasoning_annotation,187,Procedural Memory,0
+fantasy_reasoning_annotation,187,Prospective Memory,0
+fantasy_reasoning_annotation,187,Semantic Memory,1
+fantasy_reasoning_annotation,187,Spatial reasoning and navigation,0
+fantasy_reasoning_annotation,187,Theory of Mind,0
+fantasy_reasoning_annotation,187,Working Memory,0
+fantasy_reasoning_annotation,187,ambiguity,5
+fantasy_reasoning_annotation,187,factuality,5
+fantasy_reasoning_annotation,194,Causal Reasoning,1
+fantasy_reasoning_annotation,194,Cognitive Flexibility,2
+fantasy_reasoning_annotation,194,Emotion Perception & Empathy (EPE),0
+fantasy_reasoning_annotation,194,Episodic/Episodic-Like Memory,0
+fantasy_reasoning_annotation,194,Executive Function (EF),1
+fantasy_reasoning_annotation,194,Functional perception,1
+fantasy_reasoning_annotation,194,Inhibitory Control,1
+fantasy_reasoning_annotation,194,Language,1
+fantasy_reasoning_annotation,194,Mental Simulation,1
+fantasy_reasoning_annotation,194,Metacognition,1
+fantasy_reasoning_annotation,194,Object permanence,0
+fantasy_reasoning_annotation,194,Perception and Pattern Recognition,1
+fantasy_reasoning_annotation,194,Planning,0
+fantasy_reasoning_annotation,194,Procedural Memory,0
+fantasy_reasoning_annotation,194,Prospective Memory,0
+fantasy_reasoning_annotation,194,Semantic Memory,1
+fantasy_reasoning_annotation,194,Spatial reasoning and navigation,0
+fantasy_reasoning_annotation,194,Theory of Mind,0
+fantasy_reasoning_annotation,194,Working Memory,1
+fantasy_reasoning_annotation,194,ambiguity,5
+fantasy_reasoning_annotation,194,factuality,5
+fantasy_reasoning_annotation,2,Causal Reasoning,1
+fantasy_reasoning_annotation,2,Cognitive Flexibility,0
+fantasy_reasoning_annotation,2,Emotion Perception & Empathy (EPE),0
+fantasy_reasoning_annotation,2,Episodic/Episodic-Like Memory,0
+fantasy_reasoning_annotation,2,Executive Function (EF),1
+fantasy_reasoning_annotation,2,Functional perception,0
+fantasy_reasoning_annotation,2,Inhibitory Control,1
+fantasy_reasoning_annotation,2,Language,1
+fantasy_reasoning_annotation,2,Mental Simulation,1
+fantasy_reasoning_annotation,2,Metacognition,1
+fantasy_reasoning_annotation,2,Object permanence,0
+fantasy_reasoning_annotation,2,Perception and Pattern Recognition,1
+fantasy_reasoning_annotation,2,Planning,0
+fantasy_reasoning_annotation,2,Procedural Memory,0
+fantasy_reasoning_annotation,2,Prospective Memory,0
+fantasy_reasoning_annotation,2,Semantic Memory,1
+fantasy_reasoning_annotation,2,Spatial reasoning and navigation,0
+fantasy_reasoning_annotation,2,Theory of Mind,2
+fantasy_reasoning_annotation,2,Working Memory,0
+fantasy_reasoning_annotation,2,ambiguity,3
+fantasy_reasoning_annotation,2,factuality,5
+fantasy_reasoning_annotation,44,Causal Reasoning,1
+fantasy_reasoning_annotation,44,Cognitive Flexibility,0
+fantasy_reasoning_annotation,44,Emotion Perception & Empathy (EPE),0
+fantasy_reasoning_annotation,44,Episodic/Episodic-Like Memory,0
+fantasy_reasoning_annotation,44,Executive Function (EF),1
+fantasy_reasoning_annotation,44,Functional perception,1
+fantasy_reasoning_annotation,44,Inhibitory Control,1
+fantasy_reasoning_annotation,44,Language,1
+fantasy_reasoning_annotation,44,Mental Simulation,0
+fantasy_reasoning_annotation,44,Metacognition,2
+fantasy_reasoning_annotation,44,Object permanence,0
+fantasy_reasoning_annotation,44,Perception and Pattern Recognition,1
+fantasy_reasoning_annotation,44,Planning,0
+fantasy_reasoning_annotation,44,Procedural Memory,0
+fantasy_reasoning_annotation,44,Prospective Memory,0
+fantasy_reasoning_annotation,44,Semantic Memory,1
+fantasy_reasoning_annotation,44,Spatial reasoning and navigation,0
+fantasy_reasoning_annotation,44,Theory of Mind,0
+fantasy_reasoning_annotation,44,Working Memory,2
+fantasy_reasoning_annotation,44,ambiguity,4
+fantasy_reasoning_annotation,44,factuality,5
+fantasy_reasoning_annotation,64,Causal Reasoning,1
+fantasy_reasoning_annotation,64,Cognitive Flexibility,0
+fantasy_reasoning_annotation,64,Emotion Perception & Empathy (EPE),0
+fantasy_reasoning_annotation,64,Episodic/Episodic-Like Memory,0
+fantasy_reasoning_annotation,64,Executive Function (EF),3
+fantasy_reasoning_annotation,64,Functional perception,1
+fantasy_reasoning_annotation,64,Inhibitory Control,0
+fantasy_reasoning_annotation,64,Language,2
+fantasy_reasoning_annotation,64,Mental Simulation,1
+fantasy_reasoning_annotation,64,Metacognition,1
+fantasy_reasoning_annotation,64,Object permanence,0
+fantasy_reasoning_annotation,64,Perception and Pattern Recognition,1
+fantasy_reasoning_annotation,64,Planning,0
+fantasy_reasoning_annotation,64,Procedural Memory,0
+fantasy_reasoning_annotation,64,Prospective Memory,0
+fantasy_reasoning_annotation,64,Semantic Memory,1
+fantasy_reasoning_annotation,64,Spatial reasoning and navigation,0
+fantasy_reasoning_annotation,64,Theory of Mind,3
+fantasy_reasoning_annotation,64,Working Memory,2
+fantasy_reasoning_annotation,64,ambiguity,5
+fantasy_reasoning_annotation,64,factuality,5
+fantasy_reasoning_annotation,66,Causal Reasoning,1
+fantasy_reasoning_annotation,66,Cognitive Flexibility,0
+fantasy_reasoning_annotation,66,Emotion Perception & Empathy (EPE),0
+fantasy_reasoning_annotation,66,Episodic/Episodic-Like Memory,0
+fantasy_reasoning_annotation,66,Executive Function (EF),0
+fantasy_reasoning_annotation,66,Functional perception,1
+fantasy_reasoning_annotation,66,Inhibitory Control,1
+fantasy_reasoning_annotation,66,Language,2
+fantasy_reasoning_annotation,66,Mental Simulation,1
+fantasy_reasoning_annotation,66,Metacognition,2
+fantasy_reasoning_annotation,66,Object permanence,0
+fantasy_reasoning_annotation,66,Perception and Pattern Recognition,1
+fantasy_reasoning_annotation,66,Planning,0
+fantasy_reasoning_annotation,66,Procedural Memory,0
+fantasy_reasoning_annotation,66,Prospective Memory,0
+fantasy_reasoning_annotation,66,Semantic Memory,1
+fantasy_reasoning_annotation,66,Spatial reasoning and navigation,0
+fantasy_reasoning_annotation,66,Theory of Mind,2
+fantasy_reasoning_annotation,66,Working Memory,2
+fantasy_reasoning_annotation,66,ambiguity,5
+fantasy_reasoning_annotation,66,factuality,1
