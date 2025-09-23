@@ -1,0 +1,105 @@
+
+
+
+
+# need to make a stateful tool for the agent to take actions
+import os
+from pathlib import Path
+from typing import Any, Optional
+from inspect_ai import Task, task, eval
+from inspect_ai.dataset import MemoryDataset, Sample
+from inspect_ai.solver import Generate, Solver, TaskState, basic_agent, solver, use_tools
+from inspect_ai.tool import Tool, tool
+from inspect_ai.util import StoreModel, store_as
+from pydantic import Field
+
+from Annotations.annotate_tasks import annotate_task, extract_annotations
+from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
+from Evaluations.Text_Navigation.maze import maze_game
+
+
+class MazeStateModel(StoreModel):
+    maze : Optional[maze_game] = None
+
+@tool
+def step_tool(state: TaskState, instance: str | None = None) -> Tool:
+    """A tool for taking actions in the text maze and maintaining the state."""
+    async def execute(action: str) -> str:
+        """Take a step in the maze.
+
+        This tool takes a step in the environment. The set of possible actions are:
+        north,
+        east,
+        south,
+        west,
+        none,   # no action, just returns the state of the environment
+
+        Args:
+           action: A string containing the action you wish to take.
+
+        Returns:
+           Answer to research prompt or question.
+        """
+        # get the state of the current environment 
+        maze_state = store_as(MazeStateModel, instance=instance)
+        if maze_state.maze is None:
+            maze_state.maze = maze_game(map_width=15) # this should pull from the sample state
+
+        # parse the action
+        action_lower = action.lower()
+        if action_lower == "none":
+            response = maze_state.maze.pretty_state()
+        else:
+            response = maze_state.maze.step(action_lower)
+
+        if maze_state.maze.game_over:
+            state.completed = True
+
+        return response
+    return execute
+
+@solver
+def add_step_tool() -> Solver:
+    async def solve(state: TaskState, generate: Generate) -> TaskState:
+        state.tools.append(step_tool(state=state))
+        return state
+    
+    return solve
+
+
+
+@task
+def text_navigation_task() -> Task:
+    samples = [Sample(input="You enter a wicked maze.  As the (P)layer, you seek the (m)cguffin.  Find it, if you dare.  If you seek help, simply ask for it. Take the none action to get started.", id=i) for i in range(DEFAULT_NUM_SAMPLES)]
+    dataset = MemoryDataset(samples, name="text_navigation")
+
+    return Task(dataset=dataset,
+                solver=[
+                    add_step_tool(),
+                    basic_agent(),
+                    ],
+                message_limit=30,
+                )
+
+
+
+
+if __name__ == "__main__":
+    # make a dataset manually 
+    samples = []
+    for i in range(DEFAULT_NUM_SAMPLES):
+        input = "You enter a wicked maze.  As the (P)layer, you seek the (m)cguffin.  Find it, if you dare.  If you seek help, simply ask for it. Take the none action to get started."
+        maze = maze_game(map_width=15)
+        input += f"\n{maze.pretty_state()}"
+        samples.append(Sample(input=input, id=i))
+
+    dataset = MemoryDataset(samples=samples, name="text_navigation")
+    output_path = os.path.join(Path(__file__).parent, "text_navigation_annotations.csv")
+
+    annotation_task = annotate_task(dataset)
+    log = eval(annotation_task, model="openai/azure/gpt-4o" )
+    extract_annotations(log[0], output_path)
+
+    
+
+
