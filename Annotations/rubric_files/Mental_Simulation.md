@@ -1,8 +1,8 @@
 # **Mental Simulation**
 
-This rubric assesses how much a task forces a respondent to mentally run forward (or backward) a scenario, envisioning how elements of the world, people, or abstract systems will change over time once certain actions or events occur. As difficulty increases, more variables interact, timelines lengthen, uncertainty grows, and the simulation must incorporate additional agents, constraints, or counter‑factual branches.
+This rubric assesses how much a task requires mentally running a scenario forward or backward, envisioning how elements of the world, people, or abstract systems will change over time once certain actions or events occur. As difficulty increases, more variables interact, timelines lengthen, uncertainty grows, and the simulation may incorporate additional agents, constraints, or counterfactual branches.
 
-## **Level 0: No Mental Simulation Required**
+## **Level 0: None**
 
 A response can be produced purely by retrieving or recognising information; no imagining of future or alternative scenarios is needed.
 
@@ -32,7 +32,7 @@ The respondent must visualise a brief sequence (up to three linked effects) gove
 * A person on the ground floor presses the elevator’s ‘Up’ button in a four-storey office building when no one else is using the lift. Describe the sequence of indicator lights, chimes, and door movements from the moment the button is pressed until the person can step inside and the elevator begins ascending.  
 * If you replace a desktop computer’s spinning‑disk drive with an SSD, list the next three noticeable changes a typical user will experience in order of appearance.
 
-## **Level 3: Medium**
+## **Level 3: Intermediate**
 
 A chain of five or more interactions must be envisioned, possibly from another agent’s viewpoint or with diverging outcomes. The simulation must stay internally consistent despite uncertainty.
 
@@ -44,11 +44,11 @@ A chain of five or more interactions must be envisioned, possibly from another a
 
 ## **Level 4: High**
 
-The respondent must run a mental model spanning dozens of steps, multiple interacting subsystems, and partial uncertainty. Multiple subsystems evolve together and constraints must be tracked over time.
+The respondent must construct a mental model spanning many steps, multiple interacting subsystems, and partial uncertainty. While the simulation does not need precise quantitative accuracy, it should integrate several evolving processes, track constraints over time, and produce a coherent best-guess projection.
 
 **Examples:**
 
-* Forecast the first 72 hours after a Category‑3 hurricane hits a coastal city: model power‑grid failures, hospital capacity, supply‑chain disruptions, and conflicting evacuation orders; describe hour‑by‑hour consequences for emergency response and citizen mobility.  
+* Forecast the first 72 hours after a Category-3 hurricane strikes a coastal city. Without external modelling tools, outline a plausible hour-by-hour scenario that tracks power-grid failures, hospital capacity, supply-chain disruptions, and conflicting evacuation orders, explaining how these subsystems interact to shape emergency response and citizen mobility.  
 * Simulate the carbon concentration in a closed terrarium for two weeks after introducing six crickets and one small spider, accounting for respiration, plant photosynthesis cycles, and a variable 12/12 light schedule.  
 * Imagine an economy where a 10% transaction tax is introduced overnight. Predict the cascading effects on item prices, trading volume changes, and black‑market activity across the first five days.
 

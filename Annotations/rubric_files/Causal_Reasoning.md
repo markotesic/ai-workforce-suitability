@@ -18,9 +18,9 @@ Requires spotting or predicting a single, obvious cause and effect link with no 
 
 **Examples:**
 
-* Why did the light turn on immediately after the wall switch was flipped?  
+* The man scratched his head then flipped the switch on the wall. Immediately the light turned on. Was this caused by the man scratching his head or flipping the switch?  
 * If you remove the bottom bowl from a neat stack of three bowls, what happens to the other two?  
-* A glass fell from a one‑metre table onto concrete. What is the most likely outcome for the glass?
+* As the man was talking he knocked the glass. The glass fell off the table. Did the glass fall because he was talking or because it was knocked?
 
 ## **Level 2: Low**
 
@@ -32,7 +32,7 @@ Involves a two‑ or three‑step causal chain or choosing between a small set o
 * A potted plant wilts after five days: decide whether lack of water or lack of sunlight is the more plausible single cause, given daily weather reports.  
 * Describe how (1) raising the room thermostat and (2) opening a window would each affect indoor temperature in sequence.
 
-## **Level 3: Medium**
+## **Level 3: Intermediate**
 
 Reason about several interacting causes (3–5) under light uncertainty, possibly involving a collider or fork pattern. Must weigh likelihoods of causes and effects.
 
@@ -48,13 +48,13 @@ Work with environments that have many causes and effects (≥ 6) including uno
 
 **Examples:**
 
-* An observational study shows a new drug correlates with longer life, but patients also differ in exercise habits and socioeconomic status (unmeasured). Outline how you would use instrumental‑variable analysis or propensity matching to estimate the true causal effect.  
+* A company introduces a performance-bonus scheme to increase productivity. Over the next year, some teams improve while others decline. Consider at least six factors, e.g. intrinsic motivation, extrinsic rewards, peer competition, stress, turnover, managerial support, and job satisfaction, and explain how they could interact to produce both positive and negative outcomes. Identify at least one feedback loop in the system.  
 * Suppose the central bank bumps its policy rate up by exactly 1 percentage point at the start of Q1. Show how six factors—interest rate, inflation, unemployment, household spending, the dollar–euro exchange rate, and foreign investment—interact and explain what is likely to happen to each factor by the end of Q4. Point out at least two loops in the story (for example, expensive loans → less spending → lower inflation, or higher rates → stronger dollar → cheaper imports → lower inflation)  
 * A national health audit shows Hospital A has a higher overall patient‑mortality rate than Hospital B, yet within every triage‑severity category (mild, moderate, severe, critical) Hospital A’s mortality is lower. Explain how this reversal can occur, draw a causal diagram that accounts for patient‑severity as a confounder, and outline the statistical adjustment needed to compare hospital quality fairly.
 
 ## **Level 5: Very High**
 
-Compose or analyse a large‑scale, multi‑layer causal situations (dozens of factors) with stochastic dynamics and interventions. Must articulate counterfactual worlds (“If X hadn’t occurred…”) and estimate downstream ripple effects over years.
+Compose or analyse large‑scale, multi‑layer causal situations (dozens of factors) with stochastic dynamics and interventions. Must articulate counterfactual worlds (“If X hadn’t occurred…”) and estimate downstream ripple effects over years.
 
 **Examples:**
 

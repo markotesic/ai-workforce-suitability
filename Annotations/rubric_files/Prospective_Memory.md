@@ -1,8 +1,8 @@
 # **Prospective Memory**
 
-This rubric measures how much a task requires the respondent to maintain an intended action and later retrieve it at the correct moment, whether that moment is triggered by a time interval or by an external event, while other information or tasks compete for attention. Difficulty rises from items that need no delayed intention to those that demand highly complex, multi‑trigger monitoring amid heavy interference.
+This rubric assesses how much a task requires the respondent to form and maintain an intended action and to later retrieve it at the correct moment, whether that moment is triggered by a time interval or by an external event, while other information or tasks compete for attention. Difficulty rises from items that need no delayed intention to those that demand highly complex, multi‑trigger monitoring amid heavy interference.
 
-### **Level 0  None**
+## **Level 0: None**
 
 No delayed action is involved; the answer or action is immediate, with nothing to remember for the future.
 
@@ -12,7 +12,7 @@ No delayed action is involved; the answer or action is immediate, with nothing t
 * Evaluate: 2x \+ 3 \= 11\. What is x?  
 * Identify the verb in the sentence: ‘The children laughed loudly.
 
-### **Level 1: Very Low**
+## **Level 1: Very Low**
 
 A single, obvious action must be recalled after a brief, lightly distracting interval; the trigger is clear and salient.
 
@@ -22,9 +22,9 @@ A single, obvious action must be recalled after a brief, lightly distracting int
 * When you reach the end of this short three‑line poem, reply ‘clap’ once.  
 * Remember to type ‘yes’ exactly 60 seconds after pressing Start.
 
-### **Level 2: Low**
+## **Level 2: Low**
 
-One action is held over a moderate delay that contains a small ongoing task or mixed details; the trigger is simple but not constantly in focus.
+One action is maintained over a moderate delay while attention is partly occupied by a small ongoing task; the trigger is simple but not constantly in focus.
 
 **Examples:**
 
@@ -32,7 +32,7 @@ One action is held over a moderate delay that contains a small ongoing task or m
 * Read a list of 12 integers; when you encounter the first prime number greater than 50, write ‘prime’.  
 * Translate the following three Spanish sentences into English; after the third translation append ‘Check’.
 
-### **Level 3: Medium**
+## **Level 3: Intermediate**
 
 Multiple actions or conditional triggers must be monitored during an ongoing activity; triggers may appear unpredictably, and failure to interrupt the primary task at the right moment invalidates success.
 
@@ -42,7 +42,7 @@ Multiple actions or conditional triggers must be monitored during an ongoing act
 * Solve 20 arithmetic questions one per line. Add each answer divisible by 7 to a running total unless it also ends in 9, in which case subtract 7 instead. After the twentieth question, report the final total.  
 * Copy the 300‑word passage and enclose any palindrome of four or more letters in ⟨angle brackets⟩, but mark only the first occurrence of each distinct palindrome.
 
-### **Level 4: High**
+## **Level 4: High**
 
 A hierarchy of intentions with overlapping or conflicting cues must be managed across a lengthy, information‑dense task; the respondent must discriminate relevant from irrelevant events and recover intentions amid significant distraction.
 
@@ -52,7 +52,7 @@ A hierarchy of intentions with overlapping or conflicting cues must be managed a
 * Process 24 prescription lines (each with drug name and dosage in mg). Maintain a running total of all doses that are corticosteroids (names containing *pred*, *‑sone*, or *‑solone*). Each time that steroid total first exceeds a new 50‑mg threshold (50, 100, 150mg…), insert ‘STEROID ALERT n’ on its own line, where *n* denotes the number increments. Stop inserting alerts after the third. Simultaneously, after every third antibiotic whose name ends in ‘‑cillin’, append ‘CHECK CULTURE’ to that line.  
 * Produce a 12‑step project timeline. At steps 4 and 8, calculate the cumulative budget from all previous steps and append it in brackets. If by step 8 that cumulative figure exceeds $1,000,000, output ‘BUDGET REVIEW**’** before writing step 9, and thereafter add a 10% contingency line at every odd‑numbered subsequent step.
 
-### **Level 5: Very High**
+## **Level 5: Very High**
 
 The task demands intricate, multi‑layer prospective monitoring with rare or subtle cues, long delays, or interleaved time‑ and event‑based triggers; multiple actions interact and missing any correct cue constitutes failure.
 
