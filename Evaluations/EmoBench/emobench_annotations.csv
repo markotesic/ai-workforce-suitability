@@ -1,73 +1,73 @@
 dataset name,sample id,dimension,score
 EmoBench_annotation,ea_105_zh,Causal Reasoning,1
 EmoBench_annotation,ea_105_zh,Cognitive Flexibility,0
-EmoBench_annotation,ea_105_zh,Emotion Perception & Empathy (EPE),1
+EmoBench_annotation,ea_105_zh,Emotion Perception & Empathy (EPE),2
 EmoBench_annotation,ea_105_zh,Episodic/Episodic-Like Memory,0
-EmoBench_annotation,ea_105_zh,Executive Function (EF),3
+EmoBench_annotation,ea_105_zh,Executive Function (EF),4
 EmoBench_annotation,ea_105_zh,Functional perception,1
 EmoBench_annotation,ea_105_zh,Inhibitory Control,1
 EmoBench_annotation,ea_105_zh,Language,1
-EmoBench_annotation,ea_105_zh,Mental Simulation,2
+EmoBench_annotation,ea_105_zh,Mental Simulation,1
 EmoBench_annotation,ea_105_zh,Metacognition,2
 EmoBench_annotation,ea_105_zh,Object permanence,0
-EmoBench_annotation,ea_105_zh,Perception and Pattern Recognition,1
+EmoBench_annotation,ea_105_zh,Perception and Pattern Recognition,2
 EmoBench_annotation,ea_105_zh,Planning,2
-EmoBench_annotation,ea_105_zh,Procedural Memory,3
+EmoBench_annotation,ea_105_zh,Procedural Memory,1
 EmoBench_annotation,ea_105_zh,Prospective Memory,0
-EmoBench_annotation,ea_105_zh,Semantic Memory,2
+EmoBench_annotation,ea_105_zh,Semantic Memory,1
 EmoBench_annotation,ea_105_zh,Spatial reasoning and navigation,0
-EmoBench_annotation,ea_105_zh,Theory of Mind,2
-EmoBench_annotation,ea_105_zh,Working Memory,0
+EmoBench_annotation,ea_105_zh,Theory of Mind,0
+EmoBench_annotation,ea_105_zh,Working Memory,2
 EmoBench_annotation,ea_105_zh,ambiguity,5
 EmoBench_annotation,ea_105_zh,factuality,5
 EmoBench_annotation,ea_82_en,Causal Reasoning,1
-EmoBench_annotation,ea_82_en,Cognitive Flexibility,1
-EmoBench_annotation,ea_82_en,Emotion Perception & Empathy (EPE),2
+EmoBench_annotation,ea_82_en,Cognitive Flexibility,2
+EmoBench_annotation,ea_82_en,Emotion Perception & Empathy (EPE),1
 EmoBench_annotation,ea_82_en,Episodic/Episodic-Like Memory,0
-EmoBench_annotation,ea_82_en,Executive Function (EF),2
+EmoBench_annotation,ea_82_en,Executive Function (EF),3
 EmoBench_annotation,ea_82_en,Functional perception,1
-EmoBench_annotation,ea_82_en,Inhibitory Control,3
+EmoBench_annotation,ea_82_en,Inhibitory Control,2
 EmoBench_annotation,ea_82_en,Language,1
 EmoBench_annotation,ea_82_en,Mental Simulation,1
 EmoBench_annotation,ea_82_en,Metacognition,2
 EmoBench_annotation,ea_82_en,Object permanence,0
-EmoBench_annotation,ea_82_en,Perception and Pattern Recognition,2
+EmoBench_annotation,ea_82_en,Perception and Pattern Recognition,1
 EmoBench_annotation,ea_82_en,Planning,0
-EmoBench_annotation,ea_82_en,Procedural Memory,1
+EmoBench_annotation,ea_82_en,Procedural Memory,0
 EmoBench_annotation,ea_82_en,Prospective Memory,0
-EmoBench_annotation,ea_82_en,Semantic Memory,1
+EmoBench_annotation,ea_82_en,Semantic Memory,2
 EmoBench_annotation,ea_82_en,Spatial reasoning and navigation,0
-EmoBench_annotation,ea_82_en,Theory of Mind,2
-EmoBench_annotation,ea_82_en,Working Memory,2
+EmoBench_annotation,ea_82_en,Theory of Mind,3
+EmoBench_annotation,ea_82_en,Working Memory,0
 EmoBench_annotation,ea_82_en,ambiguity,5
 EmoBench_annotation,ea_82_en,factuality,5
 EmoBench_annotation,eu_cause_12_en,Causal Reasoning,1
 EmoBench_annotation,eu_cause_12_en,Cognitive Flexibility,0
 EmoBench_annotation,eu_cause_12_en,Emotion Perception & Empathy (EPE),2
-EmoBench_annotation,eu_cause_12_en,Episodic/Episodic-Like Memory,1
-EmoBench_annotation,eu_cause_12_en,Executive Function (EF),2
-EmoBench_annotation,eu_cause_12_en,Functional perception,1
+EmoBench_annotation,eu_cause_12_en,Episodic/Episodic-Like Memory,2
+EmoBench_annotation,eu_cause_12_en,Executive Function (EF),3
+EmoBench_annotation,eu_cause_12_en,Functional perception,2
 EmoBench_annotation,eu_cause_12_en,Inhibitory Control,1
 EmoBench_annotation,eu_cause_12_en,Language,2
 EmoBench_annotation,eu_cause_12_en,Mental Simulation,1
 EmoBench_annotation,eu_cause_12_en,Metacognition,1
 EmoBench_annotation,eu_cause_12_en,Object permanence,0
-EmoBench_annotation,eu_cause_12_en,Perception and Pattern Recognition,1
+EmoBench_annotation,eu_cause_12_en,Perception and Pattern Recognition,2
 EmoBench_annotation,eu_cause_12_en,Planning,0
 EmoBench_annotation,eu_cause_12_en,Procedural Memory,0
 EmoBench_annotation,eu_cause_12_en,Prospective Memory,0
-EmoBench_annotation,eu_cause_12_en,Semantic Memory,1
+EmoBench_annotation,eu_cause_12_en,Semantic Memory,2
 EmoBench_annotation,eu_cause_12_en,Spatial reasoning and navigation,0
-EmoBench_annotation,eu_cause_12_en,Theory of Mind,3
+EmoBench_annotation,eu_cause_12_en,Theory of Mind,2
 EmoBench_annotation,eu_cause_12_en,Working Memory,2
 EmoBench_annotation,eu_cause_12_en,ambiguity,5
 EmoBench_annotation,eu_cause_12_en,factuality,5
 EmoBench_annotation,eu_cause_196_en,Causal Reasoning,1
 EmoBench_annotation,eu_cause_196_en,Cognitive Flexibility,0
-EmoBench_annotation,eu_cause_196_en,Emotion Perception & Empathy (EPE),1
-EmoBench_annotation,eu_cause_196_en,Episodic/Episodic-Like Memory,0
+EmoBench_annotation,eu_cause_196_en,Emotion Perception & Empathy (EPE),2
+EmoBench_annotation,eu_cause_196_en,Episodic/Episodic-Like Memory,1
 EmoBench_annotation,eu_cause_196_en,Executive Function (EF),1
-EmoBench_annotation,eu_cause_196_en,Functional perception,2
+EmoBench_annotation,eu_cause_196_en,Functional perception,1
 EmoBench_annotation,eu_cause_196_en,Inhibitory Control,1
 EmoBench_annotation,eu_cause_196_en,Language,1
 EmoBench_annotation,eu_cause_196_en,Mental Simulation,1
@@ -84,37 +84,37 @@ EmoBench_annotation,eu_cause_196_en,Working Memory,2
 EmoBench_annotation,eu_cause_196_en,ambiguity,5
 EmoBench_annotation,eu_cause_196_en,factuality,5
 EmoBench_annotation,eu_cause_20_en,Causal Reasoning,1
-EmoBench_annotation,eu_cause_20_en,Cognitive Flexibility,0
+EmoBench_annotation,eu_cause_20_en,Cognitive Flexibility,1
 EmoBench_annotation,eu_cause_20_en,Emotion Perception & Empathy (EPE),2
 EmoBench_annotation,eu_cause_20_en,Episodic/Episodic-Like Memory,0
-EmoBench_annotation,eu_cause_20_en,Executive Function (EF),2
-EmoBench_annotation,eu_cause_20_en,Functional perception,1
-EmoBench_annotation,eu_cause_20_en,Inhibitory Control,3
+EmoBench_annotation,eu_cause_20_en,Executive Function (EF),3
+EmoBench_annotation,eu_cause_20_en,Functional perception,2
+EmoBench_annotation,eu_cause_20_en,Inhibitory Control,1
 EmoBench_annotation,eu_cause_20_en,Language,2
 EmoBench_annotation,eu_cause_20_en,Mental Simulation,1
-EmoBench_annotation,eu_cause_20_en,Metacognition,2
+EmoBench_annotation,eu_cause_20_en,Metacognition,1
 EmoBench_annotation,eu_cause_20_en,Object permanence,0
 EmoBench_annotation,eu_cause_20_en,Perception and Pattern Recognition,2
 EmoBench_annotation,eu_cause_20_en,Planning,0
 EmoBench_annotation,eu_cause_20_en,Procedural Memory,0
 EmoBench_annotation,eu_cause_20_en,Prospective Memory,0
-EmoBench_annotation,eu_cause_20_en,Semantic Memory,1
+EmoBench_annotation,eu_cause_20_en,Semantic Memory,2
 EmoBench_annotation,eu_cause_20_en,Spatial reasoning and navigation,0
 EmoBench_annotation,eu_cause_20_en,Theory of Mind,3
 EmoBench_annotation,eu_cause_20_en,Working Memory,2
 EmoBench_annotation,eu_cause_20_en,ambiguity,5
 EmoBench_annotation,eu_cause_20_en,factuality,5
 EmoBench_annotation,eu_cause_21_zh,Causal Reasoning,1
-EmoBench_annotation,eu_cause_21_zh,Cognitive Flexibility,1
+EmoBench_annotation,eu_cause_21_zh,Cognitive Flexibility,2
 EmoBench_annotation,eu_cause_21_zh,Emotion Perception & Empathy (EPE),2
-EmoBench_annotation,eu_cause_21_zh,Episodic/Episodic-Like Memory,2
+EmoBench_annotation,eu_cause_21_zh,Episodic/Episodic-Like Memory,3
 EmoBench_annotation,eu_cause_21_zh,Executive Function (EF),2
-EmoBench_annotation,eu_cause_21_zh,Functional perception,2
+EmoBench_annotation,eu_cause_21_zh,Functional perception,1
 EmoBench_annotation,eu_cause_21_zh,Inhibitory Control,1
-EmoBench_annotation,eu_cause_21_zh,Language,1
+EmoBench_annotation,eu_cause_21_zh,Language,2
 EmoBench_annotation,eu_cause_21_zh,Mental Simulation,1
-EmoBench_annotation,eu_cause_21_zh,Metacognition,1
-EmoBench_annotation,eu_cause_21_zh,Object permanence,1
+EmoBench_annotation,eu_cause_21_zh,Metacognition,2
+EmoBench_annotation,eu_cause_21_zh,Object permanence,0
 EmoBench_annotation,eu_cause_21_zh,Perception and Pattern Recognition,2
 EmoBench_annotation,eu_cause_21_zh,Planning,0
 EmoBench_annotation,eu_cause_21_zh,Procedural Memory,0
@@ -128,19 +128,19 @@ EmoBench_annotation,eu_cause_21_zh,factuality,5
 EmoBench_annotation,eu_cause_46_en,Causal Reasoning,1
 EmoBench_annotation,eu_cause_46_en,Cognitive Flexibility,0
 EmoBench_annotation,eu_cause_46_en,Emotion Perception & Empathy (EPE),1
-EmoBench_annotation,eu_cause_46_en,Episodic/Episodic-Like Memory,0
+EmoBench_annotation,eu_cause_46_en,Episodic/Episodic-Like Memory,2
 EmoBench_annotation,eu_cause_46_en,Executive Function (EF),1
 EmoBench_annotation,eu_cause_46_en,Functional perception,1
 EmoBench_annotation,eu_cause_46_en,Inhibitory Control,1
 EmoBench_annotation,eu_cause_46_en,Language,1
-EmoBench_annotation,eu_cause_46_en,Mental Simulation,1
+EmoBench_annotation,eu_cause_46_en,Mental Simulation,0
 EmoBench_annotation,eu_cause_46_en,Metacognition,2
 EmoBench_annotation,eu_cause_46_en,Object permanence,0
-EmoBench_annotation,eu_cause_46_en,Perception and Pattern Recognition,1
+EmoBench_annotation,eu_cause_46_en,Perception and Pattern Recognition,2
 EmoBench_annotation,eu_cause_46_en,Planning,0
 EmoBench_annotation,eu_cause_46_en,Procedural Memory,0
 EmoBench_annotation,eu_cause_46_en,Prospective Memory,0
-EmoBench_annotation,eu_cause_46_en,Semantic Memory,1
+EmoBench_annotation,eu_cause_46_en,Semantic Memory,2
 EmoBench_annotation,eu_cause_46_en,Spatial reasoning and navigation,0
 EmoBench_annotation,eu_cause_46_en,Theory of Mind,3
 EmoBench_annotation,eu_cause_46_en,Working Memory,2
@@ -149,15 +149,15 @@ EmoBench_annotation,eu_cause_46_en,factuality,5
 EmoBench_annotation,eu_emo_14_en,Causal Reasoning,1
 EmoBench_annotation,eu_emo_14_en,Cognitive Flexibility,1
 EmoBench_annotation,eu_emo_14_en,Emotion Perception & Empathy (EPE),2
-EmoBench_annotation,eu_emo_14_en,Episodic/Episodic-Like Memory,1
+EmoBench_annotation,eu_emo_14_en,Episodic/Episodic-Like Memory,0
 EmoBench_annotation,eu_emo_14_en,Executive Function (EF),2
-EmoBench_annotation,eu_emo_14_en,Functional perception,2
-EmoBench_annotation,eu_emo_14_en,Inhibitory Control,3
+EmoBench_annotation,eu_emo_14_en,Functional perception,1
+EmoBench_annotation,eu_emo_14_en,Inhibitory Control,1
 EmoBench_annotation,eu_emo_14_en,Language,2
 EmoBench_annotation,eu_emo_14_en,Mental Simulation,1
-EmoBench_annotation,eu_emo_14_en,Metacognition,1
+EmoBench_annotation,eu_emo_14_en,Metacognition,2
 EmoBench_annotation,eu_emo_14_en,Object permanence,0
-EmoBench_annotation,eu_emo_14_en,Perception and Pattern Recognition,1
+EmoBench_annotation,eu_emo_14_en,Perception and Pattern Recognition,2
 EmoBench_annotation,eu_emo_14_en,Planning,0
 EmoBench_annotation,eu_emo_14_en,Procedural Memory,0
 EmoBench_annotation,eu_emo_14_en,Prospective Memory,0
@@ -169,11 +169,11 @@ EmoBench_annotation,eu_emo_14_en,ambiguity,4
 EmoBench_annotation,eu_emo_14_en,factuality,5
 EmoBench_annotation,eu_emo_41_en,Causal Reasoning,1
 EmoBench_annotation,eu_emo_41_en,Cognitive Flexibility,0
-EmoBench_annotation,eu_emo_41_en,Emotion Perception & Empathy (EPE),2
+EmoBench_annotation,eu_emo_41_en,Emotion Perception & Empathy (EPE),1
 EmoBench_annotation,eu_emo_41_en,Episodic/Episodic-Like Memory,0
-EmoBench_annotation,eu_emo_41_en,Executive Function (EF),2
+EmoBench_annotation,eu_emo_41_en,Executive Function (EF),1
 EmoBench_annotation,eu_emo_41_en,Functional perception,1
-EmoBench_annotation,eu_emo_41_en,Inhibitory Control,2
+EmoBench_annotation,eu_emo_41_en,Inhibitory Control,1
 EmoBench_annotation,eu_emo_41_en,Language,2
 EmoBench_annotation,eu_emo_41_en,Mental Simulation,1
 EmoBench_annotation,eu_emo_41_en,Metacognition,2
@@ -185,19 +185,19 @@ EmoBench_annotation,eu_emo_41_en,Prospective Memory,0
 EmoBench_annotation,eu_emo_41_en,Semantic Memory,1
 EmoBench_annotation,eu_emo_41_en,Spatial reasoning and navigation,0
 EmoBench_annotation,eu_emo_41_en,Theory of Mind,2
-EmoBench_annotation,eu_emo_41_en,Working Memory,0
-EmoBench_annotation,eu_emo_41_en,ambiguity,4
+EmoBench_annotation,eu_emo_41_en,Working Memory,2
+EmoBench_annotation,eu_emo_41_en,ambiguity,3
 EmoBench_annotation,eu_emo_41_en,factuality,5
-EmoBench_annotation,eu_emo_76_zh,Causal Reasoning,2
+EmoBench_annotation,eu_emo_76_zh,Causal Reasoning,1
 EmoBench_annotation,eu_emo_76_zh,Cognitive Flexibility,2
-EmoBench_annotation,eu_emo_76_zh,Emotion Perception & Empathy (EPE),2
+EmoBench_annotation,eu_emo_76_zh,Emotion Perception & Empathy (EPE),3
 EmoBench_annotation,eu_emo_76_zh,Episodic/Episodic-Like Memory,2
 EmoBench_annotation,eu_emo_76_zh,Executive Function (EF),3
-EmoBench_annotation,eu_emo_76_zh,Functional perception,1
-EmoBench_annotation,eu_emo_76_zh,Inhibitory Control,1
+EmoBench_annotation,eu_emo_76_zh,Functional perception,2
+EmoBench_annotation,eu_emo_76_zh,Inhibitory Control,3
 EmoBench_annotation,eu_emo_76_zh,Language,2
 EmoBench_annotation,eu_emo_76_zh,Mental Simulation,1
-EmoBench_annotation,eu_emo_76_zh,Metacognition,2
+EmoBench_annotation,eu_emo_76_zh,Metacognition,3
 EmoBench_annotation,eu_emo_76_zh,Object permanence,0
 EmoBench_annotation,eu_emo_76_zh,Perception and Pattern Recognition,2
 EmoBench_annotation,eu_emo_76_zh,Planning,0
@@ -206,6 +206,6 @@ EmoBench_annotation,eu_emo_76_zh,Prospective Memory,0
 EmoBench_annotation,eu_emo_76_zh,Semantic Memory,3
 EmoBench_annotation,eu_emo_76_zh,Spatial reasoning and navigation,0
 EmoBench_annotation,eu_emo_76_zh,Theory of Mind,4
-EmoBench_annotation,eu_emo_76_zh,Working Memory,3
-EmoBench_annotation,eu_emo_76_zh,ambiguity,5
+EmoBench_annotation,eu_emo_76_zh,Working Memory,2
+EmoBench_annotation,eu_emo_76_zh,ambiguity,4
 EmoBench_annotation,eu_emo_76_zh,factuality,5

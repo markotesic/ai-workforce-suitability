@@ -6,13 +6,13 @@ BigBenchHard_annotation,1666,Episodic/Episodic-Like Memory,0
 BigBenchHard_annotation,1666,Executive Function (EF),2
 BigBenchHard_annotation,1666,Functional perception,1
 BigBenchHard_annotation,1666,Inhibitory Control,1
-BigBenchHard_annotation,1666,Language,0
+BigBenchHard_annotation,1666,Language,1
 BigBenchHard_annotation,1666,Mental Simulation,0
-BigBenchHard_annotation,1666,Metacognition,2
+BigBenchHard_annotation,1666,Metacognition,1
 BigBenchHard_annotation,1666,Object permanence,0
-BigBenchHard_annotation,1666,Perception and Pattern Recognition,1
+BigBenchHard_annotation,1666,Perception and Pattern Recognition,2
 BigBenchHard_annotation,1666,Planning,0
-BigBenchHard_annotation,1666,Procedural Memory,1
+BigBenchHard_annotation,1666,Procedural Memory,0
 BigBenchHard_annotation,1666,Prospective Memory,0
 BigBenchHard_annotation,1666,Semantic Memory,1
 BigBenchHard_annotation,1666,Spatial reasoning and navigation,1
@@ -27,7 +27,7 @@ BigBenchHard_annotation,3102,Episodic/Episodic-Like Memory,0
 BigBenchHard_annotation,3102,Executive Function (EF),1
 BigBenchHard_annotation,3102,Functional perception,0
 BigBenchHard_annotation,3102,Inhibitory Control,1
-BigBenchHard_annotation,3102,Language,0
+BigBenchHard_annotation,3102,Language,1
 BigBenchHard_annotation,3102,Mental Simulation,0
 BigBenchHard_annotation,3102,Metacognition,0
 BigBenchHard_annotation,3102,Object permanence,0
@@ -42,15 +42,15 @@ BigBenchHard_annotation,3102,Working Memory,2
 BigBenchHard_annotation,3102,ambiguity,5
 BigBenchHard_annotation,3102,factuality,5
 BigBenchHard_annotation,4262,Causal Reasoning,0
-BigBenchHard_annotation,4262,Cognitive Flexibility,0
+BigBenchHard_annotation,4262,Cognitive Flexibility,1
 BigBenchHard_annotation,4262,Emotion Perception & Empathy (EPE),0
 BigBenchHard_annotation,4262,Episodic/Episodic-Like Memory,0
 BigBenchHard_annotation,4262,Executive Function (EF),1
 BigBenchHard_annotation,4262,Functional perception,1
-BigBenchHard_annotation,4262,Inhibitory Control,1
+BigBenchHard_annotation,4262,Inhibitory Control,0
 BigBenchHard_annotation,4262,Language,1
 BigBenchHard_annotation,4262,Mental Simulation,0
-BigBenchHard_annotation,4262,Metacognition,0
+BigBenchHard_annotation,4262,Metacognition,1
 BigBenchHard_annotation,4262,Object permanence,0
 BigBenchHard_annotation,4262,Perception and Pattern Recognition,1
 BigBenchHard_annotation,4262,Planning,0
@@ -58,12 +58,12 @@ BigBenchHard_annotation,4262,Procedural Memory,0
 BigBenchHard_annotation,4262,Prospective Memory,0
 BigBenchHard_annotation,4262,Semantic Memory,1
 BigBenchHard_annotation,4262,Spatial reasoning and navigation,0
-BigBenchHard_annotation,4262,Theory of Mind,2
+BigBenchHard_annotation,4262,Theory of Mind,1
 BigBenchHard_annotation,4262,Working Memory,0
 BigBenchHard_annotation,4262,ambiguity,5
 BigBenchHard_annotation,4262,factuality,5
 BigBenchHard_annotation,4386,Causal Reasoning,0
-BigBenchHard_annotation,4386,Cognitive Flexibility,1
+BigBenchHard_annotation,4386,Cognitive Flexibility,0
 BigBenchHard_annotation,4386,Emotion Perception & Empathy (EPE),0
 BigBenchHard_annotation,4386,Episodic/Episodic-Like Memory,0
 BigBenchHard_annotation,4386,Executive Function (EF),1
@@ -71,33 +71,33 @@ BigBenchHard_annotation,4386,Functional perception,1
 BigBenchHard_annotation,4386,Inhibitory Control,2
 BigBenchHard_annotation,4386,Language,1
 BigBenchHard_annotation,4386,Mental Simulation,0
-BigBenchHard_annotation,4386,Metacognition,1
+BigBenchHard_annotation,4386,Metacognition,2
 BigBenchHard_annotation,4386,Object permanence,0
 BigBenchHard_annotation,4386,Perception and Pattern Recognition,1
 BigBenchHard_annotation,4386,Planning,0
 BigBenchHard_annotation,4386,Procedural Memory,1
 BigBenchHard_annotation,4386,Prospective Memory,0
-BigBenchHard_annotation,4386,Semantic Memory,2
+BigBenchHard_annotation,4386,Semantic Memory,1
 BigBenchHard_annotation,4386,Spatial reasoning and navigation,0
 BigBenchHard_annotation,4386,Theory of Mind,0
 BigBenchHard_annotation,4386,Working Memory,2
 BigBenchHard_annotation,4386,ambiguity,5
 BigBenchHard_annotation,4386,factuality,5
 BigBenchHard_annotation,4479,Causal Reasoning,0
-BigBenchHard_annotation,4479,Cognitive Flexibility,0
+BigBenchHard_annotation,4479,Cognitive Flexibility,2
 BigBenchHard_annotation,4479,Emotion Perception & Empathy (EPE),0
 BigBenchHard_annotation,4479,Episodic/Episodic-Like Memory,0
-BigBenchHard_annotation,4479,Executive Function (EF),1
-BigBenchHard_annotation,4479,Functional perception,2
-BigBenchHard_annotation,4479,Inhibitory Control,1
+BigBenchHard_annotation,4479,Executive Function (EF),2
+BigBenchHard_annotation,4479,Functional perception,1
+BigBenchHard_annotation,4479,Inhibitory Control,2
 BigBenchHard_annotation,4479,Language,1
 BigBenchHard_annotation,4479,Mental Simulation,0
 BigBenchHard_annotation,4479,Metacognition,2
 BigBenchHard_annotation,4479,Object permanence,0
 BigBenchHard_annotation,4479,Perception and Pattern Recognition,1
-BigBenchHard_annotation,4479,Planning,0
+BigBenchHard_annotation,4479,Planning,1
 BigBenchHard_annotation,4479,Procedural Memory,0
-BigBenchHard_annotation,4479,Prospective Memory,1
+BigBenchHard_annotation,4479,Prospective Memory,0
 BigBenchHard_annotation,4479,Semantic Memory,2
 BigBenchHard_annotation,4479,Spatial reasoning and navigation,0
 BigBenchHard_annotation,4479,Theory of Mind,0
@@ -107,88 +107,88 @@ BigBenchHard_annotation,4479,factuality,5
 BigBenchHard_annotation,5059,Causal Reasoning,1
 BigBenchHard_annotation,5059,Cognitive Flexibility,2
 BigBenchHard_annotation,5059,Emotion Perception & Empathy (EPE),0
-BigBenchHard_annotation,5059,Episodic/Episodic-Like Memory,0
+BigBenchHard_annotation,5059,Episodic/Episodic-Like Memory,1
 BigBenchHard_annotation,5059,Executive Function (EF),2
-BigBenchHard_annotation,5059,Functional perception,2
-BigBenchHard_annotation,5059,Inhibitory Control,3
-BigBenchHard_annotation,5059,Language,1
+BigBenchHard_annotation,5059,Functional perception,0
+BigBenchHard_annotation,5059,Inhibitory Control,1
+BigBenchHard_annotation,5059,Language,2
 BigBenchHard_annotation,5059,Mental Simulation,1
-BigBenchHard_annotation,5059,Metacognition,2
+BigBenchHard_annotation,5059,Metacognition,1
 BigBenchHard_annotation,5059,Object permanence,0
 BigBenchHard_annotation,5059,Perception and Pattern Recognition,2
-BigBenchHard_annotation,5059,Planning,1
-BigBenchHard_annotation,5059,Procedural Memory,0
+BigBenchHard_annotation,5059,Planning,0
+BigBenchHard_annotation,5059,Procedural Memory,2
 BigBenchHard_annotation,5059,Prospective Memory,0
 BigBenchHard_annotation,5059,Semantic Memory,2
 BigBenchHard_annotation,5059,Spatial reasoning and navigation,0
-BigBenchHard_annotation,5059,Theory of Mind,2
+BigBenchHard_annotation,5059,Theory of Mind,0
 BigBenchHard_annotation,5059,Working Memory,2
 BigBenchHard_annotation,5059,ambiguity,5
 BigBenchHard_annotation,5059,factuality,5
 BigBenchHard_annotation,5408,Causal Reasoning,1
 BigBenchHard_annotation,5408,Cognitive Flexibility,1
 BigBenchHard_annotation,5408,Emotion Perception & Empathy (EPE),0
-BigBenchHard_annotation,5408,Episodic/Episodic-Like Memory,2
-BigBenchHard_annotation,5408,Executive Function (EF),2
-BigBenchHard_annotation,5408,Functional perception,1
-BigBenchHard_annotation,5408,Inhibitory Control,1
+BigBenchHard_annotation,5408,Episodic/Episodic-Like Memory,1
+BigBenchHard_annotation,5408,Executive Function (EF),3
+BigBenchHard_annotation,5408,Functional perception,0
+BigBenchHard_annotation,5408,Inhibitory Control,2
 BigBenchHard_annotation,5408,Language,2
-BigBenchHard_annotation,5408,Mental Simulation,2
-BigBenchHard_annotation,5408,Metacognition,1
+BigBenchHard_annotation,5408,Mental Simulation,3
+BigBenchHard_annotation,5408,Metacognition,2
 BigBenchHard_annotation,5408,Object permanence,3
-BigBenchHard_annotation,5408,Perception and Pattern Recognition,2
+BigBenchHard_annotation,5408,Perception and Pattern Recognition,1
 BigBenchHard_annotation,5408,Planning,1
 BigBenchHard_annotation,5408,Procedural Memory,2
-BigBenchHard_annotation,5408,Prospective Memory,1
+BigBenchHard_annotation,5408,Prospective Memory,2
 BigBenchHard_annotation,5408,Semantic Memory,0
-BigBenchHard_annotation,5408,Spatial reasoning and navigation,3
+BigBenchHard_annotation,5408,Spatial reasoning and navigation,2
 BigBenchHard_annotation,5408,Theory of Mind,0
 BigBenchHard_annotation,5408,Working Memory,3
 BigBenchHard_annotation,5408,ambiguity,5
 BigBenchHard_annotation,5408,factuality,5
-BigBenchHard_annotation,5743,Causal Reasoning,2
+BigBenchHard_annotation,5743,Causal Reasoning,1
 BigBenchHard_annotation,5743,Cognitive Flexibility,2
 BigBenchHard_annotation,5743,Emotion Perception & Empathy (EPE),0
 BigBenchHard_annotation,5743,Episodic/Episodic-Like Memory,2
-BigBenchHard_annotation,5743,Executive Function (EF),3
+BigBenchHard_annotation,5743,Executive Function (EF),2
 BigBenchHard_annotation,5743,Functional perception,0
 BigBenchHard_annotation,5743,Inhibitory Control,1
-BigBenchHard_annotation,5743,Language,2
+BigBenchHard_annotation,5743,Language,1
 BigBenchHard_annotation,5743,Mental Simulation,2
 BigBenchHard_annotation,5743,Metacognition,2
 BigBenchHard_annotation,5743,Object permanence,3
 BigBenchHard_annotation,5743,Perception and Pattern Recognition,2
-BigBenchHard_annotation,5743,Planning,2
-BigBenchHard_annotation,5743,Procedural Memory,3
-BigBenchHard_annotation,5743,Prospective Memory,2
+BigBenchHard_annotation,5743,Planning,1
+BigBenchHard_annotation,5743,Procedural Memory,2
+BigBenchHard_annotation,5743,Prospective Memory,0
 BigBenchHard_annotation,5743,Semantic Memory,0
 BigBenchHard_annotation,5743,Spatial reasoning and navigation,1
 BigBenchHard_annotation,5743,Theory of Mind,0
 BigBenchHard_annotation,5743,Working Memory,3
 BigBenchHard_annotation,5743,ambiguity,5
 BigBenchHard_annotation,5743,factuality,5
-BigBenchHard_annotation,6085,Causal Reasoning,1
-BigBenchHard_annotation,6085,Cognitive Flexibility,0
+BigBenchHard_annotation,6085,Causal Reasoning,2
+BigBenchHard_annotation,6085,Cognitive Flexibility,2
 BigBenchHard_annotation,6085,Emotion Perception & Empathy (EPE),0
 BigBenchHard_annotation,6085,Episodic/Episodic-Like Memory,0
 BigBenchHard_annotation,6085,Executive Function (EF),2
 BigBenchHard_annotation,6085,Functional perception,2
 BigBenchHard_annotation,6085,Inhibitory Control,1
-BigBenchHard_annotation,6085,Language,3
-BigBenchHard_annotation,6085,Mental Simulation,2
-BigBenchHard_annotation,6085,Metacognition,3
+BigBenchHard_annotation,6085,Language,1
+BigBenchHard_annotation,6085,Mental Simulation,3
+BigBenchHard_annotation,6085,Metacognition,2
 BigBenchHard_annotation,6085,Object permanence,0
-BigBenchHard_annotation,6085,Perception and Pattern Recognition,2
-BigBenchHard_annotation,6085,Planning,0
-BigBenchHard_annotation,6085,Procedural Memory,2
+BigBenchHard_annotation,6085,Perception and Pattern Recognition,3
+BigBenchHard_annotation,6085,Planning,1
+BigBenchHard_annotation,6085,Procedural Memory,3
 BigBenchHard_annotation,6085,Prospective Memory,0
-BigBenchHard_annotation,6085,Semantic Memory,0
+BigBenchHard_annotation,6085,Semantic Memory,1
 BigBenchHard_annotation,6085,Spatial reasoning and navigation,0
 BigBenchHard_annotation,6085,Theory of Mind,2
-BigBenchHard_annotation,6085,Working Memory,2
-BigBenchHard_annotation,6085,ambiguity,4
+BigBenchHard_annotation,6085,Working Memory,3
+BigBenchHard_annotation,6085,ambiguity,5
 BigBenchHard_annotation,6085,factuality,5
-BigBenchHard_annotation,899,Causal Reasoning,0
+BigBenchHard_annotation,899,Causal Reasoning,1
 BigBenchHard_annotation,899,Cognitive Flexibility,0
 BigBenchHard_annotation,899,Emotion Perception & Empathy (EPE),0
 BigBenchHard_annotation,899,Episodic/Episodic-Like Memory,0
@@ -196,7 +196,7 @@ BigBenchHard_annotation,899,Executive Function (EF),1
 BigBenchHard_annotation,899,Functional perception,1
 BigBenchHard_annotation,899,Inhibitory Control,1
 BigBenchHard_annotation,899,Language,1
-BigBenchHard_annotation,899,Mental Simulation,0
+BigBenchHard_annotation,899,Mental Simulation,1
 BigBenchHard_annotation,899,Metacognition,2
 BigBenchHard_annotation,899,Object permanence,0
 BigBenchHard_annotation,899,Perception and Pattern Recognition,1
@@ -206,6 +206,6 @@ BigBenchHard_annotation,899,Prospective Memory,0
 BigBenchHard_annotation,899,Semantic Memory,1
 BigBenchHard_annotation,899,Spatial reasoning and navigation,0
 BigBenchHard_annotation,899,Theory of Mind,0
-BigBenchHard_annotation,899,Working Memory,2
+BigBenchHard_annotation,899,Working Memory,0
 BigBenchHard_annotation,899,ambiguity,4
 BigBenchHard_annotation,899,factuality,5

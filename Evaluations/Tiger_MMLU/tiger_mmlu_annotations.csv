@@ -3,7 +3,7 @@ TIGER-Lab/MMLU-Pro_annotation,10024,Causal Reasoning,0
 TIGER-Lab/MMLU-Pro_annotation,10024,Cognitive Flexibility,0
 TIGER-Lab/MMLU-Pro_annotation,10024,Emotion Perception & Empathy (EPE),0
 TIGER-Lab/MMLU-Pro_annotation,10024,Episodic/Episodic-Like Memory,0
-TIGER-Lab/MMLU-Pro_annotation,10024,Executive Function (EF),1
+TIGER-Lab/MMLU-Pro_annotation,10024,Executive Function (EF),2
 TIGER-Lab/MMLU-Pro_annotation,10024,Functional perception,0
 TIGER-Lab/MMLU-Pro_annotation,10024,Inhibitory Control,1
 TIGER-Lab/MMLU-Pro_annotation,10024,Language,1
@@ -12,45 +12,45 @@ TIGER-Lab/MMLU-Pro_annotation,10024,Metacognition,1
 TIGER-Lab/MMLU-Pro_annotation,10024,Object permanence,0
 TIGER-Lab/MMLU-Pro_annotation,10024,Perception and Pattern Recognition,0
 TIGER-Lab/MMLU-Pro_annotation,10024,Planning,0
-TIGER-Lab/MMLU-Pro_annotation,10024,Procedural Memory,0
+TIGER-Lab/MMLU-Pro_annotation,10024,Procedural Memory,1
 TIGER-Lab/MMLU-Pro_annotation,10024,Prospective Memory,0
 TIGER-Lab/MMLU-Pro_annotation,10024,Semantic Memory,4
 TIGER-Lab/MMLU-Pro_annotation,10024,Spatial reasoning and navigation,0
 TIGER-Lab/MMLU-Pro_annotation,10024,Theory of Mind,0
-TIGER-Lab/MMLU-Pro_annotation,10024,Working Memory,0
+TIGER-Lab/MMLU-Pro_annotation,10024,Working Memory,2
 TIGER-Lab/MMLU-Pro_annotation,10024,ambiguity,5
 TIGER-Lab/MMLU-Pro_annotation,10024,factuality,1
-TIGER-Lab/MMLU-Pro_annotation,1496,Causal Reasoning,0
+TIGER-Lab/MMLU-Pro_annotation,1496,Causal Reasoning,1
 TIGER-Lab/MMLU-Pro_annotation,1496,Cognitive Flexibility,3
 TIGER-Lab/MMLU-Pro_annotation,1496,Emotion Perception & Empathy (EPE),0
 TIGER-Lab/MMLU-Pro_annotation,1496,Episodic/Episodic-Like Memory,0
 TIGER-Lab/MMLU-Pro_annotation,1496,Executive Function (EF),3
 TIGER-Lab/MMLU-Pro_annotation,1496,Functional perception,3
 TIGER-Lab/MMLU-Pro_annotation,1496,Inhibitory Control,3
-TIGER-Lab/MMLU-Pro_annotation,1496,Language,2
-TIGER-Lab/MMLU-Pro_annotation,1496,Mental Simulation,0
-TIGER-Lab/MMLU-Pro_annotation,1496,Metacognition,3
+TIGER-Lab/MMLU-Pro_annotation,1496,Language,3
+TIGER-Lab/MMLU-Pro_annotation,1496,Mental Simulation,2
+TIGER-Lab/MMLU-Pro_annotation,1496,Metacognition,4
 TIGER-Lab/MMLU-Pro_annotation,1496,Object permanence,0
 TIGER-Lab/MMLU-Pro_annotation,1496,Perception and Pattern Recognition,3
-TIGER-Lab/MMLU-Pro_annotation,1496,Planning,2
+TIGER-Lab/MMLU-Pro_annotation,1496,Planning,0
 TIGER-Lab/MMLU-Pro_annotation,1496,Procedural Memory,3
 TIGER-Lab/MMLU-Pro_annotation,1496,Prospective Memory,0
-TIGER-Lab/MMLU-Pro_annotation,1496,Semantic Memory,4
+TIGER-Lab/MMLU-Pro_annotation,1496,Semantic Memory,3
 TIGER-Lab/MMLU-Pro_annotation,1496,Spatial reasoning and navigation,0
 TIGER-Lab/MMLU-Pro_annotation,1496,Theory of Mind,3
-TIGER-Lab/MMLU-Pro_annotation,1496,Working Memory,3
+TIGER-Lab/MMLU-Pro_annotation,1496,Working Memory,2
 TIGER-Lab/MMLU-Pro_annotation,1496,ambiguity,5
 TIGER-Lab/MMLU-Pro_annotation,1496,factuality,1
 TIGER-Lab/MMLU-Pro_annotation,2854,Causal Reasoning,1
-TIGER-Lab/MMLU-Pro_annotation,2854,Cognitive Flexibility,1
+TIGER-Lab/MMLU-Pro_annotation,2854,Cognitive Flexibility,0
 TIGER-Lab/MMLU-Pro_annotation,2854,Emotion Perception & Empathy (EPE),0
 TIGER-Lab/MMLU-Pro_annotation,2854,Episodic/Episodic-Like Memory,0
-TIGER-Lab/MMLU-Pro_annotation,2854,Executive Function (EF),2
+TIGER-Lab/MMLU-Pro_annotation,2854,Executive Function (EF),3
 TIGER-Lab/MMLU-Pro_annotation,2854,Functional perception,2
-TIGER-Lab/MMLU-Pro_annotation,2854,Inhibitory Control,1
+TIGER-Lab/MMLU-Pro_annotation,2854,Inhibitory Control,2
 TIGER-Lab/MMLU-Pro_annotation,2854,Language,2
 TIGER-Lab/MMLU-Pro_annotation,2854,Mental Simulation,0
-TIGER-Lab/MMLU-Pro_annotation,2854,Metacognition,1
+TIGER-Lab/MMLU-Pro_annotation,2854,Metacognition,2
 TIGER-Lab/MMLU-Pro_annotation,2854,Object permanence,0
 TIGER-Lab/MMLU-Pro_annotation,2854,Perception and Pattern Recognition,2
 TIGER-Lab/MMLU-Pro_annotation,2854,Planning,0
@@ -66,14 +66,14 @@ TIGER-Lab/MMLU-Pro_annotation,3320,Causal Reasoning,1
 TIGER-Lab/MMLU-Pro_annotation,3320,Cognitive Flexibility,0
 TIGER-Lab/MMLU-Pro_annotation,3320,Emotion Perception & Empathy (EPE),0
 TIGER-Lab/MMLU-Pro_annotation,3320,Episodic/Episodic-Like Memory,0
-TIGER-Lab/MMLU-Pro_annotation,3320,Executive Function (EF),2
+TIGER-Lab/MMLU-Pro_annotation,3320,Executive Function (EF),3
 TIGER-Lab/MMLU-Pro_annotation,3320,Functional perception,1
-TIGER-Lab/MMLU-Pro_annotation,3320,Inhibitory Control,2
+TIGER-Lab/MMLU-Pro_annotation,3320,Inhibitory Control,1
 TIGER-Lab/MMLU-Pro_annotation,3320,Language,1
 TIGER-Lab/MMLU-Pro_annotation,3320,Mental Simulation,0
 TIGER-Lab/MMLU-Pro_annotation,3320,Metacognition,2
 TIGER-Lab/MMLU-Pro_annotation,3320,Object permanence,0
-TIGER-Lab/MMLU-Pro_annotation,3320,Perception and Pattern Recognition,1
+TIGER-Lab/MMLU-Pro_annotation,3320,Perception and Pattern Recognition,2
 TIGER-Lab/MMLU-Pro_annotation,3320,Planning,0
 TIGER-Lab/MMLU-Pro_annotation,3320,Procedural Memory,0
 TIGER-Lab/MMLU-Pro_annotation,3320,Prospective Memory,0
@@ -84,7 +84,7 @@ TIGER-Lab/MMLU-Pro_annotation,3320,Working Memory,2
 TIGER-Lab/MMLU-Pro_annotation,3320,ambiguity,5
 TIGER-Lab/MMLU-Pro_annotation,3320,factuality,1
 TIGER-Lab/MMLU-Pro_annotation,473,Causal Reasoning,0
-TIGER-Lab/MMLU-Pro_annotation,473,Cognitive Flexibility,0
+TIGER-Lab/MMLU-Pro_annotation,473,Cognitive Flexibility,1
 TIGER-Lab/MMLU-Pro_annotation,473,Emotion Perception & Empathy (EPE),0
 TIGER-Lab/MMLU-Pro_annotation,473,Episodic/Episodic-Like Memory,0
 TIGER-Lab/MMLU-Pro_annotation,473,Executive Function (EF),3
@@ -95,13 +95,13 @@ TIGER-Lab/MMLU-Pro_annotation,473,Mental Simulation,0
 TIGER-Lab/MMLU-Pro_annotation,473,Metacognition,2
 TIGER-Lab/MMLU-Pro_annotation,473,Object permanence,0
 TIGER-Lab/MMLU-Pro_annotation,473,Perception and Pattern Recognition,2
-TIGER-Lab/MMLU-Pro_annotation,473,Planning,1
-TIGER-Lab/MMLU-Pro_annotation,473,Procedural Memory,3
+TIGER-Lab/MMLU-Pro_annotation,473,Planning,2
+TIGER-Lab/MMLU-Pro_annotation,473,Procedural Memory,2
 TIGER-Lab/MMLU-Pro_annotation,473,Prospective Memory,0
-TIGER-Lab/MMLU-Pro_annotation,473,Semantic Memory,2
+TIGER-Lab/MMLU-Pro_annotation,473,Semantic Memory,3
 TIGER-Lab/MMLU-Pro_annotation,473,Spatial reasoning and navigation,0
 TIGER-Lab/MMLU-Pro_annotation,473,Theory of Mind,0
-TIGER-Lab/MMLU-Pro_annotation,473,Working Memory,3
+TIGER-Lab/MMLU-Pro_annotation,473,Working Memory,2
 TIGER-Lab/MMLU-Pro_annotation,473,ambiguity,5
 TIGER-Lab/MMLU-Pro_annotation,473,factuality,1
 TIGER-Lab/MMLU-Pro_annotation,5088,Causal Reasoning,0
@@ -110,10 +110,10 @@ TIGER-Lab/MMLU-Pro_annotation,5088,Emotion Perception & Empathy (EPE),0
 TIGER-Lab/MMLU-Pro_annotation,5088,Episodic/Episodic-Like Memory,0
 TIGER-Lab/MMLU-Pro_annotation,5088,Executive Function (EF),1
 TIGER-Lab/MMLU-Pro_annotation,5088,Functional perception,0
-TIGER-Lab/MMLU-Pro_annotation,5088,Inhibitory Control,0
+TIGER-Lab/MMLU-Pro_annotation,5088,Inhibitory Control,1
 TIGER-Lab/MMLU-Pro_annotation,5088,Language,1
 TIGER-Lab/MMLU-Pro_annotation,5088,Mental Simulation,0
-TIGER-Lab/MMLU-Pro_annotation,5088,Metacognition,1
+TIGER-Lab/MMLU-Pro_annotation,5088,Metacognition,0
 TIGER-Lab/MMLU-Pro_annotation,5088,Object permanence,0
 TIGER-Lab/MMLU-Pro_annotation,5088,Perception and Pattern Recognition,0
 TIGER-Lab/MMLU-Pro_annotation,5088,Planning,0
@@ -125,15 +125,15 @@ TIGER-Lab/MMLU-Pro_annotation,5088,Theory of Mind,0
 TIGER-Lab/MMLU-Pro_annotation,5088,Working Memory,2
 TIGER-Lab/MMLU-Pro_annotation,5088,ambiguity,5
 TIGER-Lab/MMLU-Pro_annotation,5088,factuality,1
-TIGER-Lab/MMLU-Pro_annotation,556,Causal Reasoning,0
-TIGER-Lab/MMLU-Pro_annotation,556,Cognitive Flexibility,3
+TIGER-Lab/MMLU-Pro_annotation,556,Causal Reasoning,1
+TIGER-Lab/MMLU-Pro_annotation,556,Cognitive Flexibility,2
 TIGER-Lab/MMLU-Pro_annotation,556,Emotion Perception & Empathy (EPE),0
 TIGER-Lab/MMLU-Pro_annotation,556,Episodic/Episodic-Like Memory,0
 TIGER-Lab/MMLU-Pro_annotation,556,Executive Function (EF),3
-TIGER-Lab/MMLU-Pro_annotation,556,Functional perception,3
+TIGER-Lab/MMLU-Pro_annotation,556,Functional perception,0
 TIGER-Lab/MMLU-Pro_annotation,556,Inhibitory Control,2
-TIGER-Lab/MMLU-Pro_annotation,556,Language,1
-TIGER-Lab/MMLU-Pro_annotation,556,Mental Simulation,1
+TIGER-Lab/MMLU-Pro_annotation,556,Language,2
+TIGER-Lab/MMLU-Pro_annotation,556,Mental Simulation,0
 TIGER-Lab/MMLU-Pro_annotation,556,Metacognition,2
 TIGER-Lab/MMLU-Pro_annotation,556,Object permanence,0
 TIGER-Lab/MMLU-Pro_annotation,556,Perception and Pattern Recognition,2
@@ -150,30 +150,30 @@ TIGER-Lab/MMLU-Pro_annotation,6570,Causal Reasoning,0
 TIGER-Lab/MMLU-Pro_annotation,6570,Cognitive Flexibility,0
 TIGER-Lab/MMLU-Pro_annotation,6570,Emotion Perception & Empathy (EPE),0
 TIGER-Lab/MMLU-Pro_annotation,6570,Episodic/Episodic-Like Memory,0
-TIGER-Lab/MMLU-Pro_annotation,6570,Executive Function (EF),2
-TIGER-Lab/MMLU-Pro_annotation,6570,Functional perception,0
+TIGER-Lab/MMLU-Pro_annotation,6570,Executive Function (EF),1
+TIGER-Lab/MMLU-Pro_annotation,6570,Functional perception,2
 TIGER-Lab/MMLU-Pro_annotation,6570,Inhibitory Control,1
 TIGER-Lab/MMLU-Pro_annotation,6570,Language,1
 TIGER-Lab/MMLU-Pro_annotation,6570,Mental Simulation,0
-TIGER-Lab/MMLU-Pro_annotation,6570,Metacognition,1
+TIGER-Lab/MMLU-Pro_annotation,6570,Metacognition,2
 TIGER-Lab/MMLU-Pro_annotation,6570,Object permanence,0
-TIGER-Lab/MMLU-Pro_annotation,6570,Perception and Pattern Recognition,0
+TIGER-Lab/MMLU-Pro_annotation,6570,Perception and Pattern Recognition,1
 TIGER-Lab/MMLU-Pro_annotation,6570,Planning,0
 TIGER-Lab/MMLU-Pro_annotation,6570,Procedural Memory,0
 TIGER-Lab/MMLU-Pro_annotation,6570,Prospective Memory,0
-TIGER-Lab/MMLU-Pro_annotation,6570,Semantic Memory,3
+TIGER-Lab/MMLU-Pro_annotation,6570,Semantic Memory,2
 TIGER-Lab/MMLU-Pro_annotation,6570,Spatial reasoning and navigation,0
 TIGER-Lab/MMLU-Pro_annotation,6570,Theory of Mind,0
-TIGER-Lab/MMLU-Pro_annotation,6570,Working Memory,2
+TIGER-Lab/MMLU-Pro_annotation,6570,Working Memory,0
 TIGER-Lab/MMLU-Pro_annotation,6570,ambiguity,5
 TIGER-Lab/MMLU-Pro_annotation,6570,factuality,1
 TIGER-Lab/MMLU-Pro_annotation,7070,Causal Reasoning,1
 TIGER-Lab/MMLU-Pro_annotation,7070,Cognitive Flexibility,0
 TIGER-Lab/MMLU-Pro_annotation,7070,Emotion Perception & Empathy (EPE),0
 TIGER-Lab/MMLU-Pro_annotation,7070,Episodic/Episodic-Like Memory,0
-TIGER-Lab/MMLU-Pro_annotation,7070,Executive Function (EF),2
+TIGER-Lab/MMLU-Pro_annotation,7070,Executive Function (EF),3
 TIGER-Lab/MMLU-Pro_annotation,7070,Functional perception,1
-TIGER-Lab/MMLU-Pro_annotation,7070,Inhibitory Control,2
+TIGER-Lab/MMLU-Pro_annotation,7070,Inhibitory Control,1
 TIGER-Lab/MMLU-Pro_annotation,7070,Language,1
 TIGER-Lab/MMLU-Pro_annotation,7070,Mental Simulation,0
 TIGER-Lab/MMLU-Pro_annotation,7070,Metacognition,2
@@ -192,20 +192,20 @@ TIGER-Lab/MMLU-Pro_annotation,7562,Causal Reasoning,1
 TIGER-Lab/MMLU-Pro_annotation,7562,Cognitive Flexibility,0
 TIGER-Lab/MMLU-Pro_annotation,7562,Emotion Perception & Empathy (EPE),0
 TIGER-Lab/MMLU-Pro_annotation,7562,Episodic/Episodic-Like Memory,0
-TIGER-Lab/MMLU-Pro_annotation,7562,Executive Function (EF),1
-TIGER-Lab/MMLU-Pro_annotation,7562,Functional perception,1
-TIGER-Lab/MMLU-Pro_annotation,7562,Inhibitory Control,2
+TIGER-Lab/MMLU-Pro_annotation,7562,Executive Function (EF),3
+TIGER-Lab/MMLU-Pro_annotation,7562,Functional perception,2
+TIGER-Lab/MMLU-Pro_annotation,7562,Inhibitory Control,1
 TIGER-Lab/MMLU-Pro_annotation,7562,Language,1
 TIGER-Lab/MMLU-Pro_annotation,7562,Mental Simulation,0
 TIGER-Lab/MMLU-Pro_annotation,7562,Metacognition,2
 TIGER-Lab/MMLU-Pro_annotation,7562,Object permanence,0
-TIGER-Lab/MMLU-Pro_annotation,7562,Perception and Pattern Recognition,0
+TIGER-Lab/MMLU-Pro_annotation,7562,Perception and Pattern Recognition,2
 TIGER-Lab/MMLU-Pro_annotation,7562,Planning,0
 TIGER-Lab/MMLU-Pro_annotation,7562,Procedural Memory,0
 TIGER-Lab/MMLU-Pro_annotation,7562,Prospective Memory,0
 TIGER-Lab/MMLU-Pro_annotation,7562,Semantic Memory,2
 TIGER-Lab/MMLU-Pro_annotation,7562,Spatial reasoning and navigation,0
 TIGER-Lab/MMLU-Pro_annotation,7562,Theory of Mind,0
-TIGER-Lab/MMLU-Pro_annotation,7562,Working Memory,2
-TIGER-Lab/MMLU-Pro_annotation,7562,ambiguity,4
+TIGER-Lab/MMLU-Pro_annotation,7562,Working Memory,0
+TIGER-Lab/MMLU-Pro_annotation,7562,ambiguity,5
 TIGER-Lab/MMLU-Pro_annotation,7562,factuality,1

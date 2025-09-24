@@ -1,0 +1,211 @@
+dataset name,sample id,dimension,score
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,Causal Reasoning,1
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,Cognitive Flexibility,1
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,Emotion Perception & Empathy (EPE),0
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,Episodic/Episodic-Like Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,Executive Function (EF),1
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,Functional perception,1
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,Inhibitory Control,1
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,Language,2
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,Mental Simulation,1
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,Metacognition,2
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,Object permanence,0
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,Perception and Pattern Recognition,1
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,Planning,0
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,Procedural Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,Prospective Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,Semantic Memory,2
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,Spatial reasoning and navigation,0
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,Theory of Mind,2
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,Working Memory,2
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,ambiguity,5
+ewok-core/ewok-core-1.0_annotation,ewok_237c0464_1,factuality,5
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,Causal Reasoning,1
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,Cognitive Flexibility,0
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,Emotion Perception & Empathy (EPE),0
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,Episodic/Episodic-Like Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,Executive Function (EF),1
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,Functional perception,1
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,Inhibitory Control,1
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,Language,1
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,Mental Simulation,1
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,Metacognition,0
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,Object permanence,0
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,Perception and Pattern Recognition,1
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,Planning,0
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,Procedural Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,Prospective Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,Semantic Memory,1
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,Spatial reasoning and navigation,0
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,Theory of Mind,0
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,Working Memory,2
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,ambiguity,5
+ewok-core/ewok-core-1.0_annotation,ewok_2bdeb0ae_1,factuality,5
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,Causal Reasoning,1
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,Cognitive Flexibility,0
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,Emotion Perception & Empathy (EPE),0
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,Episodic/Episodic-Like Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,Executive Function (EF),1
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,Functional perception,1
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,Inhibitory Control,0
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,Language,1
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,Mental Simulation,1
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,Metacognition,1
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,Object permanence,0
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,Perception and Pattern Recognition,1
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,Planning,0
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,Procedural Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,Prospective Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,Semantic Memory,1
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,Spatial reasoning and navigation,0
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,Theory of Mind,2
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,Working Memory,2
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,ambiguity,5
+ewok-core/ewok-core-1.0_annotation,ewok_5eeb3961_2,factuality,5
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,Causal Reasoning,1
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,Cognitive Flexibility,0
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,Emotion Perception & Empathy (EPE),0
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,Episodic/Episodic-Like Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,Executive Function (EF),1
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,Functional perception,1
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,Inhibitory Control,1
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,Language,1
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,Mental Simulation,1
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,Metacognition,1
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,Object permanence,0
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,Perception and Pattern Recognition,1
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,Planning,0
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,Procedural Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,Prospective Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,Semantic Memory,1
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,Spatial reasoning and navigation,1
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,Theory of Mind,0
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,Working Memory,2
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,ambiguity,5
+ewok-core/ewok-core-1.0_annotation,ewok_611b146f_1,factuality,5
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,Causal Reasoning,1
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,Cognitive Flexibility,0
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,Emotion Perception & Empathy (EPE),0
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,Episodic/Episodic-Like Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,Executive Function (EF),1
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,Functional perception,1
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,Inhibitory Control,1
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,Language,1
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,Mental Simulation,0
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,Metacognition,1
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,Object permanence,0
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,Perception and Pattern Recognition,1
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,Planning,0
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,Procedural Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,Prospective Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,Semantic Memory,1
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,Spatial reasoning and navigation,0
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,Theory of Mind,2
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,Working Memory,2
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,ambiguity,5
+ewok-core/ewok-core-1.0_annotation,ewok_654b3dbb_1,factuality,5
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,Causal Reasoning,1
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,Cognitive Flexibility,0
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,Emotion Perception & Empathy (EPE),0
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,Episodic/Episodic-Like Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,Executive Function (EF),1
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,Functional perception,1
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,Inhibitory Control,0
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,Language,1
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,Mental Simulation,1
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,Metacognition,1
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,Object permanence,0
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,Perception and Pattern Recognition,1
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,Planning,0
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,Procedural Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,Prospective Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,Semantic Memory,1
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,Spatial reasoning and navigation,1
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,Theory of Mind,0
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,Working Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,ambiguity,5
+ewok-core/ewok-core-1.0_annotation,ewok_8bc64248_2,factuality,5
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,Causal Reasoning,1
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,Cognitive Flexibility,1
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,Emotion Perception & Empathy (EPE),0
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,Episodic/Episodic-Like Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,Executive Function (EF),1
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,Functional perception,1
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,Inhibitory Control,1
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,Language,1
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,Mental Simulation,1
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,Metacognition,1
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,Object permanence,0
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,Perception and Pattern Recognition,1
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,Planning,0
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,Procedural Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,Prospective Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,Semantic Memory,1
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,Spatial reasoning and navigation,1
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,Theory of Mind,0
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,Working Memory,2
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,ambiguity,5
+ewok-core/ewok-core-1.0_annotation,ewok_bb5ad4e4_1,factuality,5
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,Causal Reasoning,1
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,Cognitive Flexibility,0
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,Emotion Perception & Empathy (EPE),0
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,Episodic/Episodic-Like Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,Executive Function (EF),1
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,Functional perception,1
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,Inhibitory Control,1
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,Language,1
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,Mental Simulation,1
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,Metacognition,1
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,Object permanence,0
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,Perception and Pattern Recognition,1
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,Planning,0
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,Procedural Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,Prospective Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,Semantic Memory,1
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,Spatial reasoning and navigation,1
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,Theory of Mind,0
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,Working Memory,2
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,ambiguity,5
+ewok-core/ewok-core-1.0_annotation,ewok_c47ae80e_1,factuality,5
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,Causal Reasoning,1
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,Cognitive Flexibility,1
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,Emotion Perception & Empathy (EPE),0
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,Episodic/Episodic-Like Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,Executive Function (EF),1
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,Functional perception,1
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,Inhibitory Control,0
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,Language,1
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,Mental Simulation,1
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,Metacognition,1
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,Object permanence,0
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,Perception and Pattern Recognition,1
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,Planning,0
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,Procedural Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,Prospective Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,Semantic Memory,1
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,Spatial reasoning and navigation,0
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,Theory of Mind,0
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,Working Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,ambiguity,5
+ewok-core/ewok-core-1.0_annotation,ewok_ce7be38a_2,factuality,5
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,Causal Reasoning,1
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,Cognitive Flexibility,0
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,Emotion Perception & Empathy (EPE),0
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,Episodic/Episodic-Like Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,Executive Function (EF),1
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,Functional perception,1
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,Inhibitory Control,0
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,Language,1
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,Mental Simulation,0
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,Metacognition,2
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,Object permanence,0
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,Perception and Pattern Recognition,1
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,Planning,0
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,Procedural Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,Prospective Memory,0
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,Semantic Memory,1
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,Spatial reasoning and navigation,1
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,Theory of Mind,0
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,Working Memory,2
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,ambiguity,5
+ewok-core/ewok-core-1.0_annotation,ewok_e49a0672_2,factuality,1

@@ -5,7 +5,7 @@ cause_and_effect_annotation,11,Emotion Perception & Empathy (EPE),0
 cause_and_effect_annotation,11,Episodic/Episodic-Like Memory,0
 cause_and_effect_annotation,11,Executive Function (EF),1
 cause_and_effect_annotation,11,Functional perception,1
-cause_and_effect_annotation,11,Inhibitory Control,1
+cause_and_effect_annotation,11,Inhibitory Control,0
 cause_and_effect_annotation,11,Language,1
 cause_and_effect_annotation,11,Mental Simulation,1
 cause_and_effect_annotation,11,Metacognition,1
@@ -17,7 +17,7 @@ cause_and_effect_annotation,11,Prospective Memory,0
 cause_and_effect_annotation,11,Semantic Memory,1
 cause_and_effect_annotation,11,Spatial reasoning and navigation,0
 cause_and_effect_annotation,11,Theory of Mind,0
-cause_and_effect_annotation,11,Working Memory,0
+cause_and_effect_annotation,11,Working Memory,2
 cause_and_effect_annotation,11,ambiguity,5
 cause_and_effect_annotation,11,factuality,5
 cause_and_effect_annotation,16,Causal Reasoning,1
@@ -45,12 +45,12 @@ cause_and_effect_annotation,19,Causal Reasoning,1
 cause_and_effect_annotation,19,Cognitive Flexibility,0
 cause_and_effect_annotation,19,Emotion Perception & Empathy (EPE),0
 cause_and_effect_annotation,19,Episodic/Episodic-Like Memory,0
-cause_and_effect_annotation,19,Executive Function (EF),0
+cause_and_effect_annotation,19,Executive Function (EF),1
 cause_and_effect_annotation,19,Functional perception,1
-cause_and_effect_annotation,19,Inhibitory Control,0
+cause_and_effect_annotation,19,Inhibitory Control,1
 cause_and_effect_annotation,19,Language,1
 cause_and_effect_annotation,19,Mental Simulation,1
-cause_and_effect_annotation,19,Metacognition,0
+cause_and_effect_annotation,19,Metacognition,1
 cause_and_effect_annotation,19,Object permanence,0
 cause_and_effect_annotation,19,Perception and Pattern Recognition,1
 cause_and_effect_annotation,19,Planning,0
@@ -58,17 +58,17 @@ cause_and_effect_annotation,19,Procedural Memory,0
 cause_and_effect_annotation,19,Prospective Memory,0
 cause_and_effect_annotation,19,Semantic Memory,1
 cause_and_effect_annotation,19,Spatial reasoning and navigation,0
-cause_and_effect_annotation,19,Theory of Mind,1
-cause_and_effect_annotation,19,Working Memory,2
+cause_and_effect_annotation,19,Theory of Mind,2
+cause_and_effect_annotation,19,Working Memory,0
 cause_and_effect_annotation,19,ambiguity,5
 cause_and_effect_annotation,19,factuality,5
 cause_and_effect_annotation,23,Causal Reasoning,1
 cause_and_effect_annotation,23,Cognitive Flexibility,0
 cause_and_effect_annotation,23,Emotion Perception & Empathy (EPE),0
 cause_and_effect_annotation,23,Episodic/Episodic-Like Memory,0
-cause_and_effect_annotation,23,Executive Function (EF),1
+cause_and_effect_annotation,23,Executive Function (EF),0
 cause_and_effect_annotation,23,Functional perception,1
-cause_and_effect_annotation,23,Inhibitory Control,1
+cause_and_effect_annotation,23,Inhibitory Control,0
 cause_and_effect_annotation,23,Language,1
 cause_and_effect_annotation,23,Mental Simulation,1
 cause_and_effect_annotation,23,Metacognition,1
@@ -78,9 +78,9 @@ cause_and_effect_annotation,23,Planning,0
 cause_and_effect_annotation,23,Procedural Memory,0
 cause_and_effect_annotation,23,Prospective Memory,0
 cause_and_effect_annotation,23,Semantic Memory,1
-cause_and_effect_annotation,23,Spatial reasoning and navigation,1
+cause_and_effect_annotation,23,Spatial reasoning and navigation,0
 cause_and_effect_annotation,23,Theory of Mind,0
-cause_and_effect_annotation,23,Working Memory,2
+cause_and_effect_annotation,23,Working Memory,3
 cause_and_effect_annotation,23,ambiguity,5
 cause_and_effect_annotation,23,factuality,5
 cause_and_effect_annotation,25,Causal Reasoning,1
@@ -89,7 +89,7 @@ cause_and_effect_annotation,25,Emotion Perception & Empathy (EPE),0
 cause_and_effect_annotation,25,Episodic/Episodic-Like Memory,0
 cause_and_effect_annotation,25,Executive Function (EF),0
 cause_and_effect_annotation,25,Functional perception,1
-cause_and_effect_annotation,25,Inhibitory Control,0
+cause_and_effect_annotation,25,Inhibitory Control,1
 cause_and_effect_annotation,25,Language,1
 cause_and_effect_annotation,25,Mental Simulation,1
 cause_and_effect_annotation,25,Metacognition,1
@@ -100,7 +100,7 @@ cause_and_effect_annotation,25,Procedural Memory,0
 cause_and_effect_annotation,25,Prospective Memory,0
 cause_and_effect_annotation,25,Semantic Memory,1
 cause_and_effect_annotation,25,Spatial reasoning and navigation,0
-cause_and_effect_annotation,25,Theory of Mind,1
+cause_and_effect_annotation,25,Theory of Mind,0
 cause_and_effect_annotation,25,Working Memory,2
 cause_and_effect_annotation,25,ambiguity,5
 cause_and_effect_annotation,25,factuality,5
@@ -110,10 +110,10 @@ cause_and_effect_annotation,26,Emotion Perception & Empathy (EPE),0
 cause_and_effect_annotation,26,Episodic/Episodic-Like Memory,0
 cause_and_effect_annotation,26,Executive Function (EF),1
 cause_and_effect_annotation,26,Functional perception,1
-cause_and_effect_annotation,26,Inhibitory Control,0
+cause_and_effect_annotation,26,Inhibitory Control,1
 cause_and_effect_annotation,26,Language,1
-cause_and_effect_annotation,26,Mental Simulation,1
-cause_and_effect_annotation,26,Metacognition,1
+cause_and_effect_annotation,26,Mental Simulation,0
+cause_and_effect_annotation,26,Metacognition,2
 cause_and_effect_annotation,26,Object permanence,0
 cause_and_effect_annotation,26,Perception and Pattern Recognition,1
 cause_and_effect_annotation,26,Planning,0
@@ -121,8 +121,8 @@ cause_and_effect_annotation,26,Procedural Memory,0
 cause_and_effect_annotation,26,Prospective Memory,0
 cause_and_effect_annotation,26,Semantic Memory,2
 cause_and_effect_annotation,26,Spatial reasoning and navigation,0
-cause_and_effect_annotation,26,Theory of Mind,1
-cause_and_effect_annotation,26,Working Memory,0
+cause_and_effect_annotation,26,Theory of Mind,0
+cause_and_effect_annotation,26,Working Memory,1
 cause_and_effect_annotation,26,ambiguity,5
 cause_and_effect_annotation,26,factuality,5
 cause_and_effect_annotation,29,Causal Reasoning,1
@@ -131,7 +131,7 @@ cause_and_effect_annotation,29,Emotion Perception & Empathy (EPE),0
 cause_and_effect_annotation,29,Episodic/Episodic-Like Memory,0
 cause_and_effect_annotation,29,Executive Function (EF),1
 cause_and_effect_annotation,29,Functional perception,1
-cause_and_effect_annotation,29,Inhibitory Control,0
+cause_and_effect_annotation,29,Inhibitory Control,1
 cause_and_effect_annotation,29,Language,1
 cause_and_effect_annotation,29,Mental Simulation,1
 cause_and_effect_annotation,29,Metacognition,1
@@ -143,7 +143,7 @@ cause_and_effect_annotation,29,Prospective Memory,0
 cause_and_effect_annotation,29,Semantic Memory,1
 cause_and_effect_annotation,29,Spatial reasoning and navigation,0
 cause_and_effect_annotation,29,Theory of Mind,0
-cause_and_effect_annotation,29,Working Memory,0
+cause_and_effect_annotation,29,Working Memory,2
 cause_and_effect_annotation,29,ambiguity,5
 cause_and_effect_annotation,29,factuality,5
 cause_and_effect_annotation,45,Causal Reasoning,1
@@ -171,12 +171,12 @@ cause_and_effect_annotation,4,Causal Reasoning,1
 cause_and_effect_annotation,4,Cognitive Flexibility,0
 cause_and_effect_annotation,4,Emotion Perception & Empathy (EPE),0
 cause_and_effect_annotation,4,Episodic/Episodic-Like Memory,0
-cause_and_effect_annotation,4,Executive Function (EF),0
+cause_and_effect_annotation,4,Executive Function (EF),1
 cause_and_effect_annotation,4,Functional perception,1
-cause_and_effect_annotation,4,Inhibitory Control,0
+cause_and_effect_annotation,4,Inhibitory Control,1
 cause_and_effect_annotation,4,Language,1
 cause_and_effect_annotation,4,Mental Simulation,1
-cause_and_effect_annotation,4,Metacognition,0
+cause_and_effect_annotation,4,Metacognition,1
 cause_and_effect_annotation,4,Object permanence,0
 cause_and_effect_annotation,4,Perception and Pattern Recognition,1
 cause_and_effect_annotation,4,Planning,0
@@ -184,7 +184,7 @@ cause_and_effect_annotation,4,Procedural Memory,0
 cause_and_effect_annotation,4,Prospective Memory,0
 cause_and_effect_annotation,4,Semantic Memory,1
 cause_and_effect_annotation,4,Spatial reasoning and navigation,0
-cause_and_effect_annotation,4,Theory of Mind,0
+cause_and_effect_annotation,4,Theory of Mind,1
 cause_and_effect_annotation,4,Working Memory,0
 cause_and_effect_annotation,4,ambiguity,5
 cause_and_effect_annotation,4,factuality,5
@@ -192,7 +192,7 @@ cause_and_effect_annotation,9,Causal Reasoning,1
 cause_and_effect_annotation,9,Cognitive Flexibility,0
 cause_and_effect_annotation,9,Emotion Perception & Empathy (EPE),0
 cause_and_effect_annotation,9,Episodic/Episodic-Like Memory,0
-cause_and_effect_annotation,9,Executive Function (EF),1
+cause_and_effect_annotation,9,Executive Function (EF),0
 cause_and_effect_annotation,9,Functional perception,1
 cause_and_effect_annotation,9,Inhibitory Control,0
 cause_and_effect_annotation,9,Language,1
@@ -205,7 +205,7 @@ cause_and_effect_annotation,9,Procedural Memory,0
 cause_and_effect_annotation,9,Prospective Memory,0
 cause_and_effect_annotation,9,Semantic Memory,1
 cause_and_effect_annotation,9,Spatial reasoning and navigation,0
-cause_and_effect_annotation,9,Theory of Mind,0
-cause_and_effect_annotation,9,Working Memory,2
+cause_and_effect_annotation,9,Theory of Mind,2
+cause_and_effect_annotation,9,Working Memory,0
 cause_and_effect_annotation,9,ambiguity,5
 cause_and_effect_annotation,9,factuality,5
