@@ -16,6 +16,8 @@ import time
 from pathlib import Path
 from typing import List, Optional
 
+from Annotations.convert_rubrics import convert_rubrics_to_json
+
 DEFAULT_NUM_SAMPLES = 10
 
 def discover_task_files(evaluations_dir: str = "Evaluations") -> List[str]:
@@ -143,6 +145,9 @@ Examples:
     )
 
     args = parser.parse_args()
+
+    # make sure to update the rubric json file first
+    convert_rubrics_to_json(os.path.join(Path(__file__).parent, "rubric_files"), os.path.join(Path(__file__).parent, "rubric.json"))
 
     # Change to the script's parent directory to ensure relative paths work
     script_dir = Path(__file__).parent.parent
