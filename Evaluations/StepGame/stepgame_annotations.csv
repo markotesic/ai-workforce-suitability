@@ -1,0 +1,211 @@
+dataset name,sample id,dimension,score
+ZhengyanShi/StepGame_annotation,stepgame_009da571,Causal Reasoning,0
+ZhengyanShi/StepGame_annotation,stepgame_009da571,Cognitive Flexibility,3
+ZhengyanShi/StepGame_annotation,stepgame_009da571,Emotion Perception & Empathy (EPE),0
+ZhengyanShi/StepGame_annotation,stepgame_009da571,Episodic/Episodic-Like Memory,2
+ZhengyanShi/StepGame_annotation,stepgame_009da571,Executive Function (EF),3
+ZhengyanShi/StepGame_annotation,stepgame_009da571,Functional perception,3
+ZhengyanShi/StepGame_annotation,stepgame_009da571,Inhibitory Control,3
+ZhengyanShi/StepGame_annotation,stepgame_009da571,Language,2
+ZhengyanShi/StepGame_annotation,stepgame_009da571,Mental Simulation,2
+ZhengyanShi/StepGame_annotation,stepgame_009da571,Metacognition,3
+ZhengyanShi/StepGame_annotation,stepgame_009da571,Object permanence,0
+ZhengyanShi/StepGame_annotation,stepgame_009da571,Perception and Pattern Recognition,4
+ZhengyanShi/StepGame_annotation,stepgame_009da571,Planning,2
+ZhengyanShi/StepGame_annotation,stepgame_009da571,Procedural Memory,3
+ZhengyanShi/StepGame_annotation,stepgame_009da571,Prospective Memory,2
+ZhengyanShi/StepGame_annotation,stepgame_009da571,Semantic Memory,1
+ZhengyanShi/StepGame_annotation,stepgame_009da571,Spatial reasoning and navigation,3
+ZhengyanShi/StepGame_annotation,stepgame_009da571,Theory of Mind,0
+ZhengyanShi/StepGame_annotation,stepgame_009da571,Working Memory,4
+ZhengyanShi/StepGame_annotation,stepgame_009da571,ambiguity,5
+ZhengyanShi/StepGame_annotation,stepgame_009da571,factuality,5
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,Causal Reasoning,0
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,Cognitive Flexibility,0
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,Emotion Perception & Empathy (EPE),0
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,Episodic/Episodic-Like Memory,0
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,Executive Function (EF),2
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,Functional perception,1
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,Inhibitory Control,2
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,Language,1
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,Mental Simulation,1
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,Metacognition,3
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,Object permanence,0
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,Perception and Pattern Recognition,3
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,Planning,2
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,Procedural Memory,2
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,Prospective Memory,0
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,Semantic Memory,2
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,Spatial reasoning and navigation,3
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,Theory of Mind,0
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,Working Memory,3
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,ambiguity,3
+ZhengyanShi/StepGame_annotation,stepgame_117b0853,factuality,5
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,Causal Reasoning,0
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,Cognitive Flexibility,3
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,Emotion Perception & Empathy (EPE),0
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,Episodic/Episodic-Like Memory,0
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,Executive Function (EF),3
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,Functional perception,1
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,Inhibitory Control,3
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,Language,1
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,Mental Simulation,1
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,Metacognition,3
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,Object permanence,0
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,Perception and Pattern Recognition,3
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,Planning,2
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,Procedural Memory,2
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,Prospective Memory,0
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,Semantic Memory,1
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,Spatial reasoning and navigation,3
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,Theory of Mind,0
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,Working Memory,4
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,ambiguity,5
+ZhengyanShi/StepGame_annotation,stepgame_2ea1b9d4,factuality,1
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,Causal Reasoning,0
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,Cognitive Flexibility,3
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,Emotion Perception & Empathy (EPE),0
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,Episodic/Episodic-Like Memory,0
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,Executive Function (EF),3
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,Functional perception,3
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,Inhibitory Control,2
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,Language,2
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,Mental Simulation,2
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,Metacognition,4
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,Object permanence,0
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,Perception and Pattern Recognition,3
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,Planning,2
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,Procedural Memory,3
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,Prospective Memory,2
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,Semantic Memory,1
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,Spatial reasoning and navigation,3
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,Theory of Mind,0
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,Working Memory,4
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,ambiguity,2
+ZhengyanShi/StepGame_annotation,stepgame_3bf996f7,factuality,1
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,Causal Reasoning,0
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,Cognitive Flexibility,0
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,Emotion Perception & Empathy (EPE),0
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,Episodic/Episodic-Like Memory,0
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,Executive Function (EF),2
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,Functional perception,2
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,Inhibitory Control,1
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,Language,1
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,Mental Simulation,2
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,Metacognition,2
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,Object permanence,0
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,Perception and Pattern Recognition,2
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,Planning,0
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,Procedural Memory,1
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,Prospective Memory,0
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,Semantic Memory,1
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,Spatial reasoning and navigation,1
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,Theory of Mind,0
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,Working Memory,3
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,ambiguity,4
+ZhengyanShi/StepGame_annotation,stepgame_401c0a0b,factuality,5
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,Causal Reasoning,0
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,Cognitive Flexibility,0
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,Emotion Perception & Empathy (EPE),0
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,Episodic/Episodic-Like Memory,0
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,Executive Function (EF),1
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,Functional perception,0
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,Inhibitory Control,1
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,Language,2
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,Mental Simulation,0
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,Metacognition,1
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,Object permanence,0
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,Perception and Pattern Recognition,1
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,Planning,0
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,Procedural Memory,0
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,Prospective Memory,0
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,Semantic Memory,1
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,Spatial reasoning and navigation,1
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,Theory of Mind,0
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,Working Memory,2
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,ambiguity,5
+ZhengyanShi/StepGame_annotation,stepgame_51580ea5,factuality,5
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,Causal Reasoning,0
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,Cognitive Flexibility,3
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,Emotion Perception & Empathy (EPE),0
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,Episodic/Episodic-Like Memory,0
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,Executive Function (EF),4
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,Functional perception,3
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,Inhibitory Control,2
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,Language,2
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,Mental Simulation,3
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,Metacognition,3
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,Object permanence,0
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,Perception and Pattern Recognition,3
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,Planning,2
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,Procedural Memory,3
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,Prospective Memory,3
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,Semantic Memory,1
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,Spatial reasoning and navigation,3
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,Theory of Mind,0
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,Working Memory,3
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,ambiguity,5
+ZhengyanShi/StepGame_annotation,stepgame_5805f257,factuality,5
+ZhengyanShi/StepGame_annotation,stepgame_83547594,Causal Reasoning,0
+ZhengyanShi/StepGame_annotation,stepgame_83547594,Cognitive Flexibility,3
+ZhengyanShi/StepGame_annotation,stepgame_83547594,Emotion Perception & Empathy (EPE),0
+ZhengyanShi/StepGame_annotation,stepgame_83547594,Episodic/Episodic-Like Memory,0
+ZhengyanShi/StepGame_annotation,stepgame_83547594,Executive Function (EF),3
+ZhengyanShi/StepGame_annotation,stepgame_83547594,Functional perception,3
+ZhengyanShi/StepGame_annotation,stepgame_83547594,Inhibitory Control,2
+ZhengyanShi/StepGame_annotation,stepgame_83547594,Language,2
+ZhengyanShi/StepGame_annotation,stepgame_83547594,Mental Simulation,2
+ZhengyanShi/StepGame_annotation,stepgame_83547594,Metacognition,3
+ZhengyanShi/StepGame_annotation,stepgame_83547594,Object permanence,0
+ZhengyanShi/StepGame_annotation,stepgame_83547594,Perception and Pattern Recognition,3
+ZhengyanShi/StepGame_annotation,stepgame_83547594,Planning,1
+ZhengyanShi/StepGame_annotation,stepgame_83547594,Procedural Memory,2
+ZhengyanShi/StepGame_annotation,stepgame_83547594,Prospective Memory,0
+ZhengyanShi/StepGame_annotation,stepgame_83547594,Semantic Memory,2
+ZhengyanShi/StepGame_annotation,stepgame_83547594,Spatial reasoning and navigation,3
+ZhengyanShi/StepGame_annotation,stepgame_83547594,Theory of Mind,0
+ZhengyanShi/StepGame_annotation,stepgame_83547594,Working Memory,3
+ZhengyanShi/StepGame_annotation,stepgame_83547594,ambiguity,5
+ZhengyanShi/StepGame_annotation,stepgame_83547594,factuality,5
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,Causal Reasoning,0
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,Cognitive Flexibility,3
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,Emotion Perception & Empathy (EPE),0
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,Episodic/Episodic-Like Memory,0
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,Executive Function (EF),3
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,Functional perception,3
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,Inhibitory Control,3
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,Language,3
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,Mental Simulation,1
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,Metacognition,4
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,Object permanence,0
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,Perception and Pattern Recognition,3
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,Planning,3
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,Procedural Memory,3
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,Prospective Memory,0
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,Semantic Memory,2
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,Spatial reasoning and navigation,3
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,Theory of Mind,0
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,Working Memory,3
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,ambiguity,4
+ZhengyanShi/StepGame_annotation,stepgame_d412d035,factuality,2
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,Causal Reasoning,0
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,Cognitive Flexibility,3
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,Emotion Perception & Empathy (EPE),0
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,Episodic/Episodic-Like Memory,0
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,Executive Function (EF),3
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,Functional perception,2
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,Inhibitory Control,3
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,Language,2
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,Mental Simulation,2
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,Metacognition,3
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,Object permanence,0
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,Perception and Pattern Recognition,3
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,Planning,1
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,Procedural Memory,3
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,Prospective Memory,2
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,Semantic Memory,1
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,Spatial reasoning and navigation,3
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,Theory of Mind,0
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,Working Memory,4
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,ambiguity,4
+ZhengyanShi/StepGame_annotation,stepgame_ee3c9ba5,factuality,5

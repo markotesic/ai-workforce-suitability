@@ -8,7 +8,7 @@ known_unknowns_annotation,10,Functional perception,0
 known_unknowns_annotation,10,Inhibitory Control,1
 known_unknowns_annotation,10,Language,1
 known_unknowns_annotation,10,Mental Simulation,0
-known_unknowns_annotation,10,Metacognition,2
+known_unknowns_annotation,10,Metacognition,1
 known_unknowns_annotation,10,Object permanence,0
 known_unknowns_annotation,10,Perception and Pattern Recognition,0
 known_unknowns_annotation,10,Planning,0
@@ -18,15 +18,15 @@ known_unknowns_annotation,10,Semantic Memory,1
 known_unknowns_annotation,10,Spatial reasoning and navigation,0
 known_unknowns_annotation,10,Theory of Mind,0
 known_unknowns_annotation,10,Working Memory,0
-known_unknowns_annotation,10,ambiguity,4
+known_unknowns_annotation,10,ambiguity,5
 known_unknowns_annotation,10,factuality,5
 known_unknowns_annotation,12,Causal Reasoning,0
 known_unknowns_annotation,12,Cognitive Flexibility,0
 known_unknowns_annotation,12,Emotion Perception & Empathy (EPE),0
 known_unknowns_annotation,12,Episodic/Episodic-Like Memory,0
-known_unknowns_annotation,12,Executive Function (EF),0
+known_unknowns_annotation,12,Executive Function (EF),1
 known_unknowns_annotation,12,Functional perception,0
-known_unknowns_annotation,12,Inhibitory Control,1
+known_unknowns_annotation,12,Inhibitory Control,0
 known_unknowns_annotation,12,Language,1
 known_unknowns_annotation,12,Mental Simulation,0
 known_unknowns_annotation,12,Metacognition,2
@@ -39,7 +39,7 @@ known_unknowns_annotation,12,Semantic Memory,0
 known_unknowns_annotation,12,Spatial reasoning and navigation,0
 known_unknowns_annotation,12,Theory of Mind,0
 known_unknowns_annotation,12,Working Memory,0
-known_unknowns_annotation,12,ambiguity,4
+known_unknowns_annotation,12,ambiguity,3
 known_unknowns_annotation,12,factuality,5
 known_unknowns_annotation,18,Causal Reasoning,0
 known_unknowns_annotation,18,Cognitive Flexibility,0
@@ -47,7 +47,7 @@ known_unknowns_annotation,18,Emotion Perception & Empathy (EPE),0
 known_unknowns_annotation,18,Episodic/Episodic-Like Memory,0
 known_unknowns_annotation,18,Executive Function (EF),0
 known_unknowns_annotation,18,Functional perception,0
-known_unknowns_annotation,18,Inhibitory Control,1
+known_unknowns_annotation,18,Inhibitory Control,0
 known_unknowns_annotation,18,Language,1
 known_unknowns_annotation,18,Mental Simulation,0
 known_unknowns_annotation,18,Metacognition,1
@@ -60,7 +60,7 @@ known_unknowns_annotation,18,Semantic Memory,1
 known_unknowns_annotation,18,Spatial reasoning and navigation,0
 known_unknowns_annotation,18,Theory of Mind,0
 known_unknowns_annotation,18,Working Memory,0
-known_unknowns_annotation,18,ambiguity,4
+known_unknowns_annotation,18,ambiguity,5
 known_unknowns_annotation,18,factuality,5
 known_unknowns_annotation,21,Causal Reasoning,0
 known_unknowns_annotation,21,Cognitive Flexibility,0
@@ -73,14 +73,14 @@ known_unknowns_annotation,21,Language,1
 known_unknowns_annotation,21,Mental Simulation,0
 known_unknowns_annotation,21,Metacognition,1
 known_unknowns_annotation,21,Object permanence,0
-known_unknowns_annotation,21,Perception and Pattern Recognition,0
+known_unknowns_annotation,21,Perception and Pattern Recognition,1
 known_unknowns_annotation,21,Planning,0
 known_unknowns_annotation,21,Procedural Memory,0
 known_unknowns_annotation,21,Prospective Memory,0
 known_unknowns_annotation,21,Semantic Memory,2
 known_unknowns_annotation,21,Spatial reasoning and navigation,0
 known_unknowns_annotation,21,Theory of Mind,0
-known_unknowns_annotation,21,Working Memory,0
+known_unknowns_annotation,21,Working Memory,2
 known_unknowns_annotation,21,ambiguity,5
 known_unknowns_annotation,21,factuality,5
 known_unknowns_annotation,23,Causal Reasoning,0
@@ -92,7 +92,7 @@ known_unknowns_annotation,23,Functional perception,0
 known_unknowns_annotation,23,Inhibitory Control,0
 known_unknowns_annotation,23,Language,1
 known_unknowns_annotation,23,Mental Simulation,0
-known_unknowns_annotation,23,Metacognition,1
+known_unknowns_annotation,23,Metacognition,0
 known_unknowns_annotation,23,Object permanence,0
 known_unknowns_annotation,23,Perception and Pattern Recognition,0
 known_unknowns_annotation,23,Planning,0
@@ -108,14 +108,14 @@ known_unknowns_annotation,28,Causal Reasoning,0
 known_unknowns_annotation,28,Cognitive Flexibility,0
 known_unknowns_annotation,28,Emotion Perception & Empathy (EPE),0
 known_unknowns_annotation,28,Episodic/Episodic-Like Memory,0
-known_unknowns_annotation,28,Executive Function (EF),0
+known_unknowns_annotation,28,Executive Function (EF),1
 known_unknowns_annotation,28,Functional perception,0
-known_unknowns_annotation,28,Inhibitory Control,1
+known_unknowns_annotation,28,Inhibitory Control,0
 known_unknowns_annotation,28,Language,1
 known_unknowns_annotation,28,Mental Simulation,0
-known_unknowns_annotation,28,Metacognition,2
+known_unknowns_annotation,28,Metacognition,1
 known_unknowns_annotation,28,Object permanence,0
-known_unknowns_annotation,28,Perception and Pattern Recognition,0
+known_unknowns_annotation,28,Perception and Pattern Recognition,1
 known_unknowns_annotation,28,Planning,0
 known_unknowns_annotation,28,Procedural Memory,0
 known_unknowns_annotation,28,Prospective Memory,0
@@ -129,12 +129,12 @@ known_unknowns_annotation,29,Causal Reasoning,0
 known_unknowns_annotation,29,Cognitive Flexibility,0
 known_unknowns_annotation,29,Emotion Perception & Empathy (EPE),0
 known_unknowns_annotation,29,Episodic/Episodic-Like Memory,0
-known_unknowns_annotation,29,Executive Function (EF),1
+known_unknowns_annotation,29,Executive Function (EF),0
 known_unknowns_annotation,29,Functional perception,0
 known_unknowns_annotation,29,Inhibitory Control,0
 known_unknowns_annotation,29,Language,1
 known_unknowns_annotation,29,Mental Simulation,0
-known_unknowns_annotation,29,Metacognition,0
+known_unknowns_annotation,29,Metacognition,1
 known_unknowns_annotation,29,Object permanence,0
 known_unknowns_annotation,29,Perception and Pattern Recognition,0
 known_unknowns_annotation,29,Planning,0
@@ -152,10 +152,10 @@ known_unknowns_annotation,33,Emotion Perception & Empathy (EPE),0
 known_unknowns_annotation,33,Episodic/Episodic-Like Memory,0
 known_unknowns_annotation,33,Executive Function (EF),1
 known_unknowns_annotation,33,Functional perception,0
-known_unknowns_annotation,33,Inhibitory Control,1
+known_unknowns_annotation,33,Inhibitory Control,0
 known_unknowns_annotation,33,Language,1
 known_unknowns_annotation,33,Mental Simulation,0
-known_unknowns_annotation,33,Metacognition,1
+known_unknowns_annotation,33,Metacognition,0
 known_unknowns_annotation,33,Object permanence,0
 known_unknowns_annotation,33,Perception and Pattern Recognition,0
 known_unknowns_annotation,33,Planning,0
@@ -164,19 +164,19 @@ known_unknowns_annotation,33,Prospective Memory,0
 known_unknowns_annotation,33,Semantic Memory,2
 known_unknowns_annotation,33,Spatial reasoning and navigation,0
 known_unknowns_annotation,33,Theory of Mind,0
-known_unknowns_annotation,33,Working Memory,2
-known_unknowns_annotation,33,ambiguity,5
+known_unknowns_annotation,33,Working Memory,0
+known_unknowns_annotation,33,ambiguity,4
 known_unknowns_annotation,33,factuality,5
 known_unknowns_annotation,3,Causal Reasoning,0
 known_unknowns_annotation,3,Cognitive Flexibility,0
 known_unknowns_annotation,3,Emotion Perception & Empathy (EPE),0
 known_unknowns_annotation,3,Episodic/Episodic-Like Memory,0
-known_unknowns_annotation,3,Executive Function (EF),1
+known_unknowns_annotation,3,Executive Function (EF),0
 known_unknowns_annotation,3,Functional perception,0
 known_unknowns_annotation,3,Inhibitory Control,1
 known_unknowns_annotation,3,Language,1
 known_unknowns_annotation,3,Mental Simulation,0
-known_unknowns_annotation,3,Metacognition,1
+known_unknowns_annotation,3,Metacognition,0
 known_unknowns_annotation,3,Object permanence,0
 known_unknowns_annotation,3,Perception and Pattern Recognition,0
 known_unknowns_annotation,3,Planning,0
@@ -187,23 +187,23 @@ known_unknowns_annotation,3,Spatial reasoning and navigation,0
 known_unknowns_annotation,3,Theory of Mind,2
 known_unknowns_annotation,3,Working Memory,2
 known_unknowns_annotation,3,ambiguity,3
-known_unknowns_annotation,3,factuality,2
+known_unknowns_annotation,3,factuality,1
 known_unknowns_annotation,9,Causal Reasoning,0
 known_unknowns_annotation,9,Cognitive Flexibility,0
 known_unknowns_annotation,9,Emotion Perception & Empathy (EPE),0
 known_unknowns_annotation,9,Episodic/Episodic-Like Memory,0
-known_unknowns_annotation,9,Executive Function (EF),0
+known_unknowns_annotation,9,Executive Function (EF),1
 known_unknowns_annotation,9,Functional perception,0
 known_unknowns_annotation,9,Inhibitory Control,1
 known_unknowns_annotation,9,Language,1
 known_unknowns_annotation,9,Mental Simulation,0
 known_unknowns_annotation,9,Metacognition,1
 known_unknowns_annotation,9,Object permanence,0
-known_unknowns_annotation,9,Perception and Pattern Recognition,0
+known_unknowns_annotation,9,Perception and Pattern Recognition,1
 known_unknowns_annotation,9,Planning,0
 known_unknowns_annotation,9,Procedural Memory,0
 known_unknowns_annotation,9,Prospective Memory,0
-known_unknowns_annotation,9,Semantic Memory,1
+known_unknowns_annotation,9,Semantic Memory,2
 known_unknowns_annotation,9,Spatial reasoning and navigation,0
 known_unknowns_annotation,9,Theory of Mind,0
 known_unknowns_annotation,9,Working Memory,0

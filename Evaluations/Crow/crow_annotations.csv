@@ -1,8 +1,8 @@
 dataset name,sample id,dimension,score
-Crow_annotation,10689,Causal Reasoning,1
+Crow_annotation,10689,Causal Reasoning,0
 Crow_annotation,10689,Cognitive Flexibility,0
-Crow_annotation,10689,Emotion Perception & Empathy (EPE),0
-Crow_annotation,10689,Episodic/Episodic-Like Memory,0
+Crow_annotation,10689,Emotion Perception & Empathy (EPE),1
+Crow_annotation,10689,Episodic/Episodic-Like Memory,1
 Crow_annotation,10689,Executive Function (EF),1
 Crow_annotation,10689,Functional perception,0
 Crow_annotation,10689,Inhibitory Control,0
@@ -10,49 +10,49 @@ Crow_annotation,10689,Language,1
 Crow_annotation,10689,Mental Simulation,1
 Crow_annotation,10689,Metacognition,1
 Crow_annotation,10689,Object permanence,0
-Crow_annotation,10689,Perception and Pattern Recognition,3
+Crow_annotation,10689,Perception and Pattern Recognition,2
 Crow_annotation,10689,Planning,0
 Crow_annotation,10689,Procedural Memory,0
 Crow_annotation,10689,Prospective Memory,0
-Crow_annotation,10689,Semantic Memory,1
+Crow_annotation,10689,Semantic Memory,0
 Crow_annotation,10689,Spatial reasoning and navigation,0
-Crow_annotation,10689,Theory of Mind,3
-Crow_annotation,10689,Working Memory,1
-Crow_annotation,10689,ambiguity,4
+Crow_annotation,10689,Theory of Mind,2
+Crow_annotation,10689,Working Memory,2
+Crow_annotation,10689,ambiguity,5
 Crow_annotation,10689,factuality,1
 Crow_annotation,11286,Causal Reasoning,0
 Crow_annotation,11286,Cognitive Flexibility,0
 Crow_annotation,11286,Emotion Perception & Empathy (EPE),0
 Crow_annotation,11286,Episodic/Episodic-Like Memory,0
 Crow_annotation,11286,Executive Function (EF),1
-Crow_annotation,11286,Functional perception,0
+Crow_annotation,11286,Functional perception,1
 Crow_annotation,11286,Inhibitory Control,1
 Crow_annotation,11286,Language,2
 Crow_annotation,11286,Mental Simulation,0
-Crow_annotation,11286,Metacognition,1
+Crow_annotation,11286,Metacognition,2
 Crow_annotation,11286,Object permanence,0
 Crow_annotation,11286,Perception and Pattern Recognition,1
 Crow_annotation,11286,Planning,0
 Crow_annotation,11286,Procedural Memory,0
 Crow_annotation,11286,Prospective Memory,0
-Crow_annotation,11286,Semantic Memory,1
+Crow_annotation,11286,Semantic Memory,2
 Crow_annotation,11286,Spatial reasoning and navigation,0
-Crow_annotation,11286,Theory of Mind,1
+Crow_annotation,11286,Theory of Mind,2
 Crow_annotation,11286,Working Memory,2
 Crow_annotation,11286,ambiguity,5
 Crow_annotation,11286,factuality,3
-Crow_annotation,12070,Causal Reasoning,0
-Crow_annotation,12070,Cognitive Flexibility,1
+Crow_annotation,12070,Causal Reasoning,1
+Crow_annotation,12070,Cognitive Flexibility,0
 Crow_annotation,12070,Emotion Perception & Empathy (EPE),1
 Crow_annotation,12070,Episodic/Episodic-Like Memory,0
-Crow_annotation,12070,Executive Function (EF),2
+Crow_annotation,12070,Executive Function (EF),1
 Crow_annotation,12070,Functional perception,1
-Crow_annotation,12070,Inhibitory Control,1
-Crow_annotation,12070,Language,1
-Crow_annotation,12070,Mental Simulation,1
+Crow_annotation,12070,Inhibitory Control,0
+Crow_annotation,12070,Language,2
+Crow_annotation,12070,Mental Simulation,0
 Crow_annotation,12070,Metacognition,1
 Crow_annotation,12070,Object permanence,0
-Crow_annotation,12070,Perception and Pattern Recognition,1
+Crow_annotation,12070,Perception and Pattern Recognition,2
 Crow_annotation,12070,Planning,1
 Crow_annotation,12070,Procedural Memory,0
 Crow_annotation,12070,Prospective Memory,0
@@ -61,30 +61,30 @@ Crow_annotation,12070,Spatial reasoning and navigation,0
 Crow_annotation,12070,Theory of Mind,2
 Crow_annotation,12070,Working Memory,2
 Crow_annotation,12070,ambiguity,5
-Crow_annotation,12070,factuality,3
+Crow_annotation,12070,factuality,4
 Crow_annotation,12111,Causal Reasoning,1
 Crow_annotation,12111,Cognitive Flexibility,0
 Crow_annotation,12111,Emotion Perception & Empathy (EPE),1
-Crow_annotation,12111,Episodic/Episodic-Like Memory,0
+Crow_annotation,12111,Episodic/Episodic-Like Memory,2
 Crow_annotation,12111,Executive Function (EF),1
-Crow_annotation,12111,Functional perception,0
+Crow_annotation,12111,Functional perception,1
 Crow_annotation,12111,Inhibitory Control,1
-Crow_annotation,12111,Language,1
+Crow_annotation,12111,Language,2
 Crow_annotation,12111,Mental Simulation,0
 Crow_annotation,12111,Metacognition,1
 Crow_annotation,12111,Object permanence,0
-Crow_annotation,12111,Perception and Pattern Recognition,1
+Crow_annotation,12111,Perception and Pattern Recognition,2
 Crow_annotation,12111,Planning,0
 Crow_annotation,12111,Procedural Memory,0
-Crow_annotation,12111,Prospective Memory,0
+Crow_annotation,12111,Prospective Memory,1
 Crow_annotation,12111,Semantic Memory,2
 Crow_annotation,12111,Spatial reasoning and navigation,0
-Crow_annotation,12111,Theory of Mind,1
+Crow_annotation,12111,Theory of Mind,2
 Crow_annotation,12111,Working Memory,2
-Crow_annotation,12111,ambiguity,4
-Crow_annotation,12111,factuality,2
+Crow_annotation,12111,ambiguity,5
+Crow_annotation,12111,factuality,3
 Crow_annotation,1454,Causal Reasoning,0
-Crow_annotation,1454,Cognitive Flexibility,0
+Crow_annotation,1454,Cognitive Flexibility,1
 Crow_annotation,1454,Emotion Perception & Empathy (EPE),0
 Crow_annotation,1454,Episodic/Episodic-Like Memory,0
 Crow_annotation,1454,Executive Function (EF),1
@@ -92,49 +92,49 @@ Crow_annotation,1454,Functional perception,1
 Crow_annotation,1454,Inhibitory Control,1
 Crow_annotation,1454,Language,1
 Crow_annotation,1454,Mental Simulation,0
-Crow_annotation,1454,Metacognition,1
+Crow_annotation,1454,Metacognition,0
 Crow_annotation,1454,Object permanence,0
 Crow_annotation,1454,Perception and Pattern Recognition,1
 Crow_annotation,1454,Planning,0
-Crow_annotation,1454,Procedural Memory,1
+Crow_annotation,1454,Procedural Memory,0
 Crow_annotation,1454,Prospective Memory,0
 Crow_annotation,1454,Semantic Memory,1
 Crow_annotation,1454,Spatial reasoning and navigation,0
-Crow_annotation,1454,Theory of Mind,1
+Crow_annotation,1454,Theory of Mind,0
 Crow_annotation,1454,Working Memory,0
 Crow_annotation,1454,ambiguity,2
 Crow_annotation,1454,factuality,1
 Crow_annotation,5691,Causal Reasoning,1
-Crow_annotation,5691,Cognitive Flexibility,2
-Crow_annotation,5691,Emotion Perception & Empathy (EPE),0
+Crow_annotation,5691,Cognitive Flexibility,0
+Crow_annotation,5691,Emotion Perception & Empathy (EPE),1
 Crow_annotation,5691,Episodic/Episodic-Like Memory,0
 Crow_annotation,5691,Executive Function (EF),1
-Crow_annotation,5691,Functional perception,3
-Crow_annotation,5691,Inhibitory Control,2
-Crow_annotation,5691,Language,1
-Crow_annotation,5691,Mental Simulation,0
-Crow_annotation,5691,Metacognition,4
+Crow_annotation,5691,Functional perception,0
+Crow_annotation,5691,Inhibitory Control,1
+Crow_annotation,5691,Language,2
+Crow_annotation,5691,Mental Simulation,2
+Crow_annotation,5691,Metacognition,3
 Crow_annotation,5691,Object permanence,0
 Crow_annotation,5691,Perception and Pattern Recognition,0
 Crow_annotation,5691,Planning,0
 Crow_annotation,5691,Procedural Memory,0
 Crow_annotation,5691,Prospective Memory,0
-Crow_annotation,5691,Semantic Memory,1
+Crow_annotation,5691,Semantic Memory,3
 Crow_annotation,5691,Spatial reasoning and navigation,0
 Crow_annotation,5691,Theory of Mind,2
-Crow_annotation,5691,Working Memory,1
+Crow_annotation,5691,Working Memory,0
 Crow_annotation,5691,ambiguity,4
 Crow_annotation,5691,factuality,1
 Crow_annotation,5983,Causal Reasoning,1
 Crow_annotation,5983,Cognitive Flexibility,1
-Crow_annotation,5983,Emotion Perception & Empathy (EPE),0
+Crow_annotation,5983,Emotion Perception & Empathy (EPE),1
 Crow_annotation,5983,Episodic/Episodic-Like Memory,0
 Crow_annotation,5983,Executive Function (EF),3
 Crow_annotation,5983,Functional perception,1
-Crow_annotation,5983,Inhibitory Control,0
+Crow_annotation,5983,Inhibitory Control,1
 Crow_annotation,5983,Language,1
 Crow_annotation,5983,Mental Simulation,1
-Crow_annotation,5983,Metacognition,2
+Crow_annotation,5983,Metacognition,3
 Crow_annotation,5983,Object permanence,0
 Crow_annotation,5983,Perception and Pattern Recognition,1
 Crow_annotation,5983,Planning,0
@@ -142,28 +142,28 @@ Crow_annotation,5983,Procedural Memory,0
 Crow_annotation,5983,Prospective Memory,0
 Crow_annotation,5983,Semantic Memory,1
 Crow_annotation,5983,Spatial reasoning and navigation,0
-Crow_annotation,5983,Theory of Mind,2
-Crow_annotation,5983,Working Memory,2
+Crow_annotation,5983,Theory of Mind,1
+Crow_annotation,5983,Working Memory,1
 Crow_annotation,5983,ambiguity,3
 Crow_annotation,5983,factuality,1
 Crow_annotation,8365,Causal Reasoning,1
 Crow_annotation,8365,Cognitive Flexibility,0
 Crow_annotation,8365,Emotion Perception & Empathy (EPE),0
 Crow_annotation,8365,Episodic/Episodic-Like Memory,0
-Crow_annotation,8365,Executive Function (EF),1
+Crow_annotation,8365,Executive Function (EF),0
 Crow_annotation,8365,Functional perception,1
-Crow_annotation,8365,Inhibitory Control,1
+Crow_annotation,8365,Inhibitory Control,2
 Crow_annotation,8365,Language,1
-Crow_annotation,8365,Mental Simulation,1
-Crow_annotation,8365,Metacognition,1
+Crow_annotation,8365,Mental Simulation,0
+Crow_annotation,8365,Metacognition,0
 Crow_annotation,8365,Object permanence,0
 Crow_annotation,8365,Perception and Pattern Recognition,1
 Crow_annotation,8365,Planning,0
-Crow_annotation,8365,Procedural Memory,0
+Crow_annotation,8365,Procedural Memory,1
 Crow_annotation,8365,Prospective Memory,0
 Crow_annotation,8365,Semantic Memory,1
 Crow_annotation,8365,Spatial reasoning and navigation,1
-Crow_annotation,8365,Theory of Mind,2
+Crow_annotation,8365,Theory of Mind,1
 Crow_annotation,8365,Working Memory,0
 Crow_annotation,8365,ambiguity,3
 Crow_annotation,8365,factuality,5
@@ -171,14 +171,14 @@ Crow_annotation,8787,Causal Reasoning,1
 Crow_annotation,8787,Cognitive Flexibility,0
 Crow_annotation,8787,Emotion Perception & Empathy (EPE),0
 Crow_annotation,8787,Episodic/Episodic-Like Memory,0
-Crow_annotation,8787,Executive Function (EF),1
+Crow_annotation,8787,Executive Function (EF),2
 Crow_annotation,8787,Functional perception,1
-Crow_annotation,8787,Inhibitory Control,4
+Crow_annotation,8787,Inhibitory Control,1
 Crow_annotation,8787,Language,1
 Crow_annotation,8787,Mental Simulation,1
 Crow_annotation,8787,Metacognition,1
 Crow_annotation,8787,Object permanence,0
-Crow_annotation,8787,Perception and Pattern Recognition,1
+Crow_annotation,8787,Perception and Pattern Recognition,0
 Crow_annotation,8787,Planning,0
 Crow_annotation,8787,Procedural Memory,1
 Crow_annotation,8787,Prospective Memory,0
@@ -203,9 +203,9 @@ Crow_annotation,9253,Perception and Pattern Recognition,1
 Crow_annotation,9253,Planning,0
 Crow_annotation,9253,Procedural Memory,0
 Crow_annotation,9253,Prospective Memory,0
-Crow_annotation,9253,Semantic Memory,1
+Crow_annotation,9253,Semantic Memory,2
 Crow_annotation,9253,Spatial reasoning and navigation,0
 Crow_annotation,9253,Theory of Mind,0
-Crow_annotation,9253,Working Memory,0
+Crow_annotation,9253,Working Memory,2
 Crow_annotation,9253,ambiguity,2
-Crow_annotation,9253,factuality,4
+Crow_annotation,9253,factuality,5

@@ -6,38 +6,38 @@ Fantom_annotation,1231,Episodic/Episodic-Like Memory,1
 Fantom_annotation,1231,Executive Function (EF),1
 Fantom_annotation,1231,Functional perception,1
 Fantom_annotation,1231,Inhibitory Control,1
-Fantom_annotation,1231,Language,1
+Fantom_annotation,1231,Language,2
 Fantom_annotation,1231,Mental Simulation,0
 Fantom_annotation,1231,Metacognition,1
 Fantom_annotation,1231,Object permanence,0
 Fantom_annotation,1231,Perception and Pattern Recognition,1
 Fantom_annotation,1231,Planning,0
-Fantom_annotation,1231,Procedural Memory,1
-Fantom_annotation,1231,Prospective Memory,1
-Fantom_annotation,1231,Semantic Memory,0
+Fantom_annotation,1231,Procedural Memory,0
+Fantom_annotation,1231,Prospective Memory,0
+Fantom_annotation,1231,Semantic Memory,1
 Fantom_annotation,1231,Spatial reasoning and navigation,0
 Fantom_annotation,1231,Theory of Mind,2
 Fantom_annotation,1231,Working Memory,2
-Fantom_annotation,1231,ambiguity,5
+Fantom_annotation,1231,ambiguity,4
 Fantom_annotation,1231,factuality,5
-Fantom_annotation,1346,Causal Reasoning,1
-Fantom_annotation,1346,Cognitive Flexibility,2
-Fantom_annotation,1346,Emotion Perception & Empathy (EPE),2
-Fantom_annotation,1346,Episodic/Episodic-Like Memory,1
-Fantom_annotation,1346,Executive Function (EF),1
+Fantom_annotation,1346,Causal Reasoning,0
+Fantom_annotation,1346,Cognitive Flexibility,0
+Fantom_annotation,1346,Emotion Perception & Empathy (EPE),0
+Fantom_annotation,1346,Episodic/Episodic-Like Memory,2
+Fantom_annotation,1346,Executive Function (EF),2
 Fantom_annotation,1346,Functional perception,0
 Fantom_annotation,1346,Inhibitory Control,2
-Fantom_annotation,1346,Language,2
+Fantom_annotation,1346,Language,1
 Fantom_annotation,1346,Mental Simulation,0
 Fantom_annotation,1346,Metacognition,1
 Fantom_annotation,1346,Object permanence,0
 Fantom_annotation,1346,Perception and Pattern Recognition,1
 Fantom_annotation,1346,Planning,0
 Fantom_annotation,1346,Procedural Memory,0
-Fantom_annotation,1346,Prospective Memory,0
+Fantom_annotation,1346,Prospective Memory,1
 Fantom_annotation,1346,Semantic Memory,1
 Fantom_annotation,1346,Spatial reasoning and navigation,0
-Fantom_annotation,1346,Theory of Mind,2
+Fantom_annotation,1346,Theory of Mind,1
 Fantom_annotation,1346,Working Memory,2
 Fantom_annotation,1346,ambiguity,5
 Fantom_annotation,1346,factuality,5
@@ -45,38 +45,38 @@ Fantom_annotation,1772,Causal Reasoning,1
 Fantom_annotation,1772,Cognitive Flexibility,0
 Fantom_annotation,1772,Emotion Perception & Empathy (EPE),0
 Fantom_annotation,1772,Episodic/Episodic-Like Memory,1
-Fantom_annotation,1772,Executive Function (EF),1
-Fantom_annotation,1772,Functional perception,2
+Fantom_annotation,1772,Executive Function (EF),2
+Fantom_annotation,1772,Functional perception,1
 Fantom_annotation,1772,Inhibitory Control,2
-Fantom_annotation,1772,Language,2
+Fantom_annotation,1772,Language,1
 Fantom_annotation,1772,Mental Simulation,0
-Fantom_annotation,1772,Metacognition,1
-Fantom_annotation,1772,Object permanence,1
-Fantom_annotation,1772,Perception and Pattern Recognition,2
+Fantom_annotation,1772,Metacognition,2
+Fantom_annotation,1772,Object permanence,0
+Fantom_annotation,1772,Perception and Pattern Recognition,1
 Fantom_annotation,1772,Planning,0
 Fantom_annotation,1772,Procedural Memory,0
 Fantom_annotation,1772,Prospective Memory,1
 Fantom_annotation,1772,Semantic Memory,1
 Fantom_annotation,1772,Spatial reasoning and navigation,0
 Fantom_annotation,1772,Theory of Mind,2
-Fantom_annotation,1772,Working Memory,3
+Fantom_annotation,1772,Working Memory,2
 Fantom_annotation,1772,ambiguity,4
-Fantom_annotation,1772,factuality,3
+Fantom_annotation,1772,factuality,5
 Fantom_annotation,1795,Causal Reasoning,1
 Fantom_annotation,1795,Cognitive Flexibility,2
-Fantom_annotation,1795,Emotion Perception & Empathy (EPE),2
-Fantom_annotation,1795,Episodic/Episodic-Like Memory,1
-Fantom_annotation,1795,Executive Function (EF),3
-Fantom_annotation,1795,Functional perception,1
+Fantom_annotation,1795,Emotion Perception & Empathy (EPE),1
+Fantom_annotation,1795,Episodic/Episodic-Like Memory,2
+Fantom_annotation,1795,Executive Function (EF),2
+Fantom_annotation,1795,Functional perception,2
 Fantom_annotation,1795,Inhibitory Control,2
 Fantom_annotation,1795,Language,2
 Fantom_annotation,1795,Mental Simulation,0
-Fantom_annotation,1795,Metacognition,1
+Fantom_annotation,1795,Metacognition,2
 Fantom_annotation,1795,Object permanence,0
 Fantom_annotation,1795,Perception and Pattern Recognition,1
-Fantom_annotation,1795,Planning,0
+Fantom_annotation,1795,Planning,1
 Fantom_annotation,1795,Procedural Memory,0
-Fantom_annotation,1795,Prospective Memory,3
+Fantom_annotation,1795,Prospective Memory,2
 Fantom_annotation,1795,Semantic Memory,1
 Fantom_annotation,1795,Spatial reasoning and navigation,0
 Fantom_annotation,1795,Theory of Mind,3
@@ -84,91 +84,91 @@ Fantom_annotation,1795,Working Memory,2
 Fantom_annotation,1795,ambiguity,5
 Fantom_annotation,1795,factuality,5
 Fantom_annotation,2145,Causal Reasoning,1
-Fantom_annotation,2145,Cognitive Flexibility,1
+Fantom_annotation,2145,Cognitive Flexibility,2
 Fantom_annotation,2145,Emotion Perception & Empathy (EPE),0
 Fantom_annotation,2145,Episodic/Episodic-Like Memory,1
 Fantom_annotation,2145,Executive Function (EF),1
 Fantom_annotation,2145,Functional perception,1
-Fantom_annotation,2145,Inhibitory Control,1
+Fantom_annotation,2145,Inhibitory Control,0
 Fantom_annotation,2145,Language,2
-Fantom_annotation,2145,Mental Simulation,1
-Fantom_annotation,2145,Metacognition,2
-Fantom_annotation,2145,Object permanence,0
+Fantom_annotation,2145,Mental Simulation,0
+Fantom_annotation,2145,Metacognition,1
+Fantom_annotation,2145,Object permanence,1
 Fantom_annotation,2145,Perception and Pattern Recognition,2
-Fantom_annotation,2145,Planning,1
-Fantom_annotation,2145,Procedural Memory,1
+Fantom_annotation,2145,Planning,0
+Fantom_annotation,2145,Procedural Memory,0
 Fantom_annotation,2145,Prospective Memory,2
 Fantom_annotation,2145,Semantic Memory,1
 Fantom_annotation,2145,Spatial reasoning and navigation,0
-Fantom_annotation,2145,Theory of Mind,2
+Fantom_annotation,2145,Theory of Mind,3
 Fantom_annotation,2145,Working Memory,2
-Fantom_annotation,2145,ambiguity,2
-Fantom_annotation,2145,factuality,5
+Fantom_annotation,2145,ambiguity,3
+Fantom_annotation,2145,factuality,2
 Fantom_annotation,2346,Causal Reasoning,1
-Fantom_annotation,2346,Cognitive Flexibility,2
+Fantom_annotation,2346,Cognitive Flexibility,3
 Fantom_annotation,2346,Emotion Perception & Empathy (EPE),0
-Fantom_annotation,2346,Episodic/Episodic-Like Memory,0
-Fantom_annotation,2346,Executive Function (EF),1
+Fantom_annotation,2346,Episodic/Episodic-Like Memory,2
+Fantom_annotation,2346,Executive Function (EF),2
 Fantom_annotation,2346,Functional perception,0
-Fantom_annotation,2346,Inhibitory Control,1
+Fantom_annotation,2346,Inhibitory Control,2
 Fantom_annotation,2346,Language,2
 Fantom_annotation,2346,Mental Simulation,0
-Fantom_annotation,2346,Metacognition,2
+Fantom_annotation,2346,Metacognition,1
 Fantom_annotation,2346,Object permanence,0
-Fantom_annotation,2346,Perception and Pattern Recognition,2
+Fantom_annotation,2346,Perception and Pattern Recognition,1
 Fantom_annotation,2346,Planning,0
-Fantom_annotation,2346,Procedural Memory,2
+Fantom_annotation,2346,Procedural Memory,1
 Fantom_annotation,2346,Prospective Memory,0
-Fantom_annotation,2346,Semantic Memory,2
+Fantom_annotation,2346,Semantic Memory,1
 Fantom_annotation,2346,Spatial reasoning and navigation,0
-Fantom_annotation,2346,Theory of Mind,2
-Fantom_annotation,2346,Working Memory,3
+Fantom_annotation,2346,Theory of Mind,1
+Fantom_annotation,2346,Working Memory,2
 Fantom_annotation,2346,ambiguity,5
-Fantom_annotation,2346,factuality,3
-Fantom_annotation,3288,Causal Reasoning,0
-Fantom_annotation,3288,Cognitive Flexibility,0
+Fantom_annotation,2346,factuality,5
+Fantom_annotation,3288,Causal Reasoning,1
+Fantom_annotation,3288,Cognitive Flexibility,1
 Fantom_annotation,3288,Emotion Perception & Empathy (EPE),0
-Fantom_annotation,3288,Episodic/Episodic-Like Memory,1
-Fantom_annotation,3288,Executive Function (EF),0
+Fantom_annotation,3288,Episodic/Episodic-Like Memory,2
+Fantom_annotation,3288,Executive Function (EF),1
 Fantom_annotation,3288,Functional perception,1
 Fantom_annotation,3288,Inhibitory Control,1
 Fantom_annotation,3288,Language,1
 Fantom_annotation,3288,Mental Simulation,0
-Fantom_annotation,3288,Metacognition,0
+Fantom_annotation,3288,Metacognition,1
 Fantom_annotation,3288,Object permanence,1
 Fantom_annotation,3288,Perception and Pattern Recognition,1
 Fantom_annotation,3288,Planning,0
 Fantom_annotation,3288,Procedural Memory,0
-Fantom_annotation,3288,Prospective Memory,0
-Fantom_annotation,3288,Semantic Memory,1
+Fantom_annotation,3288,Prospective Memory,2
+Fantom_annotation,3288,Semantic Memory,0
 Fantom_annotation,3288,Spatial reasoning and navigation,0
-Fantom_annotation,3288,Theory of Mind,1
-Fantom_annotation,3288,Working Memory,0
-Fantom_annotation,3288,ambiguity,5
+Fantom_annotation,3288,Theory of Mind,2
+Fantom_annotation,3288,Working Memory,2
+Fantom_annotation,3288,ambiguity,4
 Fantom_annotation,3288,factuality,5
-Fantom_annotation,3645,Causal Reasoning,0
-Fantom_annotation,3645,Cognitive Flexibility,0
-Fantom_annotation,3645,Emotion Perception & Empathy (EPE),2
+Fantom_annotation,3645,Causal Reasoning,1
+Fantom_annotation,3645,Cognitive Flexibility,1
+Fantom_annotation,3645,Emotion Perception & Empathy (EPE),1
 Fantom_annotation,3645,Episodic/Episodic-Like Memory,2
-Fantom_annotation,3645,Executive Function (EF),2
-Fantom_annotation,3645,Functional perception,0
-Fantom_annotation,3645,Inhibitory Control,3
+Fantom_annotation,3645,Executive Function (EF),1
+Fantom_annotation,3645,Functional perception,1
+Fantom_annotation,3645,Inhibitory Control,2
 Fantom_annotation,3645,Language,2
 Fantom_annotation,3645,Mental Simulation,0
-Fantom_annotation,3645,Metacognition,1
-Fantom_annotation,3645,Object permanence,1
-Fantom_annotation,3645,Perception and Pattern Recognition,2
-Fantom_annotation,3645,Planning,1
+Fantom_annotation,3645,Metacognition,2
+Fantom_annotation,3645,Object permanence,0
+Fantom_annotation,3645,Perception and Pattern Recognition,1
+Fantom_annotation,3645,Planning,0
 Fantom_annotation,3645,Procedural Memory,0
 Fantom_annotation,3645,Prospective Memory,0
-Fantom_annotation,3645,Semantic Memory,2
+Fantom_annotation,3645,Semantic Memory,1
 Fantom_annotation,3645,Spatial reasoning and navigation,0
 Fantom_annotation,3645,Theory of Mind,2
 Fantom_annotation,3645,Working Memory,2
 Fantom_annotation,3645,ambiguity,5
 Fantom_annotation,3645,factuality,5
 Fantom_annotation,3710,Causal Reasoning,1
-Fantom_annotation,3710,Cognitive Flexibility,2
+Fantom_annotation,3710,Cognitive Flexibility,0
 Fantom_annotation,3710,Emotion Perception & Empathy (EPE),2
 Fantom_annotation,3710,Episodic/Episodic-Like Memory,2
 Fantom_annotation,3710,Executive Function (EF),2
@@ -176,36 +176,36 @@ Fantom_annotation,3710,Functional perception,1
 Fantom_annotation,3710,Inhibitory Control,3
 Fantom_annotation,3710,Language,2
 Fantom_annotation,3710,Mental Simulation,0
-Fantom_annotation,3710,Metacognition,3
+Fantom_annotation,3710,Metacognition,2
 Fantom_annotation,3710,Object permanence,0
-Fantom_annotation,3710,Perception and Pattern Recognition,1
+Fantom_annotation,3710,Perception and Pattern Recognition,2
 Fantom_annotation,3710,Planning,0
-Fantom_annotation,3710,Procedural Memory,1
+Fantom_annotation,3710,Procedural Memory,2
 Fantom_annotation,3710,Prospective Memory,0
-Fantom_annotation,3710,Semantic Memory,2
+Fantom_annotation,3710,Semantic Memory,1
 Fantom_annotation,3710,Spatial reasoning and navigation,0
-Fantom_annotation,3710,Theory of Mind,3
+Fantom_annotation,3710,Theory of Mind,2
 Fantom_annotation,3710,Working Memory,3
 Fantom_annotation,3710,ambiguity,5
 Fantom_annotation,3710,factuality,5
 Fantom_annotation,4018,Causal Reasoning,1
 Fantom_annotation,4018,Cognitive Flexibility,2
-Fantom_annotation,4018,Emotion Perception & Empathy (EPE),1
-Fantom_annotation,4018,Episodic/Episodic-Like Memory,2
+Fantom_annotation,4018,Emotion Perception & Empathy (EPE),2
+Fantom_annotation,4018,Episodic/Episodic-Like Memory,1
 Fantom_annotation,4018,Executive Function (EF),2
-Fantom_annotation,4018,Functional perception,1
+Fantom_annotation,4018,Functional perception,0
 Fantom_annotation,4018,Inhibitory Control,2
 Fantom_annotation,4018,Language,2
 Fantom_annotation,4018,Mental Simulation,0
 Fantom_annotation,4018,Metacognition,2
 Fantom_annotation,4018,Object permanence,0
-Fantom_annotation,4018,Perception and Pattern Recognition,3
+Fantom_annotation,4018,Perception and Pattern Recognition,2
 Fantom_annotation,4018,Planning,0
-Fantom_annotation,4018,Procedural Memory,2
+Fantom_annotation,4018,Procedural Memory,0
 Fantom_annotation,4018,Prospective Memory,2
-Fantom_annotation,4018,Semantic Memory,2
+Fantom_annotation,4018,Semantic Memory,1
 Fantom_annotation,4018,Spatial reasoning and navigation,0
-Fantom_annotation,4018,Theory of Mind,1
-Fantom_annotation,4018,Working Memory,2
-Fantom_annotation,4018,ambiguity,4
-Fantom_annotation,4018,factuality,5
+Fantom_annotation,4018,Theory of Mind,2
+Fantom_annotation,4018,Working Memory,3
+Fantom_annotation,4018,ambiguity,5
+Fantom_annotation,4018,factuality,3

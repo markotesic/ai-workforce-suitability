@@ -1,0 +1,211 @@
+dataset name,sample id,dimension,score
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,Causal Reasoning,2
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,Cognitive Flexibility,0
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,Emotion Perception & Empathy (EPE),0
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,Episodic/Episodic-Like Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,Executive Function (EF),3
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,Functional perception,2
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,Inhibitory Control,2
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,Language,2
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,Mental Simulation,0
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,Metacognition,3
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,Object permanence,0
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,Perception and Pattern Recognition,3
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,Planning,1
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,Procedural Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,Prospective Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,Semantic Memory,3
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,Spatial reasoning and navigation,0
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,Theory of Mind,0
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,Working Memory,2
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,ambiguity,5
+maximegmd/MetaMedQA_annotation,metamedqa_0a242a20,factuality,5
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,Causal Reasoning,0
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,Cognitive Flexibility,0
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,Emotion Perception & Empathy (EPE),0
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,Episodic/Episodic-Like Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,Executive Function (EF),3
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,Functional perception,3
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,Inhibitory Control,3
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,Language,3
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,Mental Simulation,0
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,Metacognition,2
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,Object permanence,0
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,Perception and Pattern Recognition,4
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,Planning,0
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,Procedural Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,Prospective Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,Semantic Memory,4
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,Spatial reasoning and navigation,0
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,Theory of Mind,0
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,Working Memory,3
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,ambiguity,3
+maximegmd/MetaMedQA_annotation,metamedqa_2a21d0fd,factuality,4
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,Causal Reasoning,3
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,Cognitive Flexibility,2
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,Emotion Perception & Empathy (EPE),0
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,Episodic/Episodic-Like Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,Executive Function (EF),3
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,Functional perception,3
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,Inhibitory Control,1
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,Language,2
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,Mental Simulation,0
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,Metacognition,3
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,Object permanence,0
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,Perception and Pattern Recognition,3
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,Planning,0
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,Procedural Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,Prospective Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,Semantic Memory,4
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,Spatial reasoning and navigation,0
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,Theory of Mind,2
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,Working Memory,3
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,ambiguity,4
+maximegmd/MetaMedQA_annotation,metamedqa_3ba0c512,factuality,1
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,Causal Reasoning,2
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,Cognitive Flexibility,2
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,Emotion Perception & Empathy (EPE),0
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,Episodic/Episodic-Like Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,Executive Function (EF),3
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,Functional perception,3
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,Inhibitory Control,3
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,Language,1
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,Mental Simulation,0
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,Metacognition,2
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,Object permanence,0
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,Perception and Pattern Recognition,2
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,Planning,0
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,Procedural Memory,2
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,Prospective Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,Semantic Memory,3
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,Spatial reasoning and navigation,0
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,Theory of Mind,0
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,Working Memory,2
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,ambiguity,5
+maximegmd/MetaMedQA_annotation,metamedqa_61a5afd3,factuality,5
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,Causal Reasoning,3
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,Cognitive Flexibility,0
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,Emotion Perception & Empathy (EPE),0
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,Episodic/Episodic-Like Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,Executive Function (EF),3
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,Functional perception,3
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,Inhibitory Control,3
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,Language,1
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,Mental Simulation,0
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,Metacognition,3
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,Object permanence,0
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,Perception and Pattern Recognition,3
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,Planning,0
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,Procedural Memory,3
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,Prospective Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,Semantic Memory,3
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,Spatial reasoning and navigation,0
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,Theory of Mind,0
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,Working Memory,3
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,ambiguity,5
+maximegmd/MetaMedQA_annotation,metamedqa_8567417c,factuality,5
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,Causal Reasoning,1
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,Cognitive Flexibility,3
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,Emotion Perception & Empathy (EPE),2
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,Episodic/Episodic-Like Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,Executive Function (EF),3
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,Functional perception,3
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,Inhibitory Control,3
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,Language,2
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,Mental Simulation,1
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,Metacognition,3
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,Object permanence,1
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,Perception and Pattern Recognition,2
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,Planning,1
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,Procedural Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,Prospective Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,Semantic Memory,3
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,Spatial reasoning and navigation,0
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,Theory of Mind,4
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,Working Memory,3
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,ambiguity,5
+maximegmd/MetaMedQA_annotation,metamedqa_888fce50,factuality,5
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,Causal Reasoning,0
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,Cognitive Flexibility,0
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,Emotion Perception & Empathy (EPE),0
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,Episodic/Episodic-Like Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,Executive Function (EF),1
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,Functional perception,3
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,Inhibitory Control,1
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,Language,1
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,Mental Simulation,0
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,Metacognition,2
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,Object permanence,0
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,Perception and Pattern Recognition,0
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,Planning,0
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,Procedural Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,Prospective Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,Semantic Memory,2
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,Spatial reasoning and navigation,0
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,Theory of Mind,0
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,Working Memory,2
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,ambiguity,1
+maximegmd/MetaMedQA_annotation,metamedqa_959c1e28,factuality,5
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,Causal Reasoning,0
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,Cognitive Flexibility,1
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,Emotion Perception & Empathy (EPE),0
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,Episodic/Episodic-Like Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,Executive Function (EF),2
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,Functional perception,1
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,Inhibitory Control,1
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,Language,1
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,Mental Simulation,0
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,Metacognition,1
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,Object permanence,0
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,Perception and Pattern Recognition,0
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,Planning,0
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,Procedural Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,Prospective Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,Semantic Memory,2
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,Spatial reasoning and navigation,0
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,Theory of Mind,0
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,Working Memory,1
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,ambiguity,1
+maximegmd/MetaMedQA_annotation,metamedqa_afb9c7a4,factuality,5
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,Causal Reasoning,2
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,Cognitive Flexibility,2
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,Emotion Perception & Empathy (EPE),0
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,Episodic/Episodic-Like Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,Executive Function (EF),3
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,Functional perception,3
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,Inhibitory Control,3
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,Language,3
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,Mental Simulation,0
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,Metacognition,2
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,Object permanence,0
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,Perception and Pattern Recognition,3
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,Planning,0
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,Procedural Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,Prospective Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,Semantic Memory,3
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,Spatial reasoning and navigation,0
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,Theory of Mind,0
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,Working Memory,3
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,ambiguity,5
+maximegmd/MetaMedQA_annotation,metamedqa_ee0c3649,factuality,5
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,Causal Reasoning,1
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,Cognitive Flexibility,0
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,Emotion Perception & Empathy (EPE),0
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,Episodic/Episodic-Like Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,Executive Function (EF),2
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,Functional perception,3
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,Inhibitory Control,1
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,Language,2
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,Mental Simulation,0
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,Metacognition,2
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,Object permanence,0
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,Perception and Pattern Recognition,2
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,Planning,0
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,Procedural Memory,1
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,Prospective Memory,0
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,Semantic Memory,4
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,Spatial reasoning and navigation,0
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,Theory of Mind,0
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,Working Memory,3
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,ambiguity,5
+maximegmd/MetaMedQA_annotation,metamedqa_f2922358,factuality,5
