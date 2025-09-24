@@ -97,7 +97,7 @@ def convert_rubrics_to_json(input_dir, output_file="rubric.json"):
 
 def main():
     parser = argparse.ArgumentParser(description='Convert markdown rubric files to JSON format')
-    parser.add_argument('input_dir', help='Directory containing .md files')
+    parser.add_argument('--input_dir', help='Directory containing .md files')
     parser.add_argument('-o', '--output', default='rubric.json', 
                         help='Output JSON filename (default: rubric.json)')
     
