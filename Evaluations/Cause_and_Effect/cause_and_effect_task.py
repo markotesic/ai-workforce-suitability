@@ -44,7 +44,7 @@ def record_to_sample(record: Dict[str, Any], dataset_path: str, id : int = 0) ->
     target = chr(ord('A') + correct_index)
     sample = Sample(
         id=id,
-        input= f"For each example, two events are given. Which event caused the other?: {record["input"]}",
+        input= f"For each example, two events are given. Which event caused the other?: {record['input']}",
         choices=record["target_scores"].keys(),
         target=target,
         )
