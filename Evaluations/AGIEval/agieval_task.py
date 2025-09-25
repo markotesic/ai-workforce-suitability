@@ -1,7 +1,8 @@
 import json
 import os
+import csv
 from pathlib import Path
-from typing import Any, Dict
+from typing import Any, Dict, Set
 from inspect_ai import Task, task, eval
 from inspect_ai.dataset import Dataset, MemoryDataset, Sample
 from inspect_ai.scorer import choice, model_graded_qa
@@ -18,6 +19,22 @@ Answer the following multiple choice question. The last line of your response sh
 
 {choices}
 """.strip()
+
+def get_annotated_sample_ids(annotation_csv_path: str) -> Set[int]:
+    """Extract the set of sample IDs that have been annotated from the CSV file."""
+    annotated_ids = set()
+
+    if not os.path.exists(annotation_csv_path):
+        return annotated_ids
+
+    with open(annotation_csv_path, 'r', newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            sample_id = int(row['sample id'])
+            annotated_ids.add(sample_id)
+
+    return annotated_ids
+
 
 def record_to_sample(record: Dict[str, Any], dataset_path: str, mcq: bool, id : int = 0) -> list[Sample]:
 
@@ -70,6 +87,13 @@ def agieval_mcq_task(
         dataset_dir = os.path.join(Path(__file__).parent, "v1_1")
     dataset = custom_loader(dataset_dir=dataset_dir, mcq=True)
 
+    # Filter dataset to only include annotated samples
+    annotation_csv_path = os.path.join(Path(__file__).parent, "agieval_mcq_annotations.csv")
+    annotated_ids = get_annotated_sample_ids(annotation_csv_path)
+
+    if annotated_ids:
+        dataset = dataset.filter(lambda sample: sample.id in annotated_ids)
+
     return Task(dataset=dataset,
                 scorer=choice(),
                 solver=multiple_choice(cot=True),
@@ -83,8 +107,15 @@ def agieval_freeform_task(
         dataset_dir = os.path.join(Path(__file__).parent, "v1_1")
     dataset = custom_loader(dataset_dir=dataset_dir, mcq=False)
 
+    # Filter dataset to only include annotated samples
+    annotation_csv_path = os.path.join(Path(__file__).parent, "agieval_freeform_annotations.csv")
+    annotated_ids = get_annotated_sample_ids(annotation_csv_path)
+
+    if annotated_ids:
+        dataset = dataset.filter(lambda sample: sample.id in annotated_ids)
+
     return Task(dataset=dataset,
-                scorer=model_graded(),
+                scorer=model_graded_qa(),
                 solver=basic_agent(),
         )
 
@@ -123,12 +154,11 @@ def convert_input_to_string(dataset: Dataset) -> Dataset:
 
     return dataset
 
-if __name__ == "__main__":
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES):
     dataset_dir = os.path.join(Path(__file__).parent, "v1_1")
     output_path_mcq = os.path.join(Path(__file__).parent, "agieval_mcq_annotations.csv")
     dataset_mcq = custom_loader(dataset_dir=dataset_dir, mcq=True)
     dataset_mcq = convert_input_to_string(dataset_mcq)
-    num_samples = DEFAULT_NUM_SAMPLES
     dataset_mcq.shuffle(42)
     dataset_mcq = dataset_mcq[:num_samples]
 
@@ -140,13 +170,16 @@ if __name__ == "__main__":
     output_path_freeform = os.path.join(Path(__file__).parent, "agieval_freeform_annotations.csv")
     dataset_freeform = custom_loader(dataset_dir=dataset_dir, mcq=False)
     dataset_freeform = convert_input_to_string(dataset_freeform)
-    num_samples = DEFAULT_NUM_SAMPLES
     dataset_freeform.shuffle(42)
     dataset_freeform = dataset_freeform[:num_samples]
 
     annotation_task = annotate_task(dataset_freeform)
     log = eval(annotation_task, model="openai/azure/gpt-4o" )
     extract_annotations(log[0], output_path_freeform)
+
+
+if __name__ == "__main__":
+    annotate()
 
 
 

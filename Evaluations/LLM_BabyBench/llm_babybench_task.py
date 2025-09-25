@@ -1,6 +1,7 @@
 import os
+import csv
 from pathlib import Path
-from typing import Any, Dict
+from typing import Any, Dict, Set
 from inspect_ai import Task, task, eval
 from inspect_ai.dataset import Dataset, FieldSpec, Sample, hf_dataset
 from inspect_ai.scorer import Score, Scorer, Target, accuracy, choice, includes, match, scorer, stderr
@@ -16,12 +17,34 @@ import gymnasium as gym
 from gymnasium import Env
 
 
+def get_annotated_sample_ids(annotation_csv_path: str) -> Set[str]:
+    """Extract the set of sample IDs that have been annotated from the CSV file."""
+    annotated_ids = set()
+
+    if not os.path.exists(annotation_csv_path):
+        return annotated_ids
+
+    with open(annotation_csv_path, 'r', newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            sample_id = row['sample id']  # LLM_BabyBench uses string IDs
+            annotated_ids.add(sample_id)
+
+    return annotated_ids
+
+
 def predict_record_to_sample(record: Dict[str, Any]) -> Sample:
     input = f"{record['env_description']} What state would the agent be in if it took the following actions?:\n initial_state: {record['initial_state']}\n{record['action_sequence']} \n give your answer in the form ((x, y), d) where d is the direction the agent is facing (east=0, south=1, west=2, north=3)."
     target=record["target_state"]
+
+    # Create a unique identifier based on content hash since no index is available
+    import hashlib
+    content_hash = hashlib.md5(f"{input}{target}".encode()).hexdigest()[:8]
+
     sample = Sample(input=input,
                     target=target,
                     metadata=record,
+                    id=f"babybench_predict_{content_hash}",
                     )
     return sample
 
@@ -32,6 +55,14 @@ def predict_task() -> Task:
                          split="train",
                          sample_fields=predict_record_to_sample
                          )
+
+    # Filter dataset to only include annotated samples
+    annotation_csv_path = os.path.join(Path(__file__).parent, "llm_babybench_predict_annotations.csv")
+    annotated_ids = get_annotated_sample_ids(annotation_csv_path)
+
+    if annotated_ids:
+        dataset = dataset.filter(lambda sample: sample.id in annotated_ids)
+
     return Task(dataset=dataset,
                 solver=basic_agent(),
                 scorer=match(),
@@ -40,9 +71,15 @@ def predict_task() -> Task:
 def plan_record_to_sample(record: Dict[str, Any]) -> Sample:
     input = f"{record['env_description']} What actions should be taken to reach the target sub goal?:\n initial_state ((x, y), d) where d is the direction the agent is facing (east=0, south=1, west=2, north=3): {record['initial_state']}\n target sub goal: {record['target_subgoal']} \n give your answer as a comma seperated list of actions. The names of possible actions are again: left, right, forward, pickup, drop, toggle."
     target=record["expert_action_sequence"]
+
+    # Create a unique identifier based on content hash since no index is available
+    import hashlib
+    content_hash = hashlib.md5(f"{input}{target}".encode()).hexdigest()[:8]
+
     sample = Sample(input=input,
                     target=target,
                     metadata=record,
+                    id=f"babybench_plan_{content_hash}",
                     )
     return sample
 
@@ -75,6 +112,14 @@ def plan_task() -> Task:
                          split="train",
                          sample_fields=plan_record_to_sample
                          )
+
+    # Filter dataset to only include annotated samples
+    annotation_csv_path = os.path.join(Path(__file__).parent, "llm_babybench_plan_annotations.csv")
+    annotated_ids = get_annotated_sample_ids(annotation_csv_path)
+
+    if annotated_ids:
+        dataset = dataset.filter(lambda sample: sample.id in annotated_ids)
+
     return Task(dataset=dataset,
                 solver=basic_agent(),
                 scorer=[plan_scorer()],
@@ -88,8 +133,14 @@ def decompose_record_to_sample(record: Dict[str, Any]) -> Sample:
 - PickupSubgoal: If the agent is not carrying any object and is next to an object, this subgoal picks it up. \n\n
 - GoNextToSubgoal, (x,y): If there is a clear, without any blocker, path between the agent and the cell of coordinates (x,y), this subgoal makes the agent go next to this cell."""
     input += "\ngive your answer list of subgoals each on a new line. for example:\n GoNextToSubgoal, (3, 5)\nGoNextToSubgoal, (2, 5)\nGoNextToSubgoal, (1, 5)\nGoNextToSubgoal, (1, 6)\nPickupSubgoal"
+
+    # Create a unique identifier based on content hash since no index is available
+    import hashlib
+    content_hash = hashlib.md5(input.encode()).hexdigest()[:8]
+
     sample = Sample(input=input,
                     metadata=record,
+                    id=f"babybench_decompose_{content_hash}",
                     )
     return sample
 
@@ -133,10 +184,63 @@ def decompose_task() -> Task:
                          split="train",
                          sample_fields=decompose_record_to_sample
                          )
-    num_samples = DEFAULT_NUM_SAMPLES
-    dataset.shuffle(42)
-    dataset = dataset[:num_samples]
+
+    # Filter dataset to only include annotated samples
+    annotation_csv_path = os.path.join(Path(__file__).parent, "llm_babybench_decompose_annotations.csv")
+    annotated_ids = get_annotated_sample_ids(annotation_csv_path)
+
+    if annotated_ids:
+        dataset = dataset.filter(lambda sample: sample.id in annotated_ids)
+
     return Task(dataset=dataset,
                 solver=basic_agent(),
                 scorer=decompose_scorer(),
                 )
+
+
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES):
+    # Annotate predict task
+    output_path_predict = os.path.join(Path(__file__).parent, "llm_babybench_predict_annotations.csv")
+    dataset_predict = hf_dataset("salem-mbzuai/LLM-BabyBench",
+                                 name="predict",
+                                 split="train",
+                                 sample_fields=predict_record_to_sample
+                                 )
+    dataset_predict.shuffle(42)
+    dataset_predict = dataset_predict[:num_samples]
+
+    annotation_task = annotate_task(dataset_predict)
+    log = eval(annotation_task, model="openai/azure/gpt-4o")
+    extract_annotations(log[0], output_path_predict)
+
+    # Annotate plan task
+    output_path_plan = os.path.join(Path(__file__).parent, "llm_babybench_plan_annotations.csv")
+    dataset_plan = hf_dataset("salem-mbzuai/LLM-BabyBench",
+                              name="plan",
+                              split="train",
+                              sample_fields=plan_record_to_sample
+                              )
+    dataset_plan.shuffle(42)
+    dataset_plan = dataset_plan[:num_samples]
+
+    annotation_task = annotate_task(dataset_plan)
+    log = eval(annotation_task, model="openai/azure/gpt-4o")
+    extract_annotations(log[0], output_path_plan)
+
+    # Annotate decompose task
+    output_path_decompose = os.path.join(Path(__file__).parent, "llm_babybench_decompose_annotations.csv")
+    dataset_decompose = hf_dataset("salem-mbzuai/LLM-BabyBench",
+                                   name="decompose",
+                                   split="train",
+                                   sample_fields=decompose_record_to_sample
+                                   )
+    dataset_decompose.shuffle(42)
+    dataset_decompose = dataset_decompose[:num_samples]
+
+    annotation_task = annotate_task(dataset_decompose)
+    log = eval(annotation_task, model="openai/azure/gpt-4o")
+    extract_annotations(log[0], output_path_decompose)
+
+
+if __name__ == "__main__":
+    annotate()
