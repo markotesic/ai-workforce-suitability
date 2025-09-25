@@ -61,7 +61,7 @@ def metamedqa_task() -> Task:
     )
 
     # Filter dataset to only include annotated samples
-    annotation_csv_path = os.path.join(Path(__file__).parent, "socialnorm_annotations.csv")
+    annotation_csv_path = os.path.join(Path(__file__).parent, "metamedqa_annotations.csv")
     annotated_ids = get_annotated_sample_ids(annotation_csv_path)
 
     if annotated_ids:
