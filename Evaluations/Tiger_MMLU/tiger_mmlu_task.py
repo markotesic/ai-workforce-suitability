@@ -1,5 +1,7 @@
 import os
+import csv
 from pathlib import Path
+from typing import Set
 from inspect_ai import Task, task, eval
 from inspect_ai.dataset import Dataset, FieldSpec, hf_dataset
 from inspect_ai.scorer import choice
@@ -18,10 +20,26 @@ Answer the following multiple choice question. The last line of your response sh
 """.strip()
 
 
+def get_annotated_sample_ids(annotation_csv_path: str) -> Set[int]:
+    """Extract the set of sample IDs that have been annotated from the CSV file."""
+    annotated_ids = set()
+
+    if not os.path.exists(annotation_csv_path):
+        return annotated_ids
+
+    with open(annotation_csv_path, 'r', newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            sample_id = int(row['sample id'])
+            annotated_ids.add(sample_id)
+
+    return annotated_ids
+
+
 @task
 def tiger_mmlu_task() -> Task:
-    dataset = hf_dataset("TIGER-Lab/MMLU-Pro", 
-        split="test", 
+    dataset = hf_dataset("TIGER-Lab/MMLU-Pro",
+        split="test",
         sample_fields=FieldSpec(
             id="question_id",
             input="question",
@@ -30,6 +48,13 @@ def tiger_mmlu_task() -> Task:
             metadata=["test", "entry_point"]
         )
     )
+
+    # Filter dataset to only include annotated samples
+    annotation_csv_path = os.path.join(Path(__file__).parent, "tiger_mmlu_annotations.csv")
+    annotated_ids = get_annotated_sample_ids(annotation_csv_path)
+
+    if annotated_ids:
+        dataset = dataset.filter(lambda sample: sample.id in annotated_ids)
 
     return Task(dataset=dataset,
                 scorer=choice(),
@@ -68,9 +93,9 @@ def convert_input_to_string(dataset: Dataset) -> Dataset:
 
     return dataset
 
-if __name__ == "__main__":
-    dataset = hf_dataset("TIGER-Lab/MMLU-Pro", 
-        split="test", 
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES):
+    dataset = hf_dataset("TIGER-Lab/MMLU-Pro",
+        split="test",
         sample_fields=FieldSpec(
             id="question_id",
             input="question",
@@ -81,12 +106,14 @@ if __name__ == "__main__":
     )
     dataset = convert_input_to_string(dataset)
     output_path = os.path.join(Path(__file__).parent, "tiger_mmlu_annotations.csv")
-    num_samples = DEFAULT_NUM_SAMPLES
     dataset.shuffle(42)
     dataset = dataset[:num_samples]
 
     annotation_task = annotate_task(dataset)
     log = eval(annotation_task, model="openai/azure/gpt-4o" )
     extract_annotations(log[0], output_path)
+
+if __name__ == "__main__":
+    annotate()
 
 

@@ -32,7 +32,7 @@ def get_task_name(task_file: str) -> str:
     return os.path.basename(os.path.dirname(task_file))
 
 
-def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = False) -> bool:
+def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = False, num_samples: int = DEFAULT_NUM_SAMPLES) -> bool:
     """
     Run a single task file and return True if successful.
 
@@ -40,6 +40,7 @@ def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = Fals
         task_file: Path to the task file to run
         timeout: Optional timeout in seconds
         verbose: If True, show live output from the subprocess
+        num_samples: Number of samples to use for annotation
 
     Returns:
         True if the task completed successfully, False otherwise
@@ -49,11 +50,15 @@ def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = Fals
 
     start_time = time.time()
 
+    # Create the command to import the module and call annotate()
+    module_name = os.path.splitext(os.path.basename(task_file))[0]
+    import_cmd = f"import sys; sys.path.insert(0, '.'); from {module_name} import annotate; annotate({num_samples})"
+
     try:
         if verbose:
             # Direct terminal pass-through - let Inspect AI write directly to terminal
             process = subprocess.Popen(
-                [sys.executable, os.path.basename(task_file)],
+                [sys.executable, "-c", import_cmd],
                 cwd=os.path.dirname(task_file)
             )
 
@@ -69,7 +74,7 @@ def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = Fals
         else:
             # Use run() for captured output (current behavior)
             result = subprocess.run(
-                [sys.executable, os.path.basename(task_file)],
+                [sys.executable, "-c", import_cmd],
                 capture_output=True,
                 text=True,
                 timeout=timeout,
@@ -201,7 +206,7 @@ Examples:
         task_name = get_task_name(task_file)
         print(f"[{i}/{len(filtered_tasks)}] Running {task_name}")
 
-        if run_task(task_file, args.timeout, args.verbose):
+        if run_task(task_file, args.timeout, args.verbose, DEFAULT_NUM_SAMPLES):
             successful += 1
         else:
             failed += 1

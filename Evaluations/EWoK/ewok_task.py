@@ -1,5 +1,7 @@
 import os
+import csv
 from pathlib import Path
+from typing import Set
 from inspect_ai import Task, task, eval
 from inspect_ai.dataset import Dataset, FieldSpec, Sample, hf_dataset
 from inspect_ai.scorer import choice, includes
@@ -62,6 +64,23 @@ Which context makes more sense given the scenario? Please answer using either "1
 ## Response
 """
 
+
+def get_annotated_sample_ids(annotation_csv_path: str) -> Set[str]:
+    """Extract the set of sample IDs that have been annotated from the CSV file."""
+    annotated_ids = set()
+
+    if not os.path.exists(annotation_csv_path):
+        return annotated_ids
+
+    with open(annotation_csv_path, 'r', newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            sample_id = row['sample id']  # EWoK uses string IDs
+            annotated_ids.add(sample_id)
+
+    return annotated_ids
+
+
 def record_to_sample(record) -> list[Sample]:
     context_1 = record["Context1"]
     context_2 = record["Context2"]
@@ -82,28 +101,37 @@ def record_to_sample(record) -> list[Sample]:
 
 @task
 def ewok_task() -> Task:
-    dataset = hf_dataset("ewok-core/ewok-core-1.0", 
-        split="test", 
+    dataset = hf_dataset("ewok-core/ewok-core-1.0",
+        split="test",
         sample_fields=record_to_sample,
     )
+
+    # Filter dataset to only include annotated samples
+    annotation_csv_path = os.path.join(Path(__file__).parent, "ewok_annotations.csv")
+    annotated_ids = get_annotated_sample_ids(annotation_csv_path)
+
+    if annotated_ids:
+        dataset = dataset.filter(lambda sample: sample.id in annotated_ids)
 
     return Task(dataset=dataset,
                 scorer=includes(),
                 solver=basic_agent(),
         )
 
-if __name__ == "__main__":
-    dataset = hf_dataset("ewok-core/ewok-core-1.0", 
-        split="test", 
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES):
+    dataset = hf_dataset("ewok-core/ewok-core-1.0",
+        split="test",
         sample_fields=record_to_sample,
     )
     output_path = os.path.join(Path(__file__).parent, "ewok_annotations.csv")
-    num_samples = DEFAULT_NUM_SAMPLES
     dataset.shuffle(42)
     dataset = dataset[:num_samples]
 
     annotation_task = annotate_task(dataset)
     log = eval(annotation_task, model="openai/azure/gpt-4o" )
     extract_annotations(log[0], output_path)
+
+if __name__ == "__main__":
+    annotate()
 
 

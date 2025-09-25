@@ -1,7 +1,8 @@
 import json
 import os
+import csv
 from pathlib import Path
-from typing import Any, Dict
+from typing import Any, Dict, Set
 from inspect_ai import Task, task, eval
 from inspect_ai.dataset import Dataset, MemoryDataset, Sample
 from inspect_ai.scorer import choice, model_graded_qa
@@ -10,6 +11,22 @@ from inspect_ai._util.answer import answer_character, answer_index
 
 from Annotations.annotate_tasks import annotate_task, extract_annotations
 from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
+
+
+def get_annotated_sample_ids(annotation_csv_path: str) -> Set[int]:
+    """Extract the set of sample IDs that have been annotated from the CSV file."""
+    annotated_ids = set()
+
+    if not os.path.exists(annotation_csv_path):
+        return annotated_ids
+
+    with open(annotation_csv_path, 'r', newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            sample_id = int(row['sample id'])
+            annotated_ids.add(sample_id)
+
+    return annotated_ids
 
 
 def record_to_sample(record: Dict[str, Any], dataset_path: str, id : int = 0) -> list[Sample]:
@@ -93,6 +110,13 @@ def fantom_task(
         dataset_path = os.path.join(Path(__file__).parent, "fantom_v1.json")
     dataset = custom_loader(dataset_path=dataset_path)
 
+    # Filter dataset to only include annotated samples
+    annotation_csv_path = os.path.join(Path(__file__).parent, "fantom_annotations.csv")
+    annotated_ids = get_annotated_sample_ids(annotation_csv_path)
+
+    if annotated_ids:
+        dataset = dataset.filter(lambda sample: sample.id in annotated_ids)
+
     return Task(dataset=dataset,
                 scorer=model_graded_qa(),
                 solver=basic_agent(),
@@ -100,17 +124,19 @@ def fantom_task(
 
 
 
-if __name__ == "__main__":
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES):
     dataset_path = os.path.join(Path(__file__).parent, "fantom_v1.json")
     output_path = os.path.join(Path(__file__).parent, "fantom_annotations.csv")
     dataset = custom_loader(dataset_path=dataset_path)
-    num_samples = DEFAULT_NUM_SAMPLES
     dataset.shuffle(42)
     dataset = dataset[:num_samples]
 
     annotation_task = annotate_task(dataset)
     log = eval(annotation_task, model="openai/azure/gpt-4o" )
     extract_annotations(log[0], output_path)
+
+if __name__ == "__main__":
+    annotate()
 
 
 

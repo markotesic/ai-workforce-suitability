@@ -79,19 +79,21 @@ def convert_input_to_string(dataset: Dataset) -> Dataset:
 
     return dataset
 
-if __name__ == "__main__":
-    dataset = hf_dataset("NEWTONReasoning/NEWTON", 
-        split="confident_questions", 
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES):
+    dataset = hf_dataset("NEWTONReasoning/NEWTON",
+        split="confident_questions",
         sample_fields=record_to_sample
     )
     dataset = convert_input_to_string(dataset)
-    output_path = os.path.join(Path(__file__).parent, "tiger_mmlu_annotations.csv")
-    num_samples = DEFAULT_NUM_SAMPLES
+    output_path = os.path.join(Path(__file__).parent, "newton_annotations.csv")
     dataset.shuffle(42)
     dataset = dataset[:num_samples]
 
     annotation_task = annotate_task(dataset)
     log = eval(annotation_task, model="openai/azure/gpt-4o" )
     extract_annotations(log[0], output_path)
+
+if __name__ == "__main__":
+    annotate()
 
 

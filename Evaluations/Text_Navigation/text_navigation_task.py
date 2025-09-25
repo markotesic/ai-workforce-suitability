@@ -4,8 +4,9 @@
 
 # need to make a stateful tool for the agent to take actions
 import os
+import csv
 from pathlib import Path
-from typing import Any, Optional
+from typing import Any, Optional, Set
 from inspect_ai import Task, task, eval
 from inspect_ai.dataset import MemoryDataset, Sample
 from inspect_ai.solver import Generate, Solver, TaskState, basic_agent, solver, use_tools
@@ -16,6 +17,22 @@ from pydantic import Field
 from Annotations.annotate_tasks import annotate_task, extract_annotations
 from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 from Evaluations.Text_Navigation.maze import maze_game
+
+
+def get_annotated_sample_ids(annotation_csv_path: str) -> Set[int]:
+    """Extract the set of sample IDs that have been annotated from the CSV file."""
+    annotated_ids = set()
+
+    if not os.path.exists(annotation_csv_path):
+        return annotated_ids
+
+    with open(annotation_csv_path, 'r', newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            sample_id = int(row['sample id'])
+            annotated_ids.add(sample_id)
+
+    return annotated_ids
 
 
 class MazeStateModel(StoreModel):
@@ -73,6 +90,13 @@ def text_navigation_task() -> Task:
     samples = [Sample(input="You enter a wicked maze.  As the (P)layer, you seek the (m)cguffin.  Find it, if you dare.  If you seek help, simply ask for it. Take the none action to get started.", id=i) for i in range(DEFAULT_NUM_SAMPLES)]
     dataset = MemoryDataset(samples, name="text_navigation")
 
+    # Filter dataset to only include annotated samples
+    annotation_csv_path = os.path.join(Path(__file__).parent, "text_navigation_annotations.csv")
+    annotated_ids = get_annotated_sample_ids(annotation_csv_path)
+
+    if annotated_ids:
+        dataset = dataset.filter(lambda sample: sample.id in annotated_ids)
+
     return Task(dataset=dataset,
                 solver=[
                     add_step_tool(),
@@ -84,10 +108,10 @@ def text_navigation_task() -> Task:
 
 
 
-if __name__ == "__main__":
-    # make a dataset manually 
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES):
+    # make a dataset manually
     samples = []
-    for i in range(DEFAULT_NUM_SAMPLES):
+    for i in range(num_samples):
         input = "You enter a wicked maze.  As the (P)layer, you seek the (m)cguffin.  Find it, if you dare.  If you seek help, simply ask for it. Take the none action to get started."
         maze = maze_game(map_width=15)
         input += f"\n{maze.pretty_state()}"
@@ -99,6 +123,9 @@ if __name__ == "__main__":
     annotation_task = annotate_task(dataset)
     log = eval(annotation_task, model="openai/azure/gpt-4o" )
     extract_annotations(log[0], output_path)
+
+if __name__ == "__main__":
+    annotate()
 
     
 
