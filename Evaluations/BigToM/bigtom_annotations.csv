@@ -1,211 +1,4033 @@
 dataset name,sample id,dimension,score
+BigToM_annotation,1012,Causal Reasoning,1
+BigToM_annotation,1012,Cognitive Flexibility,0
+BigToM_annotation,1012,Emotion Perception and Empathy,0
+BigToM_annotation,1012,Episodic Memory,0
+BigToM_annotation,1012,Functional Perception,1
+BigToM_annotation,1012,Inhibitory Control,0
+BigToM_annotation,1012,Language,1
+BigToM_annotation,1012,Mental Simulation,0
+BigToM_annotation,1012,Metacognition,1
+BigToM_annotation,1012,Object Permanence,1
+BigToM_annotation,1012,Perception and Pattern Recognition,1
+BigToM_annotation,1012,Planning,0
+BigToM_annotation,1012,Procedural Memory,0
+BigToM_annotation,1012,Prospective Memory,0
+BigToM_annotation,1012,Semantic Memory,1
+BigToM_annotation,1012,Spatial Reasoning and Navigation,0
+BigToM_annotation,1012,Theory of Mind,0
+BigToM_annotation,1012,Working Memory,1
+BigToM_annotation,1012,ambiguity,5
+BigToM_annotation,1012,factuality,5
+BigToM_annotation,1025,Causal Reasoning,1
+BigToM_annotation,1025,Cognitive Flexibility,0
+BigToM_annotation,1025,Emotion Perception and Empathy,0
+BigToM_annotation,1025,Episodic Memory,0
+BigToM_annotation,1025,Functional Perception,1
+BigToM_annotation,1025,Inhibitory Control,0
+BigToM_annotation,1025,Language,1
+BigToM_annotation,1025,Mental Simulation,0
+BigToM_annotation,1025,Metacognition,1
+BigToM_annotation,1025,Object Permanence,0
+BigToM_annotation,1025,Perception and Pattern Recognition,2
+BigToM_annotation,1025,Planning,0
+BigToM_annotation,1025,Procedural Memory,0
+BigToM_annotation,1025,Prospective Memory,0
+BigToM_annotation,1025,Semantic Memory,2
+BigToM_annotation,1025,Spatial Reasoning and Navigation,0
+BigToM_annotation,1025,Theory of Mind,2
+BigToM_annotation,1025,Working Memory,0
+BigToM_annotation,1025,ambiguity,5
+BigToM_annotation,1025,factuality,5
+BigToM_annotation,1058,Causal Reasoning,1
+BigToM_annotation,1058,Cognitive Flexibility,0
+BigToM_annotation,1058,Emotion Perception and Empathy,0
+BigToM_annotation,1058,Episodic Memory,0
+BigToM_annotation,1058,Functional Perception,1
+BigToM_annotation,1058,Inhibitory Control,0
+BigToM_annotation,1058,Language,2
+BigToM_annotation,1058,Mental Simulation,0
+BigToM_annotation,1058,Metacognition,1
+BigToM_annotation,1058,Object Permanence,0
+BigToM_annotation,1058,Perception and Pattern Recognition,1
+BigToM_annotation,1058,Planning,0
+BigToM_annotation,1058,Procedural Memory,0
+BigToM_annotation,1058,Prospective Memory,0
+BigToM_annotation,1058,Semantic Memory,2
+BigToM_annotation,1058,Spatial Reasoning and Navigation,0
+BigToM_annotation,1058,Theory of Mind,1
+BigToM_annotation,1058,Working Memory,0
+BigToM_annotation,1058,ambiguity,5
+BigToM_annotation,1058,factuality,5
+BigToM_annotation,1077,Causal Reasoning,1
+BigToM_annotation,1077,Cognitive Flexibility,0
+BigToM_annotation,1077,Emotion Perception and Empathy,0
+BigToM_annotation,1077,Episodic Memory,0
+BigToM_annotation,1077,Functional Perception,0
+BigToM_annotation,1077,Inhibitory Control,0
+BigToM_annotation,1077,Language,1
+BigToM_annotation,1077,Mental Simulation,0
+BigToM_annotation,1077,Metacognition,1
+BigToM_annotation,1077,Object Permanence,0
+BigToM_annotation,1077,Perception and Pattern Recognition,1
+BigToM_annotation,1077,Planning,0
+BigToM_annotation,1077,Procedural Memory,0
+BigToM_annotation,1077,Prospective Memory,0
+BigToM_annotation,1077,Semantic Memory,1
+BigToM_annotation,1077,Spatial Reasoning and Navigation,0
+BigToM_annotation,1077,Theory of Mind,1
+BigToM_annotation,1077,Working Memory,1
+BigToM_annotation,1077,ambiguity,5
+BigToM_annotation,1077,factuality,5
+BigToM_annotation,1078,Causal Reasoning,0
+BigToM_annotation,1078,Cognitive Flexibility,0
+BigToM_annotation,1078,Emotion Perception and Empathy,0
+BigToM_annotation,1078,Episodic Memory,0
+BigToM_annotation,1078,Functional Perception,1
+BigToM_annotation,1078,Inhibitory Control,0
+BigToM_annotation,1078,Language,1
+BigToM_annotation,1078,Mental Simulation,0
+BigToM_annotation,1078,Metacognition,0
+BigToM_annotation,1078,Object Permanence,0
+BigToM_annotation,1078,Perception and Pattern Recognition,1
+BigToM_annotation,1078,Planning,0
+BigToM_annotation,1078,Procedural Memory,0
+BigToM_annotation,1078,Prospective Memory,0
+BigToM_annotation,1078,Semantic Memory,2
+BigToM_annotation,1078,Spatial Reasoning and Navigation,0
+BigToM_annotation,1078,Theory of Mind,2
+BigToM_annotation,1078,Working Memory,0
+BigToM_annotation,1078,ambiguity,5
+BigToM_annotation,1078,factuality,5
+BigToM_annotation,1079,Causal Reasoning,1
+BigToM_annotation,1079,Cognitive Flexibility,0
+BigToM_annotation,1079,Emotion Perception and Empathy,0
+BigToM_annotation,1079,Episodic Memory,0
+BigToM_annotation,1079,Functional Perception,0
+BigToM_annotation,1079,Inhibitory Control,0
+BigToM_annotation,1079,Language,1
+BigToM_annotation,1079,Mental Simulation,0
+BigToM_annotation,1079,Metacognition,0
+BigToM_annotation,1079,Object Permanence,0
+BigToM_annotation,1079,Perception and Pattern Recognition,1
+BigToM_annotation,1079,Planning,0
+BigToM_annotation,1079,Procedural Memory,0
+BigToM_annotation,1079,Prospective Memory,0
+BigToM_annotation,1079,Semantic Memory,2
+BigToM_annotation,1079,Spatial Reasoning and Navigation,0
+BigToM_annotation,1079,Theory of Mind,1
+BigToM_annotation,1079,Working Memory,1
+BigToM_annotation,1079,ambiguity,5
+BigToM_annotation,1079,factuality,5
+BigToM_annotation,1088,Causal Reasoning,1
+BigToM_annotation,1088,Cognitive Flexibility,0
+BigToM_annotation,1088,Emotion Perception and Empathy,0
+BigToM_annotation,1088,Episodic Memory,0
+BigToM_annotation,1088,Functional Perception,0
+BigToM_annotation,1088,Inhibitory Control,0
+BigToM_annotation,1088,Language,1
+BigToM_annotation,1088,Mental Simulation,0
+BigToM_annotation,1088,Metacognition,0
+BigToM_annotation,1088,Object Permanence,0
+BigToM_annotation,1088,Perception and Pattern Recognition,1
+BigToM_annotation,1088,Planning,0
+BigToM_annotation,1088,Procedural Memory,0
+BigToM_annotation,1088,Prospective Memory,0
+BigToM_annotation,1088,Semantic Memory,1
+BigToM_annotation,1088,Spatial Reasoning and Navigation,0
+BigToM_annotation,1088,Theory of Mind,1
+BigToM_annotation,1088,Working Memory,1
+BigToM_annotation,1088,ambiguity,5
+BigToM_annotation,1088,factuality,5
+BigToM_annotation,1091,Causal Reasoning,0
+BigToM_annotation,1091,Cognitive Flexibility,0
+BigToM_annotation,1091,Emotion Perception and Empathy,0
+BigToM_annotation,1091,Episodic Memory,0
+BigToM_annotation,1091,Functional Perception,1
+BigToM_annotation,1091,Inhibitory Control,0
+BigToM_annotation,1091,Language,2
+BigToM_annotation,1091,Mental Simulation,1
+BigToM_annotation,1091,Metacognition,0
+BigToM_annotation,1091,Object Permanence,0
+BigToM_annotation,1091,Perception and Pattern Recognition,1
+BigToM_annotation,1091,Planning,0
+BigToM_annotation,1091,Procedural Memory,0
+BigToM_annotation,1091,Prospective Memory,0
+BigToM_annotation,1091,Semantic Memory,2
+BigToM_annotation,1091,Spatial Reasoning and Navigation,0
+BigToM_annotation,1091,Theory of Mind,2
+BigToM_annotation,1091,Working Memory,1
+BigToM_annotation,1091,ambiguity,5
+BigToM_annotation,1091,factuality,5
+BigToM_annotation,1122,Causal Reasoning,0
+BigToM_annotation,1122,Cognitive Flexibility,0
+BigToM_annotation,1122,Emotion Perception and Empathy,0
+BigToM_annotation,1122,Episodic Memory,0
+BigToM_annotation,1122,Functional Perception,1
+BigToM_annotation,1122,Inhibitory Control,0
+BigToM_annotation,1122,Language,1
+BigToM_annotation,1122,Mental Simulation,0
+BigToM_annotation,1122,Metacognition,0
+BigToM_annotation,1122,Object Permanence,0
+BigToM_annotation,1122,Perception and Pattern Recognition,0
+BigToM_annotation,1122,Planning,0
+BigToM_annotation,1122,Procedural Memory,0
+BigToM_annotation,1122,Prospective Memory,0
+BigToM_annotation,1122,Semantic Memory,1
+BigToM_annotation,1122,Spatial Reasoning and Navigation,0
+BigToM_annotation,1122,Theory of Mind,1
+BigToM_annotation,1122,Working Memory,1
+BigToM_annotation,1122,ambiguity,5
+BigToM_annotation,1122,factuality,5
+BigToM_annotation,1134,Causal Reasoning,1
+BigToM_annotation,1134,Cognitive Flexibility,0
+BigToM_annotation,1134,Emotion Perception and Empathy,0
+BigToM_annotation,1134,Episodic Memory,1
+BigToM_annotation,1134,Functional Perception,1
+BigToM_annotation,1134,Inhibitory Control,0
+BigToM_annotation,1134,Language,1
+BigToM_annotation,1134,Mental Simulation,1
+BigToM_annotation,1134,Metacognition,0
+BigToM_annotation,1134,Object Permanence,0
+BigToM_annotation,1134,Perception and Pattern Recognition,0
+BigToM_annotation,1134,Planning,"To further enhance your composting project and ensure its long-term success and sustainability, let's focus on integrating a feedback mechanism and scaling the project. This involves analyzing the effectiveness of your initiative and optimizing for future growth.
+
+### Implementing Feedback and Scaling the Project
+
+1. **Create a Feedback Loop**:
+   - Develop a system for collecting feedback from participants and community members regarding their experiences with the composting project.
+   - Use surveys or interactive sessions to understand what’s working well and areas that need improvement.
+
+2. **Analyze Feedback for Insights**:
+   - Regularly review the feedback you receive to identify common themes and actionable insights.
+   - Prioritize changes based on participant suggestions that can enhance the project's structure or outcomes.
+
+3. **Iterate on Project Design**:
+   - Make iterative improvements based on feedback. This may involve adjusting educational content, refining processes, or expanding the types of composting methods you offer.
+   - Test new ideas on a small scale before rolling them out broadly.
+
+4. **Expand Participant Reach**:
+   - Identify and reach out to groups or areas that have yet to participate. This could include targeting housing complexes, local businesses, or schools.
+   - Consider offering introductory sessions or incentives to engage these new participants.
+
+5. **Optimize Resource Utilization**:
+   - Efficiently utilize resources by reviewing what materials and support are in highest demand.
+   - Ensure that logistical elements like compost collection and distribution are streamlined to handle increased participation.
+
+6. **Plan for Scaling Up**:
+   - Develop a strategy for scaling your project that considers increased participants, additional composting sites, and broader community engagement.
+   - Look into partnerships with municipal bodies or environmental NGOs to support larger-scale efforts.
+
+7. **Document and Share Success Stories**:
+   - Regularly publish success stories and testimonials from participants to attract further interest and support.
+   - Use these narratives to apply for additional funding or support, demonstrating the positive impact of your project.
+
+By focusing on these strategies, your composting initiative can grow in impact and reach, fostering a more sustainable community. As always, if there are specific aspects you’d like to focus on or if you want to explore another area, please feel free to let me know!"
+BigToM_annotation,1134,Procedural Memory,0
+BigToM_annotation,1134,Prospective Memory,0
+BigToM_annotation,1134,Semantic Memory,1
+BigToM_annotation,1134,Spatial Reasoning and Navigation,0
+BigToM_annotation,1134,Theory of Mind,1
+BigToM_annotation,1134,Working Memory,1
+BigToM_annotation,1134,ambiguity,5
+BigToM_annotation,1134,factuality,5
+BigToM_annotation,1147,Causal Reasoning,1
+BigToM_annotation,1147,Cognitive Flexibility,0
+BigToM_annotation,1147,Emotion Perception and Empathy,0
+BigToM_annotation,1147,Episodic Memory,1
+BigToM_annotation,1147,Functional Perception,1
+BigToM_annotation,1147,Inhibitory Control,0
+BigToM_annotation,1147,Language,2
+BigToM_annotation,1147,Mental Simulation,1
+BigToM_annotation,1147,Metacognition,0
+BigToM_annotation,1147,Object Permanence,1
+BigToM_annotation,1147,Perception and Pattern Recognition,1
+BigToM_annotation,1147,Planning,0
+BigToM_annotation,1147,Procedural Memory,0
+BigToM_annotation,1147,Prospective Memory,0
+BigToM_annotation,1147,Semantic Memory,2
+BigToM_annotation,1147,Spatial Reasoning and Navigation,2
+BigToM_annotation,1147,Theory of Mind,2
+BigToM_annotation,1147,Working Memory,0
+BigToM_annotation,1147,ambiguity,5
+BigToM_annotation,1147,factuality,5
+BigToM_annotation,1161,Causal Reasoning,0
+BigToM_annotation,1161,Cognitive Flexibility,0
+BigToM_annotation,1161,Emotion Perception and Empathy,0
+BigToM_annotation,1161,Episodic Memory,0
+BigToM_annotation,1161,Functional Perception,1
+BigToM_annotation,1161,Inhibitory Control,0
+BigToM_annotation,1161,Language,1
+BigToM_annotation,1161,Mental Simulation,0
+BigToM_annotation,1161,Metacognition,0
+BigToM_annotation,1161,Object Permanence,0
+BigToM_annotation,1161,Perception and Pattern Recognition,0
+BigToM_annotation,1161,Planning,0
+BigToM_annotation,1161,Procedural Memory,0
+BigToM_annotation,1161,Prospective Memory,0
+BigToM_annotation,1161,Semantic Memory,1
+BigToM_annotation,1161,Spatial Reasoning and Navigation,1
+BigToM_annotation,1161,Theory of Mind,1
+BigToM_annotation,1161,Working Memory,1
+BigToM_annotation,1161,ambiguity,5
+BigToM_annotation,1161,factuality,5
+BigToM_annotation,1173,Causal Reasoning,1
+BigToM_annotation,1173,Cognitive Flexibility,0
+BigToM_annotation,1173,Emotion Perception and Empathy,1
+BigToM_annotation,1173,Episodic Memory,0
+BigToM_annotation,1173,Functional Perception,1
+BigToM_annotation,1173,Inhibitory Control,0
+BigToM_annotation,1173,Language,1
+BigToM_annotation,1173,Mental Simulation,0
+BigToM_annotation,1173,Metacognition,1
+BigToM_annotation,1173,Object Permanence,0
+BigToM_annotation,1173,Perception and Pattern Recognition,1
+BigToM_annotation,1173,Planning,0
+BigToM_annotation,1173,Procedural Memory,0
+BigToM_annotation,1173,Prospective Memory,0
+BigToM_annotation,1173,Semantic Memory,1
+BigToM_annotation,1173,Spatial Reasoning and Navigation,0
+BigToM_annotation,1173,Theory of Mind,1
+BigToM_annotation,1173,Working Memory,0
+BigToM_annotation,1173,ambiguity,5
+BigToM_annotation,1173,factuality,5
+BigToM_annotation,1181,Causal Reasoning,1
+BigToM_annotation,1181,Cognitive Flexibility,0
+BigToM_annotation,1181,Emotion Perception and Empathy,1
+BigToM_annotation,1181,Episodic Memory,0
+BigToM_annotation,1181,Functional Perception,1
+BigToM_annotation,1181,Inhibitory Control,0
+BigToM_annotation,1181,Language,1
+BigToM_annotation,1181,Mental Simulation,0
+BigToM_annotation,1181,Metacognition,0
+BigToM_annotation,1181,Object Permanence,0
+BigToM_annotation,1181,Perception and Pattern Recognition,1
+BigToM_annotation,1181,Planning,0
+BigToM_annotation,1181,Procedural Memory,0
+BigToM_annotation,1181,Prospective Memory,0
+BigToM_annotation,1181,Semantic Memory,1
+BigToM_annotation,1181,Spatial Reasoning and Navigation,0
+BigToM_annotation,1181,Theory of Mind,1
+BigToM_annotation,1181,Working Memory,0
+BigToM_annotation,1181,ambiguity,5
+BigToM_annotation,1181,factuality,5
+BigToM_annotation,1194,Causal Reasoning,1
+BigToM_annotation,1194,Cognitive Flexibility,0
+BigToM_annotation,1194,Emotion Perception and Empathy,0
+BigToM_annotation,1194,Episodic Memory,0
+BigToM_annotation,1194,Functional Perception,1
+BigToM_annotation,1194,Inhibitory Control,1
+BigToM_annotation,1194,Language,1
+BigToM_annotation,1194,Mental Simulation,0
+BigToM_annotation,1194,Metacognition,0
+BigToM_annotation,1194,Object Permanence,0
+BigToM_annotation,1194,Perception and Pattern Recognition,1
+BigToM_annotation,1194,Planning,0
+BigToM_annotation,1194,Procedural Memory,0
+BigToM_annotation,1194,Prospective Memory,0
+BigToM_annotation,1194,Semantic Memory,1
+BigToM_annotation,1194,Spatial Reasoning and Navigation,1
+BigToM_annotation,1194,Theory of Mind,1
+BigToM_annotation,1194,Working Memory,0
+BigToM_annotation,1194,ambiguity,5
+BigToM_annotation,1194,factuality,5
+BigToM_annotation,1199,Causal Reasoning,1
+BigToM_annotation,1199,Cognitive Flexibility,0
+BigToM_annotation,1199,Emotion Perception and Empathy,0
+BigToM_annotation,1199,Episodic Memory,0
+BigToM_annotation,1199,Functional Perception,1
+BigToM_annotation,1199,Inhibitory Control,0
+BigToM_annotation,1199,Language,1
+BigToM_annotation,1199,Mental Simulation,0
+BigToM_annotation,1199,Metacognition,0
+BigToM_annotation,1199,Object Permanence,0
+BigToM_annotation,1199,Perception and Pattern Recognition,1
+BigToM_annotation,1199,Planning,0
+BigToM_annotation,1199,Procedural Memory,0
+BigToM_annotation,1199,Prospective Memory,0
+BigToM_annotation,1199,Semantic Memory,2
+BigToM_annotation,1199,Spatial Reasoning and Navigation,0
+BigToM_annotation,1199,Theory of Mind,2
+BigToM_annotation,1199,Working Memory,1
+BigToM_annotation,1199,ambiguity,5
+BigToM_annotation,1199,factuality,5
+BigToM_annotation,1243,Causal Reasoning,1
+BigToM_annotation,1243,Cognitive Flexibility,0
+BigToM_annotation,1243,Emotion Perception and Empathy,0
+BigToM_annotation,1243,Episodic Memory,0
+BigToM_annotation,1243,Functional Perception,0
+BigToM_annotation,1243,Inhibitory Control,2
+BigToM_annotation,1243,Language,1
+BigToM_annotation,1243,Mental Simulation,0
+BigToM_annotation,1243,Metacognition,1
+BigToM_annotation,1243,Object Permanence,0
+BigToM_annotation,1243,Perception and Pattern Recognition,0
+BigToM_annotation,1243,Planning,0
+BigToM_annotation,1243,Procedural Memory,0
+BigToM_annotation,1243,Prospective Memory,0
+BigToM_annotation,1243,Semantic Memory,1
+BigToM_annotation,1243,Spatial Reasoning and Navigation,0
+BigToM_annotation,1243,Theory of Mind,1
+BigToM_annotation,1243,Working Memory,1
+BigToM_annotation,1243,ambiguity,5
+BigToM_annotation,1243,factuality,5
+BigToM_annotation,1250,Causal Reasoning,1
+BigToM_annotation,1250,Cognitive Flexibility,0
+BigToM_annotation,1250,Emotion Perception and Empathy,0
+BigToM_annotation,1250,Episodic Memory,1
+BigToM_annotation,1250,Functional Perception,1
+BigToM_annotation,1250,Inhibitory Control,0
+BigToM_annotation,1250,Language,1
+BigToM_annotation,1250,Mental Simulation,0
+BigToM_annotation,1250,Metacognition,0
+BigToM_annotation,1250,Object Permanence,0
+BigToM_annotation,1250,Perception and Pattern Recognition,0
+BigToM_annotation,1250,Planning,0
+BigToM_annotation,1250,Procedural Memory,0
+BigToM_annotation,1250,Prospective Memory,0
+BigToM_annotation,1250,Semantic Memory,3
+BigToM_annotation,1250,Spatial Reasoning and Navigation,0
+BigToM_annotation,1250,Theory of Mind,1
+BigToM_annotation,1250,Working Memory,0
+BigToM_annotation,1250,ambiguity,5
+BigToM_annotation,1250,factuality,5
+BigToM_annotation,1334,Causal Reasoning,1
+BigToM_annotation,1334,Cognitive Flexibility,0
+BigToM_annotation,1334,Emotion Perception and Empathy,0
+BigToM_annotation,1334,Episodic Memory,0
+BigToM_annotation,1334,Functional Perception,1
+BigToM_annotation,1334,Inhibitory Control,0
+BigToM_annotation,1334,Language,1
+BigToM_annotation,1334,Mental Simulation,0
+BigToM_annotation,1334,Metacognition,0
+BigToM_annotation,1334,Object Permanence,0
+BigToM_annotation,1334,Perception and Pattern Recognition,1
+BigToM_annotation,1334,Planning,0
+BigToM_annotation,1334,Procedural Memory,0
+BigToM_annotation,1334,Prospective Memory,0
+BigToM_annotation,1334,Semantic Memory,1
+BigToM_annotation,1334,Spatial Reasoning and Navigation,0
+BigToM_annotation,1334,Theory of Mind,1
+BigToM_annotation,1334,Working Memory,1
+BigToM_annotation,1334,ambiguity,5
+BigToM_annotation,1334,factuality,5
+BigToM_annotation,1335,Causal Reasoning,1
+BigToM_annotation,1335,Cognitive Flexibility,0
+BigToM_annotation,1335,Emotion Perception and Empathy,0
+BigToM_annotation,1335,Episodic Memory,1
+BigToM_annotation,1335,Functional Perception,1
+BigToM_annotation,1335,Inhibitory Control,2
+BigToM_annotation,1335,Language,1
+BigToM_annotation,1335,Mental Simulation,1
+BigToM_annotation,1335,Metacognition,0
+BigToM_annotation,1335,Object Permanence,0
+BigToM_annotation,1335,Perception and Pattern Recognition,1
+BigToM_annotation,1335,Planning,0
+BigToM_annotation,1335,Procedural Memory,0
+BigToM_annotation,1335,Prospective Memory,0
+BigToM_annotation,1335,Semantic Memory,1
+BigToM_annotation,1335,Spatial Reasoning and Navigation,0
+BigToM_annotation,1335,Theory of Mind,2
+BigToM_annotation,1335,Working Memory,1
+BigToM_annotation,1335,ambiguity,5
+BigToM_annotation,1335,factuality,5
+BigToM_annotation,1347,Causal Reasoning,1
+BigToM_annotation,1347,Cognitive Flexibility,0
+BigToM_annotation,1347,Emotion Perception and Empathy,0
+BigToM_annotation,1347,Episodic Memory,0
+BigToM_annotation,1347,Functional Perception,1
+BigToM_annotation,1347,Inhibitory Control,0
+BigToM_annotation,1347,Language,1
+BigToM_annotation,1347,Mental Simulation,1
+BigToM_annotation,1347,Metacognition,1
+BigToM_annotation,1347,Object Permanence,0
+BigToM_annotation,1347,Perception and Pattern Recognition,2
+BigToM_annotation,1347,Planning,0
+BigToM_annotation,1347,Procedural Memory,0
+BigToM_annotation,1347,Prospective Memory,0
+BigToM_annotation,1347,Semantic Memory,1
+BigToM_annotation,1347,Spatial Reasoning and Navigation,2
+BigToM_annotation,1347,Theory of Mind,2
+BigToM_annotation,1347,Working Memory,2
+BigToM_annotation,1347,ambiguity,4
+BigToM_annotation,1347,factuality,5
+BigToM_annotation,1349,Causal Reasoning,1
+BigToM_annotation,1349,Cognitive Flexibility,0
+BigToM_annotation,1349,Emotion Perception and Empathy,0
+BigToM_annotation,1349,Episodic Memory,0
+BigToM_annotation,1349,Functional Perception,1
+BigToM_annotation,1349,Inhibitory Control,1
+BigToM_annotation,1349,Language,1
+BigToM_annotation,1349,Mental Simulation,0
+BigToM_annotation,1349,Metacognition,0
+BigToM_annotation,1349,Object Permanence,0
+BigToM_annotation,1349,Perception and Pattern Recognition,1
+BigToM_annotation,1349,Planning,0
+BigToM_annotation,1349,Procedural Memory,0
+BigToM_annotation,1349,Prospective Memory,0
+BigToM_annotation,1349,Semantic Memory,1
+BigToM_annotation,1349,Spatial Reasoning and Navigation,1
+BigToM_annotation,1349,Theory of Mind,1
+BigToM_annotation,1349,Working Memory,0
+BigToM_annotation,1349,ambiguity,5
+BigToM_annotation,1349,factuality,5
 BigToM_annotation,1383,Causal Reasoning,1
-BigToM_annotation,1383,Cognitive Flexibility,2
-BigToM_annotation,1383,Emotion Perception & Empathy (EPE),1
-BigToM_annotation,1383,Episodic/Episodic-Like Memory,0
-BigToM_annotation,1383,Executive Function (EF),4
-BigToM_annotation,1383,Functional perception,3
-BigToM_annotation,1383,Inhibitory Control,3
+BigToM_annotation,1383,Cognitive Flexibility,0
+BigToM_annotation,1383,Emotion Perception and Empathy,0
+BigToM_annotation,1383,Episodic Memory,0
+BigToM_annotation,1383,Functional Perception,1
+BigToM_annotation,1383,Inhibitory Control,0
 BigToM_annotation,1383,Language,1
-BigToM_annotation,1383,Mental Simulation,1
-BigToM_annotation,1383,Metacognition,3
-BigToM_annotation,1383,Object permanence,0
+BigToM_annotation,1383,Mental Simulation,0
+BigToM_annotation,1383,Metacognition,0
+BigToM_annotation,1383,Object Permanence,0
 BigToM_annotation,1383,Perception and Pattern Recognition,1
-BigToM_annotation,1383,Planning,1
-BigToM_annotation,1383,Procedural Memory,3
+BigToM_annotation,1383,Planning,0
+BigToM_annotation,1383,Procedural Memory,0
 BigToM_annotation,1383,Prospective Memory,0
-BigToM_annotation,1383,Semantic Memory,3
-BigToM_annotation,1383,Spatial reasoning and navigation,0
-BigToM_annotation,1383,Theory of Mind,0
-BigToM_annotation,1383,Working Memory,3
+BigToM_annotation,1383,Semantic Memory,2
+BigToM_annotation,1383,Spatial Reasoning and Navigation,0
+BigToM_annotation,1383,Theory of Mind,1
+BigToM_annotation,1383,Working Memory,0
 BigToM_annotation,1383,ambiguity,5
 BigToM_annotation,1383,factuality,5
-BigToM_annotation,1524,Causal Reasoning,1
+BigToM_annotation,1400,Causal Reasoning,1
+BigToM_annotation,1400,Cognitive Flexibility,0
+BigToM_annotation,1400,Emotion Perception and Empathy,0
+BigToM_annotation,1400,Episodic Memory,1
+BigToM_annotation,1400,Functional Perception,1
+BigToM_annotation,1400,Inhibitory Control,2
+BigToM_annotation,1400,Language,1
+BigToM_annotation,1400,Mental Simulation,0
+BigToM_annotation,1400,Metacognition,0
+BigToM_annotation,1400,Object Permanence,1
+BigToM_annotation,1400,Perception and Pattern Recognition,1
+BigToM_annotation,1400,Planning,0
+BigToM_annotation,1400,Procedural Memory,0
+BigToM_annotation,1400,Prospective Memory,1
+BigToM_annotation,1400,Semantic Memory,0
+BigToM_annotation,1400,Spatial Reasoning and Navigation,0
+BigToM_annotation,1400,Theory of Mind,1
+BigToM_annotation,1400,Working Memory,1
+BigToM_annotation,1400,ambiguity,5
+BigToM_annotation,1400,factuality,5
+BigToM_annotation,1405,Causal Reasoning,1
+BigToM_annotation,1405,Cognitive Flexibility,0
+BigToM_annotation,1405,Emotion Perception and Empathy,0
+BigToM_annotation,1405,Episodic Memory,0
+BigToM_annotation,1405,Functional Perception,0
+BigToM_annotation,1405,Inhibitory Control,1
+BigToM_annotation,1405,Language,1
+BigToM_annotation,1405,Mental Simulation,0
+BigToM_annotation,1405,Metacognition,0
+BigToM_annotation,1405,Object Permanence,0
+BigToM_annotation,1405,Perception and Pattern Recognition,1
+BigToM_annotation,1405,Planning,0
+BigToM_annotation,1405,Procedural Memory,0
+BigToM_annotation,1405,Prospective Memory,0
+BigToM_annotation,1405,Semantic Memory,1
+BigToM_annotation,1405,Spatial Reasoning and Navigation,1
+BigToM_annotation,1405,Theory of Mind,1
+BigToM_annotation,1405,Working Memory,0
+BigToM_annotation,1405,ambiguity,5
+BigToM_annotation,1405,factuality,5
+BigToM_annotation,1446,Causal Reasoning,1
+BigToM_annotation,1446,Cognitive Flexibility,0
+BigToM_annotation,1446,Emotion Perception and Empathy,0
+BigToM_annotation,1446,Episodic Memory,0
+BigToM_annotation,1446,Functional Perception,1
+BigToM_annotation,1446,Inhibitory Control,0
+BigToM_annotation,1446,Language,1
+BigToM_annotation,1446,Mental Simulation,0
+BigToM_annotation,1446,Metacognition,1
+BigToM_annotation,1446,Object Permanence,0
+BigToM_annotation,1446,Perception and Pattern Recognition,1
+BigToM_annotation,1446,Planning,0
+BigToM_annotation,1446,Procedural Memory,0
+BigToM_annotation,1446,Prospective Memory,0
+BigToM_annotation,1446,Semantic Memory,1
+BigToM_annotation,1446,Spatial Reasoning and Navigation,1
+BigToM_annotation,1446,Theory of Mind,1
+BigToM_annotation,1446,Working Memory,1
+BigToM_annotation,1446,ambiguity,5
+BigToM_annotation,1446,factuality,5
+BigToM_annotation,1452,Causal Reasoning,1
+BigToM_annotation,1452,Cognitive Flexibility,0
+BigToM_annotation,1452,Emotion Perception and Empathy,0
+BigToM_annotation,1452,Episodic Memory,0
+BigToM_annotation,1452,Functional Perception,1
+BigToM_annotation,1452,Inhibitory Control,0
+BigToM_annotation,1452,Language,1
+BigToM_annotation,1452,Mental Simulation,0
+BigToM_annotation,1452,Metacognition,0
+BigToM_annotation,1452,Object Permanence,0
+BigToM_annotation,1452,Perception and Pattern Recognition,1
+BigToM_annotation,1452,Planning,0
+BigToM_annotation,1452,Procedural Memory,0
+BigToM_annotation,1452,Prospective Memory,0
+BigToM_annotation,1452,Semantic Memory,2
+BigToM_annotation,1452,Spatial Reasoning and Navigation,1
+BigToM_annotation,1452,Theory of Mind,1
+BigToM_annotation,1452,Working Memory,1
+BigToM_annotation,1452,ambiguity,5
+BigToM_annotation,1452,factuality,5
+BigToM_annotation,1453,Causal Reasoning,1
+BigToM_annotation,1453,Cognitive Flexibility,0
+BigToM_annotation,1453,Emotion Perception and Empathy,0
+BigToM_annotation,1453,Episodic Memory,1
+BigToM_annotation,1453,Functional Perception,1
+BigToM_annotation,1453,Inhibitory Control,1
+BigToM_annotation,1453,Language,1
+BigToM_annotation,1453,Mental Simulation,0
+BigToM_annotation,1453,Metacognition,0
+BigToM_annotation,1453,Object Permanence,1
+BigToM_annotation,1453,Perception and Pattern Recognition,1
+BigToM_annotation,1453,Planning,0
+BigToM_annotation,1453,Procedural Memory,0
+BigToM_annotation,1453,Prospective Memory,1
+BigToM_annotation,1453,Semantic Memory,1
+BigToM_annotation,1453,Spatial Reasoning and Navigation,0
+BigToM_annotation,1453,Theory of Mind,0
+BigToM_annotation,1453,Working Memory,1
+BigToM_annotation,1453,ambiguity,5
+BigToM_annotation,1453,factuality,5
+BigToM_annotation,1491,Causal Reasoning,1
+BigToM_annotation,1491,Cognitive Flexibility,0
+BigToM_annotation,1491,Emotion Perception and Empathy,0
+BigToM_annotation,1491,Episodic Memory,0
+BigToM_annotation,1491,Functional Perception,1
+BigToM_annotation,1491,Inhibitory Control,2
+BigToM_annotation,1491,Language,1
+BigToM_annotation,1491,Mental Simulation,0
+BigToM_annotation,1491,Metacognition,0
+BigToM_annotation,1491,Object Permanence,0
+BigToM_annotation,1491,Perception and Pattern Recognition,1
+BigToM_annotation,1491,Planning,0
+BigToM_annotation,1491,Procedural Memory,0
+BigToM_annotation,1491,Prospective Memory,0
+BigToM_annotation,1491,Semantic Memory,2
+BigToM_annotation,1491,Spatial Reasoning and Navigation,1
+BigToM_annotation,1491,Theory of Mind,2
+BigToM_annotation,1491,Working Memory,1
+BigToM_annotation,1491,ambiguity,5
+BigToM_annotation,1491,factuality,5
+BigToM_annotation,1501,Causal Reasoning,0
+BigToM_annotation,1501,Cognitive Flexibility,0
+BigToM_annotation,1501,Emotion Perception and Empathy,0
+BigToM_annotation,1501,Episodic Memory,0
+BigToM_annotation,1501,Functional Perception,0
+BigToM_annotation,1501,Inhibitory Control,0
+BigToM_annotation,1501,Language,1
+BigToM_annotation,1501,Mental Simulation,0
+BigToM_annotation,1501,Metacognition,0
+BigToM_annotation,1501,Object Permanence,1
+BigToM_annotation,1501,Perception and Pattern Recognition,0
+BigToM_annotation,1501,Planning,0
+BigToM_annotation,1501,Procedural Memory,0
+BigToM_annotation,1501,Prospective Memory,0
+BigToM_annotation,1501,Semantic Memory,0
+BigToM_annotation,1501,Spatial Reasoning and Navigation,0
+BigToM_annotation,1501,Theory of Mind,1
+BigToM_annotation,1501,Working Memory,1
+BigToM_annotation,1501,ambiguity,5
+BigToM_annotation,1501,factuality,5
+BigToM_annotation,1524,Causal Reasoning,0
 BigToM_annotation,1524,Cognitive Flexibility,0
-BigToM_annotation,1524,Emotion Perception & Empathy (EPE),0
-BigToM_annotation,1524,Episodic/Episodic-Like Memory,1
-BigToM_annotation,1524,Executive Function (EF),2
-BigToM_annotation,1524,Functional perception,0
-BigToM_annotation,1524,Inhibitory Control,2
+BigToM_annotation,1524,Emotion Perception and Empathy,0
+BigToM_annotation,1524,Episodic Memory,1
+BigToM_annotation,1524,Functional Perception,1
+BigToM_annotation,1524,Inhibitory Control,0
 BigToM_annotation,1524,Language,1
-BigToM_annotation,1524,Mental Simulation,1
-BigToM_annotation,1524,Metacognition,1
-BigToM_annotation,1524,Object permanence,0
+BigToM_annotation,1524,Mental Simulation,0
+BigToM_annotation,1524,Metacognition,0
+BigToM_annotation,1524,Object Permanence,0
 BigToM_annotation,1524,Perception and Pattern Recognition,1
-BigToM_annotation,1524,Planning,1
+BigToM_annotation,1524,Planning,0
 BigToM_annotation,1524,Procedural Memory,0
-BigToM_annotation,1524,Prospective Memory,1
+BigToM_annotation,1524,Prospective Memory,0
 BigToM_annotation,1524,Semantic Memory,2
-BigToM_annotation,1524,Spatial reasoning and navigation,0
-BigToM_annotation,1524,Theory of Mind,0
-BigToM_annotation,1524,Working Memory,2
-BigToM_annotation,1524,ambiguity,4
+BigToM_annotation,1524,Spatial Reasoning and Navigation,0
+BigToM_annotation,1524,Theory of Mind,2
+BigToM_annotation,1524,Working Memory,1
+BigToM_annotation,1524,ambiguity,5
 BigToM_annotation,1524,factuality,5
+BigToM_annotation,1532,Causal Reasoning,0
+BigToM_annotation,1532,Cognitive Flexibility,0
+BigToM_annotation,1532,Emotion Perception and Empathy,0
+BigToM_annotation,1532,Episodic Memory,0
+BigToM_annotation,1532,Functional Perception,0
+BigToM_annotation,1532,Inhibitory Control,1
+BigToM_annotation,1532,Language,1
+BigToM_annotation,1532,Mental Simulation,0
+BigToM_annotation,1532,Metacognition,1
+BigToM_annotation,1532,Object Permanence,0
+BigToM_annotation,1532,Perception and Pattern Recognition,1
+BigToM_annotation,1532,Planning,0
+BigToM_annotation,1532,Procedural Memory,0
+BigToM_annotation,1532,Prospective Memory,0
+BigToM_annotation,1532,Semantic Memory,1
+BigToM_annotation,1532,Spatial Reasoning and Navigation,1
+BigToM_annotation,1532,Theory of Mind,1
+BigToM_annotation,1532,Working Memory,0
+BigToM_annotation,1532,ambiguity,3
+BigToM_annotation,1532,factuality,4
+BigToM_annotation,1554,Causal Reasoning,0
+BigToM_annotation,1554,Cognitive Flexibility,0
+BigToM_annotation,1554,Emotion Perception and Empathy,0
+BigToM_annotation,1554,Episodic Memory,0
+BigToM_annotation,1554,Functional Perception,0
+BigToM_annotation,1554,Inhibitory Control,1
+BigToM_annotation,1554,Language,1
+BigToM_annotation,1554,Mental Simulation,0
+BigToM_annotation,1554,Metacognition,0
+BigToM_annotation,1554,Object Permanence,0
+BigToM_annotation,1554,Perception and Pattern Recognition,0
+BigToM_annotation,1554,Planning,0
+BigToM_annotation,1554,Procedural Memory,0
+BigToM_annotation,1554,Prospective Memory,0
+BigToM_annotation,1554,Semantic Memory,1
+BigToM_annotation,1554,Spatial Reasoning and Navigation,0
+BigToM_annotation,1554,Theory of Mind,0
+BigToM_annotation,1554,Working Memory,0
+BigToM_annotation,1554,ambiguity,5
+BigToM_annotation,1554,factuality,5
+BigToM_annotation,155,Causal Reasoning,1
+BigToM_annotation,155,Cognitive Flexibility,0
+BigToM_annotation,155,Emotion Perception and Empathy,0
+BigToM_annotation,155,Episodic Memory,0
+BigToM_annotation,155,Functional Perception,1
+BigToM_annotation,155,Inhibitory Control,2
+BigToM_annotation,155,Language,1
+BigToM_annotation,155,Mental Simulation,1
+BigToM_annotation,155,Metacognition,1
+BigToM_annotation,155,Object Permanence,0
+BigToM_annotation,155,Perception and Pattern Recognition,1
+BigToM_annotation,155,Planning,0
+BigToM_annotation,155,Procedural Memory,1
+BigToM_annotation,155,Prospective Memory,0
+BigToM_annotation,155,Semantic Memory,3
+BigToM_annotation,155,Spatial Reasoning and Navigation,1
+BigToM_annotation,155,Theory of Mind,1
+BigToM_annotation,155,Working Memory,1
+BigToM_annotation,155,ambiguity,4
+BigToM_annotation,155,factuality,5
+BigToM_annotation,15,Causal Reasoning,1
+BigToM_annotation,15,Cognitive Flexibility,0
+BigToM_annotation,15,Emotion Perception and Empathy,1
+BigToM_annotation,15,Episodic Memory,0
+BigToM_annotation,15,Functional Perception,1
+BigToM_annotation,15,Inhibitory Control,0
+BigToM_annotation,15,Language,2
+BigToM_annotation,15,Mental Simulation,1
+BigToM_annotation,15,Metacognition,0
+BigToM_annotation,15,Object Permanence,0
+BigToM_annotation,15,Perception and Pattern Recognition,1
+BigToM_annotation,15,Planning,0
+BigToM_annotation,15,Procedural Memory,1
+BigToM_annotation,15,Prospective Memory,0
+BigToM_annotation,15,Semantic Memory,1
+BigToM_annotation,15,Spatial Reasoning and Navigation,0
+BigToM_annotation,15,Theory of Mind,1
+BigToM_annotation,15,Working Memory,0
+BigToM_annotation,15,ambiguity,5
+BigToM_annotation,15,factuality,5
+BigToM_annotation,1603,Causal Reasoning,1
+BigToM_annotation,1603,Cognitive Flexibility,0
+BigToM_annotation,1603,Emotion Perception and Empathy,0
+BigToM_annotation,1603,Episodic Memory,1
+BigToM_annotation,1603,Functional Perception,1
+BigToM_annotation,1603,Inhibitory Control,0
+BigToM_annotation,1603,Language,2
+BigToM_annotation,1603,Mental Simulation,1
+BigToM_annotation,1603,Metacognition,1
+BigToM_annotation,1603,Object Permanence,0
+BigToM_annotation,1603,Perception and Pattern Recognition,1
+BigToM_annotation,1603,Planning,0
+BigToM_annotation,1603,Procedural Memory,0
+BigToM_annotation,1603,Prospective Memory,0
+BigToM_annotation,1603,Semantic Memory,1
+BigToM_annotation,1603,Spatial Reasoning and Navigation,0
+BigToM_annotation,1603,Theory of Mind,3
+BigToM_annotation,1603,Working Memory,1
+BigToM_annotation,1603,ambiguity,5
+BigToM_annotation,1603,factuality,5
+BigToM_annotation,1617,Causal Reasoning,0
+BigToM_annotation,1617,Cognitive Flexibility,0
+BigToM_annotation,1617,Emotion Perception and Empathy,0
+BigToM_annotation,1617,Episodic Memory,0
+BigToM_annotation,1617,Functional Perception,1
+BigToM_annotation,1617,Inhibitory Control,0
+BigToM_annotation,1617,Language,1
+BigToM_annotation,1617,Mental Simulation,1
+BigToM_annotation,1617,Metacognition,0
+BigToM_annotation,1617,Object Permanence,0
+BigToM_annotation,1617,Perception and Pattern Recognition,1
+BigToM_annotation,1617,Planning,0
+BigToM_annotation,1617,Procedural Memory,0
+BigToM_annotation,1617,Prospective Memory,0
+BigToM_annotation,1617,Semantic Memory,2
+BigToM_annotation,1617,Spatial Reasoning and Navigation,0
+BigToM_annotation,1617,Theory of Mind,3
+BigToM_annotation,1617,Working Memory,1
+BigToM_annotation,1617,ambiguity,5
+BigToM_annotation,1617,factuality,5
+BigToM_annotation,1658,Causal Reasoning,1
+BigToM_annotation,1658,Cognitive Flexibility,0
+BigToM_annotation,1658,Emotion Perception and Empathy,0
+BigToM_annotation,1658,Episodic Memory,0
+BigToM_annotation,1658,Functional Perception,0
+BigToM_annotation,1658,Inhibitory Control,0
+BigToM_annotation,1658,Language,1
+BigToM_annotation,1658,Mental Simulation,0
+BigToM_annotation,1658,Metacognition,0
+BigToM_annotation,1658,Object Permanence,1
+BigToM_annotation,1658,Perception and Pattern Recognition,0
+BigToM_annotation,1658,Planning,0
+BigToM_annotation,1658,Procedural Memory,0
+BigToM_annotation,1658,Prospective Memory,0
+BigToM_annotation,1658,Semantic Memory,2
+BigToM_annotation,1658,Spatial Reasoning and Navigation,0
+BigToM_annotation,1658,Theory of Mind,3
+BigToM_annotation,1658,Working Memory,0
+BigToM_annotation,1658,ambiguity,4
+BigToM_annotation,1658,factuality,5
+BigToM_annotation,165,Causal Reasoning,1
+BigToM_annotation,165,Cognitive Flexibility,0
+BigToM_annotation,165,Emotion Perception and Empathy,1
+BigToM_annotation,165,Episodic Memory,0
+BigToM_annotation,165,Functional Perception,1
+BigToM_annotation,165,Inhibitory Control,2
+BigToM_annotation,165,Language,2
+BigToM_annotation,165,Mental Simulation,1
+BigToM_annotation,165,Metacognition,0
+BigToM_annotation,165,Object Permanence,0
+BigToM_annotation,165,Perception and Pattern Recognition,1
+BigToM_annotation,165,Planning,0
+BigToM_annotation,165,Procedural Memory,0
+BigToM_annotation,165,Prospective Memory,0
+BigToM_annotation,165,Semantic Memory,2
+BigToM_annotation,165,Spatial Reasoning and Navigation,0
+BigToM_annotation,165,Theory of Mind,0
+BigToM_annotation,165,Working Memory,0
+BigToM_annotation,165,ambiguity,4
+BigToM_annotation,165,factuality,5
+BigToM_annotation,1661,Causal Reasoning,1
+BigToM_annotation,1661,Cognitive Flexibility,0
+BigToM_annotation,1661,Emotion Perception and Empathy,0
+BigToM_annotation,1661,Episodic Memory,0
+BigToM_annotation,1661,Functional Perception,1
+BigToM_annotation,1661,Inhibitory Control,0
+BigToM_annotation,1661,Language,2
+BigToM_annotation,1661,Mental Simulation,1
+BigToM_annotation,1661,Metacognition,1
+BigToM_annotation,1661,Object Permanence,2
+BigToM_annotation,1661,Perception and Pattern Recognition,1
+BigToM_annotation,1661,Planning,0
+BigToM_annotation,1661,Procedural Memory,1
+BigToM_annotation,1661,Prospective Memory,0
+BigToM_annotation,1661,Semantic Memory,2
+BigToM_annotation,1661,Spatial Reasoning and Navigation,0
+BigToM_annotation,1661,Theory of Mind,3
+BigToM_annotation,1661,Working Memory,1
+BigToM_annotation,1661,ambiguity,5
+BigToM_annotation,1661,factuality,5
+BigToM_annotation,1662,Causal Reasoning,1
+BigToM_annotation,1662,Cognitive Flexibility,0
+BigToM_annotation,1662,Emotion Perception and Empathy,0
+BigToM_annotation,1662,Episodic Memory,1
+BigToM_annotation,1662,Functional Perception,1
+BigToM_annotation,1662,Inhibitory Control,0
+BigToM_annotation,1662,Language,2
+BigToM_annotation,1662,Mental Simulation,1
+BigToM_annotation,1662,Metacognition,0
+BigToM_annotation,1662,Object Permanence,2
+BigToM_annotation,1662,Perception and Pattern Recognition,1
+BigToM_annotation,1662,Planning,0
+BigToM_annotation,1662,Procedural Memory,0
+BigToM_annotation,1662,Prospective Memory,0
+BigToM_annotation,1662,Semantic Memory,2
+BigToM_annotation,1662,Spatial Reasoning and Navigation,0
+BigToM_annotation,1662,Theory of Mind,2
+BigToM_annotation,1662,Working Memory,0
+BigToM_annotation,1662,ambiguity,4
+BigToM_annotation,1662,factuality,5
+BigToM_annotation,1668,Causal Reasoning,1
+BigToM_annotation,1668,Cognitive Flexibility,0
+BigToM_annotation,1668,Emotion Perception and Empathy,0
+BigToM_annotation,1668,Episodic Memory,0
+BigToM_annotation,1668,Functional Perception,1
+BigToM_annotation,1668,Inhibitory Control,0
+BigToM_annotation,1668,Language,1
+BigToM_annotation,1668,Mental Simulation,1
+BigToM_annotation,1668,Metacognition,1
+BigToM_annotation,1668,Object Permanence,0
+BigToM_annotation,1668,Perception and Pattern Recognition,1
+BigToM_annotation,1668,Planning,0
+BigToM_annotation,1668,Procedural Memory,0
+BigToM_annotation,1668,Prospective Memory,0
+BigToM_annotation,1668,Semantic Memory,1
+BigToM_annotation,1668,Spatial Reasoning and Navigation,0
+BigToM_annotation,1668,Theory of Mind,3
+BigToM_annotation,1668,Working Memory,0
+BigToM_annotation,1668,ambiguity,4
+BigToM_annotation,1668,factuality,5
+BigToM_annotation,1683,Causal Reasoning,1
+BigToM_annotation,1683,Cognitive Flexibility,0
+BigToM_annotation,1683,Emotion Perception and Empathy,0
+BigToM_annotation,1683,Episodic Memory,0
+BigToM_annotation,1683,Functional Perception,1
+BigToM_annotation,1683,Inhibitory Control,0
+BigToM_annotation,1683,Language,1
+BigToM_annotation,1683,Mental Simulation,1
+BigToM_annotation,1683,Metacognition,0
+BigToM_annotation,1683,Object Permanence,0
+BigToM_annotation,1683,Perception and Pattern Recognition,1
+BigToM_annotation,1683,Planning,0
+BigToM_annotation,1683,Procedural Memory,0
+BigToM_annotation,1683,Prospective Memory,0
+BigToM_annotation,1683,Semantic Memory,1
+BigToM_annotation,1683,Spatial Reasoning and Navigation,0
+BigToM_annotation,1683,Theory of Mind,1
+BigToM_annotation,1683,Working Memory,1
+BigToM_annotation,1683,ambiguity,5
+BigToM_annotation,1683,factuality,5
+BigToM_annotation,1740,Causal Reasoning,1
+BigToM_annotation,1740,Cognitive Flexibility,0
+BigToM_annotation,1740,Emotion Perception and Empathy,0
+BigToM_annotation,1740,Episodic Memory,1
+BigToM_annotation,1740,Functional Perception,0
+BigToM_annotation,1740,Inhibitory Control,0
+BigToM_annotation,1740,Language,1
+BigToM_annotation,1740,Mental Simulation,1
+BigToM_annotation,1740,Metacognition,0
+BigToM_annotation,1740,Object Permanence,0
+BigToM_annotation,1740,Perception and Pattern Recognition,1
+BigToM_annotation,1740,Planning,0
+BigToM_annotation,1740,Procedural Memory,0
+BigToM_annotation,1740,Prospective Memory,0
+BigToM_annotation,1740,Semantic Memory,3
+BigToM_annotation,1740,Spatial Reasoning and Navigation,0
+BigToM_annotation,1740,Theory of Mind,2
+BigToM_annotation,1740,Working Memory,0
+BigToM_annotation,1740,ambiguity,5
+BigToM_annotation,1740,factuality,5
+BigToM_annotation,1759,Causal Reasoning,1
+BigToM_annotation,1759,Cognitive Flexibility,0
+BigToM_annotation,1759,Emotion Perception and Empathy,0
+BigToM_annotation,1759,Episodic Memory,0
+BigToM_annotation,1759,Functional Perception,0
+BigToM_annotation,1759,Inhibitory Control,0
+BigToM_annotation,1759,Language,1
+BigToM_annotation,1759,Mental Simulation,1
+BigToM_annotation,1759,Metacognition,1
+BigToM_annotation,1759,Object Permanence,0
+BigToM_annotation,1759,Perception and Pattern Recognition,0
+BigToM_annotation,1759,Planning,0
+BigToM_annotation,1759,Procedural Memory,0
+BigToM_annotation,1759,Prospective Memory,0
+BigToM_annotation,1759,Semantic Memory,3
+BigToM_annotation,1759,Spatial Reasoning and Navigation,0
+BigToM_annotation,1759,Theory of Mind,3
+BigToM_annotation,1759,Working Memory,1
+BigToM_annotation,1759,ambiguity,4
+BigToM_annotation,1759,factuality,5
+BigToM_annotation,1778,Causal Reasoning,1
+BigToM_annotation,1778,Cognitive Flexibility,0
+BigToM_annotation,1778,Emotion Perception and Empathy,0
+BigToM_annotation,1778,Episodic Memory,0
+BigToM_annotation,1778,Functional Perception,0
+BigToM_annotation,1778,Inhibitory Control,0
+BigToM_annotation,1778,Language,2
+BigToM_annotation,1778,Mental Simulation,0
+BigToM_annotation,1778,Metacognition,0
+BigToM_annotation,1778,Object Permanence,1
+BigToM_annotation,1778,Perception and Pattern Recognition,1
+BigToM_annotation,1778,Planning,0
+BigToM_annotation,1778,Procedural Memory,1
+BigToM_annotation,1778,Prospective Memory,0
+BigToM_annotation,1778,Semantic Memory,3
+BigToM_annotation,1778,Spatial Reasoning and Navigation,0
+BigToM_annotation,1778,Theory of Mind,3
+BigToM_annotation,1778,Working Memory,0
+BigToM_annotation,1778,ambiguity,5
+BigToM_annotation,1778,factuality,5
+BigToM_annotation,180,Causal Reasoning,1
+BigToM_annotation,180,Cognitive Flexibility,0
+BigToM_annotation,180,Emotion Perception and Empathy,0
+BigToM_annotation,180,Episodic Memory,0
+BigToM_annotation,180,Functional Perception,1
+BigToM_annotation,180,Inhibitory Control,1
+BigToM_annotation,180,Language,1
+BigToM_annotation,180,Mental Simulation,1
+BigToM_annotation,180,Metacognition,0
+BigToM_annotation,180,Object Permanence,0
+BigToM_annotation,180,Perception and Pattern Recognition,1
+BigToM_annotation,180,Planning,0
+BigToM_annotation,180,Procedural Memory,1
+BigToM_annotation,180,Prospective Memory,1
+BigToM_annotation,180,Semantic Memory,1
+BigToM_annotation,180,Spatial Reasoning and Navigation,0
+BigToM_annotation,180,Theory of Mind,0
+BigToM_annotation,180,Working Memory,1
+BigToM_annotation,180,ambiguity,5
+BigToM_annotation,180,factuality,5
+BigToM_annotation,1850,Causal Reasoning,0
+BigToM_annotation,1850,Cognitive Flexibility,0
+BigToM_annotation,1850,Emotion Perception and Empathy,0
+BigToM_annotation,1850,Episodic Memory,0
+BigToM_annotation,1850,Functional Perception,1
+BigToM_annotation,1850,Inhibitory Control,0
+BigToM_annotation,1850,Language,1
+BigToM_annotation,1850,Mental Simulation,1
+BigToM_annotation,1850,Metacognition,1
+BigToM_annotation,1850,Object Permanence,0
+BigToM_annotation,1850,Perception and Pattern Recognition,1
+BigToM_annotation,1850,Planning,0
+BigToM_annotation,1850,Procedural Memory,2
+BigToM_annotation,1850,Prospective Memory,0
+BigToM_annotation,1850,Semantic Memory,3
+BigToM_annotation,1850,Spatial Reasoning and Navigation,1
+BigToM_annotation,1850,Theory of Mind,1
+BigToM_annotation,1850,Working Memory,0
+BigToM_annotation,1850,ambiguity,3
+BigToM_annotation,1850,factuality,5
+BigToM_annotation,1859,Causal Reasoning,1
+BigToM_annotation,1859,Cognitive Flexibility,0
+BigToM_annotation,1859,Emotion Perception and Empathy,0
+BigToM_annotation,1859,Episodic Memory,0
+BigToM_annotation,1859,Functional Perception,0
+BigToM_annotation,1859,Inhibitory Control,0
+BigToM_annotation,1859,Language,2
+BigToM_annotation,1859,Mental Simulation,1
+BigToM_annotation,1859,Metacognition,0
+BigToM_annotation,1859,Object Permanence,1
+BigToM_annotation,1859,Perception and Pattern Recognition,1
+BigToM_annotation,1859,Planning,0
+BigToM_annotation,1859,Procedural Memory,1
+BigToM_annotation,1859,Prospective Memory,0
+BigToM_annotation,1859,Semantic Memory,1
+BigToM_annotation,1859,Spatial Reasoning and Navigation,1
+BigToM_annotation,1859,Theory of Mind,3
+BigToM_annotation,1859,Working Memory,1
+BigToM_annotation,1859,ambiguity,5
+BigToM_annotation,1859,factuality,5
+BigToM_annotation,1873,Causal Reasoning,1
+BigToM_annotation,1873,Cognitive Flexibility,0
+BigToM_annotation,1873,Emotion Perception and Empathy,0
+BigToM_annotation,1873,Episodic Memory,0
+BigToM_annotation,1873,Functional Perception,0
+BigToM_annotation,1873,Inhibitory Control,0
+BigToM_annotation,1873,Language,1
+BigToM_annotation,1873,Mental Simulation,1
+BigToM_annotation,1873,Metacognition,0
+BigToM_annotation,1873,Object Permanence,0
+BigToM_annotation,1873,Perception and Pattern Recognition,1
+BigToM_annotation,1873,Planning,0
+BigToM_annotation,1873,Procedural Memory,1
+BigToM_annotation,1873,Prospective Memory,0
+BigToM_annotation,1873,Semantic Memory,2
+BigToM_annotation,1873,Spatial Reasoning and Navigation,0
+BigToM_annotation,1873,Theory of Mind,2
+BigToM_annotation,1873,Working Memory,0
+BigToM_annotation,1873,ambiguity,3
+BigToM_annotation,1873,factuality,2
 BigToM_annotation,1881,Causal Reasoning,1
 BigToM_annotation,1881,Cognitive Flexibility,0
-BigToM_annotation,1881,Emotion Perception & Empathy (EPE),0
-BigToM_annotation,1881,Episodic/Episodic-Like Memory,0
-BigToM_annotation,1881,Executive Function (EF),1
-BigToM_annotation,1881,Functional perception,1
+BigToM_annotation,1881,Emotion Perception and Empathy,0
+BigToM_annotation,1881,Episodic Memory,0
+BigToM_annotation,1881,Functional Perception,0
 BigToM_annotation,1881,Inhibitory Control,0
 BigToM_annotation,1881,Language,1
-BigToM_annotation,1881,Mental Simulation,0
+BigToM_annotation,1881,Mental Simulation,1
 BigToM_annotation,1881,Metacognition,0
-BigToM_annotation,1881,Object permanence,0
+BigToM_annotation,1881,Object Permanence,0
 BigToM_annotation,1881,Perception and Pattern Recognition,1
 BigToM_annotation,1881,Planning,0
 BigToM_annotation,1881,Procedural Memory,0
 BigToM_annotation,1881,Prospective Memory,0
 BigToM_annotation,1881,Semantic Memory,1
-BigToM_annotation,1881,Spatial reasoning and navigation,0
+BigToM_annotation,1881,Spatial Reasoning and Navigation,0
 BigToM_annotation,1881,Theory of Mind,2
-BigToM_annotation,1881,Working Memory,2
+BigToM_annotation,1881,Working Memory,0
 BigToM_annotation,1881,ambiguity,5
 BigToM_annotation,1881,factuality,5
+BigToM_annotation,18,Causal Reasoning,1
+BigToM_annotation,18,Cognitive Flexibility,0
+BigToM_annotation,18,Emotion Perception and Empathy,0
+BigToM_annotation,18,Episodic Memory,0
+BigToM_annotation,18,Functional Perception,1
+BigToM_annotation,18,Inhibitory Control,2
+BigToM_annotation,18,Language,1
+BigToM_annotation,18,Mental Simulation,1
+BigToM_annotation,18,Metacognition,0
+BigToM_annotation,18,Object Permanence,0
+BigToM_annotation,18,Perception and Pattern Recognition,1
+BigToM_annotation,18,Planning,0
+BigToM_annotation,18,Procedural Memory,1
+BigToM_annotation,18,Prospective Memory,1
+BigToM_annotation,18,Semantic Memory,1
+BigToM_annotation,18,Spatial Reasoning and Navigation,0
+BigToM_annotation,18,Theory of Mind,2
+BigToM_annotation,18,Working Memory,1
+BigToM_annotation,18,ambiguity,4
+BigToM_annotation,18,factuality,5
+BigToM_annotation,1916,Causal Reasoning,1
+BigToM_annotation,1916,Cognitive Flexibility,0
+BigToM_annotation,1916,Emotion Perception and Empathy,0
+BigToM_annotation,1916,Episodic Memory,0
+BigToM_annotation,1916,Functional Perception,3
+BigToM_annotation,1916,Inhibitory Control,0
+BigToM_annotation,1916,Language,2
+BigToM_annotation,1916,Mental Simulation,1
+BigToM_annotation,1916,Metacognition,1
+BigToM_annotation,1916,Object Permanence,1
+BigToM_annotation,1916,Perception and Pattern Recognition,2
+BigToM_annotation,1916,Planning,0
+BigToM_annotation,1916,Procedural Memory,0
+BigToM_annotation,1916,Prospective Memory,0
+BigToM_annotation,1916,Semantic Memory,3
+BigToM_annotation,1916,Spatial Reasoning and Navigation,1
+BigToM_annotation,1916,Theory of Mind,1
+BigToM_annotation,1916,Working Memory,1
+BigToM_annotation,1916,ambiguity,4
+BigToM_annotation,1916,factuality,5
+BigToM_annotation,1966,Causal Reasoning,1
+BigToM_annotation,1966,Cognitive Flexibility,0
+BigToM_annotation,1966,Emotion Perception and Empathy,0
+BigToM_annotation,1966,Episodic Memory,0
+BigToM_annotation,1966,Functional Perception,1
+BigToM_annotation,1966,Inhibitory Control,0
+BigToM_annotation,1966,Language,1
+BigToM_annotation,1966,Mental Simulation,1
+BigToM_annotation,1966,Metacognition,1
+BigToM_annotation,1966,Object Permanence,0
+BigToM_annotation,1966,Perception and Pattern Recognition,1
+BigToM_annotation,1966,Planning,0
+BigToM_annotation,1966,Procedural Memory,0
+BigToM_annotation,1966,Prospective Memory,0
+BigToM_annotation,1966,Semantic Memory,1
+BigToM_annotation,1966,Spatial Reasoning and Navigation,0
+BigToM_annotation,1966,Theory of Mind,2
+BigToM_annotation,1966,Working Memory,0
+BigToM_annotation,1966,ambiguity,3
+BigToM_annotation,1966,factuality,5
+BigToM_annotation,1971,Causal Reasoning,1
+BigToM_annotation,1971,Cognitive Flexibility,0
+BigToM_annotation,1971,Emotion Perception and Empathy,0
+BigToM_annotation,1971,Episodic Memory,0
+BigToM_annotation,1971,Functional Perception,0
+BigToM_annotation,1971,Inhibitory Control,0
+BigToM_annotation,1971,Language,1
+BigToM_annotation,1971,Mental Simulation,1
+BigToM_annotation,1971,Metacognition,0
+BigToM_annotation,1971,Object Permanence,0
+BigToM_annotation,1971,Perception and Pattern Recognition,1
+BigToM_annotation,1971,Planning,0
+BigToM_annotation,1971,Procedural Memory,0
+BigToM_annotation,1971,Prospective Memory,0
+BigToM_annotation,1971,Semantic Memory,2
+BigToM_annotation,1971,Spatial Reasoning and Navigation,0
+BigToM_annotation,1971,Theory of Mind,1
+BigToM_annotation,1971,Working Memory,0
+BigToM_annotation,1971,ambiguity,5
+BigToM_annotation,1971,factuality,5
+BigToM_annotation,1999,Causal Reasoning,1
+BigToM_annotation,1999,Cognitive Flexibility,0
+BigToM_annotation,1999,Emotion Perception and Empathy,0
+BigToM_annotation,1999,Episodic Memory,0
+BigToM_annotation,1999,Functional Perception,2
+BigToM_annotation,1999,Inhibitory Control,0
+BigToM_annotation,1999,Language,2
+BigToM_annotation,1999,Mental Simulation,1
+BigToM_annotation,1999,Metacognition,1
+BigToM_annotation,1999,Object Permanence,0
+BigToM_annotation,1999,Perception and Pattern Recognition,1
+BigToM_annotation,1999,Planning,0
+BigToM_annotation,1999,Procedural Memory,0
+BigToM_annotation,1999,Prospective Memory,0
+BigToM_annotation,1999,Semantic Memory,2
+BigToM_annotation,1999,Spatial Reasoning and Navigation,0
+BigToM_annotation,1999,Theory of Mind,1
+BigToM_annotation,1999,Working Memory,0
+BigToM_annotation,1999,ambiguity,2
+BigToM_annotation,1999,factuality,1
+BigToM_annotation,2054,Causal Reasoning,1
+BigToM_annotation,2054,Cognitive Flexibility,2
+BigToM_annotation,2054,Emotion Perception and Empathy,0
+BigToM_annotation,2054,Episodic Memory,0
+BigToM_annotation,2054,Functional Perception,1
+BigToM_annotation,2054,Inhibitory Control,1
+BigToM_annotation,2054,Language,2
+BigToM_annotation,2054,Mental Simulation,1
+BigToM_annotation,2054,Metacognition,0
+BigToM_annotation,2054,Object Permanence,1
+BigToM_annotation,2054,Perception and Pattern Recognition,1
+BigToM_annotation,2054,Planning,0
+BigToM_annotation,2054,Procedural Memory,0
+BigToM_annotation,2054,Prospective Memory,0
+BigToM_annotation,2054,Semantic Memory,1
+BigToM_annotation,2054,Spatial Reasoning and Navigation,1
+BigToM_annotation,2054,Theory of Mind,1
+BigToM_annotation,2054,Working Memory,1
+BigToM_annotation,2054,ambiguity,5
+BigToM_annotation,2054,factuality,5
+BigToM_annotation,2075,Causal Reasoning,1
+BigToM_annotation,2075,Cognitive Flexibility,1
+BigToM_annotation,2075,Emotion Perception and Empathy,0
+BigToM_annotation,2075,Episodic Memory,1
+BigToM_annotation,2075,Functional Perception,1
+BigToM_annotation,2075,Inhibitory Control,0
+BigToM_annotation,2075,Language,2
+BigToM_annotation,2075,Mental Simulation,0
+BigToM_annotation,2075,Metacognition,1
+BigToM_annotation,2075,Object Permanence,2
+BigToM_annotation,2075,Perception and Pattern Recognition,1
+BigToM_annotation,2075,Planning,0
+BigToM_annotation,2075,Procedural Memory,0
+BigToM_annotation,2075,Prospective Memory,0
+BigToM_annotation,2075,Semantic Memory,1
+BigToM_annotation,2075,Spatial Reasoning and Navigation,1
+BigToM_annotation,2075,Theory of Mind,1
+BigToM_annotation,2075,Working Memory,1
+BigToM_annotation,2075,ambiguity,5
+BigToM_annotation,2075,factuality,5
+BigToM_annotation,2093,Causal Reasoning,1
+BigToM_annotation,2093,Cognitive Flexibility,1
+BigToM_annotation,2093,Emotion Perception and Empathy,0
+BigToM_annotation,2093,Episodic Memory,1
+BigToM_annotation,2093,Functional Perception,0
+BigToM_annotation,2093,Inhibitory Control,1
+BigToM_annotation,2093,Language,1
+BigToM_annotation,2093,Mental Simulation,1
+BigToM_annotation,2093,Metacognition,0
+BigToM_annotation,2093,Object Permanence,1
+BigToM_annotation,2093,Perception and Pattern Recognition,1
+BigToM_annotation,2093,Planning,0
+BigToM_annotation,2093,Procedural Memory,0
+BigToM_annotation,2093,Prospective Memory,0
+BigToM_annotation,2093,Semantic Memory,1
+BigToM_annotation,2093,Spatial Reasoning and Navigation,1
+BigToM_annotation,2093,Theory of Mind,1
+BigToM_annotation,2093,Working Memory,1
+BigToM_annotation,2093,ambiguity,5
+BigToM_annotation,2093,factuality,5
+BigToM_annotation,2094,Causal Reasoning,1
+BigToM_annotation,2094,Cognitive Flexibility,1
+BigToM_annotation,2094,Emotion Perception and Empathy,0
+BigToM_annotation,2094,Episodic Memory,1
+BigToM_annotation,2094,Functional Perception,1
+BigToM_annotation,2094,Inhibitory Control,1
+BigToM_annotation,2094,Language,1
+BigToM_annotation,2094,Mental Simulation,0
+BigToM_annotation,2094,Metacognition,1
+BigToM_annotation,2094,Object Permanence,1
+BigToM_annotation,2094,Perception and Pattern Recognition,1
+BigToM_annotation,2094,Planning,0
+BigToM_annotation,2094,Procedural Memory,0
+BigToM_annotation,2094,Prospective Memory,0
+BigToM_annotation,2094,Semantic Memory,1
+BigToM_annotation,2094,Spatial Reasoning and Navigation,1
+BigToM_annotation,2094,Theory of Mind,2
+BigToM_annotation,2094,Working Memory,1
+BigToM_annotation,2094,ambiguity,5
+BigToM_annotation,2094,factuality,5
+BigToM_annotation,2106,Causal Reasoning,1
+BigToM_annotation,2106,Cognitive Flexibility,1
+BigToM_annotation,2106,Emotion Perception and Empathy,0
+BigToM_annotation,2106,Episodic Memory,0
+BigToM_annotation,2106,Functional Perception,2
+BigToM_annotation,2106,Inhibitory Control,1
+BigToM_annotation,2106,Language,2
+BigToM_annotation,2106,Mental Simulation,1
+BigToM_annotation,2106,Metacognition,1
+BigToM_annotation,2106,Object Permanence,1
+BigToM_annotation,2106,Perception and Pattern Recognition,1
+BigToM_annotation,2106,Planning,0
+BigToM_annotation,2106,Procedural Memory,0
+BigToM_annotation,2106,Prospective Memory,0
+BigToM_annotation,2106,Semantic Memory,1
+BigToM_annotation,2106,Spatial Reasoning and Navigation,0
+BigToM_annotation,2106,Theory of Mind,1
+BigToM_annotation,2106,Working Memory,1
+BigToM_annotation,2106,ambiguity,5
+BigToM_annotation,2106,factuality,5
+BigToM_annotation,2138,Causal Reasoning,1
+BigToM_annotation,2138,Cognitive Flexibility,1
+BigToM_annotation,2138,Emotion Perception and Empathy,0
+BigToM_annotation,2138,Episodic Memory,1
+BigToM_annotation,2138,Functional Perception,1
+BigToM_annotation,2138,Inhibitory Control,0
+BigToM_annotation,2138,Language,2
+BigToM_annotation,2138,Mental Simulation,1
+BigToM_annotation,2138,Metacognition,1
+BigToM_annotation,2138,Object Permanence,0
+BigToM_annotation,2138,Perception and Pattern Recognition,1
+BigToM_annotation,2138,Planning,0
+BigToM_annotation,2138,Procedural Memory,0
+BigToM_annotation,2138,Prospective Memory,0
+BigToM_annotation,2138,Semantic Memory,3
+BigToM_annotation,2138,Spatial Reasoning and Navigation,0
+BigToM_annotation,2138,Theory of Mind,1
+BigToM_annotation,2138,Working Memory,1
+BigToM_annotation,2138,ambiguity,5
+BigToM_annotation,2138,factuality,5
+BigToM_annotation,2149,Causal Reasoning,1
+BigToM_annotation,2149,Cognitive Flexibility,1
+BigToM_annotation,2149,Emotion Perception and Empathy,0
+BigToM_annotation,2149,Episodic Memory,1
+BigToM_annotation,2149,Functional Perception,1
+BigToM_annotation,2149,Inhibitory Control,0
+BigToM_annotation,2149,Language,2
+BigToM_annotation,2149,Mental Simulation,1
+BigToM_annotation,2149,Metacognition,0
+BigToM_annotation,2149,Object Permanence,0
+BigToM_annotation,2149,Perception and Pattern Recognition,1
+BigToM_annotation,2149,Planning,0
+BigToM_annotation,2149,Procedural Memory,0
+BigToM_annotation,2149,Prospective Memory,0
+BigToM_annotation,2149,Semantic Memory,1
+BigToM_annotation,2149,Spatial Reasoning and Navigation,1
+BigToM_annotation,2149,Theory of Mind,2
+BigToM_annotation,2149,Working Memory,1
+BigToM_annotation,2149,ambiguity,5
+BigToM_annotation,2149,factuality,5
+BigToM_annotation,2165,Causal Reasoning,1
+BigToM_annotation,2165,Cognitive Flexibility,0
+BigToM_annotation,2165,Emotion Perception and Empathy,0
+BigToM_annotation,2165,Episodic Memory,0
+BigToM_annotation,2165,Functional Perception,0
+BigToM_annotation,2165,Inhibitory Control,0
+BigToM_annotation,2165,Language,2
+BigToM_annotation,2165,Mental Simulation,1
+BigToM_annotation,2165,Metacognition,0
+BigToM_annotation,2165,Object Permanence,0
+BigToM_annotation,2165,Perception and Pattern Recognition,1
+BigToM_annotation,2165,Planning,0
+BigToM_annotation,2165,Procedural Memory,0
+BigToM_annotation,2165,Prospective Memory,0
+BigToM_annotation,2165,Semantic Memory,1
+BigToM_annotation,2165,Spatial Reasoning and Navigation,1
+BigToM_annotation,2165,Theory of Mind,1
+BigToM_annotation,2165,Working Memory,3
+BigToM_annotation,2165,ambiguity,5
+BigToM_annotation,2165,factuality,5
+BigToM_annotation,2229,Causal Reasoning,1
+BigToM_annotation,2229,Cognitive Flexibility,1
+BigToM_annotation,2229,Emotion Perception and Empathy,1
+BigToM_annotation,2229,Episodic Memory,1
+BigToM_annotation,2229,Functional Perception,2
+BigToM_annotation,2229,Inhibitory Control,2
+BigToM_annotation,2229,Language,2
+BigToM_annotation,2229,Mental Simulation,1
+BigToM_annotation,2229,Metacognition,0
+BigToM_annotation,2229,Object Permanence,0
+BigToM_annotation,2229,Perception and Pattern Recognition,1
+BigToM_annotation,2229,Planning,1
+BigToM_annotation,2229,Procedural Memory,2
+BigToM_annotation,2229,Prospective Memory,0
+BigToM_annotation,2229,Semantic Memory,2
+BigToM_annotation,2229,Spatial Reasoning and Navigation,0
+BigToM_annotation,2229,Theory of Mind,0
+BigToM_annotation,2229,Working Memory,2
+BigToM_annotation,2229,ambiguity,5
+BigToM_annotation,2229,factuality,5
+BigToM_annotation,2233,Causal Reasoning,1
+BigToM_annotation,2233,Cognitive Flexibility,1
+BigToM_annotation,2233,Emotion Perception and Empathy,1
+BigToM_annotation,2233,Episodic Memory,0
+BigToM_annotation,2233,Functional Perception,1
+BigToM_annotation,2233,Inhibitory Control,1
+BigToM_annotation,2233,Language,1
+BigToM_annotation,2233,Mental Simulation,1
+BigToM_annotation,2233,Metacognition,1
+BigToM_annotation,2233,Object Permanence,0
+BigToM_annotation,2233,Perception and Pattern Recognition,1
+BigToM_annotation,2233,Planning,0
+BigToM_annotation,2233,Procedural Memory,0
+BigToM_annotation,2233,Prospective Memory,0
+BigToM_annotation,2233,Semantic Memory,2
+BigToM_annotation,2233,Spatial Reasoning and Navigation,1
+BigToM_annotation,2233,Theory of Mind,1
+BigToM_annotation,2233,Working Memory,0
+BigToM_annotation,2233,ambiguity,5
+BigToM_annotation,2233,factuality,5
+BigToM_annotation,2262,Causal Reasoning,1
+BigToM_annotation,2262,Cognitive Flexibility,1
+BigToM_annotation,2262,Emotion Perception and Empathy,2
+BigToM_annotation,2262,Episodic Memory,0
+BigToM_annotation,2262,Functional Perception,2
+BigToM_annotation,2262,Inhibitory Control,1
+BigToM_annotation,2262,Language,1
+BigToM_annotation,2262,Mental Simulation,1
+BigToM_annotation,2262,Metacognition,1
+BigToM_annotation,2262,Object Permanence,1
+BigToM_annotation,2262,Perception and Pattern Recognition,1
+BigToM_annotation,2262,Planning,1
+BigToM_annotation,2262,Procedural Memory,1
+BigToM_annotation,2262,Prospective Memory,0
+BigToM_annotation,2262,Semantic Memory,2
+BigToM_annotation,2262,Spatial Reasoning and Navigation,0
+BigToM_annotation,2262,Theory of Mind,1
+BigToM_annotation,2262,Working Memory,1
+BigToM_annotation,2262,ambiguity,4
+BigToM_annotation,2262,factuality,5
+BigToM_annotation,2272,Causal Reasoning,1
+BigToM_annotation,2272,Cognitive Flexibility,0
+BigToM_annotation,2272,Emotion Perception and Empathy,0
+BigToM_annotation,2272,Episodic Memory,0
+BigToM_annotation,2272,Functional Perception,1
+BigToM_annotation,2272,Inhibitory Control,0
+BigToM_annotation,2272,Language,1
+BigToM_annotation,2272,Mental Simulation,1
+BigToM_annotation,2272,Metacognition,1
+BigToM_annotation,2272,Object Permanence,0
+BigToM_annotation,2272,Perception and Pattern Recognition,1
+BigToM_annotation,2272,Planning,1
+BigToM_annotation,2272,Procedural Memory,2
+BigToM_annotation,2272,Prospective Memory,0
+BigToM_annotation,2272,Semantic Memory,3
+BigToM_annotation,2272,Spatial Reasoning and Navigation,1
+BigToM_annotation,2272,Theory of Mind,0
+BigToM_annotation,2272,Working Memory,0
+BigToM_annotation,2272,ambiguity,4
+BigToM_annotation,2272,factuality,5
+BigToM_annotation,2311,Causal Reasoning,1
+BigToM_annotation,2311,Cognitive Flexibility,1
+BigToM_annotation,2311,Emotion Perception and Empathy,0
+BigToM_annotation,2311,Episodic Memory,0
+BigToM_annotation,2311,Functional Perception,1
+BigToM_annotation,2311,Inhibitory Control,0
+BigToM_annotation,2311,Language,1
+BigToM_annotation,2311,Mental Simulation,1
+BigToM_annotation,2311,Metacognition,1
+BigToM_annotation,2311,Object Permanence,0
+BigToM_annotation,2311,Perception and Pattern Recognition,1
+BigToM_annotation,2311,Planning,0
+BigToM_annotation,2311,Procedural Memory,0
+BigToM_annotation,2311,Prospective Memory,0
+BigToM_annotation,2311,Semantic Memory,2
+BigToM_annotation,2311,Spatial Reasoning and Navigation,0
+BigToM_annotation,2311,Theory of Mind,2
+BigToM_annotation,2311,Working Memory,2
+BigToM_annotation,2311,ambiguity,3
+BigToM_annotation,2311,factuality,5
+BigToM_annotation,2333,Causal Reasoning,1
+BigToM_annotation,2333,Cognitive Flexibility,1
+BigToM_annotation,2333,Emotion Perception and Empathy,0
+BigToM_annotation,2333,Episodic Memory,1
+BigToM_annotation,2333,Functional Perception,1
+BigToM_annotation,2333,Inhibitory Control,1
+BigToM_annotation,2333,Language,2
+BigToM_annotation,2333,Mental Simulation,1
+BigToM_annotation,2333,Metacognition,0
+BigToM_annotation,2333,Object Permanence,0
+BigToM_annotation,2333,Perception and Pattern Recognition,2
+BigToM_annotation,2333,Planning,1
+BigToM_annotation,2333,Procedural Memory,1
+BigToM_annotation,2333,Prospective Memory,0
+BigToM_annotation,2333,Semantic Memory,2
+BigToM_annotation,2333,Spatial Reasoning and Navigation,0
+BigToM_annotation,2333,Theory of Mind,1
+BigToM_annotation,2333,Working Memory,1
+BigToM_annotation,2333,ambiguity,4
+BigToM_annotation,2333,factuality,5
+BigToM_annotation,238,Causal Reasoning,1
+BigToM_annotation,238,Cognitive Flexibility,1
+BigToM_annotation,238,Emotion Perception and Empathy,0
+BigToM_annotation,238,Episodic Memory,1
+BigToM_annotation,238,Functional Perception,1
+BigToM_annotation,238,Inhibitory Control,0
+BigToM_annotation,238,Language,2
+BigToM_annotation,238,Mental Simulation,1
+BigToM_annotation,238,Metacognition,1
+BigToM_annotation,238,Object Permanence,0
+BigToM_annotation,238,Perception and Pattern Recognition,2
+BigToM_annotation,238,Planning,0
+BigToM_annotation,238,Procedural Memory,0
+BigToM_annotation,238,Prospective Memory,0
+BigToM_annotation,238,Semantic Memory,2
+BigToM_annotation,238,Spatial Reasoning and Navigation,0
+BigToM_annotation,238,Theory of Mind,1
+BigToM_annotation,238,Working Memory,1
+BigToM_annotation,238,ambiguity,5
+BigToM_annotation,238,factuality,5
+BigToM_annotation,2425,Causal Reasoning,0
+BigToM_annotation,2425,Cognitive Flexibility,0
+BigToM_annotation,2425,Emotion Perception and Empathy,0
+BigToM_annotation,2425,Episodic Memory,0
+BigToM_annotation,2425,Functional Perception,1
+BigToM_annotation,2425,Inhibitory Control,0
+BigToM_annotation,2425,Language,1
+BigToM_annotation,2425,Mental Simulation,1
+BigToM_annotation,2425,Metacognition,0
+BigToM_annotation,2425,Object Permanence,0
+BigToM_annotation,2425,Perception and Pattern Recognition,2
+BigToM_annotation,2425,Planning,0
+BigToM_annotation,2425,Procedural Memory,0
+BigToM_annotation,2425,Prospective Memory,0
+BigToM_annotation,2425,Semantic Memory,2
+BigToM_annotation,2425,Spatial Reasoning and Navigation,0
+BigToM_annotation,2425,Theory of Mind,2
+BigToM_annotation,2425,Working Memory,1
+BigToM_annotation,2425,ambiguity,3
+BigToM_annotation,2425,factuality,1
+BigToM_annotation,2436,Causal Reasoning,0
+BigToM_annotation,2436,Cognitive Flexibility,0
+BigToM_annotation,2436,Emotion Perception and Empathy,0
+BigToM_annotation,2436,Episodic Memory,0
+BigToM_annotation,2436,Functional Perception,0
+BigToM_annotation,2436,Inhibitory Control,0
+BigToM_annotation,2436,Language,1
+BigToM_annotation,2436,Mental Simulation,0
+BigToM_annotation,2436,Metacognition,1
+BigToM_annotation,2436,Object Permanence,0
+BigToM_annotation,2436,Perception and Pattern Recognition,1
+BigToM_annotation,2436,Planning,0
+BigToM_annotation,2436,Procedural Memory,0
+BigToM_annotation,2436,Prospective Memory,0
+BigToM_annotation,2436,Semantic Memory,1
+BigToM_annotation,2436,Spatial Reasoning and Navigation,0
+BigToM_annotation,2436,Theory of Mind,2
+BigToM_annotation,2436,Working Memory,1
+BigToM_annotation,2436,ambiguity,5
+BigToM_annotation,2436,factuality,1
+BigToM_annotation,2464,Causal Reasoning,0
+BigToM_annotation,2464,Cognitive Flexibility,0
+BigToM_annotation,2464,Emotion Perception and Empathy,0
+BigToM_annotation,2464,Episodic Memory,0
+BigToM_annotation,2464,Functional Perception,0
+BigToM_annotation,2464,Inhibitory Control,0
+BigToM_annotation,2464,Language,1
+BigToM_annotation,2464,Mental Simulation,0
+BigToM_annotation,2464,Metacognition,1
+BigToM_annotation,2464,Object Permanence,0
+BigToM_annotation,2464,Perception and Pattern Recognition,1
+BigToM_annotation,2464,Planning,0
+BigToM_annotation,2464,Procedural Memory,0
+BigToM_annotation,2464,Prospective Memory,0
+BigToM_annotation,2464,Semantic Memory,2
+BigToM_annotation,2464,Spatial Reasoning and Navigation,0
+BigToM_annotation,2464,Theory of Mind,1
+BigToM_annotation,2464,Working Memory,1
+BigToM_annotation,2464,ambiguity,5
+BigToM_annotation,2464,factuality,1
+BigToM_annotation,2471,Causal Reasoning,1
+BigToM_annotation,2471,Cognitive Flexibility,0
+BigToM_annotation,2471,Emotion Perception and Empathy,0
+BigToM_annotation,2471,Episodic Memory,0
+BigToM_annotation,2471,Functional Perception,0
+BigToM_annotation,2471,Inhibitory Control,0
+BigToM_annotation,2471,Language,1
+BigToM_annotation,2471,Mental Simulation,1
+BigToM_annotation,2471,Metacognition,1
+BigToM_annotation,2471,Object Permanence,0
+BigToM_annotation,2471,Perception and Pattern Recognition,1
+BigToM_annotation,2471,Planning,0
+BigToM_annotation,2471,Procedural Memory,0
+BigToM_annotation,2471,Prospective Memory,0
+BigToM_annotation,2471,Semantic Memory,1
+BigToM_annotation,2471,Spatial Reasoning and Navigation,1
+BigToM_annotation,2471,Theory of Mind,1
+BigToM_annotation,2471,Working Memory,1
+BigToM_annotation,2471,ambiguity,3
+BigToM_annotation,2471,factuality,1
+BigToM_annotation,2475,Causal Reasoning,0
+BigToM_annotation,2475,Cognitive Flexibility,0
+BigToM_annotation,2475,Emotion Perception and Empathy,0
+BigToM_annotation,2475,Episodic Memory,0
+BigToM_annotation,2475,Functional Perception,2
+BigToM_annotation,2475,Inhibitory Control,0
+BigToM_annotation,2475,Language,1
+BigToM_annotation,2475,Mental Simulation,1
+BigToM_annotation,2475,Metacognition,0
+BigToM_annotation,2475,Object Permanence,0
+BigToM_annotation,2475,Perception and Pattern Recognition,2
+BigToM_annotation,2475,Planning,0
+BigToM_annotation,2475,Procedural Memory,0
+BigToM_annotation,2475,Prospective Memory,0
+BigToM_annotation,2475,Semantic Memory,1
+BigToM_annotation,2475,Spatial Reasoning and Navigation,0
+BigToM_annotation,2475,Theory of Mind,1
+BigToM_annotation,2475,Working Memory,1
+BigToM_annotation,2475,ambiguity,2
+BigToM_annotation,2475,factuality,1
+BigToM_annotation,2505,Causal Reasoning,0
+BigToM_annotation,2505,Cognitive Flexibility,0
+BigToM_annotation,2505,Emotion Perception and Empathy,0
+BigToM_annotation,2505,Episodic Memory,1
+BigToM_annotation,2505,Functional Perception,0
+BigToM_annotation,2505,Inhibitory Control,0
+BigToM_annotation,2505,Language,2
+BigToM_annotation,2505,Mental Simulation,0
+BigToM_annotation,2505,Metacognition,1
+BigToM_annotation,2505,Object Permanence,0
+BigToM_annotation,2505,Perception and Pattern Recognition,1
+BigToM_annotation,2505,Planning,0
+BigToM_annotation,2505,Procedural Memory,0
+BigToM_annotation,2505,Prospective Memory,0
+BigToM_annotation,2505,Semantic Memory,2
+BigToM_annotation,2505,Spatial Reasoning and Navigation,0
+BigToM_annotation,2505,Theory of Mind,1
+BigToM_annotation,2505,Working Memory,1
+BigToM_annotation,2505,ambiguity,3
+BigToM_annotation,2505,factuality,1
+BigToM_annotation,2517,Causal Reasoning,0
+BigToM_annotation,2517,Cognitive Flexibility,0
+BigToM_annotation,2517,Emotion Perception and Empathy,0
+BigToM_annotation,2517,Episodic Memory,1
+BigToM_annotation,2517,Functional Perception,1
+BigToM_annotation,2517,Inhibitory Control,0
+BigToM_annotation,2517,Language,1
+BigToM_annotation,2517,Mental Simulation,0
+BigToM_annotation,2517,Metacognition,0
+BigToM_annotation,2517,Object Permanence,0
+BigToM_annotation,2517,Perception and Pattern Recognition,1
+BigToM_annotation,2517,Planning,0
+BigToM_annotation,2517,Procedural Memory,0
+BigToM_annotation,2517,Prospective Memory,0
+BigToM_annotation,2517,Semantic Memory,1
+BigToM_annotation,2517,Spatial Reasoning and Navigation,1
+BigToM_annotation,2517,Theory of Mind,1
+BigToM_annotation,2517,Working Memory,1
+BigToM_annotation,2517,ambiguity,5
+BigToM_annotation,2517,factuality,1
+BigToM_annotation,256,Causal Reasoning,1
+BigToM_annotation,256,Cognitive Flexibility,1
+BigToM_annotation,256,Emotion Perception and Empathy,0
+BigToM_annotation,256,Episodic Memory,1
+BigToM_annotation,256,Functional Perception,2
+BigToM_annotation,256,Inhibitory Control,2
+BigToM_annotation,256,Language,2
+BigToM_annotation,256,Mental Simulation,1
+BigToM_annotation,256,Metacognition,2
+BigToM_annotation,256,Object Permanence,0
+BigToM_annotation,256,Perception and Pattern Recognition,2
+BigToM_annotation,256,Planning,1
+BigToM_annotation,256,Procedural Memory,0
+BigToM_annotation,256,Prospective Memory,0
+BigToM_annotation,256,Semantic Memory,1
+BigToM_annotation,256,Spatial Reasoning and Navigation,0
+BigToM_annotation,256,Theory of Mind,1
+BigToM_annotation,256,Working Memory,3
+BigToM_annotation,256,ambiguity,5
+BigToM_annotation,256,factuality,5
+BigToM_annotation,2581,Causal Reasoning,0
+BigToM_annotation,2581,Cognitive Flexibility,0
+BigToM_annotation,2581,Emotion Perception and Empathy,0
+BigToM_annotation,2581,Episodic Memory,0
+BigToM_annotation,2581,Functional Perception,0
+BigToM_annotation,2581,Inhibitory Control,0
+BigToM_annotation,2581,Language,1
+BigToM_annotation,2581,Mental Simulation,0
+BigToM_annotation,2581,Metacognition,1
+BigToM_annotation,2581,Object Permanence,0
+BigToM_annotation,2581,Perception and Pattern Recognition,1
+BigToM_annotation,2581,Planning,0
+BigToM_annotation,2581,Procedural Memory,0
+BigToM_annotation,2581,Prospective Memory,0
+BigToM_annotation,2581,Semantic Memory,1
+BigToM_annotation,2581,Spatial Reasoning and Navigation,0
+BigToM_annotation,2581,Theory of Mind,2
+BigToM_annotation,2581,Working Memory,0
+BigToM_annotation,2581,ambiguity,5
+BigToM_annotation,2581,factuality,1
+BigToM_annotation,2621,Causal Reasoning,1
+BigToM_annotation,2621,Cognitive Flexibility,2
+BigToM_annotation,2621,Emotion Perception and Empathy,0
+BigToM_annotation,2621,Episodic Memory,1
+BigToM_annotation,2621,Functional Perception,1
+BigToM_annotation,2621,Inhibitory Control,2
+BigToM_annotation,2621,Language,2
+BigToM_annotation,2621,Mental Simulation,1
+BigToM_annotation,2621,Metacognition,1
+BigToM_annotation,2621,Object Permanence,2
+BigToM_annotation,2621,Perception and Pattern Recognition,1
+BigToM_annotation,2621,Planning,0
+BigToM_annotation,2621,Procedural Memory,0
+BigToM_annotation,2621,Prospective Memory,0
+BigToM_annotation,2621,Semantic Memory,2
+BigToM_annotation,2621,Spatial Reasoning and Navigation,1
+BigToM_annotation,2621,Theory of Mind,2
+BigToM_annotation,2621,Working Memory,2
+BigToM_annotation,2621,ambiguity,5
+BigToM_annotation,2621,factuality,5
+BigToM_annotation,2623,Causal Reasoning,1
+BigToM_annotation,2623,Cognitive Flexibility,1
+BigToM_annotation,2623,Emotion Perception and Empathy,0
+BigToM_annotation,2623,Episodic Memory,1
+BigToM_annotation,2623,Functional Perception,1
+BigToM_annotation,2623,Inhibitory Control,1
+BigToM_annotation,2623,Language,1
+BigToM_annotation,2623,Mental Simulation,1
+BigToM_annotation,2623,Metacognition,1
+BigToM_annotation,2623,Object Permanence,2
+BigToM_annotation,2623,Perception and Pattern Recognition,1
+BigToM_annotation,2623,Planning,1
+BigToM_annotation,2623,Procedural Memory,0
+BigToM_annotation,2623,Prospective Memory,0
+BigToM_annotation,2623,Semantic Memory,2
+BigToM_annotation,2623,Spatial Reasoning and Navigation,1
+BigToM_annotation,2623,Theory of Mind,2
+BigToM_annotation,2623,Working Memory,2
+BigToM_annotation,2623,ambiguity,5
+BigToM_annotation,2623,factuality,5
+BigToM_annotation,2638,Causal Reasoning,1
+BigToM_annotation,2638,Cognitive Flexibility,1
+BigToM_annotation,2638,Emotion Perception and Empathy,0
+BigToM_annotation,2638,Episodic Memory,0
+BigToM_annotation,2638,Functional Perception,1
+BigToM_annotation,2638,Inhibitory Control,1
+BigToM_annotation,2638,Language,1
+BigToM_annotation,2638,Mental Simulation,1
+BigToM_annotation,2638,Metacognition,0
+BigToM_annotation,2638,Object Permanence,2
+BigToM_annotation,2638,Perception and Pattern Recognition,1
+BigToM_annotation,2638,Planning,0
+BigToM_annotation,2638,Procedural Memory,0
+BigToM_annotation,2638,Prospective Memory,0
+BigToM_annotation,2638,Semantic Memory,3
+BigToM_annotation,2638,Spatial Reasoning and Navigation,0
+BigToM_annotation,2638,Theory of Mind,1
+BigToM_annotation,2638,Working Memory,1
+BigToM_annotation,2638,ambiguity,4
+BigToM_annotation,2638,factuality,5
+BigToM_annotation,2720,Causal Reasoning,1
+BigToM_annotation,2720,Cognitive Flexibility,1
+BigToM_annotation,2720,Emotion Perception and Empathy,0
+BigToM_annotation,2720,Episodic Memory,0
+BigToM_annotation,2720,Functional Perception,1
+BigToM_annotation,2720,Inhibitory Control,1
+BigToM_annotation,2720,Language,1
+BigToM_annotation,2720,Mental Simulation,1
+BigToM_annotation,2720,Metacognition,1
+BigToM_annotation,2720,Object Permanence,1
+BigToM_annotation,2720,Perception and Pattern Recognition,1
+BigToM_annotation,2720,Planning,0
+BigToM_annotation,2720,Procedural Memory,0
+BigToM_annotation,2720,Prospective Memory,0
+BigToM_annotation,2720,Semantic Memory,3
+BigToM_annotation,2720,Spatial Reasoning and Navigation,1
+BigToM_annotation,2720,Theory of Mind,0
+BigToM_annotation,2720,Working Memory,1
+BigToM_annotation,2720,ambiguity,5
+BigToM_annotation,2720,factuality,5
+BigToM_annotation,2741,Causal Reasoning,1
+BigToM_annotation,2741,Cognitive Flexibility,1
+BigToM_annotation,2741,Emotion Perception and Empathy,0
+BigToM_annotation,2741,Episodic Memory,1
+BigToM_annotation,2741,Functional Perception,2
+BigToM_annotation,2741,Inhibitory Control,1
+BigToM_annotation,2741,Language,1
+BigToM_annotation,2741,Mental Simulation,1
+BigToM_annotation,2741,Metacognition,2
+BigToM_annotation,2741,Object Permanence,0
+BigToM_annotation,2741,Perception and Pattern Recognition,1
+BigToM_annotation,2741,Planning,0
+BigToM_annotation,2741,Procedural Memory,0
+BigToM_annotation,2741,Prospective Memory,0
+BigToM_annotation,2741,Semantic Memory,2
+BigToM_annotation,2741,Spatial Reasoning and Navigation,1
+BigToM_annotation,2741,Theory of Mind,0
+BigToM_annotation,2741,Working Memory,2
+BigToM_annotation,2741,ambiguity,5
+BigToM_annotation,2741,factuality,5
+BigToM_annotation,2772,Causal Reasoning,1
+BigToM_annotation,2772,Cognitive Flexibility,0
+BigToM_annotation,2772,Emotion Perception and Empathy,0
+BigToM_annotation,2772,Episodic Memory,1
+BigToM_annotation,2772,Functional Perception,1
+BigToM_annotation,2772,Inhibitory Control,1
+BigToM_annotation,2772,Language,2
+BigToM_annotation,2772,Mental Simulation,1
+BigToM_annotation,2772,Metacognition,2
+BigToM_annotation,2772,Object Permanence,1
+BigToM_annotation,2772,Perception and Pattern Recognition,1
+BigToM_annotation,2772,Planning,0
+BigToM_annotation,2772,Procedural Memory,1
+BigToM_annotation,2772,Prospective Memory,0
+BigToM_annotation,2772,Semantic Memory,2
+BigToM_annotation,2772,Spatial Reasoning and Navigation,0
+BigToM_annotation,2772,Theory of Mind,1
+BigToM_annotation,2772,Working Memory,1
+BigToM_annotation,2772,ambiguity,5
+BigToM_annotation,2772,factuality,5
+BigToM_annotation,2797,Causal Reasoning,1
+BigToM_annotation,2797,Cognitive Flexibility,1
+BigToM_annotation,2797,Emotion Perception and Empathy,0
+BigToM_annotation,2797,Episodic Memory,0
+BigToM_annotation,2797,Functional Perception,1
+BigToM_annotation,2797,Inhibitory Control,2
+BigToM_annotation,2797,Language,1
+BigToM_annotation,2797,Mental Simulation,1
+BigToM_annotation,2797,Metacognition,1
+BigToM_annotation,2797,Object Permanence,1
+BigToM_annotation,2797,Perception and Pattern Recognition,1
+BigToM_annotation,2797,Planning,0
+BigToM_annotation,2797,Procedural Memory,3
+BigToM_annotation,2797,Prospective Memory,0
+BigToM_annotation,2797,Semantic Memory,2
+BigToM_annotation,2797,Spatial Reasoning and Navigation,0
+BigToM_annotation,2797,Theory of Mind,0
+BigToM_annotation,2797,Working Memory,0
+BigToM_annotation,2797,ambiguity,5
+BigToM_annotation,2797,factuality,5
+BigToM_annotation,2801,Causal Reasoning,0
+BigToM_annotation,2801,Cognitive Flexibility,0
+BigToM_annotation,2801,Emotion Perception and Empathy,0
+BigToM_annotation,2801,Episodic Memory,1
+BigToM_annotation,2801,Functional Perception,1
+BigToM_annotation,2801,Inhibitory Control,0
+BigToM_annotation,2801,Language,1
+BigToM_annotation,2801,Mental Simulation,0
+BigToM_annotation,2801,Metacognition,0
+BigToM_annotation,2801,Object Permanence,0
+BigToM_annotation,2801,Perception and Pattern Recognition,1
+BigToM_annotation,2801,Planning,0
+BigToM_annotation,2801,Procedural Memory,0
+BigToM_annotation,2801,Prospective Memory,0
+BigToM_annotation,2801,Semantic Memory,1
+BigToM_annotation,2801,Spatial Reasoning and Navigation,0
+BigToM_annotation,2801,Theory of Mind,1
+BigToM_annotation,2801,Working Memory,0
+BigToM_annotation,2801,ambiguity,5
+BigToM_annotation,2801,factuality,5
+BigToM_annotation,2829,Causal Reasoning,0
+BigToM_annotation,2829,Cognitive Flexibility,0
+BigToM_annotation,2829,Emotion Perception and Empathy,0
+BigToM_annotation,2829,Episodic Memory,1
+BigToM_annotation,2829,Functional Perception,1
+BigToM_annotation,2829,Inhibitory Control,0
+BigToM_annotation,2829,Language,1
+BigToM_annotation,2829,Mental Simulation,1
+BigToM_annotation,2829,Metacognition,0
+BigToM_annotation,2829,Object Permanence,1
+BigToM_annotation,2829,Perception and Pattern Recognition,1
+BigToM_annotation,2829,Planning,0
+BigToM_annotation,2829,Procedural Memory,0
+BigToM_annotation,2829,Prospective Memory,0
+BigToM_annotation,2829,Semantic Memory,1
+BigToM_annotation,2829,Spatial Reasoning and Navigation,0
+BigToM_annotation,2829,Theory of Mind,2
+BigToM_annotation,2829,Working Memory,1
+BigToM_annotation,2829,ambiguity,5
+BigToM_annotation,2829,factuality,5
+BigToM_annotation,2856,Causal Reasoning,1
+BigToM_annotation,2856,Cognitive Flexibility,0
+BigToM_annotation,2856,Emotion Perception and Empathy,0
+BigToM_annotation,2856,Episodic Memory,0
+BigToM_annotation,2856,Functional Perception,0
+BigToM_annotation,2856,Inhibitory Control,0
+BigToM_annotation,2856,Language,1
+BigToM_annotation,2856,Mental Simulation,0
+BigToM_annotation,2856,Metacognition,0
+BigToM_annotation,2856,Object Permanence,0
+BigToM_annotation,2856,Perception and Pattern Recognition,0
+BigToM_annotation,2856,Planning,0
+BigToM_annotation,2856,Procedural Memory,0
+BigToM_annotation,2856,Prospective Memory,0
+BigToM_annotation,2856,Semantic Memory,1
+BigToM_annotation,2856,Spatial Reasoning and Navigation,0
+BigToM_annotation,2856,Theory of Mind,1
+BigToM_annotation,2856,Working Memory,1
+BigToM_annotation,2856,ambiguity,5
+BigToM_annotation,2856,factuality,5
+BigToM_annotation,2884,Causal Reasoning,1
+BigToM_annotation,2884,Cognitive Flexibility,0
+BigToM_annotation,2884,Emotion Perception and Empathy,0
+BigToM_annotation,2884,Episodic Memory,0
+BigToM_annotation,2884,Functional Perception,0
+BigToM_annotation,2884,Inhibitory Control,2
+BigToM_annotation,2884,Language,1
+BigToM_annotation,2884,Mental Simulation,0
+BigToM_annotation,2884,Metacognition,0
+BigToM_annotation,2884,Object Permanence,0
+BigToM_annotation,2884,Perception and Pattern Recognition,1
+BigToM_annotation,2884,Planning,0
+BigToM_annotation,2884,Procedural Memory,0
+BigToM_annotation,2884,Prospective Memory,0
+BigToM_annotation,2884,Semantic Memory,1
+BigToM_annotation,2884,Spatial Reasoning and Navigation,0
+BigToM_annotation,2884,Theory of Mind,1
+BigToM_annotation,2884,Working Memory,1
+BigToM_annotation,2884,ambiguity,5
+BigToM_annotation,2884,factuality,5
+BigToM_annotation,2895,Causal Reasoning,0
+BigToM_annotation,2895,Cognitive Flexibility,0
+BigToM_annotation,2895,Emotion Perception and Empathy,0
+BigToM_annotation,2895,Episodic Memory,0
+BigToM_annotation,2895,Functional Perception,0
+BigToM_annotation,2895,Inhibitory Control,0
+BigToM_annotation,2895,Language,1
+BigToM_annotation,2895,Mental Simulation,0
+BigToM_annotation,2895,Metacognition,0
+BigToM_annotation,2895,Object Permanence,0
+BigToM_annotation,2895,Perception and Pattern Recognition,1
+BigToM_annotation,2895,Planning,0
+BigToM_annotation,2895,Procedural Memory,0
+BigToM_annotation,2895,Prospective Memory,0
+BigToM_annotation,2895,Semantic Memory,1
+BigToM_annotation,2895,Spatial Reasoning and Navigation,0
+BigToM_annotation,2895,Theory of Mind,2
+BigToM_annotation,2895,Working Memory,1
+BigToM_annotation,2895,ambiguity,5
+BigToM_annotation,2895,factuality,5
+BigToM_annotation,2900,Causal Reasoning,1
+BigToM_annotation,2900,Cognitive Flexibility,0
+BigToM_annotation,2900,Emotion Perception and Empathy,0
+BigToM_annotation,2900,Episodic Memory,0
+BigToM_annotation,2900,Functional Perception,1
+BigToM_annotation,2900,Inhibitory Control,1
+BigToM_annotation,2900,Language,1
+BigToM_annotation,2900,Mental Simulation,0
+BigToM_annotation,2900,Metacognition,0
+BigToM_annotation,2900,Object Permanence,0
+BigToM_annotation,2900,Perception and Pattern Recognition,1
+BigToM_annotation,2900,Planning,0
+BigToM_annotation,2900,Procedural Memory,0
+BigToM_annotation,2900,Prospective Memory,0
+BigToM_annotation,2900,Semantic Memory,1
+BigToM_annotation,2900,Spatial Reasoning and Navigation,0
+BigToM_annotation,2900,Theory of Mind,1
+BigToM_annotation,2900,Working Memory,1
+BigToM_annotation,2900,ambiguity,5
+BigToM_annotation,2900,factuality,5
+BigToM_annotation,2905,Causal Reasoning,0
+BigToM_annotation,2905,Cognitive Flexibility,0
+BigToM_annotation,2905,Emotion Perception and Empathy,0
+BigToM_annotation,2905,Episodic Memory,0
+BigToM_annotation,2905,Functional Perception,1
+BigToM_annotation,2905,Inhibitory Control,2
+BigToM_annotation,2905,Language,1
+BigToM_annotation,2905,Mental Simulation,0
+BigToM_annotation,2905,Metacognition,0
+BigToM_annotation,2905,Object Permanence,0
+BigToM_annotation,2905,Perception and Pattern Recognition,1
+BigToM_annotation,2905,Planning,0
+BigToM_annotation,2905,Procedural Memory,0
+BigToM_annotation,2905,Prospective Memory,0
+BigToM_annotation,2905,Semantic Memory,1
+BigToM_annotation,2905,Spatial Reasoning and Navigation,0
+BigToM_annotation,2905,Theory of Mind,1
+BigToM_annotation,2905,Working Memory,1
+BigToM_annotation,2905,ambiguity,5
+BigToM_annotation,2905,factuality,5
+BigToM_annotation,2944,Causal Reasoning,1
+BigToM_annotation,2944,Cognitive Flexibility,0
+BigToM_annotation,2944,Emotion Perception and Empathy,0
+BigToM_annotation,2944,Episodic Memory,0
+BigToM_annotation,2944,Functional Perception,1
+BigToM_annotation,2944,Inhibitory Control,2
+BigToM_annotation,2944,Language,2
+BigToM_annotation,2944,Mental Simulation,1
+BigToM_annotation,2944,Metacognition,1
+BigToM_annotation,2944,Object Permanence,0
+BigToM_annotation,2944,Perception and Pattern Recognition,1
+BigToM_annotation,2944,Planning,0
+BigToM_annotation,2944,Procedural Memory,0
+BigToM_annotation,2944,Prospective Memory,0
+BigToM_annotation,2944,Semantic Memory,1
+BigToM_annotation,2944,Spatial Reasoning and Navigation,1
+BigToM_annotation,2944,Theory of Mind,1
+BigToM_annotation,2944,Working Memory,1
+BigToM_annotation,2944,ambiguity,5
+BigToM_annotation,2944,factuality,5
+BigToM_annotation,294,Causal Reasoning,1
+BigToM_annotation,294,Cognitive Flexibility,1
+BigToM_annotation,294,Emotion Perception and Empathy,0
+BigToM_annotation,294,Episodic Memory,1
+BigToM_annotation,294,Functional Perception,1
+BigToM_annotation,294,Inhibitory Control,2
+BigToM_annotation,294,Language,2
+BigToM_annotation,294,Mental Simulation,1
+BigToM_annotation,294,Metacognition,1
+BigToM_annotation,294,Object Permanence,1
+BigToM_annotation,294,Perception and Pattern Recognition,2
+BigToM_annotation,294,Planning,0
+BigToM_annotation,294,Procedural Memory,0
+BigToM_annotation,294,Prospective Memory,0
+BigToM_annotation,294,Semantic Memory,1
+BigToM_annotation,294,Spatial Reasoning and Navigation,0
+BigToM_annotation,294,Theory of Mind,3
+BigToM_annotation,294,Working Memory,1
+BigToM_annotation,294,ambiguity,3
+BigToM_annotation,294,factuality,1
+BigToM_annotation,2974,Causal Reasoning,1
+BigToM_annotation,2974,Cognitive Flexibility,0
+BigToM_annotation,2974,Emotion Perception and Empathy,1
+BigToM_annotation,2974,Episodic Memory,0
+BigToM_annotation,2974,Functional Perception,1
+BigToM_annotation,2974,Inhibitory Control,1
+BigToM_annotation,2974,Language,1
+BigToM_annotation,2974,Mental Simulation,0
+BigToM_annotation,2974,Metacognition,0
+BigToM_annotation,2974,Object Permanence,0
+BigToM_annotation,2974,Perception and Pattern Recognition,1
+BigToM_annotation,2974,Planning,0
+BigToM_annotation,2974,Procedural Memory,0
+BigToM_annotation,2974,Prospective Memory,0
+BigToM_annotation,2974,Semantic Memory,2
+BigToM_annotation,2974,Spatial Reasoning and Navigation,0
+BigToM_annotation,2974,Theory of Mind,2
+BigToM_annotation,2974,Working Memory,0
+BigToM_annotation,2974,ambiguity,5
+BigToM_annotation,2974,factuality,5
 BigToM_annotation,297,Causal Reasoning,1
-BigToM_annotation,297,Cognitive Flexibility,0
-BigToM_annotation,297,Emotion Perception & Empathy (EPE),0
-BigToM_annotation,297,Episodic/Episodic-Like Memory,0
-BigToM_annotation,297,Executive Function (EF),1
-BigToM_annotation,297,Functional perception,0
-BigToM_annotation,297,Inhibitory Control,0
-BigToM_annotation,297,Language,1
+BigToM_annotation,297,Cognitive Flexibility,1
+BigToM_annotation,297,Emotion Perception and Empathy,0
+BigToM_annotation,297,Episodic Memory,1
+BigToM_annotation,297,Functional Perception,1
+BigToM_annotation,297,Inhibitory Control,1
+BigToM_annotation,297,Language,2
 BigToM_annotation,297,Mental Simulation,1
-BigToM_annotation,297,Metacognition,1
-BigToM_annotation,297,Object permanence,0
+BigToM_annotation,297,Metacognition,0
+BigToM_annotation,297,Object Permanence,1
 BigToM_annotation,297,Perception and Pattern Recognition,1
 BigToM_annotation,297,Planning,0
 BigToM_annotation,297,Procedural Memory,0
 BigToM_annotation,297,Prospective Memory,0
-BigToM_annotation,297,Semantic Memory,1
-BigToM_annotation,297,Spatial reasoning and navigation,1
+BigToM_annotation,297,Semantic Memory,2
+BigToM_annotation,297,Spatial Reasoning and Navigation,1
 BigToM_annotation,297,Theory of Mind,2
-BigToM_annotation,297,Working Memory,2
+BigToM_annotation,297,Working Memory,1
 BigToM_annotation,297,ambiguity,5
 BigToM_annotation,297,factuality,5
-BigToM_annotation,376,Causal Reasoning,0
-BigToM_annotation,376,Cognitive Flexibility,0
-BigToM_annotation,376,Emotion Perception & Empathy (EPE),0
-BigToM_annotation,376,Episodic/Episodic-Like Memory,0
-BigToM_annotation,376,Executive Function (EF),1
-BigToM_annotation,376,Functional perception,0
-BigToM_annotation,376,Inhibitory Control,2
-BigToM_annotation,376,Language,1
-BigToM_annotation,376,Mental Simulation,0
+BigToM_annotation,2980,Causal Reasoning,1
+BigToM_annotation,2980,Cognitive Flexibility,0
+BigToM_annotation,2980,Emotion Perception and Empathy,0
+BigToM_annotation,2980,Episodic Memory,0
+BigToM_annotation,2980,Functional Perception,1
+BigToM_annotation,2980,Inhibitory Control,2
+BigToM_annotation,2980,Language,1
+BigToM_annotation,2980,Mental Simulation,0
+BigToM_annotation,2980,Metacognition,0
+BigToM_annotation,2980,Object Permanence,1
+BigToM_annotation,2980,Perception and Pattern Recognition,1
+BigToM_annotation,2980,Planning,0
+BigToM_annotation,2980,Procedural Memory,0
+BigToM_annotation,2980,Prospective Memory,0
+BigToM_annotation,2980,Semantic Memory,2
+BigToM_annotation,2980,Spatial Reasoning and Navigation,0
+BigToM_annotation,2980,Theory of Mind,1
+BigToM_annotation,2980,Working Memory,1
+BigToM_annotation,2980,ambiguity,5
+BigToM_annotation,2980,factuality,5
+BigToM_annotation,2994,Causal Reasoning,1
+BigToM_annotation,2994,Cognitive Flexibility,0
+BigToM_annotation,2994,Emotion Perception and Empathy,0
+BigToM_annotation,2994,Episodic Memory,0
+BigToM_annotation,2994,Functional Perception,1
+BigToM_annotation,2994,Inhibitory Control,1
+BigToM_annotation,2994,Language,1
+BigToM_annotation,2994,Mental Simulation,1
+BigToM_annotation,2994,Metacognition,1
+BigToM_annotation,2994,Object Permanence,0
+BigToM_annotation,2994,Perception and Pattern Recognition,1
+BigToM_annotation,2994,Planning,0
+BigToM_annotation,2994,Procedural Memory,0
+BigToM_annotation,2994,Prospective Memory,0
+BigToM_annotation,2994,Semantic Memory,1
+BigToM_annotation,2994,Spatial Reasoning and Navigation,1
+BigToM_annotation,2994,Theory of Mind,2
+BigToM_annotation,2994,Working Memory,1
+BigToM_annotation,2994,ambiguity,5
+BigToM_annotation,2994,factuality,5
+BigToM_annotation,3042,Causal Reasoning,0
+BigToM_annotation,3042,Cognitive Flexibility,1
+BigToM_annotation,3042,Emotion Perception and Empathy,0
+BigToM_annotation,3042,Episodic Memory,1
+BigToM_annotation,3042,Functional Perception,0
+BigToM_annotation,3042,Inhibitory Control,1
+BigToM_annotation,3042,Language,2
+BigToM_annotation,3042,Mental Simulation,1
+BigToM_annotation,3042,Metacognition,1
+BigToM_annotation,3042,Object Permanence,2
+BigToM_annotation,3042,Perception and Pattern Recognition,1
+BigToM_annotation,3042,Planning,0
+BigToM_annotation,3042,Procedural Memory,0
+BigToM_annotation,3042,Prospective Memory,0
+BigToM_annotation,3042,Semantic Memory,1
+BigToM_annotation,3042,Spatial Reasoning and Navigation,0
+BigToM_annotation,3042,Theory of Mind,3
+BigToM_annotation,3042,Working Memory,1
+BigToM_annotation,3042,ambiguity,5
+BigToM_annotation,3042,factuality,1
+BigToM_annotation,3098,Causal Reasoning,1
+BigToM_annotation,3098,Cognitive Flexibility,1
+BigToM_annotation,3098,Emotion Perception and Empathy,0
+BigToM_annotation,3098,Episodic Memory,1
+BigToM_annotation,3098,Functional Perception,1
+BigToM_annotation,3098,Inhibitory Control,1
+BigToM_annotation,3098,Language,2
+BigToM_annotation,3098,Mental Simulation,1
+BigToM_annotation,3098,Metacognition,1
+BigToM_annotation,3098,Object Permanence,0
+BigToM_annotation,3098,Perception and Pattern Recognition,1
+BigToM_annotation,3098,Planning,0
+BigToM_annotation,3098,Procedural Memory,0
+BigToM_annotation,3098,Prospective Memory,0
+BigToM_annotation,3098,Semantic Memory,1
+BigToM_annotation,3098,Spatial Reasoning and Navigation,1
+BigToM_annotation,3098,Theory of Mind,2
+BigToM_annotation,3098,Working Memory,1
+BigToM_annotation,3098,ambiguity,5
+BigToM_annotation,3098,factuality,5
+BigToM_annotation,3121,Causal Reasoning,1
+BigToM_annotation,3121,Cognitive Flexibility,2
+BigToM_annotation,3121,Emotion Perception and Empathy,0
+BigToM_annotation,3121,Episodic Memory,1
+BigToM_annotation,3121,Functional Perception,2
+BigToM_annotation,3121,Inhibitory Control,0
+BigToM_annotation,3121,Language,2
+BigToM_annotation,3121,Mental Simulation,1
+BigToM_annotation,3121,Metacognition,1
+BigToM_annotation,3121,Object Permanence,1
+BigToM_annotation,3121,Perception and Pattern Recognition,2
+BigToM_annotation,3121,Planning,0
+BigToM_annotation,3121,Procedural Memory,0
+BigToM_annotation,3121,Prospective Memory,0
+BigToM_annotation,3121,Semantic Memory,2
+BigToM_annotation,3121,Spatial Reasoning and Navigation,0
+BigToM_annotation,3121,Theory of Mind,2
+BigToM_annotation,3121,Working Memory,2
+BigToM_annotation,3121,ambiguity,5
+BigToM_annotation,3121,factuality,5
+BigToM_annotation,3161,Causal Reasoning,1
+BigToM_annotation,3161,Cognitive Flexibility,1
+BigToM_annotation,3161,Emotion Perception and Empathy,0
+BigToM_annotation,3161,Episodic Memory,1
+BigToM_annotation,3161,Functional Perception,1
+BigToM_annotation,3161,Inhibitory Control,2
+BigToM_annotation,3161,Language,2
+BigToM_annotation,3161,Mental Simulation,1
+BigToM_annotation,3161,Metacognition,1
+BigToM_annotation,3161,Object Permanence,1
+BigToM_annotation,3161,Perception and Pattern Recognition,1
+BigToM_annotation,3161,Planning,0
+BigToM_annotation,3161,Procedural Memory,0
+BigToM_annotation,3161,Prospective Memory,0
+BigToM_annotation,3161,Semantic Memory,2
+BigToM_annotation,3161,Spatial Reasoning and Navigation,1
+BigToM_annotation,3161,Theory of Mind,2
+BigToM_annotation,3161,Working Memory,1
+BigToM_annotation,3161,ambiguity,5
+BigToM_annotation,3161,factuality,5
+BigToM_annotation,3207,Causal Reasoning,1
+BigToM_annotation,3207,Cognitive Flexibility,0
+BigToM_annotation,3207,Emotion Perception and Empathy,0
+BigToM_annotation,3207,Episodic Memory,1
+BigToM_annotation,3207,Functional Perception,0
+BigToM_annotation,3207,Inhibitory Control,2
+BigToM_annotation,3207,Language,1
+BigToM_annotation,3207,Mental Simulation,0
+BigToM_annotation,3207,Metacognition,2
+BigToM_annotation,3207,Object Permanence,0
+BigToM_annotation,3207,Perception and Pattern Recognition,1
+BigToM_annotation,3207,Planning,0
+BigToM_annotation,3207,Procedural Memory,0
+BigToM_annotation,3207,Prospective Memory,0
+BigToM_annotation,3207,Semantic Memory,2
+BigToM_annotation,3207,Spatial Reasoning and Navigation,0
+BigToM_annotation,3207,Theory of Mind,2
+BigToM_annotation,3207,Working Memory,1
+BigToM_annotation,3207,ambiguity,3
+BigToM_annotation,3207,factuality,3
+BigToM_annotation,3213,Causal Reasoning,1
+BigToM_annotation,3213,Cognitive Flexibility,0
+BigToM_annotation,3213,Emotion Perception and Empathy,0
+BigToM_annotation,3213,Episodic Memory,1
+BigToM_annotation,3213,Functional Perception,0
+BigToM_annotation,3213,Inhibitory Control,1
+BigToM_annotation,3213,Language,2
+BigToM_annotation,3213,Mental Simulation,0
+BigToM_annotation,3213,Metacognition,2
+BigToM_annotation,3213,Object Permanence,0
+BigToM_annotation,3213,Perception and Pattern Recognition,1
+BigToM_annotation,3213,Planning,0
+BigToM_annotation,3213,Procedural Memory,0
+BigToM_annotation,3213,Prospective Memory,0
+BigToM_annotation,3213,Semantic Memory,1
+BigToM_annotation,3213,Spatial Reasoning and Navigation,0
+BigToM_annotation,3213,Theory of Mind,2
+BigToM_annotation,3213,Working Memory,1
+BigToM_annotation,3213,ambiguity,3
+BigToM_annotation,3213,factuality,5
+BigToM_annotation,3259,Causal Reasoning,1
+BigToM_annotation,3259,Cognitive Flexibility,1
+BigToM_annotation,3259,Emotion Perception and Empathy,0
+BigToM_annotation,3259,Episodic Memory,1
+BigToM_annotation,3259,Functional Perception,1
+BigToM_annotation,3259,Inhibitory Control,0
+BigToM_annotation,3259,Language,1
+BigToM_annotation,3259,Mental Simulation,1
+BigToM_annotation,3259,Metacognition,2
+BigToM_annotation,3259,Object Permanence,2
+BigToM_annotation,3259,Perception and Pattern Recognition,1
+BigToM_annotation,3259,Planning,0
+BigToM_annotation,3259,Procedural Memory,0
+BigToM_annotation,3259,Prospective Memory,0
+BigToM_annotation,3259,Semantic Memory,1
+BigToM_annotation,3259,Spatial Reasoning and Navigation,0
+BigToM_annotation,3259,Theory of Mind,3
+BigToM_annotation,3259,Working Memory,1
+BigToM_annotation,3259,ambiguity,5
+BigToM_annotation,3259,factuality,5
+BigToM_annotation,3288,Causal Reasoning,1
+BigToM_annotation,3288,Cognitive Flexibility,1
+BigToM_annotation,3288,Emotion Perception and Empathy,0
+BigToM_annotation,3288,Episodic Memory,0
+BigToM_annotation,3288,Functional Perception,2
+BigToM_annotation,3288,Inhibitory Control,1
+BigToM_annotation,3288,Language,2
+BigToM_annotation,3288,Mental Simulation,1
+BigToM_annotation,3288,Metacognition,0
+BigToM_annotation,3288,Object Permanence,1
+BigToM_annotation,3288,Perception and Pattern Recognition,1
+BigToM_annotation,3288,Planning,0
+BigToM_annotation,3288,Procedural Memory,0
+BigToM_annotation,3288,Prospective Memory,0
+BigToM_annotation,3288,Semantic Memory,1
+BigToM_annotation,3288,Spatial Reasoning and Navigation,0
+BigToM_annotation,3288,Theory of Mind,2
+BigToM_annotation,3288,Working Memory,1
+BigToM_annotation,3288,ambiguity,2
+BigToM_annotation,3288,factuality,4
+BigToM_annotation,3301,Causal Reasoning,1
+BigToM_annotation,3301,Cognitive Flexibility,0
+BigToM_annotation,3301,Emotion Perception and Empathy,0
+BigToM_annotation,3301,Episodic Memory,0
+BigToM_annotation,3301,Functional Perception,0
+BigToM_annotation,3301,Inhibitory Control,0
+BigToM_annotation,3301,Language,2
+BigToM_annotation,3301,Mental Simulation,1
+BigToM_annotation,3301,Metacognition,1
+BigToM_annotation,3301,Object Permanence,1
+BigToM_annotation,3301,Perception and Pattern Recognition,2
+BigToM_annotation,3301,Planning,0
+BigToM_annotation,3301,Procedural Memory,0
+BigToM_annotation,3301,Prospective Memory,0
+BigToM_annotation,3301,Semantic Memory,2
+BigToM_annotation,3301,Spatial Reasoning and Navigation,0
+BigToM_annotation,3301,Theory of Mind,1
+BigToM_annotation,3301,Working Memory,2
+BigToM_annotation,3301,ambiguity,3
+BigToM_annotation,3301,factuality,1
+BigToM_annotation,331,Causal Reasoning,1
+BigToM_annotation,331,Cognitive Flexibility,0
+BigToM_annotation,331,Emotion Perception and Empathy,0
+BigToM_annotation,331,Episodic Memory,1
+BigToM_annotation,331,Functional Perception,1
+BigToM_annotation,331,Inhibitory Control,0
+BigToM_annotation,331,Language,1
+BigToM_annotation,331,Mental Simulation,1
+BigToM_annotation,331,Metacognition,0
+BigToM_annotation,331,Object Permanence,0
+BigToM_annotation,331,Perception and Pattern Recognition,1
+BigToM_annotation,331,Planning,0
+BigToM_annotation,331,Procedural Memory,0
+BigToM_annotation,331,Prospective Memory,0
+BigToM_annotation,331,Semantic Memory,2
+BigToM_annotation,331,Spatial Reasoning and Navigation,1
+BigToM_annotation,331,Theory of Mind,1
+BigToM_annotation,331,Working Memory,1
+BigToM_annotation,331,ambiguity,5
+BigToM_annotation,331,factuality,5
+BigToM_annotation,3547,Causal Reasoning,1
+BigToM_annotation,3547,Cognitive Flexibility,0
+BigToM_annotation,3547,Emotion Perception and Empathy,0
+BigToM_annotation,3547,Episodic Memory,1
+BigToM_annotation,3547,Functional Perception,1
+BigToM_annotation,3547,Inhibitory Control,0
+BigToM_annotation,3547,Language,1
+BigToM_annotation,3547,Mental Simulation,1
+BigToM_annotation,3547,Metacognition,0
+BigToM_annotation,3547,Object Permanence,0
+BigToM_annotation,3547,Perception and Pattern Recognition,1
+BigToM_annotation,3547,Planning,0
+BigToM_annotation,3547,Procedural Memory,0
+BigToM_annotation,3547,Prospective Memory,0
+BigToM_annotation,3547,Semantic Memory,1
+BigToM_annotation,3547,Spatial Reasoning and Navigation,1
+BigToM_annotation,3547,Theory of Mind,2
+BigToM_annotation,3547,Working Memory,1
+BigToM_annotation,3547,ambiguity,5
+BigToM_annotation,3547,factuality,5
+BigToM_annotation,3564,Causal Reasoning,0
+BigToM_annotation,3564,Cognitive Flexibility,0
+BigToM_annotation,3564,Emotion Perception and Empathy,0
+BigToM_annotation,3564,Episodic Memory,0
+BigToM_annotation,3564,Functional Perception,0
+BigToM_annotation,3564,Inhibitory Control,0
+BigToM_annotation,3564,Language,1
+BigToM_annotation,3564,Mental Simulation,0
+BigToM_annotation,3564,Metacognition,0
+BigToM_annotation,3564,Object Permanence,0
+BigToM_annotation,3564,Perception and Pattern Recognition,1
+BigToM_annotation,3564,Planning,0
+BigToM_annotation,3564,Procedural Memory,0
+BigToM_annotation,3564,Prospective Memory,0
+BigToM_annotation,3564,Semantic Memory,1
+BigToM_annotation,3564,Spatial Reasoning and Navigation,0
+BigToM_annotation,3564,Theory of Mind,1
+BigToM_annotation,3564,Working Memory,0
+BigToM_annotation,3564,ambiguity,5
+BigToM_annotation,3564,factuality,5
+BigToM_annotation,3585,Causal Reasoning,1
+BigToM_annotation,3585,Cognitive Flexibility,0
+BigToM_annotation,3585,Emotion Perception and Empathy,0
+BigToM_annotation,3585,Episodic Memory,0
+BigToM_annotation,3585,Functional Perception,0
+BigToM_annotation,3585,Inhibitory Control,1
+BigToM_annotation,3585,Language,1
+BigToM_annotation,3585,Mental Simulation,0
+BigToM_annotation,3585,Metacognition,1
+BigToM_annotation,3585,Object Permanence,0
+BigToM_annotation,3585,Perception and Pattern Recognition,1
+BigToM_annotation,3585,Planning,0
+BigToM_annotation,3585,Procedural Memory,0
+BigToM_annotation,3585,Prospective Memory,0
+BigToM_annotation,3585,Semantic Memory,1
+BigToM_annotation,3585,Spatial Reasoning and Navigation,0
+BigToM_annotation,3585,Theory of Mind,1
+BigToM_annotation,3585,Working Memory,0
+BigToM_annotation,3585,ambiguity,2
+BigToM_annotation,3585,factuality,5
+BigToM_annotation,3607,Causal Reasoning,1
+BigToM_annotation,3607,Cognitive Flexibility,0
+BigToM_annotation,3607,Emotion Perception and Empathy,0
+BigToM_annotation,3607,Episodic Memory,0
+BigToM_annotation,3607,Functional Perception,0
+BigToM_annotation,3607,Inhibitory Control,0
+BigToM_annotation,3607,Language,2
+BigToM_annotation,3607,Mental Simulation,1
+BigToM_annotation,3607,Metacognition,1
+BigToM_annotation,3607,Object Permanence,0
+BigToM_annotation,3607,Perception and Pattern Recognition,1
+BigToM_annotation,3607,Planning,0
+BigToM_annotation,3607,Procedural Memory,0
+BigToM_annotation,3607,Prospective Memory,0
+BigToM_annotation,3607,Semantic Memory,2
+BigToM_annotation,3607,Spatial Reasoning and Navigation,0
+BigToM_annotation,3607,Theory of Mind,0
+BigToM_annotation,3607,Working Memory,1
+BigToM_annotation,3607,ambiguity,3
+BigToM_annotation,3607,factuality,5
+BigToM_annotation,3609,Causal Reasoning,1
+BigToM_annotation,3609,Cognitive Flexibility,0
+BigToM_annotation,3609,Emotion Perception and Empathy,0
+BigToM_annotation,3609,Episodic Memory,0
+BigToM_annotation,3609,Functional Perception,0
+BigToM_annotation,3609,Inhibitory Control,2
+BigToM_annotation,3609,Language,1
+BigToM_annotation,3609,Mental Simulation,0
+BigToM_annotation,3609,Metacognition,1
+BigToM_annotation,3609,Object Permanence,0
+BigToM_annotation,3609,Perception and Pattern Recognition,1
+BigToM_annotation,3609,Planning,0
+BigToM_annotation,3609,Procedural Memory,1
+BigToM_annotation,3609,Prospective Memory,0
+BigToM_annotation,3609,Semantic Memory,1
+BigToM_annotation,3609,Spatial Reasoning and Navigation,0
+BigToM_annotation,3609,Theory of Mind,0
+BigToM_annotation,3609,Working Memory,0
+BigToM_annotation,3609,ambiguity,5
+BigToM_annotation,3609,factuality,5
+BigToM_annotation,362,Causal Reasoning,1
+BigToM_annotation,362,Cognitive Flexibility,0
+BigToM_annotation,362,Emotion Perception and Empathy,0
+BigToM_annotation,362,Episodic Memory,0
+BigToM_annotation,362,Functional Perception,1
+BigToM_annotation,362,Inhibitory Control,0
+BigToM_annotation,362,Language,2
+BigToM_annotation,362,Mental Simulation,1
+BigToM_annotation,362,Metacognition,2
+BigToM_annotation,362,Object Permanence,1
+BigToM_annotation,362,Perception and Pattern Recognition,1
+BigToM_annotation,362,Planning,0
+BigToM_annotation,362,Procedural Memory,0
+BigToM_annotation,362,Prospective Memory,0
+BigToM_annotation,362,Semantic Memory,1
+BigToM_annotation,362,Spatial Reasoning and Navigation,0
+BigToM_annotation,362,Theory of Mind,3
+BigToM_annotation,362,Working Memory,2
+BigToM_annotation,362,ambiguity,3
+BigToM_annotation,362,factuality,1
+BigToM_annotation,3661,Causal Reasoning,1
+BigToM_annotation,3661,Cognitive Flexibility,0
+BigToM_annotation,3661,Emotion Perception and Empathy,0
+BigToM_annotation,3661,Episodic Memory,0
+BigToM_annotation,3661,Functional Perception,1
+BigToM_annotation,3661,Inhibitory Control,0
+BigToM_annotation,3661,Language,2
+BigToM_annotation,3661,Mental Simulation,1
+BigToM_annotation,3661,Metacognition,0
+BigToM_annotation,3661,Object Permanence,0
+BigToM_annotation,3661,Perception and Pattern Recognition,1
+BigToM_annotation,3661,Planning,0
+BigToM_annotation,3661,Procedural Memory,4
+BigToM_annotation,3661,Prospective Memory,0
+BigToM_annotation,3661,Semantic Memory,1
+BigToM_annotation,3661,Spatial Reasoning and Navigation,2
+BigToM_annotation,3661,Theory of Mind,1
+BigToM_annotation,3661,Working Memory,0
+BigToM_annotation,3661,ambiguity,5
+BigToM_annotation,3661,factuality,5
+BigToM_annotation,3672,Causal Reasoning,0
+BigToM_annotation,3672,Cognitive Flexibility,0
+BigToM_annotation,3672,Emotion Perception and Empathy,0
+BigToM_annotation,3672,Episodic Memory,0
+BigToM_annotation,3672,Functional Perception,0
+BigToM_annotation,3672,Inhibitory Control,0
+BigToM_annotation,3672,Language,2
+BigToM_annotation,3672,Mental Simulation,0
+BigToM_annotation,3672,Metacognition,0
+BigToM_annotation,3672,Object Permanence,0
+BigToM_annotation,3672,Perception and Pattern Recognition,1
+BigToM_annotation,3672,Planning,0
+BigToM_annotation,3672,Procedural Memory,0
+BigToM_annotation,3672,Prospective Memory,1
+BigToM_annotation,3672,Semantic Memory,3
+BigToM_annotation,3672,Spatial Reasoning and Navigation,0
+BigToM_annotation,3672,Theory of Mind,0
+BigToM_annotation,3672,Working Memory,0
+BigToM_annotation,3672,ambiguity,5
+BigToM_annotation,3672,factuality,5
+BigToM_annotation,3677,Causal Reasoning,1
+BigToM_annotation,3677,Cognitive Flexibility,0
+BigToM_annotation,3677,Emotion Perception and Empathy,0
+BigToM_annotation,3677,Episodic Memory,0
+BigToM_annotation,3677,Functional Perception,1
+BigToM_annotation,3677,Inhibitory Control,0
+BigToM_annotation,3677,Language,1
+BigToM_annotation,3677,Mental Simulation,1
+BigToM_annotation,3677,Metacognition,0
+BigToM_annotation,3677,Object Permanence,0
+BigToM_annotation,3677,Perception and Pattern Recognition,1
+BigToM_annotation,3677,Planning,0
+BigToM_annotation,3677,Procedural Memory,0
+BigToM_annotation,3677,Prospective Memory,0
+BigToM_annotation,3677,Semantic Memory,1
+BigToM_annotation,3677,Spatial Reasoning and Navigation,1
+BigToM_annotation,3677,Theory of Mind,1
+BigToM_annotation,3677,Working Memory,0
+BigToM_annotation,3677,ambiguity,5
+BigToM_annotation,3677,factuality,5
+BigToM_annotation,371,Causal Reasoning,1
+BigToM_annotation,371,Cognitive Flexibility,1
+BigToM_annotation,371,Emotion Perception and Empathy,0
+BigToM_annotation,371,Episodic Memory,0
+BigToM_annotation,371,Functional Perception,1
+BigToM_annotation,371,Inhibitory Control,1
+BigToM_annotation,371,Language,1
+BigToM_annotation,371,Mental Simulation,0
+BigToM_annotation,371,Metacognition,1
+BigToM_annotation,371,Object Permanence,0
+BigToM_annotation,371,Perception and Pattern Recognition,1
+BigToM_annotation,371,Planning,0
+BigToM_annotation,371,Procedural Memory,0
+BigToM_annotation,371,Prospective Memory,0
+BigToM_annotation,371,Semantic Memory,2
+BigToM_annotation,371,Spatial Reasoning and Navigation,0
+BigToM_annotation,371,Theory of Mind,1
+BigToM_annotation,371,Working Memory,2
+BigToM_annotation,371,ambiguity,5
+BigToM_annotation,371,factuality,5
+BigToM_annotation,3768,Causal Reasoning,1
+BigToM_annotation,3768,Cognitive Flexibility,0
+BigToM_annotation,3768,Emotion Perception and Empathy,0
+BigToM_annotation,3768,Episodic Memory,0
+BigToM_annotation,3768,Functional Perception,1
+BigToM_annotation,3768,Inhibitory Control,0
+BigToM_annotation,3768,Language,2
+BigToM_annotation,3768,Mental Simulation,1
+BigToM_annotation,3768,Metacognition,0
+BigToM_annotation,3768,Object Permanence,0
+BigToM_annotation,3768,Perception and Pattern Recognition,1
+BigToM_annotation,3768,Planning,0
+BigToM_annotation,3768,Procedural Memory,1
+BigToM_annotation,3768,Prospective Memory,0
+BigToM_annotation,3768,Semantic Memory,1
+BigToM_annotation,3768,Spatial Reasoning and Navigation,1
+BigToM_annotation,3768,Theory of Mind,0
+BigToM_annotation,3768,Working Memory,1
+BigToM_annotation,3768,ambiguity,5
+BigToM_annotation,3768,factuality,5
+BigToM_annotation,376,Causal Reasoning,1
+BigToM_annotation,376,Cognitive Flexibility,1
+BigToM_annotation,376,Emotion Perception and Empathy,0
+BigToM_annotation,376,Episodic Memory,1
+BigToM_annotation,376,Functional Perception,1
+BigToM_annotation,376,Inhibitory Control,1
+BigToM_annotation,376,Language,2
+BigToM_annotation,376,Mental Simulation,1
 BigToM_annotation,376,Metacognition,0
-BigToM_annotation,376,Object permanence,0
+BigToM_annotation,376,Object Permanence,4
 BigToM_annotation,376,Perception and Pattern Recognition,1
 BigToM_annotation,376,Planning,0
 BigToM_annotation,376,Procedural Memory,0
 BigToM_annotation,376,Prospective Memory,0
 BigToM_annotation,376,Semantic Memory,1
-BigToM_annotation,376,Spatial reasoning and navigation,1
+BigToM_annotation,376,Spatial Reasoning and Navigation,1
 BigToM_annotation,376,Theory of Mind,2
-BigToM_annotation,376,Working Memory,2
+BigToM_annotation,376,Working Memory,1
 BigToM_annotation,376,ambiguity,5
 BigToM_annotation,376,factuality,5
+BigToM_annotation,3798,Causal Reasoning,1
+BigToM_annotation,3798,Cognitive Flexibility,0
+BigToM_annotation,3798,Emotion Perception and Empathy,0
+BigToM_annotation,3798,Episodic Memory,0
+BigToM_annotation,3798,Functional Perception,1
+BigToM_annotation,3798,Inhibitory Control,0
+BigToM_annotation,3798,Language,1
+BigToM_annotation,3798,Mental Simulation,1
+BigToM_annotation,3798,Metacognition,0
+BigToM_annotation,3798,Object Permanence,0
+BigToM_annotation,3798,Perception and Pattern Recognition,1
+BigToM_annotation,3798,Planning,0
+BigToM_annotation,3798,Procedural Memory,0
+BigToM_annotation,3798,Prospective Memory,0
+BigToM_annotation,3798,Semantic Memory,3
+BigToM_annotation,3798,Spatial Reasoning and Navigation,0
+BigToM_annotation,3798,Theory of Mind,0
+BigToM_annotation,3798,Working Memory,0
+BigToM_annotation,3798,ambiguity,4
+BigToM_annotation,3798,factuality,5
+BigToM_annotation,3807,Causal Reasoning,0
+BigToM_annotation,3807,Cognitive Flexibility,0
+BigToM_annotation,3807,Emotion Perception and Empathy,0
+BigToM_annotation,3807,Episodic Memory,0
+BigToM_annotation,3807,Functional Perception,1
+BigToM_annotation,3807,Inhibitory Control,1
+BigToM_annotation,3807,Language,1
+BigToM_annotation,3807,Mental Simulation,0
+BigToM_annotation,3807,Metacognition,1
+BigToM_annotation,3807,Object Permanence,0
+BigToM_annotation,3807,Perception and Pattern Recognition,1
+BigToM_annotation,3807,Planning,0
+BigToM_annotation,3807,Procedural Memory,0
+BigToM_annotation,3807,Prospective Memory,0
+BigToM_annotation,3807,Semantic Memory,1
+BigToM_annotation,3807,Spatial Reasoning and Navigation,0
+BigToM_annotation,3807,Theory of Mind,3
+BigToM_annotation,3807,Working Memory,2
+BigToM_annotation,3807,ambiguity,5
+BigToM_annotation,3807,factuality,5
+BigToM_annotation,3838,Causal Reasoning,1
+BigToM_annotation,3838,Cognitive Flexibility,0
+BigToM_annotation,3838,Emotion Perception and Empathy,0
+BigToM_annotation,3838,Episodic Memory,0
+BigToM_annotation,3838,Functional Perception,0
+BigToM_annotation,3838,Inhibitory Control,0
+BigToM_annotation,3838,Language,1
+BigToM_annotation,3838,Mental Simulation,0
+BigToM_annotation,3838,Metacognition,2
+BigToM_annotation,3838,Object Permanence,0
+BigToM_annotation,3838,Perception and Pattern Recognition,1
+BigToM_annotation,3838,Planning,0
+BigToM_annotation,3838,Procedural Memory,0
+BigToM_annotation,3838,Prospective Memory,0
+BigToM_annotation,3838,Semantic Memory,1
+BigToM_annotation,3838,Spatial Reasoning and Navigation,0
+BigToM_annotation,3838,Theory of Mind,2
+BigToM_annotation,3838,Working Memory,1
+BigToM_annotation,3838,ambiguity,5
+BigToM_annotation,3838,factuality,5
+BigToM_annotation,3883,Causal Reasoning,0
+BigToM_annotation,3883,Cognitive Flexibility,0
+BigToM_annotation,3883,Emotion Perception and Empathy,0
+BigToM_annotation,3883,Episodic Memory,0
+BigToM_annotation,3883,Functional Perception,0
+BigToM_annotation,3883,Inhibitory Control,0
+BigToM_annotation,3883,Language,1
+BigToM_annotation,3883,Mental Simulation,0
+BigToM_annotation,3883,Metacognition,1
+BigToM_annotation,3883,Object Permanence,1
+BigToM_annotation,3883,Perception and Pattern Recognition,1
+BigToM_annotation,3883,Planning,0
+BigToM_annotation,3883,Procedural Memory,0
+BigToM_annotation,3883,Prospective Memory,0
+BigToM_annotation,3883,Semantic Memory,1
+BigToM_annotation,3883,Spatial Reasoning and Navigation,0
+BigToM_annotation,3883,Theory of Mind,3
+BigToM_annotation,3883,Working Memory,1
+BigToM_annotation,3883,ambiguity,5
+BigToM_annotation,3883,factuality,5
+BigToM_annotation,3884,Causal Reasoning,0
+BigToM_annotation,3884,Cognitive Flexibility,0
+BigToM_annotation,3884,Emotion Perception and Empathy,0
+BigToM_annotation,3884,Episodic Memory,0
+BigToM_annotation,3884,Functional Perception,0
+BigToM_annotation,3884,Inhibitory Control,0
+BigToM_annotation,3884,Language,1
+BigToM_annotation,3884,Mental Simulation,1
+BigToM_annotation,3884,Metacognition,0
+BigToM_annotation,3884,Object Permanence,2
+BigToM_annotation,3884,Perception and Pattern Recognition,1
+BigToM_annotation,3884,Planning,0
+BigToM_annotation,3884,Procedural Memory,0
+BigToM_annotation,3884,Prospective Memory,0
+BigToM_annotation,3884,Semantic Memory,1
+BigToM_annotation,3884,Spatial Reasoning and Navigation,0
+BigToM_annotation,3884,Theory of Mind,3
+BigToM_annotation,3884,Working Memory,1
+BigToM_annotation,3884,ambiguity,5
+BigToM_annotation,3884,factuality,5
+BigToM_annotation,3902,Causal Reasoning,0
+BigToM_annotation,3902,Cognitive Flexibility,0
+BigToM_annotation,3902,Emotion Perception and Empathy,0
+BigToM_annotation,3902,Episodic Memory,1
+BigToM_annotation,3902,Functional Perception,0
+BigToM_annotation,3902,Inhibitory Control,0
+BigToM_annotation,3902,Language,1
+BigToM_annotation,3902,Mental Simulation,0
+BigToM_annotation,3902,Metacognition,1
+BigToM_annotation,3902,Object Permanence,0
+BigToM_annotation,3902,Perception and Pattern Recognition,1
+BigToM_annotation,3902,Planning,0
+BigToM_annotation,3902,Procedural Memory,0
+BigToM_annotation,3902,Prospective Memory,0
+BigToM_annotation,3902,Semantic Memory,2
+BigToM_annotation,3902,Spatial Reasoning and Navigation,0
+BigToM_annotation,3902,Theory of Mind,3
+BigToM_annotation,3902,Working Memory,1
+BigToM_annotation,3902,ambiguity,5
+BigToM_annotation,3902,factuality,5
+BigToM_annotation,3920,Causal Reasoning,0
+BigToM_annotation,3920,Cognitive Flexibility,0
+BigToM_annotation,3920,Emotion Perception and Empathy,0
+BigToM_annotation,3920,Episodic Memory,0
+BigToM_annotation,3920,Functional Perception,0
+BigToM_annotation,3920,Inhibitory Control,0
+BigToM_annotation,3920,Language,1
+BigToM_annotation,3920,Mental Simulation,0
+BigToM_annotation,3920,Metacognition,0
+BigToM_annotation,3920,Object Permanence,1
+BigToM_annotation,3920,Perception and Pattern Recognition,0
+BigToM_annotation,3920,Planning,0
+BigToM_annotation,3920,Procedural Memory,0
+BigToM_annotation,3920,Prospective Memory,0
+BigToM_annotation,3920,Semantic Memory,1
+BigToM_annotation,3920,Spatial Reasoning and Navigation,0
+BigToM_annotation,3920,Theory of Mind,3
+BigToM_annotation,3920,Working Memory,1
+BigToM_annotation,3920,ambiguity,5
+BigToM_annotation,3920,factuality,5
+BigToM_annotation,393,Causal Reasoning,1
+BigToM_annotation,393,Cognitive Flexibility,1
+BigToM_annotation,393,Emotion Perception and Empathy,0
+BigToM_annotation,393,Episodic Memory,1
+BigToM_annotation,393,Functional Perception,1
+BigToM_annotation,393,Inhibitory Control,0
+BigToM_annotation,393,Language,2
+BigToM_annotation,393,Mental Simulation,1
+BigToM_annotation,393,Metacognition,1
+BigToM_annotation,393,Object Permanence,0
+BigToM_annotation,393,Perception and Pattern Recognition,1
+BigToM_annotation,393,Planning,0
+BigToM_annotation,393,Procedural Memory,0
+BigToM_annotation,393,Prospective Memory,0
+BigToM_annotation,393,Semantic Memory,2
+BigToM_annotation,393,Spatial Reasoning and Navigation,0
+BigToM_annotation,393,Theory of Mind,2
+BigToM_annotation,393,Working Memory,2
+BigToM_annotation,393,ambiguity,4
+BigToM_annotation,393,factuality,5
+BigToM_annotation,3942,Causal Reasoning,1
+BigToM_annotation,3942,Cognitive Flexibility,0
+BigToM_annotation,3942,Emotion Perception and Empathy,0
+BigToM_annotation,3942,Episodic Memory,0
+BigToM_annotation,3942,Functional Perception,0
+BigToM_annotation,3942,Inhibitory Control,0
+BigToM_annotation,3942,Language,1
+BigToM_annotation,3942,Mental Simulation,0
+BigToM_annotation,3942,Metacognition,0
+BigToM_annotation,3942,Object Permanence,0
+BigToM_annotation,3942,Perception and Pattern Recognition,1
+BigToM_annotation,3942,Planning,0
+BigToM_annotation,3942,Procedural Memory,0
+BigToM_annotation,3942,Prospective Memory,0
+BigToM_annotation,3942,Semantic Memory,1
+BigToM_annotation,3942,Spatial Reasoning and Navigation,0
+BigToM_annotation,3942,Theory of Mind,3
+BigToM_annotation,3942,Working Memory,1
+BigToM_annotation,3942,ambiguity,5
+BigToM_annotation,3942,factuality,5
+BigToM_annotation,3973,Causal Reasoning,1
+BigToM_annotation,3973,Cognitive Flexibility,0
+BigToM_annotation,3973,Emotion Perception and Empathy,0
+BigToM_annotation,3973,Episodic Memory,0
+BigToM_annotation,3973,Functional Perception,0
+BigToM_annotation,3973,Inhibitory Control,1
+BigToM_annotation,3973,Language,2
+BigToM_annotation,3973,Mental Simulation,1
+BigToM_annotation,3973,Metacognition,1
+BigToM_annotation,3973,Object Permanence,1
+BigToM_annotation,3973,Perception and Pattern Recognition,1
+BigToM_annotation,3973,Planning,0
+BigToM_annotation,3973,Procedural Memory,0
+BigToM_annotation,3973,Prospective Memory,0
+BigToM_annotation,3973,Semantic Memory,1
+BigToM_annotation,3973,Spatial Reasoning and Navigation,0
+BigToM_annotation,3973,Theory of Mind,3
+BigToM_annotation,3973,Working Memory,1
+BigToM_annotation,3973,ambiguity,5
+BigToM_annotation,3973,factuality,5
+BigToM_annotation,3987,Causal Reasoning,1
+BigToM_annotation,3987,Cognitive Flexibility,0
+BigToM_annotation,3987,Emotion Perception and Empathy,0
+BigToM_annotation,3987,Episodic Memory,0
+BigToM_annotation,3987,Functional Perception,0
+BigToM_annotation,3987,Inhibitory Control,1
+BigToM_annotation,3987,Language,2
+BigToM_annotation,3987,Mental Simulation,0
+BigToM_annotation,3987,Metacognition,0
+BigToM_annotation,3987,Object Permanence,0
+BigToM_annotation,3987,Perception and Pattern Recognition,1
+BigToM_annotation,3987,Planning,0
+BigToM_annotation,3987,Procedural Memory,0
+BigToM_annotation,3987,Prospective Memory,0
+BigToM_annotation,3987,Semantic Memory,1
+BigToM_annotation,3987,Spatial Reasoning and Navigation,0
+BigToM_annotation,3987,Theory of Mind,3
+BigToM_annotation,3987,Working Memory,2
+BigToM_annotation,3987,ambiguity,5
+BigToM_annotation,3987,factuality,5
+BigToM_annotation,3992,Causal Reasoning,0
+BigToM_annotation,3992,Cognitive Flexibility,0
+BigToM_annotation,3992,Emotion Perception and Empathy,0
+BigToM_annotation,3992,Episodic Memory,0
+BigToM_annotation,3992,Functional Perception,1
+BigToM_annotation,3992,Inhibitory Control,1
+BigToM_annotation,3992,Language,1
+BigToM_annotation,3992,Mental Simulation,0
+BigToM_annotation,3992,Metacognition,0
+BigToM_annotation,3992,Object Permanence,0
+BigToM_annotation,3992,Perception and Pattern Recognition,1
+BigToM_annotation,3992,Planning,0
+BigToM_annotation,3992,Procedural Memory,0
+BigToM_annotation,3992,Prospective Memory,0
+BigToM_annotation,3992,Semantic Memory,1
+BigToM_annotation,3992,Spatial Reasoning and Navigation,0
+BigToM_annotation,3992,Theory of Mind,3
+BigToM_annotation,3992,Working Memory,1
+BigToM_annotation,3992,ambiguity,5
+BigToM_annotation,3992,factuality,5
+BigToM_annotation,401,Causal Reasoning,1
+BigToM_annotation,401,Cognitive Flexibility,0
+BigToM_annotation,401,Emotion Perception and Empathy,0
+BigToM_annotation,401,Episodic Memory,1
+BigToM_annotation,401,Functional Perception,0
+BigToM_annotation,401,Inhibitory Control,0
+BigToM_annotation,401,Language,2
+BigToM_annotation,401,Mental Simulation,0
+BigToM_annotation,401,Metacognition,0
+BigToM_annotation,401,Object Permanence,0
+BigToM_annotation,401,Perception and Pattern Recognition,1
+BigToM_annotation,401,Planning,0
+BigToM_annotation,401,Procedural Memory,0
+BigToM_annotation,401,Prospective Memory,0
+BigToM_annotation,401,Semantic Memory,1
+BigToM_annotation,401,Spatial Reasoning and Navigation,0
+BigToM_annotation,401,Theory of Mind,2
+BigToM_annotation,401,Working Memory,1
+BigToM_annotation,401,ambiguity,5
+BigToM_annotation,401,factuality,5
+BigToM_annotation,4059,Causal Reasoning,1
+BigToM_annotation,4059,Cognitive Flexibility,0
+BigToM_annotation,4059,Emotion Perception and Empathy,0
+BigToM_annotation,4059,Episodic Memory,0
+BigToM_annotation,4059,Functional Perception,1
+BigToM_annotation,4059,Inhibitory Control,0
+BigToM_annotation,4059,Language,1
+BigToM_annotation,4059,Mental Simulation,0
+BigToM_annotation,4059,Metacognition,0
+BigToM_annotation,4059,Object Permanence,0
+BigToM_annotation,4059,Perception and Pattern Recognition,1
+BigToM_annotation,4059,Planning,0
+BigToM_annotation,4059,Procedural Memory,0
+BigToM_annotation,4059,Prospective Memory,0
+BigToM_annotation,4059,Semantic Memory,1
+BigToM_annotation,4059,Spatial Reasoning and Navigation,0
+BigToM_annotation,4059,Theory of Mind,1
+BigToM_annotation,4059,Working Memory,0
+BigToM_annotation,4059,ambiguity,5
+BigToM_annotation,4059,factuality,5
+BigToM_annotation,4098,Causal Reasoning,1
+BigToM_annotation,4098,Cognitive Flexibility,0
+BigToM_annotation,4098,Emotion Perception and Empathy,0
+BigToM_annotation,4098,Episodic Memory,0
+BigToM_annotation,4098,Functional Perception,1
+BigToM_annotation,4098,Inhibitory Control,0
+BigToM_annotation,4098,Language,1
+BigToM_annotation,4098,Mental Simulation,1
+BigToM_annotation,4098,Metacognition,0
+BigToM_annotation,4098,Object Permanence,0
+BigToM_annotation,4098,Perception and Pattern Recognition,1
+BigToM_annotation,4098,Planning,0
+BigToM_annotation,4098,Procedural Memory,0
+BigToM_annotation,4098,Prospective Memory,0
+BigToM_annotation,4098,Semantic Memory,1
+BigToM_annotation,4098,Spatial Reasoning and Navigation,1
+BigToM_annotation,4098,Theory of Mind,1
+BigToM_annotation,4098,Working Memory,0
+BigToM_annotation,4098,ambiguity,5
+BigToM_annotation,4098,factuality,5
+BigToM_annotation,4118,Causal Reasoning,1
+BigToM_annotation,4118,Cognitive Flexibility,0
+BigToM_annotation,4118,Emotion Perception and Empathy,0
+BigToM_annotation,4118,Episodic Memory,1
+BigToM_annotation,4118,Functional Perception,1
+BigToM_annotation,4118,Inhibitory Control,0
+BigToM_annotation,4118,Language,1
+BigToM_annotation,4118,Mental Simulation,0
+BigToM_annotation,4118,Metacognition,0
+BigToM_annotation,4118,Object Permanence,0
+BigToM_annotation,4118,Perception and Pattern Recognition,1
+BigToM_annotation,4118,Planning,0
+BigToM_annotation,4118,Procedural Memory,0
+BigToM_annotation,4118,Prospective Memory,0
+BigToM_annotation,4118,Semantic Memory,3
+BigToM_annotation,4118,Spatial Reasoning and Navigation,1
+BigToM_annotation,4118,Theory of Mind,2
+BigToM_annotation,4118,Working Memory,0
+BigToM_annotation,4118,ambiguity,5
+BigToM_annotation,4118,factuality,5
+BigToM_annotation,4124,Causal Reasoning,0
+BigToM_annotation,4124,Cognitive Flexibility,0
+BigToM_annotation,4124,Emotion Perception and Empathy,0
+BigToM_annotation,4124,Episodic Memory,1
+BigToM_annotation,4124,Functional Perception,0
+BigToM_annotation,4124,Inhibitory Control,0
+BigToM_annotation,4124,Language,1
+BigToM_annotation,4124,Mental Simulation,0
+BigToM_annotation,4124,Metacognition,1
+BigToM_annotation,4124,Object Permanence,0
+BigToM_annotation,4124,Perception and Pattern Recognition,1
+BigToM_annotation,4124,Planning,0
+BigToM_annotation,4124,Procedural Memory,0
+BigToM_annotation,4124,Prospective Memory,0
+BigToM_annotation,4124,Semantic Memory,3
+BigToM_annotation,4124,Spatial Reasoning and Navigation,0
+BigToM_annotation,4124,Theory of Mind,1
+BigToM_annotation,4124,Working Memory,1
+BigToM_annotation,4124,ambiguity,5
+BigToM_annotation,4124,factuality,5
+BigToM_annotation,4132,Causal Reasoning,1
+BigToM_annotation,4132,Cognitive Flexibility,0
+BigToM_annotation,4132,Emotion Perception and Empathy,0
+BigToM_annotation,4132,Episodic Memory,0
+BigToM_annotation,4132,Functional Perception,1
+BigToM_annotation,4132,Inhibitory Control,1
+BigToM_annotation,4132,Language,2
+BigToM_annotation,4132,Mental Simulation,1
+BigToM_annotation,4132,Metacognition,1
+BigToM_annotation,4132,Object Permanence,0
+BigToM_annotation,4132,Perception and Pattern Recognition,1
+BigToM_annotation,4132,Planning,0
+BigToM_annotation,4132,Procedural Memory,0
+BigToM_annotation,4132,Prospective Memory,0
+BigToM_annotation,4132,Semantic Memory,1
+BigToM_annotation,4132,Spatial Reasoning and Navigation,1
+BigToM_annotation,4132,Theory of Mind,2
+BigToM_annotation,4132,Working Memory,1
+BigToM_annotation,4132,ambiguity,3
+BigToM_annotation,4132,factuality,5
+BigToM_annotation,4175,Causal Reasoning,1
+BigToM_annotation,4175,Cognitive Flexibility,0
+BigToM_annotation,4175,Emotion Perception and Empathy,0
+BigToM_annotation,4175,Episodic Memory,0
+BigToM_annotation,4175,Functional Perception,1
+BigToM_annotation,4175,Inhibitory Control,1
+BigToM_annotation,4175,Language,1
+BigToM_annotation,4175,Mental Simulation,0
+BigToM_annotation,4175,Metacognition,0
+BigToM_annotation,4175,Object Permanence,0
+BigToM_annotation,4175,Perception and Pattern Recognition,1
+BigToM_annotation,4175,Planning,0
+BigToM_annotation,4175,Procedural Memory,0
+BigToM_annotation,4175,Prospective Memory,0
+BigToM_annotation,4175,Semantic Memory,2
+BigToM_annotation,4175,Spatial Reasoning and Navigation,0
+BigToM_annotation,4175,Theory of Mind,2
+BigToM_annotation,4175,Working Memory,1
+BigToM_annotation,4175,ambiguity,5
+BigToM_annotation,4175,factuality,5
+BigToM_annotation,4178,Causal Reasoning,1
+BigToM_annotation,4178,Cognitive Flexibility,0
+BigToM_annotation,4178,Emotion Perception and Empathy,0
+BigToM_annotation,4178,Episodic Memory,0
+BigToM_annotation,4178,Functional Perception,1
+BigToM_annotation,4178,Inhibitory Control,2
+BigToM_annotation,4178,Language,1
+BigToM_annotation,4178,Mental Simulation,0
+BigToM_annotation,4178,Metacognition,1
+BigToM_annotation,4178,Object Permanence,0
+BigToM_annotation,4178,Perception and Pattern Recognition,1
+BigToM_annotation,4178,Planning,0
+BigToM_annotation,4178,Procedural Memory,0
+BigToM_annotation,4178,Prospective Memory,0
+BigToM_annotation,4178,Semantic Memory,3
+BigToM_annotation,4178,Spatial Reasoning and Navigation,0
+BigToM_annotation,4178,Theory of Mind,1
+BigToM_annotation,4178,Working Memory,0
+BigToM_annotation,4178,ambiguity,5
+BigToM_annotation,4178,factuality,5
+BigToM_annotation,4182,Causal Reasoning,1
+BigToM_annotation,4182,Cognitive Flexibility,0
+BigToM_annotation,4182,Emotion Perception and Empathy,0
+BigToM_annotation,4182,Episodic Memory,0
+BigToM_annotation,4182,Functional Perception,0
+BigToM_annotation,4182,Inhibitory Control,0
+BigToM_annotation,4182,Language,1
+BigToM_annotation,4182,Mental Simulation,0
+BigToM_annotation,4182,Metacognition,0
+BigToM_annotation,4182,Object Permanence,0
+BigToM_annotation,4182,Perception and Pattern Recognition,1
+BigToM_annotation,4182,Planning,0
+BigToM_annotation,4182,Procedural Memory,0
+BigToM_annotation,4182,Prospective Memory,0
+BigToM_annotation,4182,Semantic Memory,1
+BigToM_annotation,4182,Spatial Reasoning and Navigation,0
+BigToM_annotation,4182,Theory of Mind,2
+BigToM_annotation,4182,Working Memory,1
+BigToM_annotation,4182,ambiguity,5
+BigToM_annotation,4182,factuality,5
+BigToM_annotation,4190,Causal Reasoning,0
+BigToM_annotation,4190,Cognitive Flexibility,0
+BigToM_annotation,4190,Emotion Perception and Empathy,0
+BigToM_annotation,4190,Episodic Memory,1
+BigToM_annotation,4190,Functional Perception,1
+BigToM_annotation,4190,Inhibitory Control,0
+BigToM_annotation,4190,Language,1
+BigToM_annotation,4190,Mental Simulation,0
+BigToM_annotation,4190,Metacognition,0
+BigToM_annotation,4190,Object Permanence,0
+BigToM_annotation,4190,Perception and Pattern Recognition,1
+BigToM_annotation,4190,Planning,0
+BigToM_annotation,4190,Procedural Memory,0
+BigToM_annotation,4190,Prospective Memory,0
+BigToM_annotation,4190,Semantic Memory,2
+BigToM_annotation,4190,Spatial Reasoning and Navigation,0
+BigToM_annotation,4190,Theory of Mind,2
+BigToM_annotation,4190,Working Memory,1
+BigToM_annotation,4190,ambiguity,5
+BigToM_annotation,4190,factuality,5
+BigToM_annotation,4241,Causal Reasoning,0
+BigToM_annotation,4241,Cognitive Flexibility,0
+BigToM_annotation,4241,Emotion Perception and Empathy,0
+BigToM_annotation,4241,Episodic Memory,1
+BigToM_annotation,4241,Functional Perception,1
+BigToM_annotation,4241,Inhibitory Control,0
+BigToM_annotation,4241,Language,1
+BigToM_annotation,4241,Mental Simulation,0
+BigToM_annotation,4241,Metacognition,0
+BigToM_annotation,4241,Object Permanence,0
+BigToM_annotation,4241,Perception and Pattern Recognition,0
+BigToM_annotation,4241,Planning,0
+BigToM_annotation,4241,Procedural Memory,0
+BigToM_annotation,4241,Prospective Memory,0
+BigToM_annotation,4241,Semantic Memory,1
+BigToM_annotation,4241,Spatial Reasoning and Navigation,0
+BigToM_annotation,4241,Theory of Mind,1
+BigToM_annotation,4241,Working Memory,0
+BigToM_annotation,4241,ambiguity,5
+BigToM_annotation,4241,factuality,5
+BigToM_annotation,4258,Causal Reasoning,1
+BigToM_annotation,4258,Cognitive Flexibility,0
+BigToM_annotation,4258,Emotion Perception and Empathy,0
+BigToM_annotation,4258,Episodic Memory,1
+BigToM_annotation,4258,Functional Perception,1
+BigToM_annotation,4258,Inhibitory Control,0
+BigToM_annotation,4258,Language,1
+BigToM_annotation,4258,Mental Simulation,0
+BigToM_annotation,4258,Metacognition,0
+BigToM_annotation,4258,Object Permanence,0
+BigToM_annotation,4258,Perception and Pattern Recognition,0
+BigToM_annotation,4258,Planning,0
+BigToM_annotation,4258,Procedural Memory,0
+BigToM_annotation,4258,Prospective Memory,0
+BigToM_annotation,4258,Semantic Memory,2
+BigToM_annotation,4258,Spatial Reasoning and Navigation,0
+BigToM_annotation,4258,Theory of Mind,1
+BigToM_annotation,4258,Working Memory,1
+BigToM_annotation,4258,ambiguity,5
+BigToM_annotation,4258,factuality,5
+BigToM_annotation,4267,Causal Reasoning,0
+BigToM_annotation,4267,Cognitive Flexibility,0
+BigToM_annotation,4267,Emotion Perception and Empathy,0
+BigToM_annotation,4267,Episodic Memory,1
+BigToM_annotation,4267,Functional Perception,1
+BigToM_annotation,4267,Inhibitory Control,1
+BigToM_annotation,4267,Language,2
+BigToM_annotation,4267,Mental Simulation,0
+BigToM_annotation,4267,Metacognition,0
+BigToM_annotation,4267,Object Permanence,0
+BigToM_annotation,4267,Perception and Pattern Recognition,1
+BigToM_annotation,4267,Planning,0
+BigToM_annotation,4267,Procedural Memory,0
+BigToM_annotation,4267,Prospective Memory,0
+BigToM_annotation,4267,Semantic Memory,1
+BigToM_annotation,4267,Spatial Reasoning and Navigation,0
+BigToM_annotation,4267,Theory of Mind,2
+BigToM_annotation,4267,Working Memory,1
+BigToM_annotation,4267,ambiguity,5
+BigToM_annotation,4267,factuality,5
 BigToM_annotation,431,Causal Reasoning,1
 BigToM_annotation,431,Cognitive Flexibility,0
-BigToM_annotation,431,Emotion Perception & Empathy (EPE),0
-BigToM_annotation,431,Episodic/Episodic-Like Memory,1
-BigToM_annotation,431,Executive Function (EF),1
-BigToM_annotation,431,Functional perception,0
-BigToM_annotation,431,Inhibitory Control,1
+BigToM_annotation,431,Emotion Perception and Empathy,0
+BigToM_annotation,431,Episodic Memory,1
+BigToM_annotation,431,Functional Perception,0
+BigToM_annotation,431,Inhibitory Control,0
 BigToM_annotation,431,Language,2
 BigToM_annotation,431,Mental Simulation,1
-BigToM_annotation,431,Metacognition,1
-BigToM_annotation,431,Object permanence,1
-BigToM_annotation,431,Perception and Pattern Recognition,2
+BigToM_annotation,431,Metacognition,0
+BigToM_annotation,431,Object Permanence,0
+BigToM_annotation,431,Perception and Pattern Recognition,1
 BigToM_annotation,431,Planning,0
 BigToM_annotation,431,Procedural Memory,0
 BigToM_annotation,431,Prospective Memory,0
-BigToM_annotation,431,Semantic Memory,2
-BigToM_annotation,431,Spatial reasoning and navigation,0
+BigToM_annotation,431,Semantic Memory,1
+BigToM_annotation,431,Spatial Reasoning and Navigation,0
 BigToM_annotation,431,Theory of Mind,3
-BigToM_annotation,431,Working Memory,2
+BigToM_annotation,431,Working Memory,1
 BigToM_annotation,431,ambiguity,5
 BigToM_annotation,431,factuality,5
+BigToM_annotation,432,Causal Reasoning,1
+BigToM_annotation,432,Cognitive Flexibility,0
+BigToM_annotation,432,Emotion Perception and Empathy,0
+BigToM_annotation,432,Episodic Memory,0
+BigToM_annotation,432,Functional Perception,1
+BigToM_annotation,432,Inhibitory Control,0
+BigToM_annotation,432,Language,2
+BigToM_annotation,432,Mental Simulation,0
+BigToM_annotation,432,Metacognition,0
+BigToM_annotation,432,Object Permanence,1
+BigToM_annotation,432,Perception and Pattern Recognition,1
+BigToM_annotation,432,Planning,0
+BigToM_annotation,432,Procedural Memory,0
+BigToM_annotation,432,Prospective Memory,0
+BigToM_annotation,432,Semantic Memory,2
+BigToM_annotation,432,Spatial Reasoning and Navigation,0
+BigToM_annotation,432,Theory of Mind,1
+BigToM_annotation,432,Working Memory,1
+BigToM_annotation,432,ambiguity,5
+BigToM_annotation,432,factuality,5
+BigToM_annotation,4358,Causal Reasoning,0
+BigToM_annotation,4358,Cognitive Flexibility,0
+BigToM_annotation,4358,Emotion Perception and Empathy,0
+BigToM_annotation,4358,Episodic Memory,1
+BigToM_annotation,4358,Functional Perception,0
+BigToM_annotation,4358,Inhibitory Control,0
+BigToM_annotation,4358,Language,1
+BigToM_annotation,4358,Mental Simulation,0
+BigToM_annotation,4358,Metacognition,1
+BigToM_annotation,4358,Object Permanence,1
+BigToM_annotation,4358,Perception and Pattern Recognition,1
+BigToM_annotation,4358,Planning,0
+BigToM_annotation,4358,Procedural Memory,0
+BigToM_annotation,4358,Prospective Memory,0
+BigToM_annotation,4358,Semantic Memory,1
+BigToM_annotation,4358,Spatial Reasoning and Navigation,0
+BigToM_annotation,4358,Theory of Mind,1
+BigToM_annotation,4358,Working Memory,1
+BigToM_annotation,4358,ambiguity,5
+BigToM_annotation,4358,factuality,5
+BigToM_annotation,4386,Causal Reasoning,0
+BigToM_annotation,4386,Cognitive Flexibility,0
+BigToM_annotation,4386,Emotion Perception and Empathy,0
+BigToM_annotation,4386,Episodic Memory,0
+BigToM_annotation,4386,Functional Perception,0
+BigToM_annotation,4386,Inhibitory Control,2
+BigToM_annotation,4386,Language,1
+BigToM_annotation,4386,Mental Simulation,0
+BigToM_annotation,4386,Metacognition,0
+BigToM_annotation,4386,Object Permanence,1
+BigToM_annotation,4386,Perception and Pattern Recognition,0
+BigToM_annotation,4386,Planning,0
+BigToM_annotation,4386,Procedural Memory,0
+BigToM_annotation,4386,Prospective Memory,0
+BigToM_annotation,4386,Semantic Memory,1
+BigToM_annotation,4386,Spatial Reasoning and Navigation,1
+BigToM_annotation,4386,Theory of Mind,1
+BigToM_annotation,4386,Working Memory,1
+BigToM_annotation,4386,ambiguity,5
+BigToM_annotation,4386,factuality,5
+BigToM_annotation,4395,Causal Reasoning,1
+BigToM_annotation,4395,Cognitive Flexibility,2
+BigToM_annotation,4395,Emotion Perception and Empathy,0
+BigToM_annotation,4395,Episodic Memory,1
+BigToM_annotation,4395,Functional Perception,1
+BigToM_annotation,4395,Inhibitory Control,1
+BigToM_annotation,4395,Language,1
+BigToM_annotation,4395,Mental Simulation,0
+BigToM_annotation,4395,Metacognition,1
+BigToM_annotation,4395,Object Permanence,1
+BigToM_annotation,4395,Perception and Pattern Recognition,1
+BigToM_annotation,4395,Planning,0
+BigToM_annotation,4395,Procedural Memory,0
+BigToM_annotation,4395,Prospective Memory,0
+BigToM_annotation,4395,Semantic Memory,1
+BigToM_annotation,4395,Spatial Reasoning and Navigation,0
+BigToM_annotation,4395,Theory of Mind,2
+BigToM_annotation,4395,Working Memory,1
+BigToM_annotation,4395,ambiguity,5
+BigToM_annotation,4395,factuality,5
+BigToM_annotation,4446,Causal Reasoning,1
+BigToM_annotation,4446,Cognitive Flexibility,0
+BigToM_annotation,4446,Emotion Perception and Empathy,0
+BigToM_annotation,4446,Episodic Memory,0
+BigToM_annotation,4446,Functional Perception,1
+BigToM_annotation,4446,Inhibitory Control,0
+BigToM_annotation,4446,Language,1
+BigToM_annotation,4446,Mental Simulation,0
+BigToM_annotation,4446,Metacognition,1
+BigToM_annotation,4446,Object Permanence,0
+BigToM_annotation,4446,Perception and Pattern Recognition,2
+BigToM_annotation,4446,Planning,0
+BigToM_annotation,4446,Procedural Memory,0
+BigToM_annotation,4446,Prospective Memory,0
+BigToM_annotation,4446,Semantic Memory,1
+BigToM_annotation,4446,Spatial Reasoning and Navigation,0
+BigToM_annotation,4446,Theory of Mind,3
+BigToM_annotation,4446,Working Memory,1
+BigToM_annotation,4446,ambiguity,5
+BigToM_annotation,4446,factuality,5
+BigToM_annotation,4486,Causal Reasoning,1
+BigToM_annotation,4486,Cognitive Flexibility,1
+BigToM_annotation,4486,Emotion Perception and Empathy,0
+BigToM_annotation,4486,Episodic Memory,1
+BigToM_annotation,4486,Functional Perception,1
+BigToM_annotation,4486,Inhibitory Control,1
+BigToM_annotation,4486,Language,1
+BigToM_annotation,4486,Mental Simulation,0
+BigToM_annotation,4486,Metacognition,0
+BigToM_annotation,4486,Object Permanence,0
+BigToM_annotation,4486,Perception and Pattern Recognition,1
+BigToM_annotation,4486,Planning,0
+BigToM_annotation,4486,Procedural Memory,0
+BigToM_annotation,4486,Prospective Memory,0
+BigToM_annotation,4486,Semantic Memory,1
+BigToM_annotation,4486,Spatial Reasoning and Navigation,0
+BigToM_annotation,4486,Theory of Mind,2
+BigToM_annotation,4486,Working Memory,1
+BigToM_annotation,4486,ambiguity,5
+BigToM_annotation,4486,factuality,5
+BigToM_annotation,4516,Causal Reasoning,1
+BigToM_annotation,4516,Cognitive Flexibility,0
+BigToM_annotation,4516,Emotion Perception and Empathy,0
+BigToM_annotation,4516,Episodic Memory,1
+BigToM_annotation,4516,Functional Perception,1
+BigToM_annotation,4516,Inhibitory Control,0
+BigToM_annotation,4516,Language,1
+BigToM_annotation,4516,Mental Simulation,1
+BigToM_annotation,4516,Metacognition,1
+BigToM_annotation,4516,Object Permanence,0
+BigToM_annotation,4516,Perception and Pattern Recognition,1
+BigToM_annotation,4516,Planning,0
+BigToM_annotation,4516,Procedural Memory,0
+BigToM_annotation,4516,Prospective Memory,0
+BigToM_annotation,4516,Semantic Memory,3
+BigToM_annotation,4516,Spatial Reasoning and Navigation,0
+BigToM_annotation,4516,Theory of Mind,1
+BigToM_annotation,4516,Working Memory,2
+BigToM_annotation,4516,ambiguity,5
+BigToM_annotation,4516,factuality,5
+BigToM_annotation,4528,Causal Reasoning,1
+BigToM_annotation,4528,Cognitive Flexibility,0
+BigToM_annotation,4528,Emotion Perception and Empathy,0
+BigToM_annotation,4528,Episodic Memory,1
+BigToM_annotation,4528,Functional Perception,1
+BigToM_annotation,4528,Inhibitory Control,0
+BigToM_annotation,4528,Language,1
+BigToM_annotation,4528,Mental Simulation,1
+BigToM_annotation,4528,Metacognition,1
+BigToM_annotation,4528,Object Permanence,1
+BigToM_annotation,4528,Perception and Pattern Recognition,1
+BigToM_annotation,4528,Planning,0
+BigToM_annotation,4528,Procedural Memory,0
+BigToM_annotation,4528,Prospective Memory,0
+BigToM_annotation,4528,Semantic Memory,1
+BigToM_annotation,4528,Spatial Reasoning and Navigation,0
+BigToM_annotation,4528,Theory of Mind,3
+BigToM_annotation,4528,Working Memory,1
+BigToM_annotation,4528,ambiguity,5
+BigToM_annotation,4528,factuality,5
+BigToM_annotation,4531,Causal Reasoning,1
+BigToM_annotation,4531,Cognitive Flexibility,0
+BigToM_annotation,4531,Emotion Perception and Empathy,0
+BigToM_annotation,4531,Episodic Memory,0
+BigToM_annotation,4531,Functional Perception,1
+BigToM_annotation,4531,Inhibitory Control,0
+BigToM_annotation,4531,Language,1
+BigToM_annotation,4531,Mental Simulation,0
+BigToM_annotation,4531,Metacognition,0
+BigToM_annotation,4531,Object Permanence,1
+BigToM_annotation,4531,Perception and Pattern Recognition,0
+BigToM_annotation,4531,Planning,0
+BigToM_annotation,4531,Procedural Memory,0
+BigToM_annotation,4531,Prospective Memory,0
+BigToM_annotation,4531,Semantic Memory,2
+BigToM_annotation,4531,Spatial Reasoning and Navigation,0
+BigToM_annotation,4531,Theory of Mind,3
+BigToM_annotation,4531,Working Memory,1
+BigToM_annotation,4531,ambiguity,5
+BigToM_annotation,4531,factuality,5
+BigToM_annotation,4544,Causal Reasoning,1
+BigToM_annotation,4544,Cognitive Flexibility,0
+BigToM_annotation,4544,Emotion Perception and Empathy,0
+BigToM_annotation,4544,Episodic Memory,0
+BigToM_annotation,4544,Functional Perception,1
+BigToM_annotation,4544,Inhibitory Control,0
+BigToM_annotation,4544,Language,2
+BigToM_annotation,4544,Mental Simulation,1
+BigToM_annotation,4544,Metacognition,0
+BigToM_annotation,4544,Object Permanence,0
+BigToM_annotation,4544,Perception and Pattern Recognition,1
+BigToM_annotation,4544,Planning,0
+BigToM_annotation,4544,Procedural Memory,0
+BigToM_annotation,4544,Prospective Memory,0
+BigToM_annotation,4544,Semantic Memory,2
+BigToM_annotation,4544,Spatial Reasoning and Navigation,0
+BigToM_annotation,4544,Theory of Mind,2
+BigToM_annotation,4544,Working Memory,0
+BigToM_annotation,4544,ambiguity,5
+BigToM_annotation,4544,factuality,5
+BigToM_annotation,4563,Causal Reasoning,1
+BigToM_annotation,4563,Cognitive Flexibility,0
+BigToM_annotation,4563,Emotion Perception and Empathy,0
+BigToM_annotation,4563,Episodic Memory,0
+BigToM_annotation,4563,Functional Perception,0
+BigToM_annotation,4563,Inhibitory Control,0
+BigToM_annotation,4563,Language,1
+BigToM_annotation,4563,Mental Simulation,1
+BigToM_annotation,4563,Metacognition,1
+BigToM_annotation,4563,Object Permanence,1
+BigToM_annotation,4563,Perception and Pattern Recognition,1
+BigToM_annotation,4563,Planning,0
+BigToM_annotation,4563,Procedural Memory,0
+BigToM_annotation,4563,Prospective Memory,0
+BigToM_annotation,4563,Semantic Memory,1
+BigToM_annotation,4563,Spatial Reasoning and Navigation,1
+BigToM_annotation,4563,Theory of Mind,2
+BigToM_annotation,4563,Working Memory,1
+BigToM_annotation,4563,ambiguity,5
+BigToM_annotation,4563,factuality,5
+BigToM_annotation,4590,Causal Reasoning,1
+BigToM_annotation,4590,Cognitive Flexibility,0
+BigToM_annotation,4590,Emotion Perception and Empathy,0
+BigToM_annotation,4590,Episodic Memory,1
+BigToM_annotation,4590,Functional Perception,1
+BigToM_annotation,4590,Inhibitory Control,0
+BigToM_annotation,4590,Language,1
+BigToM_annotation,4590,Mental Simulation,0
+BigToM_annotation,4590,Metacognition,0
+BigToM_annotation,4590,Object Permanence,0
+BigToM_annotation,4590,Perception and Pattern Recognition,1
+BigToM_annotation,4590,Planning,0
+BigToM_annotation,4590,Procedural Memory,0
+BigToM_annotation,4590,Prospective Memory,0
+BigToM_annotation,4590,Semantic Memory,2
+BigToM_annotation,4590,Spatial Reasoning and Navigation,0
+BigToM_annotation,4590,Theory of Mind,2
+BigToM_annotation,4590,Working Memory,1
+BigToM_annotation,4590,ambiguity,5
+BigToM_annotation,4590,factuality,5
+BigToM_annotation,4606,Causal Reasoning,0
+BigToM_annotation,4606,Cognitive Flexibility,0
+BigToM_annotation,4606,Emotion Perception and Empathy,0
+BigToM_annotation,4606,Episodic Memory,0
+BigToM_annotation,4606,Functional Perception,1
+BigToM_annotation,4606,Inhibitory Control,0
+BigToM_annotation,4606,Language,1
+BigToM_annotation,4606,Mental Simulation,1
+BigToM_annotation,4606,Metacognition,0
+BigToM_annotation,4606,Object Permanence,0
+BigToM_annotation,4606,Perception and Pattern Recognition,1
+BigToM_annotation,4606,Planning,0
+BigToM_annotation,4606,Procedural Memory,1
+BigToM_annotation,4606,Prospective Memory,0
+BigToM_annotation,4606,Semantic Memory,2
+BigToM_annotation,4606,Spatial Reasoning and Navigation,0
+BigToM_annotation,4606,Theory of Mind,2
+BigToM_annotation,4606,Working Memory,0
+BigToM_annotation,4606,ambiguity,4
+BigToM_annotation,4606,factuality,5
 BigToM_annotation,4654,Causal Reasoning,1
 BigToM_annotation,4654,Cognitive Flexibility,0
-BigToM_annotation,4654,Emotion Perception & Empathy (EPE),0
-BigToM_annotation,4654,Episodic/Episodic-Like Memory,0
-BigToM_annotation,4654,Executive Function (EF),0
-BigToM_annotation,4654,Functional perception,1
-BigToM_annotation,4654,Inhibitory Control,1
+BigToM_annotation,4654,Emotion Perception and Empathy,0
+BigToM_annotation,4654,Episodic Memory,0
+BigToM_annotation,4654,Functional Perception,1
+BigToM_annotation,4654,Inhibitory Control,0
 BigToM_annotation,4654,Language,1
-BigToM_annotation,4654,Mental Simulation,0
-BigToM_annotation,4654,Metacognition,1
-BigToM_annotation,4654,Object permanence,0
-BigToM_annotation,4654,Perception and Pattern Recognition,0
+BigToM_annotation,4654,Mental Simulation,1
+BigToM_annotation,4654,Metacognition,0
+BigToM_annotation,4654,Object Permanence,0
+BigToM_annotation,4654,Perception and Pattern Recognition,1
 BigToM_annotation,4654,Planning,0
 BigToM_annotation,4654,Procedural Memory,0
 BigToM_annotation,4654,Prospective Memory,0
 BigToM_annotation,4654,Semantic Memory,1
-BigToM_annotation,4654,Spatial reasoning and navigation,0
+BigToM_annotation,4654,Spatial Reasoning and Navigation,0
 BigToM_annotation,4654,Theory of Mind,0
-BigToM_annotation,4654,Working Memory,2
+BigToM_annotation,4654,Working Memory,0
 BigToM_annotation,4654,ambiguity,5
 BigToM_annotation,4654,factuality,5
-BigToM_annotation,4901,Causal Reasoning,0
+BigToM_annotation,4682,Causal Reasoning,1
+BigToM_annotation,4682,Cognitive Flexibility,0
+BigToM_annotation,4682,Emotion Perception and Empathy,0
+BigToM_annotation,4682,Episodic Memory,0
+BigToM_annotation,4682,Functional Perception,1
+BigToM_annotation,4682,Inhibitory Control,1
+BigToM_annotation,4682,Language,1
+BigToM_annotation,4682,Mental Simulation,1
+BigToM_annotation,4682,Metacognition,0
+BigToM_annotation,4682,Object Permanence,0
+BigToM_annotation,4682,Perception and Pattern Recognition,0
+BigToM_annotation,4682,Planning,0
+BigToM_annotation,4682,Procedural Memory,1
+BigToM_annotation,4682,Prospective Memory,0
+BigToM_annotation,4682,Semantic Memory,1
+BigToM_annotation,4682,Spatial Reasoning and Navigation,0
+BigToM_annotation,4682,Theory of Mind,1
+BigToM_annotation,4682,Working Memory,1
+BigToM_annotation,4682,ambiguity,5
+BigToM_annotation,4682,factuality,5
+BigToM_annotation,4707,Causal Reasoning,1
+BigToM_annotation,4707,Cognitive Flexibility,0
+BigToM_annotation,4707,Emotion Perception and Empathy,0
+BigToM_annotation,4707,Episodic Memory,0
+BigToM_annotation,4707,Functional Perception,1
+BigToM_annotation,4707,Inhibitory Control,0
+BigToM_annotation,4707,Language,2
+BigToM_annotation,4707,Mental Simulation,1
+BigToM_annotation,4707,Metacognition,0
+BigToM_annotation,4707,Object Permanence,0
+BigToM_annotation,4707,Perception and Pattern Recognition,1
+BigToM_annotation,4707,Planning,0
+BigToM_annotation,4707,Procedural Memory,2
+BigToM_annotation,4707,Prospective Memory,0
+BigToM_annotation,4707,Semantic Memory,2
+BigToM_annotation,4707,Spatial Reasoning and Navigation,1
+BigToM_annotation,4707,Theory of Mind,1
+BigToM_annotation,4707,Working Memory,0
+BigToM_annotation,4707,ambiguity,5
+BigToM_annotation,4707,factuality,5
+BigToM_annotation,4755,Causal Reasoning,0
+BigToM_annotation,4755,Cognitive Flexibility,0
+BigToM_annotation,4755,Emotion Perception and Empathy,0
+BigToM_annotation,4755,Episodic Memory,0
+BigToM_annotation,4755,Functional Perception,1
+BigToM_annotation,4755,Inhibitory Control,0
+BigToM_annotation,4755,Language,1
+BigToM_annotation,4755,Mental Simulation,1
+BigToM_annotation,4755,Metacognition,0
+BigToM_annotation,4755,Object Permanence,0
+BigToM_annotation,4755,Perception and Pattern Recognition,1
+BigToM_annotation,4755,Planning,0
+BigToM_annotation,4755,Procedural Memory,0
+BigToM_annotation,4755,Prospective Memory,0
+BigToM_annotation,4755,Semantic Memory,2
+BigToM_annotation,4755,Spatial Reasoning and Navigation,0
+BigToM_annotation,4755,Theory of Mind,1
+BigToM_annotation,4755,Working Memory,0
+BigToM_annotation,4755,ambiguity,5
+BigToM_annotation,4755,factuality,5
+BigToM_annotation,4765,Causal Reasoning,1
+BigToM_annotation,4765,Cognitive Flexibility,0
+BigToM_annotation,4765,Emotion Perception and Empathy,0
+BigToM_annotation,4765,Episodic Memory,0
+BigToM_annotation,4765,Functional Perception,0
+BigToM_annotation,4765,Inhibitory Control,2
+BigToM_annotation,4765,Language,1
+BigToM_annotation,4765,Mental Simulation,1
+BigToM_annotation,4765,Metacognition,0
+BigToM_annotation,4765,Object Permanence,0
+BigToM_annotation,4765,Perception and Pattern Recognition,1
+BigToM_annotation,4765,Planning,0
+BigToM_annotation,4765,Procedural Memory,1
+BigToM_annotation,4765,Prospective Memory,0
+BigToM_annotation,4765,Semantic Memory,1
+BigToM_annotation,4765,Spatial Reasoning and Navigation,0
+BigToM_annotation,4765,Theory of Mind,0
+BigToM_annotation,4765,Working Memory,0
+BigToM_annotation,4765,ambiguity,5
+BigToM_annotation,4765,factuality,5
+BigToM_annotation,4770,Causal Reasoning,0
+BigToM_annotation,4770,Cognitive Flexibility,0
+BigToM_annotation,4770,Emotion Perception and Empathy,0
+BigToM_annotation,4770,Episodic Memory,0
+BigToM_annotation,4770,Functional Perception,1
+BigToM_annotation,4770,Inhibitory Control,0
+BigToM_annotation,4770,Language,1
+BigToM_annotation,4770,Mental Simulation,1
+BigToM_annotation,4770,Metacognition,0
+BigToM_annotation,4770,Object Permanence,0
+BigToM_annotation,4770,Perception and Pattern Recognition,1
+BigToM_annotation,4770,Planning,0
+BigToM_annotation,4770,Procedural Memory,1
+BigToM_annotation,4770,Prospective Memory,0
+BigToM_annotation,4770,Semantic Memory,2
+BigToM_annotation,4770,Spatial Reasoning and Navigation,0
+BigToM_annotation,4770,Theory of Mind,0
+BigToM_annotation,4770,Working Memory,0
+BigToM_annotation,4770,ambiguity,5
+BigToM_annotation,4770,factuality,5
+BigToM_annotation,4781,Causal Reasoning,1
+BigToM_annotation,4781,Cognitive Flexibility,0
+BigToM_annotation,4781,Emotion Perception and Empathy,0
+BigToM_annotation,4781,Episodic Memory,0
+BigToM_annotation,4781,Functional Perception,1
+BigToM_annotation,4781,Inhibitory Control,0
+BigToM_annotation,4781,Language,2
+BigToM_annotation,4781,Mental Simulation,1
+BigToM_annotation,4781,Metacognition,0
+BigToM_annotation,4781,Object Permanence,0
+BigToM_annotation,4781,Perception and Pattern Recognition,2
+BigToM_annotation,4781,Planning,1
+BigToM_annotation,4781,Procedural Memory,1
+BigToM_annotation,4781,Prospective Memory,1
+BigToM_annotation,4781,Semantic Memory,3
+BigToM_annotation,4781,Spatial Reasoning and Navigation,0
+BigToM_annotation,4781,Theory of Mind,1
+BigToM_annotation,4781,Working Memory,0
+BigToM_annotation,4781,ambiguity,4
+BigToM_annotation,4781,factuality,5
+BigToM_annotation,4846,Causal Reasoning,0
+BigToM_annotation,4846,Cognitive Flexibility,0
+BigToM_annotation,4846,Emotion Perception and Empathy,0
+BigToM_annotation,4846,Episodic Memory,0
+BigToM_annotation,4846,Functional Perception,1
+BigToM_annotation,4846,Inhibitory Control,0
+BigToM_annotation,4846,Language,1
+BigToM_annotation,4846,Mental Simulation,0
+BigToM_annotation,4846,Metacognition,0
+BigToM_annotation,4846,Object Permanence,0
+BigToM_annotation,4846,Perception and Pattern Recognition,0
+BigToM_annotation,4846,Planning,0
+BigToM_annotation,4846,Procedural Memory,0
+BigToM_annotation,4846,Prospective Memory,0
+BigToM_annotation,4846,Semantic Memory,1
+BigToM_annotation,4846,Spatial Reasoning and Navigation,0
+BigToM_annotation,4846,Theory of Mind,0
+BigToM_annotation,4846,Working Memory,0
+BigToM_annotation,4846,ambiguity,5
+BigToM_annotation,4846,factuality,5
+BigToM_annotation,4855,Causal Reasoning,0
+BigToM_annotation,4855,Cognitive Flexibility,0
+BigToM_annotation,4855,Emotion Perception and Empathy,0
+BigToM_annotation,4855,Episodic Memory,1
+BigToM_annotation,4855,Functional Perception,1
+BigToM_annotation,4855,Inhibitory Control,1
+BigToM_annotation,4855,Language,1
+BigToM_annotation,4855,Mental Simulation,0
+BigToM_annotation,4855,Metacognition,0
+BigToM_annotation,4855,Object Permanence,0
+BigToM_annotation,4855,Perception and Pattern Recognition,0
+BigToM_annotation,4855,Planning,0
+BigToM_annotation,4855,Procedural Memory,0
+BigToM_annotation,4855,Prospective Memory,0
+BigToM_annotation,4855,Semantic Memory,1
+BigToM_annotation,4855,Spatial Reasoning and Navigation,0
+BigToM_annotation,4855,Theory of Mind,2
+BigToM_annotation,4855,Working Memory,1
+BigToM_annotation,4855,ambiguity,5
+BigToM_annotation,4855,factuality,5
+BigToM_annotation,4856,Causal Reasoning,1
+BigToM_annotation,4856,Cognitive Flexibility,0
+BigToM_annotation,4856,Emotion Perception and Empathy,0
+BigToM_annotation,4856,Episodic Memory,0
+BigToM_annotation,4856,Functional Perception,0
+BigToM_annotation,4856,Inhibitory Control,0
+BigToM_annotation,4856,Language,1
+BigToM_annotation,4856,Mental Simulation,0
+BigToM_annotation,4856,Metacognition,0
+BigToM_annotation,4856,Object Permanence,0
+BigToM_annotation,4856,Perception and Pattern Recognition,0
+BigToM_annotation,4856,Planning,0
+BigToM_annotation,4856,Procedural Memory,0
+BigToM_annotation,4856,Prospective Memory,0
+BigToM_annotation,4856,Semantic Memory,2
+BigToM_annotation,4856,Spatial Reasoning and Navigation,0
+BigToM_annotation,4856,Theory of Mind,1
+BigToM_annotation,4856,Working Memory,1
+BigToM_annotation,4856,ambiguity,5
+BigToM_annotation,4856,factuality,5
+BigToM_annotation,4883,Causal Reasoning,0
+BigToM_annotation,4883,Cognitive Flexibility,0
+BigToM_annotation,4883,Emotion Perception and Empathy,0
+BigToM_annotation,4883,Episodic Memory,0
+BigToM_annotation,4883,Functional Perception,0
+BigToM_annotation,4883,Inhibitory Control,0
+BigToM_annotation,4883,Language,1
+BigToM_annotation,4883,Mental Simulation,0
+BigToM_annotation,4883,Metacognition,0
+BigToM_annotation,4883,Object Permanence,0
+BigToM_annotation,4883,Perception and Pattern Recognition,0
+BigToM_annotation,4883,Planning,0
+BigToM_annotation,4883,Procedural Memory,0
+BigToM_annotation,4883,Prospective Memory,0
+BigToM_annotation,4883,Semantic Memory,1
+BigToM_annotation,4883,Spatial Reasoning and Navigation,0
+BigToM_annotation,4883,Theory of Mind,1
+BigToM_annotation,4883,Working Memory,1
+BigToM_annotation,4883,ambiguity,5
+BigToM_annotation,4883,factuality,5
+BigToM_annotation,4884,Causal Reasoning,0
+BigToM_annotation,4884,Cognitive Flexibility,0
+BigToM_annotation,4884,Emotion Perception and Empathy,0
+BigToM_annotation,4884,Episodic Memory,0
+BigToM_annotation,4884,Functional Perception,0
+BigToM_annotation,4884,Inhibitory Control,0
+BigToM_annotation,4884,Language,1
+BigToM_annotation,4884,Mental Simulation,0
+BigToM_annotation,4884,Metacognition,0
+BigToM_annotation,4884,Object Permanence,0
+BigToM_annotation,4884,Perception and Pattern Recognition,1
+BigToM_annotation,4884,Planning,0
+BigToM_annotation,4884,Procedural Memory,0
+BigToM_annotation,4884,Prospective Memory,0
+BigToM_annotation,4884,Semantic Memory,1
+BigToM_annotation,4884,Spatial Reasoning and Navigation,0
+BigToM_annotation,4884,Theory of Mind,1
+BigToM_annotation,4884,Working Memory,1
+BigToM_annotation,4884,ambiguity,5
+BigToM_annotation,4884,factuality,5
+BigToM_annotation,4888,Causal Reasoning,0
+BigToM_annotation,4888,Cognitive Flexibility,0
+BigToM_annotation,4888,Emotion Perception and Empathy,0
+BigToM_annotation,4888,Episodic Memory,0
+BigToM_annotation,4888,Functional Perception,0
+BigToM_annotation,4888,Inhibitory Control,1
+BigToM_annotation,4888,Language,1
+BigToM_annotation,4888,Mental Simulation,0
+BigToM_annotation,4888,Metacognition,0
+BigToM_annotation,4888,Object Permanence,0
+BigToM_annotation,4888,Perception and Pattern Recognition,0
+BigToM_annotation,4888,Planning,0
+BigToM_annotation,4888,Procedural Memory,0
+BigToM_annotation,4888,Prospective Memory,0
+BigToM_annotation,4888,Semantic Memory,0
+BigToM_annotation,4888,Spatial Reasoning and Navigation,0
+BigToM_annotation,4888,Theory of Mind,1
+BigToM_annotation,4888,Working Memory,1
+BigToM_annotation,4888,ambiguity,5
+BigToM_annotation,4888,factuality,5
+BigToM_annotation,489,Causal Reasoning,1
+BigToM_annotation,489,Cognitive Flexibility,0
+BigToM_annotation,489,Emotion Perception and Empathy,0
+BigToM_annotation,489,Episodic Memory,0
+BigToM_annotation,489,Functional Perception,0
+BigToM_annotation,489,Inhibitory Control,0
+BigToM_annotation,489,Language,2
+BigToM_annotation,489,Mental Simulation,0
+BigToM_annotation,489,Metacognition,0
+BigToM_annotation,489,Object Permanence,0
+BigToM_annotation,489,Perception and Pattern Recognition,1
+BigToM_annotation,489,Planning,0
+BigToM_annotation,489,Procedural Memory,0
+BigToM_annotation,489,Prospective Memory,0
+BigToM_annotation,489,Semantic Memory,2
+BigToM_annotation,489,Spatial Reasoning and Navigation,0
+BigToM_annotation,489,Theory of Mind,2
+BigToM_annotation,489,Working Memory,0
+BigToM_annotation,489,ambiguity,5
+BigToM_annotation,489,factuality,5
+BigToM_annotation,4901,Causal Reasoning,1
 BigToM_annotation,4901,Cognitive Flexibility,0
-BigToM_annotation,4901,Emotion Perception & Empathy (EPE),0
-BigToM_annotation,4901,Episodic/Episodic-Like Memory,0
-BigToM_annotation,4901,Executive Function (EF),3
-BigToM_annotation,4901,Functional perception,0
-BigToM_annotation,4901,Inhibitory Control,1
+BigToM_annotation,4901,Emotion Perception and Empathy,0
+BigToM_annotation,4901,Episodic Memory,1
+BigToM_annotation,4901,Functional Perception,0
+BigToM_annotation,4901,Inhibitory Control,0
 BigToM_annotation,4901,Language,1
 BigToM_annotation,4901,Mental Simulation,0
 BigToM_annotation,4901,Metacognition,0
-BigToM_annotation,4901,Object permanence,0
+BigToM_annotation,4901,Object Permanence,0
 BigToM_annotation,4901,Perception and Pattern Recognition,0
 BigToM_annotation,4901,Planning,0
 BigToM_annotation,4901,Procedural Memory,0
 BigToM_annotation,4901,Prospective Memory,0
-BigToM_annotation,4901,Semantic Memory,1
-BigToM_annotation,4901,Spatial reasoning and navigation,0
-BigToM_annotation,4901,Theory of Mind,0
-BigToM_annotation,4901,Working Memory,2
+BigToM_annotation,4901,Semantic Memory,0
+BigToM_annotation,4901,Spatial Reasoning and Navigation,0
+BigToM_annotation,4901,Theory of Mind,1
+BigToM_annotation,4901,Working Memory,0
 BigToM_annotation,4901,ambiguity,5
-BigToM_annotation,4901,factuality,1
+BigToM_annotation,4901,factuality,5
+BigToM_annotation,492,Causal Reasoning,1
+BigToM_annotation,492,Cognitive Flexibility,0
+BigToM_annotation,492,Emotion Perception and Empathy,0
+BigToM_annotation,492,Episodic Memory,0
+BigToM_annotation,492,Functional Perception,1
+BigToM_annotation,492,Inhibitory Control,1
+BigToM_annotation,492,Language,1
+BigToM_annotation,492,Mental Simulation,1
+BigToM_annotation,492,Metacognition,1
+BigToM_annotation,492,Object Permanence,1
+BigToM_annotation,492,Perception and Pattern Recognition,1
+BigToM_annotation,492,Planning,0
+BigToM_annotation,492,Procedural Memory,0
+BigToM_annotation,492,Prospective Memory,0
+BigToM_annotation,492,Semantic Memory,1
+BigToM_annotation,492,Spatial Reasoning and Navigation,0
+BigToM_annotation,492,Theory of Mind,3
+BigToM_annotation,492,Working Memory,1
+BigToM_annotation,492,ambiguity,5
+BigToM_annotation,492,factuality,5
+BigToM_annotation,4963,Causal Reasoning,1
+BigToM_annotation,4963,Cognitive Flexibility,0
+BigToM_annotation,4963,Emotion Perception and Empathy,0
+BigToM_annotation,4963,Episodic Memory,0
+BigToM_annotation,4963,Functional Perception,1
+BigToM_annotation,4963,Inhibitory Control,0
+BigToM_annotation,4963,Language,1
+BigToM_annotation,4963,Mental Simulation,0
+BigToM_annotation,4963,Metacognition,0
+BigToM_annotation,4963,Object Permanence,0
+BigToM_annotation,4963,Perception and Pattern Recognition,1
+BigToM_annotation,4963,Planning,0
+BigToM_annotation,4963,Procedural Memory,0
+BigToM_annotation,4963,Prospective Memory,0
+BigToM_annotation,4963,Semantic Memory,1
+BigToM_annotation,4963,Spatial Reasoning and Navigation,1
+BigToM_annotation,4963,Theory of Mind,1
+BigToM_annotation,4963,Working Memory,1
+BigToM_annotation,4963,ambiguity,5
+BigToM_annotation,4963,factuality,5
+BigToM_annotation,551,Causal Reasoning,0
+BigToM_annotation,551,Cognitive Flexibility,0
+BigToM_annotation,551,Emotion Perception and Empathy,0
+BigToM_annotation,551,Episodic Memory,0
+BigToM_annotation,551,Functional Perception,0
+BigToM_annotation,551,Inhibitory Control,0
+BigToM_annotation,551,Language,2
+BigToM_annotation,551,Mental Simulation,0
+BigToM_annotation,551,Metacognition,0
+BigToM_annotation,551,Object Permanence,1
+BigToM_annotation,551,Perception and Pattern Recognition,1
+BigToM_annotation,551,Planning,0
+BigToM_annotation,551,Procedural Memory,0
+BigToM_annotation,551,Prospective Memory,0
+BigToM_annotation,551,Semantic Memory,1
+BigToM_annotation,551,Spatial Reasoning and Navigation,0
+BigToM_annotation,551,Theory of Mind,3
+BigToM_annotation,551,Working Memory,1
+BigToM_annotation,551,ambiguity,5
+BigToM_annotation,551,factuality,5
+BigToM_annotation,630,Causal Reasoning,1
+BigToM_annotation,630,Cognitive Flexibility,0
+BigToM_annotation,630,Emotion Perception and Empathy,0
+BigToM_annotation,630,Episodic Memory,0
+BigToM_annotation,630,Functional Perception,1
+BigToM_annotation,630,Inhibitory Control,2
+BigToM_annotation,630,Language,1
+BigToM_annotation,630,Mental Simulation,1
+BigToM_annotation,630,Metacognition,2
+BigToM_annotation,630,Object Permanence,0
+BigToM_annotation,630,Perception and Pattern Recognition,1
+BigToM_annotation,630,Planning,0
+BigToM_annotation,630,Procedural Memory,0
+BigToM_annotation,630,Prospective Memory,0
+BigToM_annotation,630,Semantic Memory,2
+BigToM_annotation,630,Spatial Reasoning and Navigation,1
+BigToM_annotation,630,Theory of Mind,1
+BigToM_annotation,630,Working Memory,1
+BigToM_annotation,630,ambiguity,3
+BigToM_annotation,630,factuality,3
+BigToM_annotation,672,Causal Reasoning,1
+BigToM_annotation,672,Cognitive Flexibility,0
+BigToM_annotation,672,Emotion Perception and Empathy,0
+BigToM_annotation,672,Episodic Memory,0
+BigToM_annotation,672,Functional Perception,1
+BigToM_annotation,672,Inhibitory Control,2
+BigToM_annotation,672,Language,2
+BigToM_annotation,672,Mental Simulation,1
+BigToM_annotation,672,Metacognition,0
+BigToM_annotation,672,Object Permanence,1
+BigToM_annotation,672,Perception and Pattern Recognition,2
+BigToM_annotation,672,Planning,0
+BigToM_annotation,672,Procedural Memory,0
+BigToM_annotation,672,Prospective Memory,2
+BigToM_annotation,672,Semantic Memory,2
+BigToM_annotation,672,Spatial Reasoning and Navigation,0
+BigToM_annotation,672,Theory of Mind,1
+BigToM_annotation,672,Working Memory,0
+BigToM_annotation,672,ambiguity,5
+BigToM_annotation,672,factuality,5
+BigToM_annotation,692,Causal Reasoning,1
+BigToM_annotation,692,Cognitive Flexibility,0
+BigToM_annotation,692,Emotion Perception and Empathy,0
+BigToM_annotation,692,Episodic Memory,1
+BigToM_annotation,692,Functional Perception,1
+BigToM_annotation,692,Inhibitory Control,2
+BigToM_annotation,692,Language,2
+BigToM_annotation,692,Mental Simulation,1
+BigToM_annotation,692,Metacognition,0
+BigToM_annotation,692,Object Permanence,0
+BigToM_annotation,692,Perception and Pattern Recognition,2
+BigToM_annotation,692,Planning,0
+BigToM_annotation,692,Procedural Memory,1
+BigToM_annotation,692,Prospective Memory,0
+BigToM_annotation,692,Semantic Memory,1
+BigToM_annotation,692,Spatial Reasoning and Navigation,1
+BigToM_annotation,692,Theory of Mind,3
+BigToM_annotation,692,Working Memory,1
+BigToM_annotation,692,ambiguity,3
+BigToM_annotation,692,factuality,2
+BigToM_annotation,695,Causal Reasoning,0
+BigToM_annotation,695,Cognitive Flexibility,0
+BigToM_annotation,695,Emotion Perception and Empathy,0
+BigToM_annotation,695,Episodic Memory,0
+BigToM_annotation,695,Functional Perception,1
+BigToM_annotation,695,Inhibitory Control,1
+BigToM_annotation,695,Language,1
+BigToM_annotation,695,Mental Simulation,1
+BigToM_annotation,695,Metacognition,2
+BigToM_annotation,695,Object Permanence,0
+BigToM_annotation,695,Perception and Pattern Recognition,1
+BigToM_annotation,695,Planning,0
+BigToM_annotation,695,Procedural Memory,0
+BigToM_annotation,695,Prospective Memory,0
+BigToM_annotation,695,Semantic Memory,2
+BigToM_annotation,695,Spatial Reasoning and Navigation,1
+BigToM_annotation,695,Theory of Mind,1
+BigToM_annotation,695,Working Memory,1
+BigToM_annotation,695,ambiguity,3
+BigToM_annotation,695,factuality,3
+BigToM_annotation,700,Causal Reasoning,1
+BigToM_annotation,700,Cognitive Flexibility,0
+BigToM_annotation,700,Emotion Perception and Empathy,0
+BigToM_annotation,700,Episodic Memory,0
+BigToM_annotation,700,Functional Perception,1
+BigToM_annotation,700,Inhibitory Control,1
+BigToM_annotation,700,Language,1
+BigToM_annotation,700,Mental Simulation,1
+BigToM_annotation,700,Metacognition,0
+BigToM_annotation,700,Object Permanence,0
+BigToM_annotation,700,Perception and Pattern Recognition,1
+BigToM_annotation,700,Planning,0
+BigToM_annotation,700,Procedural Memory,1
+BigToM_annotation,700,Prospective Memory,0
+BigToM_annotation,700,Semantic Memory,2
+BigToM_annotation,700,Spatial Reasoning and Navigation,0
+BigToM_annotation,700,Theory of Mind,1
+BigToM_annotation,700,Working Memory,1
+BigToM_annotation,700,ambiguity,5
+BigToM_annotation,700,factuality,5
+BigToM_annotation,711,Causal Reasoning,1
+BigToM_annotation,711,Cognitive Flexibility,0
+BigToM_annotation,711,Emotion Perception and Empathy,0
+BigToM_annotation,711,Episodic Memory,1
+BigToM_annotation,711,Functional Perception,1
+BigToM_annotation,711,Inhibitory Control,1
+BigToM_annotation,711,Language,1
+BigToM_annotation,711,Mental Simulation,1
+BigToM_annotation,711,Metacognition,0
+BigToM_annotation,711,Object Permanence,0
+BigToM_annotation,711,Perception and Pattern Recognition,1
+BigToM_annotation,711,Planning,0
+BigToM_annotation,711,Procedural Memory,2
+BigToM_annotation,711,Prospective Memory,0
+BigToM_annotation,711,Semantic Memory,1
+BigToM_annotation,711,Spatial Reasoning and Navigation,0
+BigToM_annotation,711,Theory of Mind,1
+BigToM_annotation,711,Working Memory,1
+BigToM_annotation,711,ambiguity,5
+BigToM_annotation,711,factuality,5
 BigToM_annotation,716,Causal Reasoning,1
-BigToM_annotation,716,Cognitive Flexibility,0
-BigToM_annotation,716,Emotion Perception & Empathy (EPE),0
-BigToM_annotation,716,Episodic/Episodic-Like Memory,0
-BigToM_annotation,716,Executive Function (EF),2
-BigToM_annotation,716,Functional perception,1
-BigToM_annotation,716,Inhibitory Control,1
+BigToM_annotation,716,Cognitive Flexibility,1
+BigToM_annotation,716,Emotion Perception and Empathy,0
+BigToM_annotation,716,Episodic Memory,0
+BigToM_annotation,716,Functional Perception,1
+BigToM_annotation,716,Inhibitory Control,2
 BigToM_annotation,716,Language,2
-BigToM_annotation,716,Mental Simulation,0
+BigToM_annotation,716,Mental Simulation,1
 BigToM_annotation,716,Metacognition,1
-BigToM_annotation,716,Object permanence,0
+BigToM_annotation,716,Object Permanence,0
 BigToM_annotation,716,Perception and Pattern Recognition,1
 BigToM_annotation,716,Planning,0
 BigToM_annotation,716,Procedural Memory,0
-BigToM_annotation,716,Prospective Memory,0
-BigToM_annotation,716,Semantic Memory,2
-BigToM_annotation,716,Spatial reasoning and navigation,0
-BigToM_annotation,716,Theory of Mind,2
-BigToM_annotation,716,Working Memory,2
+BigToM_annotation,716,Prospective Memory,1
+BigToM_annotation,716,Semantic Memory,3
+BigToM_annotation,716,Spatial Reasoning and Navigation,0
+BigToM_annotation,716,Theory of Mind,1
+BigToM_annotation,716,Working Memory,0
 BigToM_annotation,716,ambiguity,5
 BigToM_annotation,716,factuality,5
-BigToM_annotation,960,Causal Reasoning,0
-BigToM_annotation,960,Cognitive Flexibility,0
-BigToM_annotation,960,Emotion Perception & Empathy (EPE),0
-BigToM_annotation,960,Episodic/Episodic-Like Memory,1
-BigToM_annotation,960,Executive Function (EF),1
-BigToM_annotation,960,Functional perception,1
-BigToM_annotation,960,Inhibitory Control,1
+BigToM_annotation,773,Causal Reasoning,1
+BigToM_annotation,773,Cognitive Flexibility,0
+BigToM_annotation,773,Emotion Perception and Empathy,1
+BigToM_annotation,773,Episodic Memory,0
+BigToM_annotation,773,Functional Perception,1
+BigToM_annotation,773,Inhibitory Control,0
+BigToM_annotation,773,Language,1
+BigToM_annotation,773,Mental Simulation,1
+BigToM_annotation,773,Metacognition,0
+BigToM_annotation,773,Object Permanence,0
+BigToM_annotation,773,Perception and Pattern Recognition,1
+BigToM_annotation,773,Planning,0
+BigToM_annotation,773,Procedural Memory,0
+BigToM_annotation,773,Prospective Memory,0
+BigToM_annotation,773,Semantic Memory,1
+BigToM_annotation,773,Spatial Reasoning and Navigation,0
+BigToM_annotation,773,Theory of Mind,2
+BigToM_annotation,773,Working Memory,0
+BigToM_annotation,773,ambiguity,5
+BigToM_annotation,773,factuality,5
+BigToM_annotation,793,Causal Reasoning,0
+BigToM_annotation,793,Cognitive Flexibility,0
+BigToM_annotation,793,Emotion Perception and Empathy,0
+BigToM_annotation,793,Episodic Memory,0
+BigToM_annotation,793,Functional Perception,1
+BigToM_annotation,793,Inhibitory Control,0
+BigToM_annotation,793,Language,2
+BigToM_annotation,793,Mental Simulation,1
+BigToM_annotation,793,Metacognition,1
+BigToM_annotation,793,Object Permanence,0
+BigToM_annotation,793,Perception and Pattern Recognition,1
+BigToM_annotation,793,Planning,0
+BigToM_annotation,793,Procedural Memory,0
+BigToM_annotation,793,Prospective Memory,0
+BigToM_annotation,793,Semantic Memory,2
+BigToM_annotation,793,Spatial Reasoning and Navigation,0
+BigToM_annotation,793,Theory of Mind,0
+BigToM_annotation,793,Working Memory,0
+BigToM_annotation,793,ambiguity,5
+BigToM_annotation,793,factuality,5
+BigToM_annotation,809,Causal Reasoning,1
+BigToM_annotation,809,Cognitive Flexibility,1
+BigToM_annotation,809,Emotion Perception and Empathy,0
+BigToM_annotation,809,Episodic Memory,0
+BigToM_annotation,809,Functional Perception,1
+BigToM_annotation,809,Inhibitory Control,1
+BigToM_annotation,809,Language,1
+BigToM_annotation,809,Mental Simulation,1
+BigToM_annotation,809,Metacognition,1
+BigToM_annotation,809,Object Permanence,1
+BigToM_annotation,809,Perception and Pattern Recognition,1
+BigToM_annotation,809,Planning,0
+BigToM_annotation,809,Procedural Memory,0
+BigToM_annotation,809,Prospective Memory,0
+BigToM_annotation,809,Semantic Memory,1
+BigToM_annotation,809,Spatial Reasoning and Navigation,1
+BigToM_annotation,809,Theory of Mind,1
+BigToM_annotation,809,Working Memory,3
+BigToM_annotation,809,ambiguity,5
+BigToM_annotation,809,factuality,5
+BigToM_annotation,824,Causal Reasoning,1
+BigToM_annotation,824,Cognitive Flexibility,1
+BigToM_annotation,824,Emotion Perception and Empathy,0
+BigToM_annotation,824,Episodic Memory,0
+BigToM_annotation,824,Functional Perception,0
+BigToM_annotation,824,Inhibitory Control,0
+BigToM_annotation,824,Language,2
+BigToM_annotation,824,Mental Simulation,0
+BigToM_annotation,824,Metacognition,1
+BigToM_annotation,824,Object Permanence,0
+BigToM_annotation,824,Perception and Pattern Recognition,1
+BigToM_annotation,824,Planning,0
+BigToM_annotation,824,Procedural Memory,0
+BigToM_annotation,824,Prospective Memory,0
+BigToM_annotation,824,Semantic Memory,1
+BigToM_annotation,824,Spatial Reasoning and Navigation,0
+BigToM_annotation,824,Theory of Mind,2
+BigToM_annotation,824,Working Memory,0
+BigToM_annotation,824,ambiguity,4
+BigToM_annotation,824,factuality,5
+BigToM_annotation,833,Causal Reasoning,1
+BigToM_annotation,833,Cognitive Flexibility,1
+BigToM_annotation,833,Emotion Perception and Empathy,0
+BigToM_annotation,833,Episodic Memory,1
+BigToM_annotation,833,Functional Perception,0
+BigToM_annotation,833,Inhibitory Control,1
+BigToM_annotation,833,Language,2
+BigToM_annotation,833,Mental Simulation,1
+BigToM_annotation,833,Metacognition,1
+BigToM_annotation,833,Object Permanence,0
+BigToM_annotation,833,Perception and Pattern Recognition,1
+BigToM_annotation,833,Planning,0
+BigToM_annotation,833,Procedural Memory,0
+BigToM_annotation,833,Prospective Memory,0
+BigToM_annotation,833,Semantic Memory,2
+BigToM_annotation,833,Spatial Reasoning and Navigation,0
+BigToM_annotation,833,Theory of Mind,1
+BigToM_annotation,833,Working Memory,1
+BigToM_annotation,833,ambiguity,4
+BigToM_annotation,833,factuality,5
+BigToM_annotation,854,Causal Reasoning,1
+BigToM_annotation,854,Cognitive Flexibility,2
+BigToM_annotation,854,Emotion Perception and Empathy,0
+BigToM_annotation,854,Episodic Memory,0
+BigToM_annotation,854,Functional Perception,1
+BigToM_annotation,854,Inhibitory Control,1
+BigToM_annotation,854,Language,2
+BigToM_annotation,854,Mental Simulation,1
+BigToM_annotation,854,Metacognition,1
+BigToM_annotation,854,Object Permanence,1
+BigToM_annotation,854,Perception and Pattern Recognition,1
+BigToM_annotation,854,Planning,0
+BigToM_annotation,854,Procedural Memory,0
+BigToM_annotation,854,Prospective Memory,0
+BigToM_annotation,854,Semantic Memory,2
+BigToM_annotation,854,Spatial Reasoning and Navigation,1
+BigToM_annotation,854,Theory of Mind,1
+BigToM_annotation,854,Working Memory,2
+BigToM_annotation,854,ambiguity,5
+BigToM_annotation,854,factuality,5
+BigToM_annotation,857,Causal Reasoning,1
+BigToM_annotation,857,Cognitive Flexibility,1
+BigToM_annotation,857,Emotion Perception and Empathy,0
+BigToM_annotation,857,Episodic Memory,1
+BigToM_annotation,857,Functional Perception,1
+BigToM_annotation,857,Inhibitory Control,0
+BigToM_annotation,857,Language,2
+BigToM_annotation,857,Mental Simulation,1
+BigToM_annotation,857,Metacognition,1
+BigToM_annotation,857,Object Permanence,4
+BigToM_annotation,857,Perception and Pattern Recognition,1
+BigToM_annotation,857,Planning,0
+BigToM_annotation,857,Procedural Memory,0
+BigToM_annotation,857,Prospective Memory,0
+BigToM_annotation,857,Semantic Memory,1
+BigToM_annotation,857,Spatial Reasoning and Navigation,0
+BigToM_annotation,857,Theory of Mind,2
+BigToM_annotation,857,Working Memory,2
+BigToM_annotation,857,ambiguity,5
+BigToM_annotation,857,factuality,5
+BigToM_annotation,872,Causal Reasoning,1
+BigToM_annotation,872,Cognitive Flexibility,1
+BigToM_annotation,872,Emotion Perception and Empathy,0
+BigToM_annotation,872,Episodic Memory,0
+BigToM_annotation,872,Functional Perception,1
+BigToM_annotation,872,Inhibitory Control,1
+BigToM_annotation,872,Language,2
+BigToM_annotation,872,Mental Simulation,1
+BigToM_annotation,872,Metacognition,2
+BigToM_annotation,872,Object Permanence,0
+BigToM_annotation,872,Perception and Pattern Recognition,1
+BigToM_annotation,872,Planning,0
+BigToM_annotation,872,Procedural Memory,0
+BigToM_annotation,872,Prospective Memory,0
+BigToM_annotation,872,Semantic Memory,2
+BigToM_annotation,872,Spatial Reasoning and Navigation,0
+BigToM_annotation,872,Theory of Mind,3
+BigToM_annotation,872,Working Memory,2
+BigToM_annotation,872,ambiguity,5
+BigToM_annotation,872,factuality,5
+BigToM_annotation,88,Causal Reasoning,1
+BigToM_annotation,88,Cognitive Flexibility,0
+BigToM_annotation,88,Emotion Perception and Empathy,0
+BigToM_annotation,88,Episodic Memory,0
+BigToM_annotation,88,Functional Perception,1
+BigToM_annotation,88,Inhibitory Control,0
+BigToM_annotation,88,Language,1
+BigToM_annotation,88,Mental Simulation,1
+BigToM_annotation,88,Metacognition,0
+BigToM_annotation,88,Object Permanence,0
+BigToM_annotation,88,Perception and Pattern Recognition,1
+BigToM_annotation,88,Planning,0
+BigToM_annotation,88,Procedural Memory,0
+BigToM_annotation,88,Prospective Memory,0
+BigToM_annotation,88,Semantic Memory,1
+BigToM_annotation,88,Spatial Reasoning and Navigation,1
+BigToM_annotation,88,Theory of Mind,2
+BigToM_annotation,88,Working Memory,2
+BigToM_annotation,88,ambiguity,5
+BigToM_annotation,88,factuality,5
+BigToM_annotation,891,Causal Reasoning,1
+BigToM_annotation,891,Cognitive Flexibility,2
+BigToM_annotation,891,Emotion Perception and Empathy,0
+BigToM_annotation,891,Episodic Memory,1
+BigToM_annotation,891,Functional Perception,1
+BigToM_annotation,891,Inhibitory Control,1
+BigToM_annotation,891,Language,2
+BigToM_annotation,891,Mental Simulation,1
+BigToM_annotation,891,Metacognition,1
+BigToM_annotation,891,Object Permanence,0
+BigToM_annotation,891,Perception and Pattern Recognition,1
+BigToM_annotation,891,Planning,0
+BigToM_annotation,891,Procedural Memory,0
+BigToM_annotation,891,Prospective Memory,0
+BigToM_annotation,891,Semantic Memory,2
+BigToM_annotation,891,Spatial Reasoning and Navigation,0
+BigToM_annotation,891,Theory of Mind,2
+BigToM_annotation,891,Working Memory,2
+BigToM_annotation,891,ambiguity,3
+BigToM_annotation,891,factuality,1
+BigToM_annotation,914,Causal Reasoning,1
+BigToM_annotation,914,Cognitive Flexibility,1
+BigToM_annotation,914,Emotion Perception and Empathy,0
+BigToM_annotation,914,Episodic Memory,1
+BigToM_annotation,914,Functional Perception,1
+BigToM_annotation,914,Inhibitory Control,0
+BigToM_annotation,914,Language,2
+BigToM_annotation,914,Mental Simulation,1
+BigToM_annotation,914,Metacognition,1
+BigToM_annotation,914,Object Permanence,0
+BigToM_annotation,914,Perception and Pattern Recognition,1
+BigToM_annotation,914,Planning,0
+BigToM_annotation,914,Procedural Memory,0
+BigToM_annotation,914,Prospective Memory,1
+BigToM_annotation,914,Semantic Memory,1
+BigToM_annotation,914,Spatial Reasoning and Navigation,0
+BigToM_annotation,914,Theory of Mind,2
+BigToM_annotation,914,Working Memory,1
+BigToM_annotation,914,ambiguity,5
+BigToM_annotation,914,factuality,5
+BigToM_annotation,933,Causal Reasoning,1
+BigToM_annotation,933,Cognitive Flexibility,1
+BigToM_annotation,933,Emotion Perception and Empathy,0
+BigToM_annotation,933,Episodic Memory,1
+BigToM_annotation,933,Functional Perception,1
+BigToM_annotation,933,Inhibitory Control,0
+BigToM_annotation,933,Language,2
+BigToM_annotation,933,Mental Simulation,1
+BigToM_annotation,933,Metacognition,2
+BigToM_annotation,933,Object Permanence,0
+BigToM_annotation,933,Perception and Pattern Recognition,1
+BigToM_annotation,933,Planning,0
+BigToM_annotation,933,Procedural Memory,0
+BigToM_annotation,933,Prospective Memory,1
+BigToM_annotation,933,Semantic Memory,2
+BigToM_annotation,933,Spatial Reasoning and Navigation,0
+BigToM_annotation,933,Theory of Mind,1
+BigToM_annotation,933,Working Memory,1
+BigToM_annotation,933,ambiguity,5
+BigToM_annotation,933,factuality,5
+BigToM_annotation,960,Causal Reasoning,1
+BigToM_annotation,960,Cognitive Flexibility,1
+BigToM_annotation,960,Emotion Perception and Empathy,0
+BigToM_annotation,960,Episodic Memory,1
+BigToM_annotation,960,Functional Perception,1
+BigToM_annotation,960,Inhibitory Control,0
 BigToM_annotation,960,Language,2
-BigToM_annotation,960,Mental Simulation,0
-BigToM_annotation,960,Metacognition,2
-BigToM_annotation,960,Object permanence,1
-BigToM_annotation,960,Perception and Pattern Recognition,2
+BigToM_annotation,960,Mental Simulation,1
+BigToM_annotation,960,Metacognition,1
+BigToM_annotation,960,Object Permanence,2
+BigToM_annotation,960,Perception and Pattern Recognition,1
 BigToM_annotation,960,Planning,0
 BigToM_annotation,960,Procedural Memory,0
 BigToM_annotation,960,Prospective Memory,0
 BigToM_annotation,960,Semantic Memory,2
-BigToM_annotation,960,Spatial reasoning and navigation,0
-BigToM_annotation,960,Theory of Mind,2
-BigToM_annotation,960,Working Memory,2
-BigToM_annotation,960,ambiguity,3
-BigToM_annotation,960,factuality,1
+BigToM_annotation,960,Spatial Reasoning and Navigation,0
+BigToM_annotation,960,Theory of Mind,1
+BigToM_annotation,960,Working Memory,0
+BigToM_annotation,960,ambiguity,5
+BigToM_annotation,960,factuality,5
+BigToM_annotation,998,Causal Reasoning,1
+BigToM_annotation,998,Cognitive Flexibility,1
+BigToM_annotation,998,Emotion Perception and Empathy,0
+BigToM_annotation,998,Episodic Memory,1
+BigToM_annotation,998,Functional Perception,2
+BigToM_annotation,998,Inhibitory Control,1
+BigToM_annotation,998,Language,1
+BigToM_annotation,998,Mental Simulation,1
+BigToM_annotation,998,Metacognition,1
+BigToM_annotation,998,Object Permanence,0
+BigToM_annotation,998,Perception and Pattern Recognition,2
+BigToM_annotation,998,Planning,0
+BigToM_annotation,998,Procedural Memory,0
+BigToM_annotation,998,Prospective Memory,0
+BigToM_annotation,998,Semantic Memory,2
+BigToM_annotation,998,Spatial Reasoning and Navigation,0
+BigToM_annotation,998,Theory of Mind,2
+BigToM_annotation,998,Working Memory,3
+BigToM_annotation,998,ambiguity,5
+BigToM_annotation,998,factuality,5

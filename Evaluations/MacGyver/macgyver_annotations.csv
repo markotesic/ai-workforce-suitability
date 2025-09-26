@@ -1,211 +1,4001 @@
 dataset name,sample id,dimension,score
+MacGyver_annotation,1002,Causal Reasoning,1
+MacGyver_annotation,1002,Cognitive Flexibility,0
+MacGyver_annotation,1002,Emotion Perception and Empathy,0
+MacGyver_annotation,1002,Episodic Memory,0
+MacGyver_annotation,1002,Functional Perception,2
+MacGyver_annotation,1002,Inhibitory Control,1
+MacGyver_annotation,1002,Language,2
+MacGyver_annotation,1002,Mental Simulation,1
+MacGyver_annotation,1002,Metacognition,1
+MacGyver_annotation,1002,Object Permanence,0
+MacGyver_annotation,1002,Perception and Pattern Recognition,2
+MacGyver_annotation,1002,Planning,0
+MacGyver_annotation,1002,Procedural Memory,0
+MacGyver_annotation,1002,Prospective Memory,0
+MacGyver_annotation,1002,Semantic Memory,3
+MacGyver_annotation,1002,Spatial Reasoning and Navigation,0
+MacGyver_annotation,1002,Theory of Mind,0
+MacGyver_annotation,1002,Working Memory,0
+MacGyver_annotation,1002,ambiguity,5
+MacGyver_annotation,1002,factuality,5
+MacGyver_annotation,1003,Causal Reasoning,1
+MacGyver_annotation,1003,Cognitive Flexibility,1
+MacGyver_annotation,1003,Emotion Perception and Empathy,0
+MacGyver_annotation,1003,Episodic Memory,0
+MacGyver_annotation,1003,Functional Perception,3
+MacGyver_annotation,1003,Inhibitory Control,2
+MacGyver_annotation,1003,Language,2
+MacGyver_annotation,1003,Mental Simulation,1
+MacGyver_annotation,1003,Metacognition,1
+MacGyver_annotation,1003,Object Permanence,0
+MacGyver_annotation,1003,Perception and Pattern Recognition,1
+MacGyver_annotation,1003,Planning,0
+MacGyver_annotation,1003,Procedural Memory,2
+MacGyver_annotation,1003,Prospective Memory,0
+MacGyver_annotation,1003,Semantic Memory,3
+MacGyver_annotation,1003,Spatial Reasoning and Navigation,0
+MacGyver_annotation,1003,Theory of Mind,0
+MacGyver_annotation,1003,Working Memory,2
+MacGyver_annotation,1003,ambiguity,5
+MacGyver_annotation,1003,factuality,5
+MacGyver_annotation,1004,Causal Reasoning,2
+MacGyver_annotation,1004,Cognitive Flexibility,2
+MacGyver_annotation,1004,Emotion Perception and Empathy,0
+MacGyver_annotation,1004,Episodic Memory,0
+MacGyver_annotation,1004,Functional Perception,3
+MacGyver_annotation,1004,Inhibitory Control,1
+MacGyver_annotation,1004,Language,2
+MacGyver_annotation,1004,Mental Simulation,2
+MacGyver_annotation,1004,Metacognition,3
+MacGyver_annotation,1004,Object Permanence,0
+MacGyver_annotation,1004,Perception and Pattern Recognition,2
+MacGyver_annotation,1004,Planning,1
+MacGyver_annotation,1004,Procedural Memory,3
+MacGyver_annotation,1004,Prospective Memory,0
+MacGyver_annotation,1004,Semantic Memory,2
+MacGyver_annotation,1004,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1004,Theory of Mind,0
+MacGyver_annotation,1004,Working Memory,2
+MacGyver_annotation,1004,ambiguity,4
+MacGyver_annotation,1004,factuality,5
+MacGyver_annotation,1016,Causal Reasoning,1
+MacGyver_annotation,1016,Cognitive Flexibility,2
+MacGyver_annotation,1016,Emotion Perception and Empathy,0
+MacGyver_annotation,1016,Episodic Memory,0
+MacGyver_annotation,1016,Functional Perception,3
+MacGyver_annotation,1016,Inhibitory Control,0
+MacGyver_annotation,1016,Language,2
+MacGyver_annotation,1016,Mental Simulation,1
+MacGyver_annotation,1016,Metacognition,2
+MacGyver_annotation,1016,Object Permanence,0
+MacGyver_annotation,1016,Perception and Pattern Recognition,1
+MacGyver_annotation,1016,Planning,1
+MacGyver_annotation,1016,Procedural Memory,2
+MacGyver_annotation,1016,Prospective Memory,0
+MacGyver_annotation,1016,Semantic Memory,2
+MacGyver_annotation,1016,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1016,Theory of Mind,0
+MacGyver_annotation,1016,Working Memory,2
+MacGyver_annotation,1016,ambiguity,5
+MacGyver_annotation,1016,factuality,4
+MacGyver_annotation,1024,Causal Reasoning,1
+MacGyver_annotation,1024,Cognitive Flexibility,2
+MacGyver_annotation,1024,Emotion Perception and Empathy,0
+MacGyver_annotation,1024,Episodic Memory,0
+MacGyver_annotation,1024,Functional Perception,4
+MacGyver_annotation,1024,Inhibitory Control,0
+MacGyver_annotation,1024,Language,2
+MacGyver_annotation,1024,Mental Simulation,2
+MacGyver_annotation,1024,Metacognition,3
+MacGyver_annotation,1024,Object Permanence,1
+MacGyver_annotation,1024,Perception and Pattern Recognition,2
+MacGyver_annotation,1024,Planning,1
+MacGyver_annotation,1024,Procedural Memory,2
+MacGyver_annotation,1024,Prospective Memory,0
+MacGyver_annotation,1024,Semantic Memory,2
+MacGyver_annotation,1024,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1024,Theory of Mind,0
+MacGyver_annotation,1024,Working Memory,2
+MacGyver_annotation,1024,ambiguity,5
+MacGyver_annotation,1024,factuality,5
+MacGyver_annotation,1032,Causal Reasoning,2
+MacGyver_annotation,1032,Cognitive Flexibility,2
+MacGyver_annotation,1032,Emotion Perception and Empathy,0
+MacGyver_annotation,1032,Episodic Memory,0
+MacGyver_annotation,1032,Functional Perception,3
+MacGyver_annotation,1032,Inhibitory Control,2
+MacGyver_annotation,1032,Language,2
+MacGyver_annotation,1032,Mental Simulation,2
+MacGyver_annotation,1032,Metacognition,3
+MacGyver_annotation,1032,Object Permanence,1
+MacGyver_annotation,1032,Perception and Pattern Recognition,2
+MacGyver_annotation,1032,Planning,2
+MacGyver_annotation,1032,Procedural Memory,2
+MacGyver_annotation,1032,Prospective Memory,1
+MacGyver_annotation,1032,Semantic Memory,2
+MacGyver_annotation,1032,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1032,Theory of Mind,0
+MacGyver_annotation,1032,Working Memory,1
+MacGyver_annotation,1032,ambiguity,4
+MacGyver_annotation,1032,factuality,5
+MacGyver_annotation,1049,Causal Reasoning,1
+MacGyver_annotation,1049,Cognitive Flexibility,2
+MacGyver_annotation,1049,Emotion Perception and Empathy,0
+MacGyver_annotation,1049,Episodic Memory,0
+MacGyver_annotation,1049,Functional Perception,4
+MacGyver_annotation,1049,Inhibitory Control,2
+MacGyver_annotation,1049,Language,2
+MacGyver_annotation,1049,Mental Simulation,2
+MacGyver_annotation,1049,Metacognition,3
+MacGyver_annotation,1049,Object Permanence,0
+MacGyver_annotation,1049,Perception and Pattern Recognition,3
+MacGyver_annotation,1049,Planning,2
+MacGyver_annotation,1049,Procedural Memory,2
+MacGyver_annotation,1049,Prospective Memory,0
+MacGyver_annotation,1049,Semantic Memory,2
+MacGyver_annotation,1049,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1049,Theory of Mind,0
+MacGyver_annotation,1049,Working Memory,3
+MacGyver_annotation,1049,ambiguity,5
+MacGyver_annotation,1049,factuality,4
+MacGyver_annotation,1053,Causal Reasoning,1
+MacGyver_annotation,1053,Cognitive Flexibility,3
+MacGyver_annotation,1053,Emotion Perception and Empathy,0
+MacGyver_annotation,1053,Episodic Memory,0
+MacGyver_annotation,1053,Functional Perception,4
+MacGyver_annotation,1053,Inhibitory Control,1
+MacGyver_annotation,1053,Language,2
+MacGyver_annotation,1053,Mental Simulation,2
+MacGyver_annotation,1053,Metacognition,2
+MacGyver_annotation,1053,Object Permanence,0
+MacGyver_annotation,1053,Perception and Pattern Recognition,3
+MacGyver_annotation,1053,Planning,2
+MacGyver_annotation,1053,Procedural Memory,2
+MacGyver_annotation,1053,Prospective Memory,0
+MacGyver_annotation,1053,Semantic Memory,2
+MacGyver_annotation,1053,Spatial Reasoning and Navigation,3
+MacGyver_annotation,1053,Theory of Mind,0
+MacGyver_annotation,1053,Working Memory,3
+MacGyver_annotation,1053,ambiguity,4
+MacGyver_annotation,1053,factuality,5
+MacGyver_annotation,1068,Causal Reasoning,1
+MacGyver_annotation,1068,Cognitive Flexibility,3
+MacGyver_annotation,1068,Emotion Perception and Empathy,0
+MacGyver_annotation,1068,Episodic Memory,0
+MacGyver_annotation,1068,Functional Perception,3
+MacGyver_annotation,1068,Inhibitory Control,3
+MacGyver_annotation,1068,Language,2
+MacGyver_annotation,1068,Mental Simulation,2
+MacGyver_annotation,1068,Metacognition,3
+MacGyver_annotation,1068,Object Permanence,0
+MacGyver_annotation,1068,Perception and Pattern Recognition,3
+MacGyver_annotation,1068,Planning,1
+MacGyver_annotation,1068,Procedural Memory,2
+MacGyver_annotation,1068,Prospective Memory,0
+MacGyver_annotation,1068,Semantic Memory,2
+MacGyver_annotation,1068,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1068,Theory of Mind,0
+MacGyver_annotation,1068,Working Memory,3
+MacGyver_annotation,1068,ambiguity,5
+MacGyver_annotation,1068,factuality,4
+MacGyver_annotation,1114,Causal Reasoning,1
+MacGyver_annotation,1114,Cognitive Flexibility,3
+MacGyver_annotation,1114,Emotion Perception and Empathy,0
+MacGyver_annotation,1114,Episodic Memory,0
+MacGyver_annotation,1114,Functional Perception,3
+MacGyver_annotation,1114,Inhibitory Control,2
+MacGyver_annotation,1114,Language,2
+MacGyver_annotation,1114,Mental Simulation,1
+MacGyver_annotation,1114,Metacognition,2
+MacGyver_annotation,1114,Object Permanence,0
+MacGyver_annotation,1114,Perception and Pattern Recognition,3
+MacGyver_annotation,1114,Planning,1
+MacGyver_annotation,1114,Procedural Memory,1
+MacGyver_annotation,1114,Prospective Memory,0
+MacGyver_annotation,1114,Semantic Memory,2
+MacGyver_annotation,1114,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1114,Theory of Mind,0
+MacGyver_annotation,1114,Working Memory,3
+MacGyver_annotation,1114,ambiguity,5
+MacGyver_annotation,1114,factuality,5
+MacGyver_annotation,1141,Causal Reasoning,1
+MacGyver_annotation,1141,Cognitive Flexibility,3
+MacGyver_annotation,1141,Emotion Perception and Empathy,0
+MacGyver_annotation,1141,Episodic Memory,0
+MacGyver_annotation,1141,Functional Perception,4
+MacGyver_annotation,1141,Inhibitory Control,1
+MacGyver_annotation,1141,Language,2
+MacGyver_annotation,1141,Mental Simulation,2
+MacGyver_annotation,1141,Metacognition,3
+MacGyver_annotation,1141,Object Permanence,0
+MacGyver_annotation,1141,Perception and Pattern Recognition,3
+MacGyver_annotation,1141,Planning,1
+MacGyver_annotation,1141,Procedural Memory,2
+MacGyver_annotation,1141,Prospective Memory,0
+MacGyver_annotation,1141,Semantic Memory,3
+MacGyver_annotation,1141,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1141,Theory of Mind,0
+MacGyver_annotation,1141,Working Memory,3
+MacGyver_annotation,1141,ambiguity,5
+MacGyver_annotation,1141,factuality,2
+MacGyver_annotation,1145,Causal Reasoning,2
+MacGyver_annotation,1145,Cognitive Flexibility,3
+MacGyver_annotation,1145,Emotion Perception and Empathy,0
+MacGyver_annotation,1145,Episodic Memory,0
+MacGyver_annotation,1145,Functional Perception,4
+MacGyver_annotation,1145,Inhibitory Control,0
+MacGyver_annotation,1145,Language,2
+MacGyver_annotation,1145,Mental Simulation,2
+MacGyver_annotation,1145,Metacognition,3
+MacGyver_annotation,1145,Object Permanence,0
+MacGyver_annotation,1145,Perception and Pattern Recognition,3
+MacGyver_annotation,1145,Planning,2
+MacGyver_annotation,1145,Procedural Memory,2
+MacGyver_annotation,1145,Prospective Memory,0
+MacGyver_annotation,1145,Semantic Memory,3
+MacGyver_annotation,1145,Spatial Reasoning and Navigation,3
+MacGyver_annotation,1145,Theory of Mind,0
+MacGyver_annotation,1145,Working Memory,4
+MacGyver_annotation,1145,ambiguity,4
+MacGyver_annotation,1145,factuality,2
+MacGyver_annotation,1155,Causal Reasoning,1
+MacGyver_annotation,1155,Cognitive Flexibility,3
+MacGyver_annotation,1155,Emotion Perception and Empathy,0
+MacGyver_annotation,1155,Episodic Memory,0
+MacGyver_annotation,1155,Functional Perception,3
+MacGyver_annotation,1155,Inhibitory Control,1
+MacGyver_annotation,1155,Language,2
+MacGyver_annotation,1155,Mental Simulation,1
+MacGyver_annotation,1155,Metacognition,2
+MacGyver_annotation,1155,Object Permanence,0
+MacGyver_annotation,1155,Perception and Pattern Recognition,1
+MacGyver_annotation,1155,Planning,2
+MacGyver_annotation,1155,Procedural Memory,1
+MacGyver_annotation,1155,Prospective Memory,0
+MacGyver_annotation,1155,Semantic Memory,2
+MacGyver_annotation,1155,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1155,Theory of Mind,0
+MacGyver_annotation,1155,Working Memory,3
+MacGyver_annotation,1155,ambiguity,4
+MacGyver_annotation,1155,factuality,5
+MacGyver_annotation,1159,Causal Reasoning,2
+MacGyver_annotation,1159,Cognitive Flexibility,3
+MacGyver_annotation,1159,Emotion Perception and Empathy,0
+MacGyver_annotation,1159,Episodic Memory,0
+MacGyver_annotation,1159,Functional Perception,3
+MacGyver_annotation,1159,Inhibitory Control,2
+MacGyver_annotation,1159,Language,2
+MacGyver_annotation,1159,Mental Simulation,2
+MacGyver_annotation,1159,Metacognition,3
+MacGyver_annotation,1159,Object Permanence,0
+MacGyver_annotation,1159,Perception and Pattern Recognition,2
+MacGyver_annotation,1159,Planning,1
+MacGyver_annotation,1159,Procedural Memory,3
+MacGyver_annotation,1159,Prospective Memory,0
+MacGyver_annotation,1159,Semantic Memory,2
+MacGyver_annotation,1159,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1159,Theory of Mind,0
+MacGyver_annotation,1159,Working Memory,3
+MacGyver_annotation,1159,ambiguity,5
+MacGyver_annotation,1159,factuality,4
+MacGyver_annotation,1175,Causal Reasoning,1
+MacGyver_annotation,1175,Cognitive Flexibility,1
+MacGyver_annotation,1175,Emotion Perception and Empathy,0
+MacGyver_annotation,1175,Episodic Memory,0
+MacGyver_annotation,1175,Functional Perception,3
+MacGyver_annotation,1175,Inhibitory Control,1
+MacGyver_annotation,1175,Language,2
+MacGyver_annotation,1175,Mental Simulation,1
+MacGyver_annotation,1175,Metacognition,2
+MacGyver_annotation,1175,Object Permanence,0
+MacGyver_annotation,1175,Perception and Pattern Recognition,1
+MacGyver_annotation,1175,Planning,1
+MacGyver_annotation,1175,Procedural Memory,1
+MacGyver_annotation,1175,Prospective Memory,0
+MacGyver_annotation,1175,Semantic Memory,2
+MacGyver_annotation,1175,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1175,Theory of Mind,0
+MacGyver_annotation,1175,Working Memory,2
+MacGyver_annotation,1175,ambiguity,5
+MacGyver_annotation,1175,factuality,4
+MacGyver_annotation,1176,Causal Reasoning,2
+MacGyver_annotation,1176,Cognitive Flexibility,3
+MacGyver_annotation,1176,Emotion Perception and Empathy,0
+MacGyver_annotation,1176,Episodic Memory,0
+MacGyver_annotation,1176,Functional Perception,4
+MacGyver_annotation,1176,Inhibitory Control,3
+MacGyver_annotation,1176,Language,2
+MacGyver_annotation,1176,Mental Simulation,2
+MacGyver_annotation,1176,Metacognition,3
+MacGyver_annotation,1176,Object Permanence,0
+MacGyver_annotation,1176,Perception and Pattern Recognition,2
+MacGyver_annotation,1176,Planning,1
+MacGyver_annotation,1176,Procedural Memory,2
+MacGyver_annotation,1176,Prospective Memory,0
+MacGyver_annotation,1176,Semantic Memory,3
+MacGyver_annotation,1176,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1176,Theory of Mind,0
+MacGyver_annotation,1176,Working Memory,3
+MacGyver_annotation,1176,ambiguity,5
+MacGyver_annotation,1176,factuality,4
+MacGyver_annotation,1187,Causal Reasoning,1
+MacGyver_annotation,1187,Cognitive Flexibility,4
+MacGyver_annotation,1187,Emotion Perception and Empathy,0
+MacGyver_annotation,1187,Episodic Memory,0
+MacGyver_annotation,1187,Functional Perception,3
+MacGyver_annotation,1187,Inhibitory Control,0
+MacGyver_annotation,1187,Language,2
+MacGyver_annotation,1187,Mental Simulation,1
+MacGyver_annotation,1187,Metacognition,3
+MacGyver_annotation,1187,Object Permanence,0
+MacGyver_annotation,1187,Perception and Pattern Recognition,3
+MacGyver_annotation,1187,Planning,2
+MacGyver_annotation,1187,Procedural Memory,2
+MacGyver_annotation,1187,Prospective Memory,0
+MacGyver_annotation,1187,Semantic Memory,3
+MacGyver_annotation,1187,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1187,Theory of Mind,0
+MacGyver_annotation,1187,Working Memory,3
+MacGyver_annotation,1187,ambiguity,5
+MacGyver_annotation,1187,factuality,3
 MacGyver_annotation,1188,Causal Reasoning,2
-MacGyver_annotation,1188,Cognitive Flexibility,3
-MacGyver_annotation,1188,Emotion Perception & Empathy (EPE),0
-MacGyver_annotation,1188,Episodic/Episodic-Like Memory,0
-MacGyver_annotation,1188,Executive Function (EF),3
-MacGyver_annotation,1188,Functional perception,3
-MacGyver_annotation,1188,Inhibitory Control,1
+MacGyver_annotation,1188,Cognitive Flexibility,2
+MacGyver_annotation,1188,Emotion Perception and Empathy,0
+MacGyver_annotation,1188,Episodic Memory,0
+MacGyver_annotation,1188,Functional Perception,3
+MacGyver_annotation,1188,Inhibitory Control,2
 MacGyver_annotation,1188,Language,2
-MacGyver_annotation,1188,Mental Simulation,2
+MacGyver_annotation,1188,Mental Simulation,1
 MacGyver_annotation,1188,Metacognition,3
-MacGyver_annotation,1188,Object permanence,0
-MacGyver_annotation,1188,Perception and Pattern Recognition,1
-MacGyver_annotation,1188,Planning,2
-MacGyver_annotation,1188,Procedural Memory,2
+MacGyver_annotation,1188,Object Permanence,0
+MacGyver_annotation,1188,Perception and Pattern Recognition,2
+MacGyver_annotation,1188,Planning,1
+MacGyver_annotation,1188,Procedural Memory,3
 MacGyver_annotation,1188,Prospective Memory,0
 MacGyver_annotation,1188,Semantic Memory,2
-MacGyver_annotation,1188,Spatial reasoning and navigation,2
+MacGyver_annotation,1188,Spatial Reasoning and Navigation,2
 MacGyver_annotation,1188,Theory of Mind,0
 MacGyver_annotation,1188,Working Memory,2
-MacGyver_annotation,1188,ambiguity,5
-MacGyver_annotation,1188,factuality,3
+MacGyver_annotation,1188,ambiguity,4
+MacGyver_annotation,1188,factuality,4
+MacGyver_annotation,1191,Causal Reasoning,1
+MacGyver_annotation,1191,Cognitive Flexibility,1
+MacGyver_annotation,1191,Emotion Perception and Empathy,0
+MacGyver_annotation,1191,Episodic Memory,0
+MacGyver_annotation,1191,Functional Perception,3
+MacGyver_annotation,1191,Inhibitory Control,3
+MacGyver_annotation,1191,Language,2
+MacGyver_annotation,1191,Mental Simulation,1
+MacGyver_annotation,1191,Metacognition,2
+MacGyver_annotation,1191,Object Permanence,0
+MacGyver_annotation,1191,Perception and Pattern Recognition,2
+MacGyver_annotation,1191,Planning,1
+MacGyver_annotation,1191,Procedural Memory,2
+MacGyver_annotation,1191,Prospective Memory,0
+MacGyver_annotation,1191,Semantic Memory,2
+MacGyver_annotation,1191,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1191,Theory of Mind,0
+MacGyver_annotation,1191,Working Memory,2
+MacGyver_annotation,1191,ambiguity,5
+MacGyver_annotation,1191,factuality,5
+MacGyver_annotation,1201,Causal Reasoning,2
+MacGyver_annotation,1201,Cognitive Flexibility,3
+MacGyver_annotation,1201,Emotion Perception and Empathy,0
+MacGyver_annotation,1201,Episodic Memory,0
+MacGyver_annotation,1201,Functional Perception,4
+MacGyver_annotation,1201,Inhibitory Control,1
+MacGyver_annotation,1201,Language,2
+MacGyver_annotation,1201,Mental Simulation,2
+MacGyver_annotation,1201,Metacognition,2
+MacGyver_annotation,1201,Object Permanence,0
+MacGyver_annotation,1201,Perception and Pattern Recognition,1
+MacGyver_annotation,1201,Planning,2
+MacGyver_annotation,1201,Procedural Memory,3
+MacGyver_annotation,1201,Prospective Memory,0
+MacGyver_annotation,1201,Semantic Memory,2
+MacGyver_annotation,1201,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1201,Theory of Mind,0
+MacGyver_annotation,1201,Working Memory,3
+MacGyver_annotation,1201,ambiguity,5
+MacGyver_annotation,1201,factuality,4
+MacGyver_annotation,1223,Causal Reasoning,1
+MacGyver_annotation,1223,Cognitive Flexibility,3
+MacGyver_annotation,1223,Emotion Perception and Empathy,0
+MacGyver_annotation,1223,Episodic Memory,0
+MacGyver_annotation,1223,Functional Perception,4
+MacGyver_annotation,1223,Inhibitory Control,2
+MacGyver_annotation,1223,Language,2
+MacGyver_annotation,1223,Mental Simulation,2
+MacGyver_annotation,1223,Metacognition,3
+MacGyver_annotation,1223,Object Permanence,0
+MacGyver_annotation,1223,Perception and Pattern Recognition,3
+MacGyver_annotation,1223,Planning,1
+MacGyver_annotation,1223,Procedural Memory,3
+MacGyver_annotation,1223,Prospective Memory,0
+MacGyver_annotation,1223,Semantic Memory,3
+MacGyver_annotation,1223,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1223,Theory of Mind,0
+MacGyver_annotation,1223,Working Memory,3
+MacGyver_annotation,1223,ambiguity,5
+MacGyver_annotation,1223,factuality,4
+MacGyver_annotation,1225,Causal Reasoning,2
+MacGyver_annotation,1225,Cognitive Flexibility,3
+MacGyver_annotation,1225,Emotion Perception and Empathy,0
+MacGyver_annotation,1225,Episodic Memory,0
+MacGyver_annotation,1225,Functional Perception,4
+MacGyver_annotation,1225,Inhibitory Control,1
+MacGyver_annotation,1225,Language,2
+MacGyver_annotation,1225,Mental Simulation,2
+MacGyver_annotation,1225,Metacognition,2
+MacGyver_annotation,1225,Object Permanence,0
+MacGyver_annotation,1225,Perception and Pattern Recognition,3
+MacGyver_annotation,1225,Planning,1
+MacGyver_annotation,1225,Procedural Memory,2
+MacGyver_annotation,1225,Prospective Memory,0
+MacGyver_annotation,1225,Semantic Memory,2
+MacGyver_annotation,1225,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1225,Theory of Mind,0
+MacGyver_annotation,1225,Working Memory,3
+MacGyver_annotation,1225,ambiguity,5
+MacGyver_annotation,1225,factuality,4
 MacGyver_annotation,1229,Causal Reasoning,2
 MacGyver_annotation,1229,Cognitive Flexibility,3
-MacGyver_annotation,1229,Emotion Perception & Empathy (EPE),0
-MacGyver_annotation,1229,Episodic/Episodic-Like Memory,0
-MacGyver_annotation,1229,Executive Function (EF),3
-MacGyver_annotation,1229,Functional perception,3
+MacGyver_annotation,1229,Emotion Perception and Empathy,0
+MacGyver_annotation,1229,Episodic Memory,2
+MacGyver_annotation,1229,Functional Perception,4
 MacGyver_annotation,1229,Inhibitory Control,2
 MacGyver_annotation,1229,Language,2
 MacGyver_annotation,1229,Mental Simulation,2
 MacGyver_annotation,1229,Metacognition,3
-MacGyver_annotation,1229,Object permanence,0
-MacGyver_annotation,1229,Perception and Pattern Recognition,2
+MacGyver_annotation,1229,Object Permanence,0
+MacGyver_annotation,1229,Perception and Pattern Recognition,3
 MacGyver_annotation,1229,Planning,2
 MacGyver_annotation,1229,Procedural Memory,2
 MacGyver_annotation,1229,Prospective Memory,0
-MacGyver_annotation,1229,Semantic Memory,1
-MacGyver_annotation,1229,Spatial reasoning and navigation,2
-MacGyver_annotation,1229,Theory of Mind,1
-MacGyver_annotation,1229,Working Memory,2
+MacGyver_annotation,1229,Semantic Memory,3
+MacGyver_annotation,1229,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1229,Theory of Mind,0
+MacGyver_annotation,1229,Working Memory,3
 MacGyver_annotation,1229,ambiguity,5
-MacGyver_annotation,1229,factuality,4
+MacGyver_annotation,1229,factuality,3
+MacGyver_annotation,1234,Causal Reasoning,2
+MacGyver_annotation,1234,Cognitive Flexibility,3
+MacGyver_annotation,1234,Emotion Perception and Empathy,0
+MacGyver_annotation,1234,Episodic Memory,0
+MacGyver_annotation,1234,Functional Perception,4
+MacGyver_annotation,1234,Inhibitory Control,0
+MacGyver_annotation,1234,Language,2
+MacGyver_annotation,1234,Mental Simulation,2
+MacGyver_annotation,1234,Metacognition,3
+MacGyver_annotation,1234,Object Permanence,0
+MacGyver_annotation,1234,Perception and Pattern Recognition,3
+MacGyver_annotation,1234,Planning,1
+MacGyver_annotation,1234,Procedural Memory,2
+MacGyver_annotation,1234,Prospective Memory,0
+MacGyver_annotation,1234,Semantic Memory,3
+MacGyver_annotation,1234,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1234,Theory of Mind,0
+MacGyver_annotation,1234,Working Memory,2
+MacGyver_annotation,1234,ambiguity,5
+MacGyver_annotation,1234,factuality,5
+MacGyver_annotation,1237,Causal Reasoning,1
+MacGyver_annotation,1237,Cognitive Flexibility,2
+MacGyver_annotation,1237,Emotion Perception and Empathy,0
+MacGyver_annotation,1237,Episodic Memory,0
+MacGyver_annotation,1237,Functional Perception,4
+MacGyver_annotation,1237,Inhibitory Control,2
+MacGyver_annotation,1237,Language,2
+MacGyver_annotation,1237,Mental Simulation,2
+MacGyver_annotation,1237,Metacognition,2
+MacGyver_annotation,1237,Object Permanence,0
+MacGyver_annotation,1237,Perception and Pattern Recognition,2
+MacGyver_annotation,1237,Planning,2
+MacGyver_annotation,1237,Procedural Memory,2
+MacGyver_annotation,1237,Prospective Memory,0
+MacGyver_annotation,1237,Semantic Memory,2
+MacGyver_annotation,1237,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1237,Theory of Mind,0
+MacGyver_annotation,1237,Working Memory,3
+MacGyver_annotation,1237,ambiguity,5
+MacGyver_annotation,1237,factuality,2
+MacGyver_annotation,1240,Causal Reasoning,2
+MacGyver_annotation,1240,Cognitive Flexibility,2
+MacGyver_annotation,1240,Emotion Perception and Empathy,0
+MacGyver_annotation,1240,Episodic Memory,0
+MacGyver_annotation,1240,Functional Perception,4
+MacGyver_annotation,1240,Inhibitory Control,1
+MacGyver_annotation,1240,Language,2
+MacGyver_annotation,1240,Mental Simulation,2
+MacGyver_annotation,1240,Metacognition,2
+MacGyver_annotation,1240,Object Permanence,0
+MacGyver_annotation,1240,Perception and Pattern Recognition,3
+MacGyver_annotation,1240,Planning,2
+MacGyver_annotation,1240,Procedural Memory,3
+MacGyver_annotation,1240,Prospective Memory,0
+MacGyver_annotation,1240,Semantic Memory,2
+MacGyver_annotation,1240,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1240,Theory of Mind,0
+MacGyver_annotation,1240,Working Memory,2
+MacGyver_annotation,1240,ambiguity,5
+MacGyver_annotation,1240,factuality,1
+MacGyver_annotation,1253,Causal Reasoning,2
+MacGyver_annotation,1253,Cognitive Flexibility,3
+MacGyver_annotation,1253,Emotion Perception and Empathy,0
+MacGyver_annotation,1253,Episodic Memory,0
+MacGyver_annotation,1253,Functional Perception,3
+MacGyver_annotation,1253,Inhibitory Control,1
+MacGyver_annotation,1253,Language,2
+MacGyver_annotation,1253,Mental Simulation,1
+MacGyver_annotation,1253,Metacognition,3
+MacGyver_annotation,1253,Object Permanence,0
+MacGyver_annotation,1253,Perception and Pattern Recognition,2
+MacGyver_annotation,1253,Planning,1
+MacGyver_annotation,1253,Procedural Memory,2
+MacGyver_annotation,1253,Prospective Memory,0
+MacGyver_annotation,1253,Semantic Memory,3
+MacGyver_annotation,1253,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1253,Theory of Mind,0
+MacGyver_annotation,1253,Working Memory,3
+MacGyver_annotation,1253,ambiguity,5
+MacGyver_annotation,1253,factuality,5
+MacGyver_annotation,1258,Causal Reasoning,2
+MacGyver_annotation,1258,Cognitive Flexibility,2
+MacGyver_annotation,1258,Emotion Perception and Empathy,0
+MacGyver_annotation,1258,Episodic Memory,0
+MacGyver_annotation,1258,Functional Perception,4
+MacGyver_annotation,1258,Inhibitory Control,2
+MacGyver_annotation,1258,Language,2
+MacGyver_annotation,1258,Mental Simulation,2
+MacGyver_annotation,1258,Metacognition,3
+MacGyver_annotation,1258,Object Permanence,0
+MacGyver_annotation,1258,Perception and Pattern Recognition,3
+MacGyver_annotation,1258,Planning,1
+MacGyver_annotation,1258,Procedural Memory,2
+MacGyver_annotation,1258,Prospective Memory,0
+MacGyver_annotation,1258,Semantic Memory,2
+MacGyver_annotation,1258,Spatial Reasoning and Navigation,3
+MacGyver_annotation,1258,Theory of Mind,0
+MacGyver_annotation,1258,Working Memory,3
+MacGyver_annotation,1258,ambiguity,5
+MacGyver_annotation,1258,factuality,3
+MacGyver_annotation,1259,Causal Reasoning,2
+MacGyver_annotation,1259,Cognitive Flexibility,3
+MacGyver_annotation,1259,Emotion Perception and Empathy,0
+MacGyver_annotation,1259,Episodic Memory,0
+MacGyver_annotation,1259,Functional Perception,3
+MacGyver_annotation,1259,Inhibitory Control,2
+MacGyver_annotation,1259,Language,2
+MacGyver_annotation,1259,Mental Simulation,2
+MacGyver_annotation,1259,Metacognition,2
+MacGyver_annotation,1259,Object Permanence,0
+MacGyver_annotation,1259,Perception and Pattern Recognition,2
+MacGyver_annotation,1259,Planning,2
+MacGyver_annotation,1259,Procedural Memory,2
+MacGyver_annotation,1259,Prospective Memory,0
+MacGyver_annotation,1259,Semantic Memory,3
+MacGyver_annotation,1259,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1259,Theory of Mind,0
+MacGyver_annotation,1259,Working Memory,3
+MacGyver_annotation,1259,ambiguity,5
+MacGyver_annotation,1259,factuality,5
+MacGyver_annotation,126,Causal Reasoning,1
+MacGyver_annotation,126,Cognitive Flexibility,0
+MacGyver_annotation,126,Emotion Perception and Empathy,0
+MacGyver_annotation,126,Episodic Memory,0
+MacGyver_annotation,126,Functional Perception,1
+MacGyver_annotation,126,Inhibitory Control,0
+MacGyver_annotation,126,Language,2
+MacGyver_annotation,126,Mental Simulation,1
+MacGyver_annotation,126,Metacognition,1
+MacGyver_annotation,126,Object Permanence,0
+MacGyver_annotation,126,Perception and Pattern Recognition,1
+MacGyver_annotation,126,Planning,0
+MacGyver_annotation,126,Procedural Memory,1
+MacGyver_annotation,126,Prospective Memory,0
+MacGyver_annotation,126,Semantic Memory,1
+MacGyver_annotation,126,Spatial Reasoning and Navigation,1
+MacGyver_annotation,126,Theory of Mind,0
+MacGyver_annotation,126,Working Memory,0
+MacGyver_annotation,126,ambiguity,5
+MacGyver_annotation,126,factuality,5
+MacGyver_annotation,1279,Causal Reasoning,1
+MacGyver_annotation,1279,Cognitive Flexibility,4
+MacGyver_annotation,1279,Emotion Perception and Empathy,0
+MacGyver_annotation,1279,Episodic Memory,0
+MacGyver_annotation,1279,Functional Perception,4
+MacGyver_annotation,1279,Inhibitory Control,1
+MacGyver_annotation,1279,Language,2
+MacGyver_annotation,1279,Mental Simulation,2
+MacGyver_annotation,1279,Metacognition,3
+MacGyver_annotation,1279,Object Permanence,0
+MacGyver_annotation,1279,Perception and Pattern Recognition,3
+MacGyver_annotation,1279,Planning,2
+MacGyver_annotation,1279,Procedural Memory,3
+MacGyver_annotation,1279,Prospective Memory,0
+MacGyver_annotation,1279,Semantic Memory,3
+MacGyver_annotation,1279,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1279,Theory of Mind,0
+MacGyver_annotation,1279,Working Memory,3
+MacGyver_annotation,1279,ambiguity,5
+MacGyver_annotation,1279,factuality,2
+MacGyver_annotation,1290,Causal Reasoning,2
+MacGyver_annotation,1290,Cognitive Flexibility,1
+MacGyver_annotation,1290,Emotion Perception and Empathy,0
+MacGyver_annotation,1290,Episodic Memory,0
+MacGyver_annotation,1290,Functional Perception,2
+MacGyver_annotation,1290,Inhibitory Control,2
+MacGyver_annotation,1290,Language,2
+MacGyver_annotation,1290,Mental Simulation,2
+MacGyver_annotation,1290,Metacognition,3
+MacGyver_annotation,1290,Object Permanence,0
+MacGyver_annotation,1290,Perception and Pattern Recognition,2
+MacGyver_annotation,1290,Planning,2
+MacGyver_annotation,1290,Procedural Memory,2
+MacGyver_annotation,1290,Prospective Memory,0
+MacGyver_annotation,1290,Semantic Memory,3
+MacGyver_annotation,1290,Spatial Reasoning and Navigation,0
+MacGyver_annotation,1290,Theory of Mind,0
+MacGyver_annotation,1290,Working Memory,2
+MacGyver_annotation,1290,ambiguity,5
+MacGyver_annotation,1290,factuality,2
+MacGyver_annotation,1307,Causal Reasoning,2
+MacGyver_annotation,1307,Cognitive Flexibility,4
+MacGyver_annotation,1307,Emotion Perception and Empathy,0
+MacGyver_annotation,1307,Episodic Memory,0
+MacGyver_annotation,1307,Functional Perception,4
+MacGyver_annotation,1307,Inhibitory Control,2
+MacGyver_annotation,1307,Language,3
+MacGyver_annotation,1307,Mental Simulation,2
+MacGyver_annotation,1307,Metacognition,3
+MacGyver_annotation,1307,Object Permanence,0
+MacGyver_annotation,1307,Perception and Pattern Recognition,3
+MacGyver_annotation,1307,Planning,2
+MacGyver_annotation,1307,Procedural Memory,2
+MacGyver_annotation,1307,Prospective Memory,2
+MacGyver_annotation,1307,Semantic Memory,3
+MacGyver_annotation,1307,Spatial Reasoning and Navigation,3
+MacGyver_annotation,1307,Theory of Mind,0
+MacGyver_annotation,1307,Working Memory,3
+MacGyver_annotation,1307,ambiguity,5
+MacGyver_annotation,1307,factuality,2
+MacGyver_annotation,1313,Causal Reasoning,0
+MacGyver_annotation,1313,Cognitive Flexibility,0
+MacGyver_annotation,1313,Emotion Perception and Empathy,0
+MacGyver_annotation,1313,Episodic Memory,0
+MacGyver_annotation,1313,Functional Perception,1
+MacGyver_annotation,1313,Inhibitory Control,1
+MacGyver_annotation,1313,Language,2
+MacGyver_annotation,1313,Mental Simulation,0
+MacGyver_annotation,1313,Metacognition,2
+MacGyver_annotation,1313,Object Permanence,0
+MacGyver_annotation,1313,Perception and Pattern Recognition,0
+MacGyver_annotation,1313,Planning,0
+MacGyver_annotation,1313,Procedural Memory,0
+MacGyver_annotation,1313,Prospective Memory,0
+MacGyver_annotation,1313,Semantic Memory,1
+MacGyver_annotation,1313,Spatial Reasoning and Navigation,0
+MacGyver_annotation,1313,Theory of Mind,0
+MacGyver_annotation,1313,Working Memory,1
+MacGyver_annotation,1313,ambiguity,5
+MacGyver_annotation,1313,factuality,5
+MacGyver_annotation,1322,Causal Reasoning,2
+MacGyver_annotation,1322,Cognitive Flexibility,3
+MacGyver_annotation,1322,Emotion Perception and Empathy,0
+MacGyver_annotation,1322,Episodic Memory,0
+MacGyver_annotation,1322,Functional Perception,4
+MacGyver_annotation,1322,Inhibitory Control,1
+MacGyver_annotation,1322,Language,2
+MacGyver_annotation,1322,Mental Simulation,2
+MacGyver_annotation,1322,Metacognition,3
+MacGyver_annotation,1322,Object Permanence,0
+MacGyver_annotation,1322,Perception and Pattern Recognition,3
+MacGyver_annotation,1322,Planning,2
+MacGyver_annotation,1322,Procedural Memory,2
+MacGyver_annotation,1322,Prospective Memory,0
+MacGyver_annotation,1322,Semantic Memory,3
+MacGyver_annotation,1322,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1322,Theory of Mind,0
+MacGyver_annotation,1322,Working Memory,0
+MacGyver_annotation,1322,ambiguity,5
+MacGyver_annotation,1322,factuality,2
+MacGyver_annotation,132,Causal Reasoning,1
+MacGyver_annotation,132,Cognitive Flexibility,2
+MacGyver_annotation,132,Emotion Perception and Empathy,0
+MacGyver_annotation,132,Episodic Memory,0
+MacGyver_annotation,132,Functional Perception,3
+MacGyver_annotation,132,Inhibitory Control,2
+MacGyver_annotation,132,Language,2
+MacGyver_annotation,132,Mental Simulation,1
+MacGyver_annotation,132,Metacognition,3
+MacGyver_annotation,132,Object Permanence,0
+MacGyver_annotation,132,Perception and Pattern Recognition,2
+MacGyver_annotation,132,Planning,1
+MacGyver_annotation,132,Procedural Memory,2
+MacGyver_annotation,132,Prospective Memory,0
+MacGyver_annotation,132,Semantic Memory,2
+MacGyver_annotation,132,Spatial Reasoning and Navigation,2
+MacGyver_annotation,132,Theory of Mind,0
+MacGyver_annotation,132,Working Memory,2
+MacGyver_annotation,132,ambiguity,5
+MacGyver_annotation,132,factuality,4
+MacGyver_annotation,1331,Causal Reasoning,2
+MacGyver_annotation,1331,Cognitive Flexibility,4
+MacGyver_annotation,1331,Emotion Perception and Empathy,0
+MacGyver_annotation,1331,Episodic Memory,0
+MacGyver_annotation,1331,Functional Perception,4
+MacGyver_annotation,1331,Inhibitory Control,2
+MacGyver_annotation,1331,Language,3
+MacGyver_annotation,1331,Mental Simulation,1
+MacGyver_annotation,1331,Metacognition,4
+MacGyver_annotation,1331,Object Permanence,0
+MacGyver_annotation,1331,Perception and Pattern Recognition,4
+MacGyver_annotation,1331,Planning,2
+MacGyver_annotation,1331,Procedural Memory,2
+MacGyver_annotation,1331,Prospective Memory,0
+MacGyver_annotation,1331,Semantic Memory,4
+MacGyver_annotation,1331,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1331,Theory of Mind,0
+MacGyver_annotation,1331,Working Memory,4
+MacGyver_annotation,1331,ambiguity,4
+MacGyver_annotation,1331,factuality,2
+MacGyver_annotation,1333,Causal Reasoning,1
+MacGyver_annotation,1333,Cognitive Flexibility,0
+MacGyver_annotation,1333,Emotion Perception and Empathy,0
+MacGyver_annotation,1333,Episodic Memory,0
+MacGyver_annotation,1333,Functional Perception,2
+MacGyver_annotation,1333,Inhibitory Control,0
+MacGyver_annotation,1333,Language,2
+MacGyver_annotation,1333,Mental Simulation,1
+MacGyver_annotation,1333,Metacognition,1
+MacGyver_annotation,1333,Object Permanence,0
+MacGyver_annotation,1333,Perception and Pattern Recognition,0
+MacGyver_annotation,1333,Planning,0
+MacGyver_annotation,1333,Procedural Memory,0
+MacGyver_annotation,1333,Prospective Memory,0
+MacGyver_annotation,1333,Semantic Memory,2
+MacGyver_annotation,1333,Spatial Reasoning and Navigation,0
+MacGyver_annotation,1333,Theory of Mind,0
+MacGyver_annotation,1333,Working Memory,1
+MacGyver_annotation,1333,ambiguity,5
+MacGyver_annotation,1333,factuality,5
+MacGyver_annotation,1340,Causal Reasoning,1
+MacGyver_annotation,1340,Cognitive Flexibility,1
+MacGyver_annotation,1340,Emotion Perception and Empathy,0
+MacGyver_annotation,1340,Episodic Memory,0
+MacGyver_annotation,1340,Functional Perception,3
+MacGyver_annotation,1340,Inhibitory Control,1
+MacGyver_annotation,1340,Language,2
+MacGyver_annotation,1340,Mental Simulation,2
+MacGyver_annotation,1340,Metacognition,1
+MacGyver_annotation,1340,Object Permanence,0
+MacGyver_annotation,1340,Perception and Pattern Recognition,1
+MacGyver_annotation,1340,Planning,1
+MacGyver_annotation,1340,Procedural Memory,2
+MacGyver_annotation,1340,Prospective Memory,0
+MacGyver_annotation,1340,Semantic Memory,2
+MacGyver_annotation,1340,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1340,Theory of Mind,0
+MacGyver_annotation,1340,Working Memory,2
+MacGyver_annotation,1340,ambiguity,5
+MacGyver_annotation,1340,factuality,5
 MacGyver_annotation,1358,Causal Reasoning,1
 MacGyver_annotation,1358,Cognitive Flexibility,2
-MacGyver_annotation,1358,Emotion Perception & Empathy (EPE),0
-MacGyver_annotation,1358,Episodic/Episodic-Like Memory,0
-MacGyver_annotation,1358,Executive Function (EF),2
-MacGyver_annotation,1358,Functional perception,3
+MacGyver_annotation,1358,Emotion Perception and Empathy,0
+MacGyver_annotation,1358,Episodic Memory,0
+MacGyver_annotation,1358,Functional Perception,4
 MacGyver_annotation,1358,Inhibitory Control,1
 MacGyver_annotation,1358,Language,2
 MacGyver_annotation,1358,Mental Simulation,2
 MacGyver_annotation,1358,Metacognition,2
-MacGyver_annotation,1358,Object permanence,0
+MacGyver_annotation,1358,Object Permanence,0
 MacGyver_annotation,1358,Perception and Pattern Recognition,2
 MacGyver_annotation,1358,Planning,1
 MacGyver_annotation,1358,Procedural Memory,2
 MacGyver_annotation,1358,Prospective Memory,0
 MacGyver_annotation,1358,Semantic Memory,2
-MacGyver_annotation,1358,Spatial reasoning and navigation,2
+MacGyver_annotation,1358,Spatial Reasoning and Navigation,2
 MacGyver_annotation,1358,Theory of Mind,0
-MacGyver_annotation,1358,Working Memory,3
-MacGyver_annotation,1358,ambiguity,4
-MacGyver_annotation,1358,factuality,5
-MacGyver_annotation,1600,Causal Reasoning,2
+MacGyver_annotation,1358,Working Memory,2
+MacGyver_annotation,1358,ambiguity,5
+MacGyver_annotation,1358,factuality,4
+MacGyver_annotation,1359,Causal Reasoning,1
+MacGyver_annotation,1359,Cognitive Flexibility,0
+MacGyver_annotation,1359,Emotion Perception and Empathy,0
+MacGyver_annotation,1359,Episodic Memory,0
+MacGyver_annotation,1359,Functional Perception,3
+MacGyver_annotation,1359,Inhibitory Control,1
+MacGyver_annotation,1359,Language,2
+MacGyver_annotation,1359,Mental Simulation,1
+MacGyver_annotation,1359,Metacognition,1
+MacGyver_annotation,1359,Object Permanence,0
+MacGyver_annotation,1359,Perception and Pattern Recognition,2
+MacGyver_annotation,1359,Planning,1
+MacGyver_annotation,1359,Procedural Memory,0
+MacGyver_annotation,1359,Prospective Memory,0
+MacGyver_annotation,1359,Semantic Memory,2
+MacGyver_annotation,1359,Spatial Reasoning and Navigation,0
+MacGyver_annotation,1359,Theory of Mind,0
+MacGyver_annotation,1359,Working Memory,2
+MacGyver_annotation,1359,ambiguity,4
+MacGyver_annotation,1359,factuality,5
+MacGyver_annotation,1362,Causal Reasoning,1
+MacGyver_annotation,1362,Cognitive Flexibility,3
+MacGyver_annotation,1362,Emotion Perception and Empathy,0
+MacGyver_annotation,1362,Episodic Memory,0
+MacGyver_annotation,1362,Functional Perception,4
+MacGyver_annotation,1362,Inhibitory Control,0
+MacGyver_annotation,1362,Language,2
+MacGyver_annotation,1362,Mental Simulation,2
+MacGyver_annotation,1362,Metacognition,3
+MacGyver_annotation,1362,Object Permanence,1
+MacGyver_annotation,1362,Perception and Pattern Recognition,1
+MacGyver_annotation,1362,Planning,1
+MacGyver_annotation,1362,Procedural Memory,3
+MacGyver_annotation,1362,Prospective Memory,0
+MacGyver_annotation,1362,Semantic Memory,3
+MacGyver_annotation,1362,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1362,Theory of Mind,0
+MacGyver_annotation,1362,Working Memory,3
+MacGyver_annotation,1362,ambiguity,5
+MacGyver_annotation,1362,factuality,4
+MacGyver_annotation,136,Causal Reasoning,2
+MacGyver_annotation,136,Cognitive Flexibility,2
+MacGyver_annotation,136,Emotion Perception and Empathy,0
+MacGyver_annotation,136,Episodic Memory,0
+MacGyver_annotation,136,Functional Perception,4
+MacGyver_annotation,136,Inhibitory Control,1
+MacGyver_annotation,136,Language,2
+MacGyver_annotation,136,Mental Simulation,1
+MacGyver_annotation,136,Metacognition,3
+MacGyver_annotation,136,Object Permanence,0
+MacGyver_annotation,136,Perception and Pattern Recognition,2
+MacGyver_annotation,136,Planning,1
+MacGyver_annotation,136,Procedural Memory,2
+MacGyver_annotation,136,Prospective Memory,0
+MacGyver_annotation,136,Semantic Memory,1
+MacGyver_annotation,136,Spatial Reasoning and Navigation,3
+MacGyver_annotation,136,Theory of Mind,0
+MacGyver_annotation,136,Working Memory,3
+MacGyver_annotation,136,ambiguity,5
+MacGyver_annotation,136,factuality,2
+MacGyver_annotation,1378,Causal Reasoning,1
+MacGyver_annotation,1378,Cognitive Flexibility,2
+MacGyver_annotation,1378,Emotion Perception and Empathy,0
+MacGyver_annotation,1378,Episodic Memory,0
+MacGyver_annotation,1378,Functional Perception,3
+MacGyver_annotation,1378,Inhibitory Control,1
+MacGyver_annotation,1378,Language,2
+MacGyver_annotation,1378,Mental Simulation,1
+MacGyver_annotation,1378,Metacognition,3
+MacGyver_annotation,1378,Object Permanence,0
+MacGyver_annotation,1378,Perception and Pattern Recognition,2
+MacGyver_annotation,1378,Planning,1
+MacGyver_annotation,1378,Procedural Memory,2
+MacGyver_annotation,1378,Prospective Memory,0
+MacGyver_annotation,1378,Semantic Memory,2
+MacGyver_annotation,1378,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1378,Theory of Mind,0
+MacGyver_annotation,1378,Working Memory,1
+MacGyver_annotation,1378,ambiguity,4
+MacGyver_annotation,1378,factuality,4
+MacGyver_annotation,137,Causal Reasoning,1
+MacGyver_annotation,137,Cognitive Flexibility,2
+MacGyver_annotation,137,Emotion Perception and Empathy,0
+MacGyver_annotation,137,Episodic Memory,0
+MacGyver_annotation,137,Functional Perception,3
+MacGyver_annotation,137,Inhibitory Control,1
+MacGyver_annotation,137,Language,2
+MacGyver_annotation,137,Mental Simulation,2
+MacGyver_annotation,137,Metacognition,3
+MacGyver_annotation,137,Object Permanence,0
+MacGyver_annotation,137,Perception and Pattern Recognition,1
+MacGyver_annotation,137,Planning,2
+MacGyver_annotation,137,Procedural Memory,2
+MacGyver_annotation,137,Prospective Memory,0
+MacGyver_annotation,137,Semantic Memory,2
+MacGyver_annotation,137,Spatial Reasoning and Navigation,2
+MacGyver_annotation,137,Theory of Mind,0
+MacGyver_annotation,137,Working Memory,3
+MacGyver_annotation,137,ambiguity,5
+MacGyver_annotation,137,factuality,5
+MacGyver_annotation,1381,Causal Reasoning,1
+MacGyver_annotation,1381,Cognitive Flexibility,2
+MacGyver_annotation,1381,Emotion Perception and Empathy,0
+MacGyver_annotation,1381,Episodic Memory,0
+MacGyver_annotation,1381,Functional Perception,3
+MacGyver_annotation,1381,Inhibitory Control,0
+MacGyver_annotation,1381,Language,1
+MacGyver_annotation,1381,Mental Simulation,1
+MacGyver_annotation,1381,Metacognition,2
+MacGyver_annotation,1381,Object Permanence,0
+MacGyver_annotation,1381,Perception and Pattern Recognition,3
+MacGyver_annotation,1381,Planning,1
+MacGyver_annotation,1381,Procedural Memory,2
+MacGyver_annotation,1381,Prospective Memory,0
+MacGyver_annotation,1381,Semantic Memory,3
+MacGyver_annotation,1381,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1381,Theory of Mind,0
+MacGyver_annotation,1381,Working Memory,1
+MacGyver_annotation,1381,ambiguity,5
+MacGyver_annotation,1381,factuality,1
+MacGyver_annotation,1389,Causal Reasoning,2
+MacGyver_annotation,1389,Cognitive Flexibility,2
+MacGyver_annotation,1389,Emotion Perception and Empathy,0
+MacGyver_annotation,1389,Episodic Memory,0
+MacGyver_annotation,1389,Functional Perception,3
+MacGyver_annotation,1389,Inhibitory Control,1
+MacGyver_annotation,1389,Language,2
+MacGyver_annotation,1389,Mental Simulation,2
+MacGyver_annotation,1389,Metacognition,2
+MacGyver_annotation,1389,Object Permanence,0
+MacGyver_annotation,1389,Perception and Pattern Recognition,2
+MacGyver_annotation,1389,Planning,2
+MacGyver_annotation,1389,Procedural Memory,2
+MacGyver_annotation,1389,Prospective Memory,0
+MacGyver_annotation,1389,Semantic Memory,3
+MacGyver_annotation,1389,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1389,Theory of Mind,0
+MacGyver_annotation,1389,Working Memory,3
+MacGyver_annotation,1389,ambiguity,5
+MacGyver_annotation,1389,factuality,2
+MacGyver_annotation,1398,Causal Reasoning,2
+MacGyver_annotation,1398,Cognitive Flexibility,3
+MacGyver_annotation,1398,Emotion Perception and Empathy,0
+MacGyver_annotation,1398,Episodic Memory,0
+MacGyver_annotation,1398,Functional Perception,3
+MacGyver_annotation,1398,Inhibitory Control,0
+MacGyver_annotation,1398,Language,2
+MacGyver_annotation,1398,Mental Simulation,2
+MacGyver_annotation,1398,Metacognition,2
+MacGyver_annotation,1398,Object Permanence,0
+MacGyver_annotation,1398,Perception and Pattern Recognition,2
+MacGyver_annotation,1398,Planning,1
+MacGyver_annotation,1398,Procedural Memory,2
+MacGyver_annotation,1398,Prospective Memory,0
+MacGyver_annotation,1398,Semantic Memory,2
+MacGyver_annotation,1398,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1398,Theory of Mind,0
+MacGyver_annotation,1398,Working Memory,2
+MacGyver_annotation,1398,ambiguity,4
+MacGyver_annotation,1398,factuality,1
+MacGyver_annotation,1401,Causal Reasoning,0
+MacGyver_annotation,1401,Cognitive Flexibility,0
+MacGyver_annotation,1401,Emotion Perception and Empathy,0
+MacGyver_annotation,1401,Episodic Memory,0
+MacGyver_annotation,1401,Functional Perception,3
+MacGyver_annotation,1401,Inhibitory Control,1
+MacGyver_annotation,1401,Language,2
+MacGyver_annotation,1401,Mental Simulation,0
+MacGyver_annotation,1401,Metacognition,1
+MacGyver_annotation,1401,Object Permanence,0
+MacGyver_annotation,1401,Perception and Pattern Recognition,1
+MacGyver_annotation,1401,Planning,0
+MacGyver_annotation,1401,Procedural Memory,0
+MacGyver_annotation,1401,Prospective Memory,0
+MacGyver_annotation,1401,Semantic Memory,1
+MacGyver_annotation,1401,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1401,Theory of Mind,0
+MacGyver_annotation,1401,Working Memory,2
+MacGyver_annotation,1401,ambiguity,5
+MacGyver_annotation,1401,factuality,5
+MacGyver_annotation,1403,Causal Reasoning,1
+MacGyver_annotation,1403,Cognitive Flexibility,1
+MacGyver_annotation,1403,Emotion Perception and Empathy,0
+MacGyver_annotation,1403,Episodic Memory,0
+MacGyver_annotation,1403,Functional Perception,2
+MacGyver_annotation,1403,Inhibitory Control,1
+MacGyver_annotation,1403,Language,2
+MacGyver_annotation,1403,Mental Simulation,1
+MacGyver_annotation,1403,Metacognition,2
+MacGyver_annotation,1403,Object Permanence,0
+MacGyver_annotation,1403,Perception and Pattern Recognition,1
+MacGyver_annotation,1403,Planning,0
+MacGyver_annotation,1403,Procedural Memory,0
+MacGyver_annotation,1403,Prospective Memory,0
+MacGyver_annotation,1403,Semantic Memory,2
+MacGyver_annotation,1403,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1403,Theory of Mind,0
+MacGyver_annotation,1403,Working Memory,1
+MacGyver_annotation,1403,ambiguity,5
+MacGyver_annotation,1403,factuality,5
+MacGyver_annotation,1432,Causal Reasoning,1
+MacGyver_annotation,1432,Cognitive Flexibility,0
+MacGyver_annotation,1432,Emotion Perception and Empathy,0
+MacGyver_annotation,1432,Episodic Memory,0
+MacGyver_annotation,1432,Functional Perception,2
+MacGyver_annotation,1432,Inhibitory Control,1
+MacGyver_annotation,1432,Language,1
+MacGyver_annotation,1432,Mental Simulation,0
+MacGyver_annotation,1432,Metacognition,1
+MacGyver_annotation,1432,Object Permanence,0
+MacGyver_annotation,1432,Perception and Pattern Recognition,1
+MacGyver_annotation,1432,Planning,0
+MacGyver_annotation,1432,Procedural Memory,0
+MacGyver_annotation,1432,Prospective Memory,0
+MacGyver_annotation,1432,Semantic Memory,2
+MacGyver_annotation,1432,Spatial Reasoning and Navigation,0
+MacGyver_annotation,1432,Theory of Mind,0
+MacGyver_annotation,1432,Working Memory,1
+MacGyver_annotation,1432,ambiguity,4
+MacGyver_annotation,1432,factuality,5
+MacGyver_annotation,1433,Causal Reasoning,1
+MacGyver_annotation,1433,Cognitive Flexibility,1
+MacGyver_annotation,1433,Emotion Perception and Empathy,0
+MacGyver_annotation,1433,Episodic Memory,0
+MacGyver_annotation,1433,Functional Perception,1
+MacGyver_annotation,1433,Inhibitory Control,0
+MacGyver_annotation,1433,Language,2
+MacGyver_annotation,1433,Mental Simulation,0
+MacGyver_annotation,1433,Metacognition,1
+MacGyver_annotation,1433,Object Permanence,0
+MacGyver_annotation,1433,Perception and Pattern Recognition,1
+MacGyver_annotation,1433,Planning,0
+MacGyver_annotation,1433,Procedural Memory,0
+MacGyver_annotation,1433,Prospective Memory,0
+MacGyver_annotation,1433,Semantic Memory,2
+MacGyver_annotation,1433,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1433,Theory of Mind,0
+MacGyver_annotation,1433,Working Memory,1
+MacGyver_annotation,1433,ambiguity,5
+MacGyver_annotation,1433,factuality,5
+MacGyver_annotation,1440,Causal Reasoning,1
+MacGyver_annotation,1440,Cognitive Flexibility,0
+MacGyver_annotation,1440,Emotion Perception and Empathy,0
+MacGyver_annotation,1440,Episodic Memory,0
+MacGyver_annotation,1440,Functional Perception,3
+MacGyver_annotation,1440,Inhibitory Control,1
+MacGyver_annotation,1440,Language,2
+MacGyver_annotation,1440,Mental Simulation,1
+MacGyver_annotation,1440,Metacognition,2
+MacGyver_annotation,1440,Object Permanence,0
+MacGyver_annotation,1440,Perception and Pattern Recognition,1
+MacGyver_annotation,1440,Planning,0
+MacGyver_annotation,1440,Procedural Memory,0
+MacGyver_annotation,1440,Prospective Memory,0
+MacGyver_annotation,1440,Semantic Memory,2
+MacGyver_annotation,1440,Spatial Reasoning and Navigation,0
+MacGyver_annotation,1440,Theory of Mind,0
+MacGyver_annotation,1440,Working Memory,2
+MacGyver_annotation,1440,ambiguity,5
+MacGyver_annotation,1440,factuality,5
+MacGyver_annotation,1443,Causal Reasoning,1
+MacGyver_annotation,1443,Cognitive Flexibility,0
+MacGyver_annotation,1443,Emotion Perception and Empathy,0
+MacGyver_annotation,1443,Episodic Memory,0
+MacGyver_annotation,1443,Functional Perception,2
+MacGyver_annotation,1443,Inhibitory Control,1
+MacGyver_annotation,1443,Language,1
+MacGyver_annotation,1443,Mental Simulation,0
+MacGyver_annotation,1443,Metacognition,1
+MacGyver_annotation,1443,Object Permanence,0
+MacGyver_annotation,1443,Perception and Pattern Recognition,1
+MacGyver_annotation,1443,Planning,0
+MacGyver_annotation,1443,Procedural Memory,0
+MacGyver_annotation,1443,Prospective Memory,0
+MacGyver_annotation,1443,Semantic Memory,1
+MacGyver_annotation,1443,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1443,Theory of Mind,0
+MacGyver_annotation,1443,Working Memory,0
+MacGyver_annotation,1443,ambiguity,5
+MacGyver_annotation,1443,factuality,5
+MacGyver_annotation,1444,Causal Reasoning,1
+MacGyver_annotation,1444,Cognitive Flexibility,0
+MacGyver_annotation,1444,Emotion Perception and Empathy,0
+MacGyver_annotation,1444,Episodic Memory,0
+MacGyver_annotation,1444,Functional Perception,1
+MacGyver_annotation,1444,Inhibitory Control,1
+MacGyver_annotation,1444,Language,1
+MacGyver_annotation,1444,Mental Simulation,0
+MacGyver_annotation,1444,Metacognition,1
+MacGyver_annotation,1444,Object Permanence,0
+MacGyver_annotation,1444,Perception and Pattern Recognition,1
+MacGyver_annotation,1444,Planning,0
+MacGyver_annotation,1444,Procedural Memory,0
+MacGyver_annotation,1444,Prospective Memory,0
+MacGyver_annotation,1444,Semantic Memory,1
+MacGyver_annotation,1444,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1444,Theory of Mind,0
+MacGyver_annotation,1444,Working Memory,1
+MacGyver_annotation,1444,ambiguity,5
+MacGyver_annotation,1444,factuality,5
+MacGyver_annotation,144,Causal Reasoning,1
+MacGyver_annotation,144,Cognitive Flexibility,4
+MacGyver_annotation,144,Emotion Perception and Empathy,0
+MacGyver_annotation,144,Episodic Memory,0
+MacGyver_annotation,144,Functional Perception,3
+MacGyver_annotation,144,Inhibitory Control,2
+MacGyver_annotation,144,Language,2
+MacGyver_annotation,144,Mental Simulation,2
+MacGyver_annotation,144,Metacognition,3
+MacGyver_annotation,144,Object Permanence,0
+MacGyver_annotation,144,Perception and Pattern Recognition,3
+MacGyver_annotation,144,Planning,2
+MacGyver_annotation,144,Procedural Memory,2
+MacGyver_annotation,144,Prospective Memory,2
+MacGyver_annotation,144,Semantic Memory,3
+MacGyver_annotation,144,Spatial Reasoning and Navigation,1
+MacGyver_annotation,144,Theory of Mind,1
+MacGyver_annotation,144,Working Memory,3
+MacGyver_annotation,144,ambiguity,5
+MacGyver_annotation,144,factuality,4
+MacGyver_annotation,1453,Causal Reasoning,1
+MacGyver_annotation,1453,Cognitive Flexibility,0
+MacGyver_annotation,1453,Emotion Perception and Empathy,0
+MacGyver_annotation,1453,Episodic Memory,0
+MacGyver_annotation,1453,Functional Perception,2
+MacGyver_annotation,1453,Inhibitory Control,1
+MacGyver_annotation,1453,Language,2
+MacGyver_annotation,1453,Mental Simulation,1
+MacGyver_annotation,1453,Metacognition,1
+MacGyver_annotation,1453,Object Permanence,0
+MacGyver_annotation,1453,Perception and Pattern Recognition,2
+MacGyver_annotation,1453,Planning,0
+MacGyver_annotation,1453,Procedural Memory,0
+MacGyver_annotation,1453,Prospective Memory,0
+MacGyver_annotation,1453,Semantic Memory,1
+MacGyver_annotation,1453,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1453,Theory of Mind,0
+MacGyver_annotation,1453,Working Memory,2
+MacGyver_annotation,1453,ambiguity,5
+MacGyver_annotation,1453,factuality,5
+MacGyver_annotation,1464,Causal Reasoning,1
+MacGyver_annotation,1464,Cognitive Flexibility,4
+MacGyver_annotation,1464,Emotion Perception and Empathy,0
+MacGyver_annotation,1464,Episodic Memory,0
+MacGyver_annotation,1464,Functional Perception,4
+MacGyver_annotation,1464,Inhibitory Control,2
+MacGyver_annotation,1464,Language,2
+MacGyver_annotation,1464,Mental Simulation,2
+MacGyver_annotation,1464,Metacognition,3
+MacGyver_annotation,1464,Object Permanence,0
+MacGyver_annotation,1464,Perception and Pattern Recognition,2
+MacGyver_annotation,1464,Planning,2
+MacGyver_annotation,1464,Procedural Memory,2
+MacGyver_annotation,1464,Prospective Memory,1
+MacGyver_annotation,1464,Semantic Memory,2
+MacGyver_annotation,1464,Spatial Reasoning and Navigation,4
+MacGyver_annotation,1464,Theory of Mind,0
+MacGyver_annotation,1464,Working Memory,4
+MacGyver_annotation,1464,ambiguity,4
+MacGyver_annotation,1464,factuality,2
+MacGyver_annotation,1475,Causal Reasoning,1
+MacGyver_annotation,1475,Cognitive Flexibility,0
+MacGyver_annotation,1475,Emotion Perception and Empathy,0
+MacGyver_annotation,1475,Episodic Memory,0
+MacGyver_annotation,1475,Functional Perception,4
+MacGyver_annotation,1475,Inhibitory Control,1
+MacGyver_annotation,1475,Language,2
+MacGyver_annotation,1475,Mental Simulation,2
+MacGyver_annotation,1475,Metacognition,3
+MacGyver_annotation,1475,Object Permanence,0
+MacGyver_annotation,1475,Perception and Pattern Recognition,2
+MacGyver_annotation,1475,Planning,1
+MacGyver_annotation,1475,Procedural Memory,2
+MacGyver_annotation,1475,Prospective Memory,0
+MacGyver_annotation,1475,Semantic Memory,2
+MacGyver_annotation,1475,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1475,Theory of Mind,0
+MacGyver_annotation,1475,Working Memory,2
+MacGyver_annotation,1475,ambiguity,5
+MacGyver_annotation,1475,factuality,3
+MacGyver_annotation,1477,Causal Reasoning,2
+MacGyver_annotation,1477,Cognitive Flexibility,3
+MacGyver_annotation,1477,Emotion Perception and Empathy,0
+MacGyver_annotation,1477,Episodic Memory,0
+MacGyver_annotation,1477,Functional Perception,4
+MacGyver_annotation,1477,Inhibitory Control,2
+MacGyver_annotation,1477,Language,2
+MacGyver_annotation,1477,Mental Simulation,2
+MacGyver_annotation,1477,Metacognition,3
+MacGyver_annotation,1477,Object Permanence,0
+MacGyver_annotation,1477,Perception and Pattern Recognition,3
+MacGyver_annotation,1477,Planning,1
+MacGyver_annotation,1477,Procedural Memory,3
+MacGyver_annotation,1477,Prospective Memory,0
+MacGyver_annotation,1477,Semantic Memory,2
+MacGyver_annotation,1477,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1477,Theory of Mind,0
+MacGyver_annotation,1477,Working Memory,3
+MacGyver_annotation,1477,ambiguity,5
+MacGyver_annotation,1477,factuality,2
+MacGyver_annotation,1483,Causal Reasoning,1
+MacGyver_annotation,1483,Cognitive Flexibility,2
+MacGyver_annotation,1483,Emotion Perception and Empathy,0
+MacGyver_annotation,1483,Episodic Memory,3
+MacGyver_annotation,1483,Functional Perception,3
+MacGyver_annotation,1483,Inhibitory Control,2
+MacGyver_annotation,1483,Language,2
+MacGyver_annotation,1483,Mental Simulation,2
+MacGyver_annotation,1483,Metacognition,2
+MacGyver_annotation,1483,Object Permanence,0
+MacGyver_annotation,1483,Perception and Pattern Recognition,3
+MacGyver_annotation,1483,Planning,2
+MacGyver_annotation,1483,Procedural Memory,3
+MacGyver_annotation,1483,Prospective Memory,2
+MacGyver_annotation,1483,Semantic Memory,4
+MacGyver_annotation,1483,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1483,Theory of Mind,0
+MacGyver_annotation,1483,Working Memory,2
+MacGyver_annotation,1483,ambiguity,4
+MacGyver_annotation,1483,factuality,4
+MacGyver_annotation,1504,Causal Reasoning,1
+MacGyver_annotation,1504,Cognitive Flexibility,0
+MacGyver_annotation,1504,Emotion Perception and Empathy,0
+MacGyver_annotation,1504,Episodic Memory,0
+MacGyver_annotation,1504,Functional Perception,2
+MacGyver_annotation,1504,Inhibitory Control,1
+MacGyver_annotation,1504,Language,2
+MacGyver_annotation,1504,Mental Simulation,0
+MacGyver_annotation,1504,Metacognition,1
+MacGyver_annotation,1504,Object Permanence,0
+MacGyver_annotation,1504,Perception and Pattern Recognition,1
+MacGyver_annotation,1504,Planning,0
+MacGyver_annotation,1504,Procedural Memory,0
+MacGyver_annotation,1504,Prospective Memory,0
+MacGyver_annotation,1504,Semantic Memory,2
+MacGyver_annotation,1504,Spatial Reasoning and Navigation,0
+MacGyver_annotation,1504,Theory of Mind,0
+MacGyver_annotation,1504,Working Memory,1
+MacGyver_annotation,1504,ambiguity,5
+MacGyver_annotation,1504,factuality,5
+MacGyver_annotation,1506,Causal Reasoning,2
+MacGyver_annotation,1506,Cognitive Flexibility,3
+MacGyver_annotation,1506,Emotion Perception and Empathy,0
+MacGyver_annotation,1506,Episodic Memory,0
+MacGyver_annotation,1506,Functional Perception,4
+MacGyver_annotation,1506,Inhibitory Control,1
+MacGyver_annotation,1506,Language,2
+MacGyver_annotation,1506,Mental Simulation,2
+MacGyver_annotation,1506,Metacognition,3
+MacGyver_annotation,1506,Object Permanence,0
+MacGyver_annotation,1506,Perception and Pattern Recognition,2
+MacGyver_annotation,1506,Planning,2
+MacGyver_annotation,1506,Procedural Memory,3
+MacGyver_annotation,1506,Prospective Memory,0
+MacGyver_annotation,1506,Semantic Memory,3
+MacGyver_annotation,1506,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1506,Theory of Mind,0
+MacGyver_annotation,1506,Working Memory,3
+MacGyver_annotation,1506,ambiguity,5
+MacGyver_annotation,1506,factuality,4
+MacGyver_annotation,1511,Causal Reasoning,1
+MacGyver_annotation,1511,Cognitive Flexibility,3
+MacGyver_annotation,1511,Emotion Perception and Empathy,0
+MacGyver_annotation,1511,Episodic Memory,0
+MacGyver_annotation,1511,Functional Perception,2
+MacGyver_annotation,1511,Inhibitory Control,0
+MacGyver_annotation,1511,Language,2
+MacGyver_annotation,1511,Mental Simulation,1
+MacGyver_annotation,1511,Metacognition,3
+MacGyver_annotation,1511,Object Permanence,0
+MacGyver_annotation,1511,Perception and Pattern Recognition,1
+MacGyver_annotation,1511,Planning,1
+MacGyver_annotation,1511,Procedural Memory,1
+MacGyver_annotation,1511,Prospective Memory,1
+MacGyver_annotation,1511,Semantic Memory,2
+MacGyver_annotation,1511,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1511,Theory of Mind,0
+MacGyver_annotation,1511,Working Memory,2
+MacGyver_annotation,1511,ambiguity,5
+MacGyver_annotation,1511,factuality,3
+MacGyver_annotation,1515,Causal Reasoning,1
+MacGyver_annotation,1515,Cognitive Flexibility,0
+MacGyver_annotation,1515,Emotion Perception and Empathy,0
+MacGyver_annotation,1515,Episodic Memory,0
+MacGyver_annotation,1515,Functional Perception,2
+MacGyver_annotation,1515,Inhibitory Control,1
+MacGyver_annotation,1515,Language,2
+MacGyver_annotation,1515,Mental Simulation,1
+MacGyver_annotation,1515,Metacognition,2
+MacGyver_annotation,1515,Object Permanence,0
+MacGyver_annotation,1515,Perception and Pattern Recognition,2
+MacGyver_annotation,1515,Planning,0
+MacGyver_annotation,1515,Procedural Memory,0
+MacGyver_annotation,1515,Prospective Memory,0
+MacGyver_annotation,1515,Semantic Memory,1
+MacGyver_annotation,1515,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1515,Theory of Mind,0
+MacGyver_annotation,1515,Working Memory,2
+MacGyver_annotation,1515,ambiguity,5
+MacGyver_annotation,1515,factuality,5
+MacGyver_annotation,1535,Causal Reasoning,1
+MacGyver_annotation,1535,Cognitive Flexibility,2
+MacGyver_annotation,1535,Emotion Perception and Empathy,0
+MacGyver_annotation,1535,Episodic Memory,0
+MacGyver_annotation,1535,Functional Perception,4
+MacGyver_annotation,1535,Inhibitory Control,1
+MacGyver_annotation,1535,Language,2
+MacGyver_annotation,1535,Mental Simulation,2
+MacGyver_annotation,1535,Metacognition,3
+MacGyver_annotation,1535,Object Permanence,0
+MacGyver_annotation,1535,Perception and Pattern Recognition,3
+MacGyver_annotation,1535,Planning,2
+MacGyver_annotation,1535,Procedural Memory,2
+MacGyver_annotation,1535,Prospective Memory,0
+MacGyver_annotation,1535,Semantic Memory,2
+MacGyver_annotation,1535,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1535,Theory of Mind,0
+MacGyver_annotation,1535,Working Memory,2
+MacGyver_annotation,1535,ambiguity,5
+MacGyver_annotation,1535,factuality,2
+MacGyver_annotation,1536,Causal Reasoning,2
+MacGyver_annotation,1536,Cognitive Flexibility,3
+MacGyver_annotation,1536,Emotion Perception and Empathy,0
+MacGyver_annotation,1536,Episodic Memory,0
+MacGyver_annotation,1536,Functional Perception,4
+MacGyver_annotation,1536,Inhibitory Control,3
+MacGyver_annotation,1536,Language,2
+MacGyver_annotation,1536,Mental Simulation,3
+MacGyver_annotation,1536,Metacognition,4
+MacGyver_annotation,1536,Object Permanence,0
+MacGyver_annotation,1536,Perception and Pattern Recognition,3
+MacGyver_annotation,1536,Planning,2
+MacGyver_annotation,1536,Procedural Memory,3
+MacGyver_annotation,1536,Prospective Memory,0
+MacGyver_annotation,1536,Semantic Memory,2
+MacGyver_annotation,1536,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1536,Theory of Mind,0
+MacGyver_annotation,1536,Working Memory,3
+MacGyver_annotation,1536,ambiguity,5
+MacGyver_annotation,1536,factuality,5
+MacGyver_annotation,1538,Causal Reasoning,2
+MacGyver_annotation,1538,Cognitive Flexibility,3
+MacGyver_annotation,1538,Emotion Perception and Empathy,0
+MacGyver_annotation,1538,Episodic Memory,0
+MacGyver_annotation,1538,Functional Perception,4
+MacGyver_annotation,1538,Inhibitory Control,1
+MacGyver_annotation,1538,Language,2
+MacGyver_annotation,1538,Mental Simulation,2
+MacGyver_annotation,1538,Metacognition,2
+MacGyver_annotation,1538,Object Permanence,1
+MacGyver_annotation,1538,Perception and Pattern Recognition,1
+MacGyver_annotation,1538,Planning,2
+MacGyver_annotation,1538,Procedural Memory,2
+MacGyver_annotation,1538,Prospective Memory,0
+MacGyver_annotation,1538,Semantic Memory,3
+MacGyver_annotation,1538,Spatial Reasoning and Navigation,3
+MacGyver_annotation,1538,Theory of Mind,0
+MacGyver_annotation,1538,Working Memory,3
+MacGyver_annotation,1538,ambiguity,5
+MacGyver_annotation,1538,factuality,1
+MacGyver_annotation,1550,Causal Reasoning,2
+MacGyver_annotation,1550,Cognitive Flexibility,3
+MacGyver_annotation,1550,Emotion Perception and Empathy,0
+MacGyver_annotation,1550,Episodic Memory,0
+MacGyver_annotation,1550,Functional Perception,4
+MacGyver_annotation,1550,Inhibitory Control,1
+MacGyver_annotation,1550,Language,2
+MacGyver_annotation,1550,Mental Simulation,2
+MacGyver_annotation,1550,Metacognition,3
+MacGyver_annotation,1550,Object Permanence,0
+MacGyver_annotation,1550,Perception and Pattern Recognition,3
+MacGyver_annotation,1550,Planning,2
+MacGyver_annotation,1550,Procedural Memory,3
+MacGyver_annotation,1550,Prospective Memory,1
+MacGyver_annotation,1550,Semantic Memory,2
+MacGyver_annotation,1550,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1550,Theory of Mind,0
+MacGyver_annotation,1550,Working Memory,3
+MacGyver_annotation,1550,ambiguity,4
+MacGyver_annotation,1550,factuality,3
+MacGyver_annotation,1551,Causal Reasoning,2
+MacGyver_annotation,1551,Cognitive Flexibility,3
+MacGyver_annotation,1551,Emotion Perception and Empathy,0
+MacGyver_annotation,1551,Episodic Memory,0
+MacGyver_annotation,1551,Functional Perception,3
+MacGyver_annotation,1551,Inhibitory Control,0
+MacGyver_annotation,1551,Language,2
+MacGyver_annotation,1551,Mental Simulation,2
+MacGyver_annotation,1551,Metacognition,3
+MacGyver_annotation,1551,Object Permanence,0
+MacGyver_annotation,1551,Perception and Pattern Recognition,1
+MacGyver_annotation,1551,Planning,2
+MacGyver_annotation,1551,Procedural Memory,2
+MacGyver_annotation,1551,Prospective Memory,0
+MacGyver_annotation,1551,Semantic Memory,3
+MacGyver_annotation,1551,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1551,Theory of Mind,0
+MacGyver_annotation,1551,Working Memory,4
+MacGyver_annotation,1551,ambiguity,5
+MacGyver_annotation,1551,factuality,1
+MacGyver_annotation,1570,Causal Reasoning,1
+MacGyver_annotation,1570,Cognitive Flexibility,3
+MacGyver_annotation,1570,Emotion Perception and Empathy,0
+MacGyver_annotation,1570,Episodic Memory,0
+MacGyver_annotation,1570,Functional Perception,4
+MacGyver_annotation,1570,Inhibitory Control,1
+MacGyver_annotation,1570,Language,3
+MacGyver_annotation,1570,Mental Simulation,2
+MacGyver_annotation,1570,Metacognition,3
+MacGyver_annotation,1570,Object Permanence,1
+MacGyver_annotation,1570,Perception and Pattern Recognition,3
+MacGyver_annotation,1570,Planning,2
+MacGyver_annotation,1570,Procedural Memory,3
+MacGyver_annotation,1570,Prospective Memory,0
+MacGyver_annotation,1570,Semantic Memory,3
+MacGyver_annotation,1570,Spatial Reasoning and Navigation,3
+MacGyver_annotation,1570,Theory of Mind,0
+MacGyver_annotation,1570,Working Memory,3
+MacGyver_annotation,1570,ambiguity,4
+MacGyver_annotation,1570,factuality,4
+MacGyver_annotation,1572,Causal Reasoning,1
+MacGyver_annotation,1572,Cognitive Flexibility,0
+MacGyver_annotation,1572,Emotion Perception and Empathy,0
+MacGyver_annotation,1572,Episodic Memory,0
+MacGyver_annotation,1572,Functional Perception,4
+MacGyver_annotation,1572,Inhibitory Control,1
+MacGyver_annotation,1572,Language,1
+MacGyver_annotation,1572,Mental Simulation,1
+MacGyver_annotation,1572,Metacognition,1
+MacGyver_annotation,1572,Object Permanence,0
+MacGyver_annotation,1572,Perception and Pattern Recognition,1
+MacGyver_annotation,1572,Planning,0
+MacGyver_annotation,1572,Procedural Memory,0
+MacGyver_annotation,1572,Prospective Memory,0
+MacGyver_annotation,1572,Semantic Memory,2
+MacGyver_annotation,1572,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1572,Theory of Mind,0
+MacGyver_annotation,1572,Working Memory,2
+MacGyver_annotation,1572,ambiguity,5
+MacGyver_annotation,1572,factuality,5
+MacGyver_annotation,1574,Causal Reasoning,1
+MacGyver_annotation,1574,Cognitive Flexibility,0
+MacGyver_annotation,1574,Emotion Perception and Empathy,0
+MacGyver_annotation,1574,Episodic Memory,0
+MacGyver_annotation,1574,Functional Perception,1
+MacGyver_annotation,1574,Inhibitory Control,1
+MacGyver_annotation,1574,Language,1
+MacGyver_annotation,1574,Mental Simulation,1
+MacGyver_annotation,1574,Metacognition,1
+MacGyver_annotation,1574,Object Permanence,0
+MacGyver_annotation,1574,Perception and Pattern Recognition,1
+MacGyver_annotation,1574,Planning,0
+MacGyver_annotation,1574,Procedural Memory,0
+MacGyver_annotation,1574,Prospective Memory,0
+MacGyver_annotation,1574,Semantic Memory,2
+MacGyver_annotation,1574,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1574,Theory of Mind,0
+MacGyver_annotation,1574,Working Memory,2
+MacGyver_annotation,1574,ambiguity,4
+MacGyver_annotation,1574,factuality,5
+MacGyver_annotation,1575,Causal Reasoning,2
+MacGyver_annotation,1575,Cognitive Flexibility,3
+MacGyver_annotation,1575,Emotion Perception and Empathy,0
+MacGyver_annotation,1575,Episodic Memory,0
+MacGyver_annotation,1575,Functional Perception,3
+MacGyver_annotation,1575,Inhibitory Control,1
+MacGyver_annotation,1575,Language,2
+MacGyver_annotation,1575,Mental Simulation,2
+MacGyver_annotation,1575,Metacognition,2
+MacGyver_annotation,1575,Object Permanence,0
+MacGyver_annotation,1575,Perception and Pattern Recognition,2
+MacGyver_annotation,1575,Planning,1
+MacGyver_annotation,1575,Procedural Memory,2
+MacGyver_annotation,1575,Prospective Memory,2
+MacGyver_annotation,1575,Semantic Memory,3
+MacGyver_annotation,1575,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1575,Theory of Mind,0
+MacGyver_annotation,1575,Working Memory,3
+MacGyver_annotation,1575,ambiguity,5
+MacGyver_annotation,1575,factuality,3
+MacGyver_annotation,1587,Causal Reasoning,0
+MacGyver_annotation,1587,Cognitive Flexibility,0
+MacGyver_annotation,1587,Emotion Perception and Empathy,0
+MacGyver_annotation,1587,Episodic Memory,0
+MacGyver_annotation,1587,Functional Perception,0
+MacGyver_annotation,1587,Inhibitory Control,1
+MacGyver_annotation,1587,Language,1
+MacGyver_annotation,1587,Mental Simulation,0
+MacGyver_annotation,1587,Metacognition,2
+MacGyver_annotation,1587,Object Permanence,0
+MacGyver_annotation,1587,Perception and Pattern Recognition,1
+MacGyver_annotation,1587,Planning,0
+MacGyver_annotation,1587,Procedural Memory,0
+MacGyver_annotation,1587,Prospective Memory,0
+MacGyver_annotation,1587,Semantic Memory,2
+MacGyver_annotation,1587,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1587,Theory of Mind,0
+MacGyver_annotation,1587,Working Memory,1
+MacGyver_annotation,1587,ambiguity,4
+MacGyver_annotation,1587,factuality,5
+MacGyver_annotation,1596,Causal Reasoning,1
+MacGyver_annotation,1596,Cognitive Flexibility,3
+MacGyver_annotation,1596,Emotion Perception and Empathy,0
+MacGyver_annotation,1596,Episodic Memory,0
+MacGyver_annotation,1596,Functional Perception,4
+MacGyver_annotation,1596,Inhibitory Control,2
+MacGyver_annotation,1596,Language,2
+MacGyver_annotation,1596,Mental Simulation,1
+MacGyver_annotation,1596,Metacognition,2
+MacGyver_annotation,1596,Object Permanence,0
+MacGyver_annotation,1596,Perception and Pattern Recognition,2
+MacGyver_annotation,1596,Planning,1
+MacGyver_annotation,1596,Procedural Memory,2
+MacGyver_annotation,1596,Prospective Memory,0
+MacGyver_annotation,1596,Semantic Memory,2
+MacGyver_annotation,1596,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1596,Theory of Mind,0
+MacGyver_annotation,1596,Working Memory,3
+MacGyver_annotation,1596,ambiguity,5
+MacGyver_annotation,1596,factuality,2
+MacGyver_annotation,1599,Causal Reasoning,2
+MacGyver_annotation,1599,Cognitive Flexibility,2
+MacGyver_annotation,1599,Emotion Perception and Empathy,0
+MacGyver_annotation,1599,Episodic Memory,0
+MacGyver_annotation,1599,Functional Perception,1
+MacGyver_annotation,1599,Inhibitory Control,1
+MacGyver_annotation,1599,Language,2
+MacGyver_annotation,1599,Mental Simulation,1
+MacGyver_annotation,1599,Metacognition,2
+MacGyver_annotation,1599,Object Permanence,0
+MacGyver_annotation,1599,Perception and Pattern Recognition,1
+MacGyver_annotation,1599,Planning,1
+MacGyver_annotation,1599,Procedural Memory,0
+MacGyver_annotation,1599,Prospective Memory,0
+MacGyver_annotation,1599,Semantic Memory,3
+MacGyver_annotation,1599,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1599,Theory of Mind,0
+MacGyver_annotation,1599,Working Memory,2
+MacGyver_annotation,1599,ambiguity,5
+MacGyver_annotation,1599,factuality,5
+MacGyver_annotation,1600,Causal Reasoning,1
 MacGyver_annotation,1600,Cognitive Flexibility,0
-MacGyver_annotation,1600,Emotion Perception & Empathy (EPE),0
-MacGyver_annotation,1600,Episodic/Episodic-Like Memory,0
-MacGyver_annotation,1600,Executive Function (EF),1
-MacGyver_annotation,1600,Functional perception,3
-MacGyver_annotation,1600,Inhibitory Control,2
+MacGyver_annotation,1600,Emotion Perception and Empathy,0
+MacGyver_annotation,1600,Episodic Memory,0
+MacGyver_annotation,1600,Functional Perception,3
+MacGyver_annotation,1600,Inhibitory Control,0
 MacGyver_annotation,1600,Language,2
-MacGyver_annotation,1600,Mental Simulation,1
-MacGyver_annotation,1600,Metacognition,4
-MacGyver_annotation,1600,Object permanence,0
+MacGyver_annotation,1600,Mental Simulation,2
+MacGyver_annotation,1600,Metacognition,3
+MacGyver_annotation,1600,Object Permanence,0
 MacGyver_annotation,1600,Perception and Pattern Recognition,2
 MacGyver_annotation,1600,Planning,0
 MacGyver_annotation,1600,Procedural Memory,0
 MacGyver_annotation,1600,Prospective Memory,0
 MacGyver_annotation,1600,Semantic Memory,2
-MacGyver_annotation,1600,Spatial reasoning and navigation,1
+MacGyver_annotation,1600,Spatial Reasoning and Navigation,1
 MacGyver_annotation,1600,Theory of Mind,0
-MacGyver_annotation,1600,Working Memory,2
+MacGyver_annotation,1600,Working Memory,1
 MacGyver_annotation,1600,ambiguity,5
 MacGyver_annotation,1600,factuality,5
+MacGyver_annotation,1605,Causal Reasoning,1
+MacGyver_annotation,1605,Cognitive Flexibility,3
+MacGyver_annotation,1605,Emotion Perception and Empathy,0
+MacGyver_annotation,1605,Episodic Memory,0
+MacGyver_annotation,1605,Functional Perception,3
+MacGyver_annotation,1605,Inhibitory Control,2
+MacGyver_annotation,1605,Language,2
+MacGyver_annotation,1605,Mental Simulation,2
+MacGyver_annotation,1605,Metacognition,2
+MacGyver_annotation,1605,Object Permanence,0
+MacGyver_annotation,1605,Perception and Pattern Recognition,3
+MacGyver_annotation,1605,Planning,2
+MacGyver_annotation,1605,Procedural Memory,2
+MacGyver_annotation,1605,Prospective Memory,0
+MacGyver_annotation,1605,Semantic Memory,2
+MacGyver_annotation,1605,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1605,Theory of Mind,0
+MacGyver_annotation,1605,Working Memory,2
+MacGyver_annotation,1605,ambiguity,5
+MacGyver_annotation,1605,factuality,3
 MacGyver_annotation,1607,Causal Reasoning,2
 MacGyver_annotation,1607,Cognitive Flexibility,4
-MacGyver_annotation,1607,Emotion Perception & Empathy (EPE),0
-MacGyver_annotation,1607,Episodic/Episodic-Like Memory,0
-MacGyver_annotation,1607,Executive Function (EF),4
-MacGyver_annotation,1607,Functional perception,5
+MacGyver_annotation,1607,Emotion Perception and Empathy,0
+MacGyver_annotation,1607,Episodic Memory,0
+MacGyver_annotation,1607,Functional Perception,5
 MacGyver_annotation,1607,Inhibitory Control,1
-MacGyver_annotation,1607,Language,2
+MacGyver_annotation,1607,Language,1
 MacGyver_annotation,1607,Mental Simulation,3
-MacGyver_annotation,1607,Metacognition,4
-MacGyver_annotation,1607,Object permanence,1
+MacGyver_annotation,1607,Metacognition,3
+MacGyver_annotation,1607,Object Permanence,1
 MacGyver_annotation,1607,Perception and Pattern Recognition,3
 MacGyver_annotation,1607,Planning,2
-MacGyver_annotation,1607,Procedural Memory,3
-MacGyver_annotation,1607,Prospective Memory,2
-MacGyver_annotation,1607,Semantic Memory,1
-MacGyver_annotation,1607,Spatial reasoning and navigation,3
+MacGyver_annotation,1607,Procedural Memory,2
+MacGyver_annotation,1607,Prospective Memory,0
+MacGyver_annotation,1607,Semantic Memory,3
+MacGyver_annotation,1607,Spatial Reasoning and Navigation,2
 MacGyver_annotation,1607,Theory of Mind,0
-MacGyver_annotation,1607,Working Memory,4
-MacGyver_annotation,1607,ambiguity,4
+MacGyver_annotation,1607,Working Memory,3
+MacGyver_annotation,1607,ambiguity,5
 MacGyver_annotation,1607,factuality,2
-MacGyver_annotation,645,Causal Reasoning,1
-MacGyver_annotation,645,Cognitive Flexibility,2
-MacGyver_annotation,645,Emotion Perception & Empathy (EPE),0
-MacGyver_annotation,645,Episodic/Episodic-Like Memory,0
-MacGyver_annotation,645,Executive Function (EF),3
-MacGyver_annotation,645,Functional perception,4
-MacGyver_annotation,645,Inhibitory Control,2
+MacGyver_annotation,1620,Causal Reasoning,1
+MacGyver_annotation,1620,Cognitive Flexibility,1
+MacGyver_annotation,1620,Emotion Perception and Empathy,0
+MacGyver_annotation,1620,Episodic Memory,0
+MacGyver_annotation,1620,Functional Perception,2
+MacGyver_annotation,1620,Inhibitory Control,0
+MacGyver_annotation,1620,Language,2
+MacGyver_annotation,1620,Mental Simulation,1
+MacGyver_annotation,1620,Metacognition,3
+MacGyver_annotation,1620,Object Permanence,0
+MacGyver_annotation,1620,Perception and Pattern Recognition,1
+MacGyver_annotation,1620,Planning,1
+MacGyver_annotation,1620,Procedural Memory,1
+MacGyver_annotation,1620,Prospective Memory,0
+MacGyver_annotation,1620,Semantic Memory,2
+MacGyver_annotation,1620,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1620,Theory of Mind,0
+MacGyver_annotation,1620,Working Memory,3
+MacGyver_annotation,1620,ambiguity,4
+MacGyver_annotation,1620,factuality,2
+MacGyver_annotation,1631,Causal Reasoning,0
+MacGyver_annotation,1631,Cognitive Flexibility,0
+MacGyver_annotation,1631,Emotion Perception and Empathy,0
+MacGyver_annotation,1631,Episodic Memory,0
+MacGyver_annotation,1631,Functional Perception,1
+MacGyver_annotation,1631,Inhibitory Control,1
+MacGyver_annotation,1631,Language,1
+MacGyver_annotation,1631,Mental Simulation,1
+MacGyver_annotation,1631,Metacognition,1
+MacGyver_annotation,1631,Object Permanence,0
+MacGyver_annotation,1631,Perception and Pattern Recognition,0
+MacGyver_annotation,1631,Planning,0
+MacGyver_annotation,1631,Procedural Memory,0
+MacGyver_annotation,1631,Prospective Memory,0
+MacGyver_annotation,1631,Semantic Memory,1
+MacGyver_annotation,1631,Spatial Reasoning and Navigation,0
+MacGyver_annotation,1631,Theory of Mind,0
+MacGyver_annotation,1631,Working Memory,2
+MacGyver_annotation,1631,ambiguity,5
+MacGyver_annotation,1631,factuality,5
+MacGyver_annotation,1639,Causal Reasoning,1
+MacGyver_annotation,1639,Cognitive Flexibility,2
+MacGyver_annotation,1639,Emotion Perception and Empathy,0
+MacGyver_annotation,1639,Episodic Memory,0
+MacGyver_annotation,1639,Functional Perception,3
+MacGyver_annotation,1639,Inhibitory Control,2
+MacGyver_annotation,1639,Language,2
+MacGyver_annotation,1639,Mental Simulation,1
+MacGyver_annotation,1639,Metacognition,2
+MacGyver_annotation,1639,Object Permanence,0
+MacGyver_annotation,1639,Perception and Pattern Recognition,1
+MacGyver_annotation,1639,Planning,1
+MacGyver_annotation,1639,Procedural Memory,0
+MacGyver_annotation,1639,Prospective Memory,0
+MacGyver_annotation,1639,Semantic Memory,2
+MacGyver_annotation,1639,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1639,Theory of Mind,0
+MacGyver_annotation,1639,Working Memory,2
+MacGyver_annotation,1639,ambiguity,5
+MacGyver_annotation,1639,factuality,5
+MacGyver_annotation,1649,Causal Reasoning,1
+MacGyver_annotation,1649,Cognitive Flexibility,2
+MacGyver_annotation,1649,Emotion Perception and Empathy,0
+MacGyver_annotation,1649,Episodic Memory,0
+MacGyver_annotation,1649,Functional Perception,3
+MacGyver_annotation,1649,Inhibitory Control,1
+MacGyver_annotation,1649,Language,2
+MacGyver_annotation,1649,Mental Simulation,1
+MacGyver_annotation,1649,Metacognition,2
+MacGyver_annotation,1649,Object Permanence,1
+MacGyver_annotation,1649,Perception and Pattern Recognition,1
+MacGyver_annotation,1649,Planning,2
+MacGyver_annotation,1649,Procedural Memory,2
+MacGyver_annotation,1649,Prospective Memory,0
+MacGyver_annotation,1649,Semantic Memory,1
+MacGyver_annotation,1649,Spatial Reasoning and Navigation,2
+MacGyver_annotation,1649,Theory of Mind,0
+MacGyver_annotation,1649,Working Memory,3
+MacGyver_annotation,1649,ambiguity,5
+MacGyver_annotation,1649,factuality,4
+MacGyver_annotation,1656,Causal Reasoning,1
+MacGyver_annotation,1656,Cognitive Flexibility,0
+MacGyver_annotation,1656,Emotion Perception and Empathy,0
+MacGyver_annotation,1656,Episodic Memory,0
+MacGyver_annotation,1656,Functional Perception,1
+MacGyver_annotation,1656,Inhibitory Control,1
+MacGyver_annotation,1656,Language,2
+MacGyver_annotation,1656,Mental Simulation,0
+MacGyver_annotation,1656,Metacognition,1
+MacGyver_annotation,1656,Object Permanence,0
+MacGyver_annotation,1656,Perception and Pattern Recognition,0
+MacGyver_annotation,1656,Planning,0
+MacGyver_annotation,1656,Procedural Memory,0
+MacGyver_annotation,1656,Prospective Memory,0
+MacGyver_annotation,1656,Semantic Memory,2
+MacGyver_annotation,1656,Spatial Reasoning and Navigation,0
+MacGyver_annotation,1656,Theory of Mind,0
+MacGyver_annotation,1656,Working Memory,1
+MacGyver_annotation,1656,ambiguity,4
+MacGyver_annotation,1656,factuality,5
+MacGyver_annotation,1663,Causal Reasoning,1
+MacGyver_annotation,1663,Cognitive Flexibility,1
+MacGyver_annotation,1663,Emotion Perception and Empathy,0
+MacGyver_annotation,1663,Episodic Memory,0
+MacGyver_annotation,1663,Functional Perception,2
+MacGyver_annotation,1663,Inhibitory Control,2
+MacGyver_annotation,1663,Language,2
+MacGyver_annotation,1663,Mental Simulation,0
+MacGyver_annotation,1663,Metacognition,1
+MacGyver_annotation,1663,Object Permanence,0
+MacGyver_annotation,1663,Perception and Pattern Recognition,0
+MacGyver_annotation,1663,Planning,0
+MacGyver_annotation,1663,Procedural Memory,0
+MacGyver_annotation,1663,Prospective Memory,0
+MacGyver_annotation,1663,Semantic Memory,2
+MacGyver_annotation,1663,Spatial Reasoning and Navigation,0
+MacGyver_annotation,1663,Theory of Mind,0
+MacGyver_annotation,1663,Working Memory,2
+MacGyver_annotation,1663,ambiguity,5
+MacGyver_annotation,1663,factuality,5
+MacGyver_annotation,1668,Causal Reasoning,2
+MacGyver_annotation,1668,Cognitive Flexibility,3
+MacGyver_annotation,1668,Emotion Perception and Empathy,0
+MacGyver_annotation,1668,Episodic Memory,2
+MacGyver_annotation,1668,Functional Perception,4
+MacGyver_annotation,1668,Inhibitory Control,3
+MacGyver_annotation,1668,Language,2
+MacGyver_annotation,1668,Mental Simulation,3
+MacGyver_annotation,1668,Metacognition,3
+MacGyver_annotation,1668,Object Permanence,0
+MacGyver_annotation,1668,Perception and Pattern Recognition,3
+MacGyver_annotation,1668,Planning,2
+MacGyver_annotation,1668,Procedural Memory,2
+MacGyver_annotation,1668,Prospective Memory,0
+MacGyver_annotation,1668,Semantic Memory,2
+MacGyver_annotation,1668,Spatial Reasoning and Navigation,3
+MacGyver_annotation,1668,Theory of Mind,0
+MacGyver_annotation,1668,Working Memory,3
+MacGyver_annotation,1668,ambiguity,5
+MacGyver_annotation,1668,factuality,3
+MacGyver_annotation,1669,Causal Reasoning,1
+MacGyver_annotation,1669,Cognitive Flexibility,3
+MacGyver_annotation,1669,Emotion Perception and Empathy,0
+MacGyver_annotation,1669,Episodic Memory,0
+MacGyver_annotation,1669,Functional Perception,4
+MacGyver_annotation,1669,Inhibitory Control,1
+MacGyver_annotation,1669,Language,2
+MacGyver_annotation,1669,Mental Simulation,2
+MacGyver_annotation,1669,Metacognition,3
+MacGyver_annotation,1669,Object Permanence,0
+MacGyver_annotation,1669,Perception and Pattern Recognition,2
+MacGyver_annotation,1669,Planning,2
+MacGyver_annotation,1669,Procedural Memory,2
+MacGyver_annotation,1669,Prospective Memory,0
+MacGyver_annotation,1669,Semantic Memory,3
+MacGyver_annotation,1669,Spatial Reasoning and Navigation,1
+MacGyver_annotation,1669,Theory of Mind,0
+MacGyver_annotation,1669,Working Memory,3
+MacGyver_annotation,1669,ambiguity,5
+MacGyver_annotation,1669,factuality,2
+MacGyver_annotation,1680,Causal Reasoning,1
+MacGyver_annotation,1680,Cognitive Flexibility,0
+MacGyver_annotation,1680,Emotion Perception and Empathy,0
+MacGyver_annotation,1680,Episodic Memory,0
+MacGyver_annotation,1680,Functional Perception,3
+MacGyver_annotation,1680,Inhibitory Control,1
+MacGyver_annotation,1680,Language,1
+MacGyver_annotation,1680,Mental Simulation,1
+MacGyver_annotation,1680,Metacognition,1
+MacGyver_annotation,1680,Object Permanence,0
+MacGyver_annotation,1680,Perception and Pattern Recognition,1
+MacGyver_annotation,1680,Planning,0
+MacGyver_annotation,1680,Procedural Memory,0
+MacGyver_annotation,1680,Prospective Memory,0
+MacGyver_annotation,1680,Semantic Memory,3
+MacGyver_annotation,1680,Spatial Reasoning and Navigation,0
+MacGyver_annotation,1680,Theory of Mind,0
+MacGyver_annotation,1680,Working Memory,2
+MacGyver_annotation,1680,ambiguity,5
+MacGyver_annotation,1680,factuality,5
+MacGyver_annotation,172,Causal Reasoning,1
+MacGyver_annotation,172,Cognitive Flexibility,3
+MacGyver_annotation,172,Emotion Perception and Empathy,1
+MacGyver_annotation,172,Episodic Memory,0
+MacGyver_annotation,172,Functional Perception,3
+MacGyver_annotation,172,Inhibitory Control,1
+MacGyver_annotation,172,Language,2
+MacGyver_annotation,172,Mental Simulation,2
+MacGyver_annotation,172,Metacognition,2
+MacGyver_annotation,172,Object Permanence,0
+MacGyver_annotation,172,Perception and Pattern Recognition,1
+MacGyver_annotation,172,Planning,1
+MacGyver_annotation,172,Procedural Memory,2
+MacGyver_annotation,172,Prospective Memory,0
+MacGyver_annotation,172,Semantic Memory,3
+MacGyver_annotation,172,Spatial Reasoning and Navigation,2
+MacGyver_annotation,172,Theory of Mind,0
+MacGyver_annotation,172,Working Memory,3
+MacGyver_annotation,172,ambiguity,5
+MacGyver_annotation,172,factuality,3
+MacGyver_annotation,174,Causal Reasoning,1
+MacGyver_annotation,174,Cognitive Flexibility,3
+MacGyver_annotation,174,Emotion Perception and Empathy,0
+MacGyver_annotation,174,Episodic Memory,0
+MacGyver_annotation,174,Functional Perception,3
+MacGyver_annotation,174,Inhibitory Control,1
+MacGyver_annotation,174,Language,2
+MacGyver_annotation,174,Mental Simulation,2
+MacGyver_annotation,174,Metacognition,2
+MacGyver_annotation,174,Object Permanence,1
+MacGyver_annotation,174,Perception and Pattern Recognition,2
+MacGyver_annotation,174,Planning,1
+MacGyver_annotation,174,Procedural Memory,2
+MacGyver_annotation,174,Prospective Memory,0
+MacGyver_annotation,174,Semantic Memory,2
+MacGyver_annotation,174,Spatial Reasoning and Navigation,2
+MacGyver_annotation,174,Theory of Mind,0
+MacGyver_annotation,174,Working Memory,3
+MacGyver_annotation,174,ambiguity,5
+MacGyver_annotation,174,factuality,3
+MacGyver_annotation,181,Causal Reasoning,2
+MacGyver_annotation,181,Cognitive Flexibility,1
+MacGyver_annotation,181,Emotion Perception and Empathy,0
+MacGyver_annotation,181,Episodic Memory,0
+MacGyver_annotation,181,Functional Perception,3
+MacGyver_annotation,181,Inhibitory Control,3
+MacGyver_annotation,181,Language,2
+MacGyver_annotation,181,Mental Simulation,2
+MacGyver_annotation,181,Metacognition,2
+MacGyver_annotation,181,Object Permanence,0
+MacGyver_annotation,181,Perception and Pattern Recognition,2
+MacGyver_annotation,181,Planning,1
+MacGyver_annotation,181,Procedural Memory,2
+MacGyver_annotation,181,Prospective Memory,1
+MacGyver_annotation,181,Semantic Memory,3
+MacGyver_annotation,181,Spatial Reasoning and Navigation,1
+MacGyver_annotation,181,Theory of Mind,0
+MacGyver_annotation,181,Working Memory,3
+MacGyver_annotation,181,ambiguity,5
+MacGyver_annotation,181,factuality,3
+MacGyver_annotation,184,Causal Reasoning,1
+MacGyver_annotation,184,Cognitive Flexibility,2
+MacGyver_annotation,184,Emotion Perception and Empathy,0
+MacGyver_annotation,184,Episodic Memory,0
+MacGyver_annotation,184,Functional Perception,3
+MacGyver_annotation,184,Inhibitory Control,1
+MacGyver_annotation,184,Language,2
+MacGyver_annotation,184,Mental Simulation,2
+MacGyver_annotation,184,Metacognition,2
+MacGyver_annotation,184,Object Permanence,1
+MacGyver_annotation,184,Perception and Pattern Recognition,1
+MacGyver_annotation,184,Planning,1
+MacGyver_annotation,184,Procedural Memory,2
+MacGyver_annotation,184,Prospective Memory,0
+MacGyver_annotation,184,Semantic Memory,2
+MacGyver_annotation,184,Spatial Reasoning and Navigation,2
+MacGyver_annotation,184,Theory of Mind,0
+MacGyver_annotation,184,Working Memory,3
+MacGyver_annotation,184,ambiguity,5
+MacGyver_annotation,184,factuality,5
+MacGyver_annotation,194,Causal Reasoning,1
+MacGyver_annotation,194,Cognitive Flexibility,3
+MacGyver_annotation,194,Emotion Perception and Empathy,1
+MacGyver_annotation,194,Episodic Memory,0
+MacGyver_annotation,194,Functional Perception,3
+MacGyver_annotation,194,Inhibitory Control,1
+MacGyver_annotation,194,Language,2
+MacGyver_annotation,194,Mental Simulation,2
+MacGyver_annotation,194,Metacognition,3
+MacGyver_annotation,194,Object Permanence,1
+MacGyver_annotation,194,Perception and Pattern Recognition,2
+MacGyver_annotation,194,Planning,1
+MacGyver_annotation,194,Procedural Memory,2
+MacGyver_annotation,194,Prospective Memory,2
+MacGyver_annotation,194,Semantic Memory,3
+MacGyver_annotation,194,Spatial Reasoning and Navigation,2
+MacGyver_annotation,194,Theory of Mind,2
+MacGyver_annotation,194,Working Memory,4
+MacGyver_annotation,194,ambiguity,5
+MacGyver_annotation,194,factuality,4
+MacGyver_annotation,199,Causal Reasoning,1
+MacGyver_annotation,199,Cognitive Flexibility,0
+MacGyver_annotation,199,Emotion Perception and Empathy,0
+MacGyver_annotation,199,Episodic Memory,0
+MacGyver_annotation,199,Functional Perception,2
+MacGyver_annotation,199,Inhibitory Control,1
+MacGyver_annotation,199,Language,2
+MacGyver_annotation,199,Mental Simulation,1
+MacGyver_annotation,199,Metacognition,2
+MacGyver_annotation,199,Object Permanence,0
+MacGyver_annotation,199,Perception and Pattern Recognition,1
+MacGyver_annotation,199,Planning,1
+MacGyver_annotation,199,Procedural Memory,2
+MacGyver_annotation,199,Prospective Memory,0
+MacGyver_annotation,199,Semantic Memory,2
+MacGyver_annotation,199,Spatial Reasoning and Navigation,1
+MacGyver_annotation,199,Theory of Mind,0
+MacGyver_annotation,199,Working Memory,3
+MacGyver_annotation,199,ambiguity,5
+MacGyver_annotation,199,factuality,5
+MacGyver_annotation,205,Causal Reasoning,2
+MacGyver_annotation,205,Cognitive Flexibility,1
+MacGyver_annotation,205,Emotion Perception and Empathy,0
+MacGyver_annotation,205,Episodic Memory,0
+MacGyver_annotation,205,Functional Perception,4
+MacGyver_annotation,205,Inhibitory Control,1
+MacGyver_annotation,205,Language,2
+MacGyver_annotation,205,Mental Simulation,1
+MacGyver_annotation,205,Metacognition,3
+MacGyver_annotation,205,Object Permanence,0
+MacGyver_annotation,205,Perception and Pattern Recognition,1
+MacGyver_annotation,205,Planning,2
+MacGyver_annotation,205,Procedural Memory,2
+MacGyver_annotation,205,Prospective Memory,2
+MacGyver_annotation,205,Semantic Memory,2
+MacGyver_annotation,205,Spatial Reasoning and Navigation,1
+MacGyver_annotation,205,Theory of Mind,0
+MacGyver_annotation,205,Working Memory,3
+MacGyver_annotation,205,ambiguity,5
+MacGyver_annotation,205,factuality,5
+MacGyver_annotation,207,Causal Reasoning,2
+MacGyver_annotation,207,Cognitive Flexibility,3
+MacGyver_annotation,207,Emotion Perception and Empathy,0
+MacGyver_annotation,207,Episodic Memory,0
+MacGyver_annotation,207,Functional Perception,4
+MacGyver_annotation,207,Inhibitory Control,1
+MacGyver_annotation,207,Language,2
+MacGyver_annotation,207,Mental Simulation,2
+MacGyver_annotation,207,Metacognition,2
+MacGyver_annotation,207,Object Permanence,0
+MacGyver_annotation,207,Perception and Pattern Recognition,1
+MacGyver_annotation,207,Planning,2
+MacGyver_annotation,207,Procedural Memory,2
+MacGyver_annotation,207,Prospective Memory,0
+MacGyver_annotation,207,Semantic Memory,2
+MacGyver_annotation,207,Spatial Reasoning and Navigation,2
+MacGyver_annotation,207,Theory of Mind,0
+MacGyver_annotation,207,Working Memory,3
+MacGyver_annotation,207,ambiguity,5
+MacGyver_annotation,207,factuality,3
+MacGyver_annotation,211,Causal Reasoning,1
+MacGyver_annotation,211,Cognitive Flexibility,2
+MacGyver_annotation,211,Emotion Perception and Empathy,0
+MacGyver_annotation,211,Episodic Memory,0
+MacGyver_annotation,211,Functional Perception,4
+MacGyver_annotation,211,Inhibitory Control,1
+MacGyver_annotation,211,Language,2
+MacGyver_annotation,211,Mental Simulation,2
+MacGyver_annotation,211,Metacognition,3
+MacGyver_annotation,211,Object Permanence,0
+MacGyver_annotation,211,Perception and Pattern Recognition,2
+MacGyver_annotation,211,Planning,1
+MacGyver_annotation,211,Procedural Memory,2
+MacGyver_annotation,211,Prospective Memory,2
+MacGyver_annotation,211,Semantic Memory,2
+MacGyver_annotation,211,Spatial Reasoning and Navigation,2
+MacGyver_annotation,211,Theory of Mind,0
+MacGyver_annotation,211,Working Memory,2
+MacGyver_annotation,211,ambiguity,4
+MacGyver_annotation,211,factuality,5
+MacGyver_annotation,213,Causal Reasoning,1
+MacGyver_annotation,213,Cognitive Flexibility,2
+MacGyver_annotation,213,Emotion Perception and Empathy,0
+MacGyver_annotation,213,Episodic Memory,0
+MacGyver_annotation,213,Functional Perception,2
+MacGyver_annotation,213,Inhibitory Control,1
+MacGyver_annotation,213,Language,2
+MacGyver_annotation,213,Mental Simulation,2
+MacGyver_annotation,213,Metacognition,2
+MacGyver_annotation,213,Object Permanence,0
+MacGyver_annotation,213,Perception and Pattern Recognition,1
+MacGyver_annotation,213,Planning,1
+MacGyver_annotation,213,Procedural Memory,2
+MacGyver_annotation,213,Prospective Memory,0
+MacGyver_annotation,213,Semantic Memory,2
+MacGyver_annotation,213,Spatial Reasoning and Navigation,2
+MacGyver_annotation,213,Theory of Mind,0
+MacGyver_annotation,213,Working Memory,2
+MacGyver_annotation,213,ambiguity,4
+MacGyver_annotation,213,factuality,3
+MacGyver_annotation,22,Causal Reasoning,2
+MacGyver_annotation,22,Cognitive Flexibility,3
+MacGyver_annotation,22,Emotion Perception and Empathy,0
+MacGyver_annotation,22,Episodic Memory,0
+MacGyver_annotation,22,Functional Perception,4
+MacGyver_annotation,22,Inhibitory Control,0
+MacGyver_annotation,22,Language,2
+MacGyver_annotation,22,Mental Simulation,2
+MacGyver_annotation,22,Metacognition,3
+MacGyver_annotation,22,Object Permanence,0
+MacGyver_annotation,22,Perception and Pattern Recognition,2
+MacGyver_annotation,22,Planning,1
+MacGyver_annotation,22,Procedural Memory,2
+MacGyver_annotation,22,Prospective Memory,0
+MacGyver_annotation,22,Semantic Memory,3
+MacGyver_annotation,22,Spatial Reasoning and Navigation,3
+MacGyver_annotation,22,Theory of Mind,0
+MacGyver_annotation,22,Working Memory,2
+MacGyver_annotation,22,ambiguity,5
+MacGyver_annotation,22,factuality,2
+MacGyver_annotation,24,Causal Reasoning,1
+MacGyver_annotation,24,Cognitive Flexibility,2
+MacGyver_annotation,24,Emotion Perception and Empathy,0
+MacGyver_annotation,24,Episodic Memory,0
+MacGyver_annotation,24,Functional Perception,4
+MacGyver_annotation,24,Inhibitory Control,1
+MacGyver_annotation,24,Language,2
+MacGyver_annotation,24,Mental Simulation,1
+MacGyver_annotation,24,Metacognition,2
+MacGyver_annotation,24,Object Permanence,0
+MacGyver_annotation,24,Perception and Pattern Recognition,2
+MacGyver_annotation,24,Planning,1
+MacGyver_annotation,24,Procedural Memory,2
+MacGyver_annotation,24,Prospective Memory,0
+MacGyver_annotation,24,Semantic Memory,2
+MacGyver_annotation,24,Spatial Reasoning and Navigation,2
+MacGyver_annotation,24,Theory of Mind,0
+MacGyver_annotation,24,Working Memory,2
+MacGyver_annotation,24,ambiguity,5
+MacGyver_annotation,24,factuality,5
+MacGyver_annotation,263,Causal Reasoning,1
+MacGyver_annotation,263,Cognitive Flexibility,1
+MacGyver_annotation,263,Emotion Perception and Empathy,0
+MacGyver_annotation,263,Episodic Memory,0
+MacGyver_annotation,263,Functional Perception,2
+MacGyver_annotation,263,Inhibitory Control,1
+MacGyver_annotation,263,Language,2
+MacGyver_annotation,263,Mental Simulation,1
+MacGyver_annotation,263,Metacognition,2
+MacGyver_annotation,263,Object Permanence,0
+MacGyver_annotation,263,Perception and Pattern Recognition,2
+MacGyver_annotation,263,Planning,1
+MacGyver_annotation,263,Procedural Memory,2
+MacGyver_annotation,263,Prospective Memory,0
+MacGyver_annotation,263,Semantic Memory,2
+MacGyver_annotation,263,Spatial Reasoning and Navigation,1
+MacGyver_annotation,263,Theory of Mind,0
+MacGyver_annotation,263,Working Memory,2
+MacGyver_annotation,263,ambiguity,5
+MacGyver_annotation,263,factuality,5
+MacGyver_annotation,265,Causal Reasoning,1
+MacGyver_annotation,265,Cognitive Flexibility,2
+MacGyver_annotation,265,Emotion Perception and Empathy,0
+MacGyver_annotation,265,Episodic Memory,0
+MacGyver_annotation,265,Functional Perception,2
+MacGyver_annotation,265,Inhibitory Control,1
+MacGyver_annotation,265,Language,2
+MacGyver_annotation,265,Mental Simulation,1
+MacGyver_annotation,265,Metacognition,2
+MacGyver_annotation,265,Object Permanence,1
+MacGyver_annotation,265,Perception and Pattern Recognition,3
+MacGyver_annotation,265,Planning,1
+MacGyver_annotation,265,Procedural Memory,1
+MacGyver_annotation,265,Prospective Memory,0
+MacGyver_annotation,265,Semantic Memory,2
+MacGyver_annotation,265,Spatial Reasoning and Navigation,1
+MacGyver_annotation,265,Theory of Mind,0
+MacGyver_annotation,265,Working Memory,1
+MacGyver_annotation,265,ambiguity,5
+MacGyver_annotation,265,factuality,5
+MacGyver_annotation,266,Causal Reasoning,1
+MacGyver_annotation,266,Cognitive Flexibility,2
+MacGyver_annotation,266,Emotion Perception and Empathy,0
+MacGyver_annotation,266,Episodic Memory,0
+MacGyver_annotation,266,Functional Perception,4
+MacGyver_annotation,266,Inhibitory Control,1
+MacGyver_annotation,266,Language,2
+MacGyver_annotation,266,Mental Simulation,2
+MacGyver_annotation,266,Metacognition,3
+MacGyver_annotation,266,Object Permanence,0
+MacGyver_annotation,266,Perception and Pattern Recognition,2
+MacGyver_annotation,266,Planning,1
+MacGyver_annotation,266,Procedural Memory,2
+MacGyver_annotation,266,Prospective Memory,0
+MacGyver_annotation,266,Semantic Memory,3
+MacGyver_annotation,266,Spatial Reasoning and Navigation,2
+MacGyver_annotation,266,Theory of Mind,0
+MacGyver_annotation,266,Working Memory,3
+MacGyver_annotation,266,ambiguity,4
+MacGyver_annotation,266,factuality,5
+MacGyver_annotation,269,Causal Reasoning,1
+MacGyver_annotation,269,Cognitive Flexibility,2
+MacGyver_annotation,269,Emotion Perception and Empathy,0
+MacGyver_annotation,269,Episodic Memory,0
+MacGyver_annotation,269,Functional Perception,4
+MacGyver_annotation,269,Inhibitory Control,1
+MacGyver_annotation,269,Language,2
+MacGyver_annotation,269,Mental Simulation,2
+MacGyver_annotation,269,Metacognition,3
+MacGyver_annotation,269,Object Permanence,0
+MacGyver_annotation,269,Perception and Pattern Recognition,3
+MacGyver_annotation,269,Planning,1
+MacGyver_annotation,269,Procedural Memory,2
+MacGyver_annotation,269,Prospective Memory,0
+MacGyver_annotation,269,Semantic Memory,2
+MacGyver_annotation,269,Spatial Reasoning and Navigation,2
+MacGyver_annotation,269,Theory of Mind,0
+MacGyver_annotation,269,Working Memory,1
+MacGyver_annotation,269,ambiguity,4
+MacGyver_annotation,269,factuality,1
+MacGyver_annotation,290,Causal Reasoning,2
+MacGyver_annotation,290,Cognitive Flexibility,2
+MacGyver_annotation,290,Emotion Perception and Empathy,0
+MacGyver_annotation,290,Episodic Memory,0
+MacGyver_annotation,290,Functional Perception,3
+MacGyver_annotation,290,Inhibitory Control,1
+MacGyver_annotation,290,Language,2
+MacGyver_annotation,290,Mental Simulation,2
+MacGyver_annotation,290,Metacognition,3
+MacGyver_annotation,290,Object Permanence,0
+MacGyver_annotation,290,Perception and Pattern Recognition,2
+MacGyver_annotation,290,Planning,1
+MacGyver_annotation,290,Procedural Memory,2
+MacGyver_annotation,290,Prospective Memory,0
+MacGyver_annotation,290,Semantic Memory,2
+MacGyver_annotation,290,Spatial Reasoning and Navigation,2
+MacGyver_annotation,290,Theory of Mind,0
+MacGyver_annotation,290,Working Memory,3
+MacGyver_annotation,290,ambiguity,5
+MacGyver_annotation,290,factuality,5
+MacGyver_annotation,293,Causal Reasoning,1
+MacGyver_annotation,293,Cognitive Flexibility,1
+MacGyver_annotation,293,Emotion Perception and Empathy,0
+MacGyver_annotation,293,Episodic Memory,0
+MacGyver_annotation,293,Functional Perception,3
+MacGyver_annotation,293,Inhibitory Control,1
+MacGyver_annotation,293,Language,2
+MacGyver_annotation,293,Mental Simulation,1
+MacGyver_annotation,293,Metacognition,2
+MacGyver_annotation,293,Object Permanence,0
+MacGyver_annotation,293,Perception and Pattern Recognition,2
+MacGyver_annotation,293,Planning,1
+MacGyver_annotation,293,Procedural Memory,1
+MacGyver_annotation,293,Prospective Memory,0
+MacGyver_annotation,293,Semantic Memory,2
+MacGyver_annotation,293,Spatial Reasoning and Navigation,2
+MacGyver_annotation,293,Theory of Mind,0
+MacGyver_annotation,293,Working Memory,2
+MacGyver_annotation,293,ambiguity,5
+MacGyver_annotation,293,factuality,4
+MacGyver_annotation,307,Causal Reasoning,1
+MacGyver_annotation,307,Cognitive Flexibility,3
+MacGyver_annotation,307,Emotion Perception and Empathy,0
+MacGyver_annotation,307,Episodic Memory,0
+MacGyver_annotation,307,Functional Perception,4
+MacGyver_annotation,307,Inhibitory Control,1
+MacGyver_annotation,307,Language,2
+MacGyver_annotation,307,Mental Simulation,2
+MacGyver_annotation,307,Metacognition,2
+MacGyver_annotation,307,Object Permanence,0
+MacGyver_annotation,307,Perception and Pattern Recognition,2
+MacGyver_annotation,307,Planning,1
+MacGyver_annotation,307,Procedural Memory,2
+MacGyver_annotation,307,Prospective Memory,1
+MacGyver_annotation,307,Semantic Memory,3
+MacGyver_annotation,307,Spatial Reasoning and Navigation,0
+MacGyver_annotation,307,Theory of Mind,0
+MacGyver_annotation,307,Working Memory,1
+MacGyver_annotation,307,ambiguity,5
+MacGyver_annotation,307,factuality,5
+MacGyver_annotation,320,Causal Reasoning,2
+MacGyver_annotation,320,Cognitive Flexibility,3
+MacGyver_annotation,320,Emotion Perception and Empathy,0
+MacGyver_annotation,320,Episodic Memory,0
+MacGyver_annotation,320,Functional Perception,4
+MacGyver_annotation,320,Inhibitory Control,0
+MacGyver_annotation,320,Language,2
+MacGyver_annotation,320,Mental Simulation,3
+MacGyver_annotation,320,Metacognition,4
+MacGyver_annotation,320,Object Permanence,0
+MacGyver_annotation,320,Perception and Pattern Recognition,3
+MacGyver_annotation,320,Planning,2
+MacGyver_annotation,320,Procedural Memory,3
+MacGyver_annotation,320,Prospective Memory,0
+MacGyver_annotation,320,Semantic Memory,3
+MacGyver_annotation,320,Spatial Reasoning and Navigation,3
+MacGyver_annotation,320,Theory of Mind,0
+MacGyver_annotation,320,Working Memory,4
+MacGyver_annotation,320,ambiguity,5
+MacGyver_annotation,320,factuality,3
+MacGyver_annotation,335,Causal Reasoning,2
+MacGyver_annotation,335,Cognitive Flexibility,3
+MacGyver_annotation,335,Emotion Perception and Empathy,0
+MacGyver_annotation,335,Episodic Memory,0
+MacGyver_annotation,335,Functional Perception,4
+MacGyver_annotation,335,Inhibitory Control,2
+MacGyver_annotation,335,Language,2
+MacGyver_annotation,335,Mental Simulation,2
+MacGyver_annotation,335,Metacognition,3
+MacGyver_annotation,335,Object Permanence,0
+MacGyver_annotation,335,Perception and Pattern Recognition,2
+MacGyver_annotation,335,Planning,2
+MacGyver_annotation,335,Procedural Memory,2
+MacGyver_annotation,335,Prospective Memory,0
+MacGyver_annotation,335,Semantic Memory,2
+MacGyver_annotation,335,Spatial Reasoning and Navigation,3
+MacGyver_annotation,335,Theory of Mind,1
+MacGyver_annotation,335,Working Memory,4
+MacGyver_annotation,335,ambiguity,5
+MacGyver_annotation,335,factuality,4
+MacGyver_annotation,343,Causal Reasoning,1
+MacGyver_annotation,343,Cognitive Flexibility,2
+MacGyver_annotation,343,Emotion Perception and Empathy,0
+MacGyver_annotation,343,Episodic Memory,0
+MacGyver_annotation,343,Functional Perception,3
+MacGyver_annotation,343,Inhibitory Control,2
+MacGyver_annotation,343,Language,2
+MacGyver_annotation,343,Mental Simulation,2
+MacGyver_annotation,343,Metacognition,2
+MacGyver_annotation,343,Object Permanence,0
+MacGyver_annotation,343,Perception and Pattern Recognition,1
+MacGyver_annotation,343,Planning,1
+MacGyver_annotation,343,Procedural Memory,1
+MacGyver_annotation,343,Prospective Memory,0
+MacGyver_annotation,343,Semantic Memory,2
+MacGyver_annotation,343,Spatial Reasoning and Navigation,1
+MacGyver_annotation,343,Theory of Mind,0
+MacGyver_annotation,343,Working Memory,2
+MacGyver_annotation,343,ambiguity,5
+MacGyver_annotation,343,factuality,3
+MacGyver_annotation,34,Causal Reasoning,2
+MacGyver_annotation,34,Cognitive Flexibility,3
+MacGyver_annotation,34,Emotion Perception and Empathy,0
+MacGyver_annotation,34,Episodic Memory,0
+MacGyver_annotation,34,Functional Perception,3
+MacGyver_annotation,34,Inhibitory Control,1
+MacGyver_annotation,34,Language,2
+MacGyver_annotation,34,Mental Simulation,2
+MacGyver_annotation,34,Metacognition,2
+MacGyver_annotation,34,Object Permanence,0
+MacGyver_annotation,34,Perception and Pattern Recognition,2
+MacGyver_annotation,34,Planning,2
+MacGyver_annotation,34,Procedural Memory,2
+MacGyver_annotation,34,Prospective Memory,0
+MacGyver_annotation,34,Semantic Memory,3
+MacGyver_annotation,34,Spatial Reasoning and Navigation,2
+MacGyver_annotation,34,Theory of Mind,0
+MacGyver_annotation,34,Working Memory,3
+MacGyver_annotation,34,ambiguity,4
+MacGyver_annotation,34,factuality,2
+MacGyver_annotation,354,Causal Reasoning,1
+MacGyver_annotation,354,Cognitive Flexibility,3
+MacGyver_annotation,354,Emotion Perception and Empathy,0
+MacGyver_annotation,354,Episodic Memory,0
+MacGyver_annotation,354,Functional Perception,4
+MacGyver_annotation,354,Inhibitory Control,1
+MacGyver_annotation,354,Language,2
+MacGyver_annotation,354,Mental Simulation,1
+MacGyver_annotation,354,Metacognition,1
+MacGyver_annotation,354,Object Permanence,0
+MacGyver_annotation,354,Perception and Pattern Recognition,2
+MacGyver_annotation,354,Planning,1
+MacGyver_annotation,354,Procedural Memory,1
+MacGyver_annotation,354,Prospective Memory,0
+MacGyver_annotation,354,Semantic Memory,3
+MacGyver_annotation,354,Spatial Reasoning and Navigation,1
+MacGyver_annotation,354,Theory of Mind,0
+MacGyver_annotation,354,Working Memory,2
+MacGyver_annotation,354,ambiguity,5
+MacGyver_annotation,354,factuality,3
+MacGyver_annotation,361,Causal Reasoning,1
+MacGyver_annotation,361,Cognitive Flexibility,2
+MacGyver_annotation,361,Emotion Perception and Empathy,0
+MacGyver_annotation,361,Episodic Memory,0
+MacGyver_annotation,361,Functional Perception,4
+MacGyver_annotation,361,Inhibitory Control,1
+MacGyver_annotation,361,Language,2
+MacGyver_annotation,361,Mental Simulation,2
+MacGyver_annotation,361,Metacognition,3
+MacGyver_annotation,361,Object Permanence,0
+MacGyver_annotation,361,Perception and Pattern Recognition,3
+MacGyver_annotation,361,Planning,2
+MacGyver_annotation,361,Procedural Memory,3
+MacGyver_annotation,361,Prospective Memory,0
+MacGyver_annotation,361,Semantic Memory,2
+MacGyver_annotation,361,Spatial Reasoning and Navigation,2
+MacGyver_annotation,361,Theory of Mind,0
+MacGyver_annotation,361,Working Memory,3
+MacGyver_annotation,361,ambiguity,5
+MacGyver_annotation,361,factuality,2
+MacGyver_annotation,376,Causal Reasoning,0
+MacGyver_annotation,376,Cognitive Flexibility,3
+MacGyver_annotation,376,Emotion Perception and Empathy,0
+MacGyver_annotation,376,Episodic Memory,0
+MacGyver_annotation,376,Functional Perception,4
+MacGyver_annotation,376,Inhibitory Control,0
+MacGyver_annotation,376,Language,2
+MacGyver_annotation,376,Mental Simulation,2
+MacGyver_annotation,376,Metacognition,3
+MacGyver_annotation,376,Object Permanence,0
+MacGyver_annotation,376,Perception and Pattern Recognition,1
+MacGyver_annotation,376,Planning,2
+MacGyver_annotation,376,Procedural Memory,2
+MacGyver_annotation,376,Prospective Memory,0
+MacGyver_annotation,376,Semantic Memory,3
+MacGyver_annotation,376,Spatial Reasoning and Navigation,1
+MacGyver_annotation,376,Theory of Mind,0
+MacGyver_annotation,376,Working Memory,3
+MacGyver_annotation,376,ambiguity,5
+MacGyver_annotation,376,factuality,5
+MacGyver_annotation,378,Causal Reasoning,1
+MacGyver_annotation,378,Cognitive Flexibility,3
+MacGyver_annotation,378,Emotion Perception and Empathy,0
+MacGyver_annotation,378,Episodic Memory,0
+MacGyver_annotation,378,Functional Perception,3
+MacGyver_annotation,378,Inhibitory Control,0
+MacGyver_annotation,378,Language,2
+MacGyver_annotation,378,Mental Simulation,2
+MacGyver_annotation,378,Metacognition,1
+MacGyver_annotation,378,Object Permanence,0
+MacGyver_annotation,378,Perception and Pattern Recognition,2
+MacGyver_annotation,378,Planning,2
+MacGyver_annotation,378,Procedural Memory,2
+MacGyver_annotation,378,Prospective Memory,0
+MacGyver_annotation,378,Semantic Memory,2
+MacGyver_annotation,378,Spatial Reasoning and Navigation,2
+MacGyver_annotation,378,Theory of Mind,0
+MacGyver_annotation,378,Working Memory,2
+MacGyver_annotation,378,ambiguity,5
+MacGyver_annotation,378,factuality,2
+MacGyver_annotation,383,Causal Reasoning,1
+MacGyver_annotation,383,Cognitive Flexibility,1
+MacGyver_annotation,383,Emotion Perception and Empathy,0
+MacGyver_annotation,383,Episodic Memory,0
+MacGyver_annotation,383,Functional Perception,3
+MacGyver_annotation,383,Inhibitory Control,2
+MacGyver_annotation,383,Language,2
+MacGyver_annotation,383,Mental Simulation,1
+MacGyver_annotation,383,Metacognition,2
+MacGyver_annotation,383,Object Permanence,0
+MacGyver_annotation,383,Perception and Pattern Recognition,1
+MacGyver_annotation,383,Planning,1
+MacGyver_annotation,383,Procedural Memory,1
+MacGyver_annotation,383,Prospective Memory,2
+MacGyver_annotation,383,Semantic Memory,2
+MacGyver_annotation,383,Spatial Reasoning and Navigation,1
+MacGyver_annotation,383,Theory of Mind,0
+MacGyver_annotation,383,Working Memory,1
+MacGyver_annotation,383,ambiguity,5
+MacGyver_annotation,383,factuality,5
+MacGyver_annotation,385,Causal Reasoning,2
+MacGyver_annotation,385,Cognitive Flexibility,3
+MacGyver_annotation,385,Emotion Perception and Empathy,0
+MacGyver_annotation,385,Episodic Memory,0
+MacGyver_annotation,385,Functional Perception,4
+MacGyver_annotation,385,Inhibitory Control,1
+MacGyver_annotation,385,Language,2
+MacGyver_annotation,385,Mental Simulation,2
+MacGyver_annotation,385,Metacognition,2
+MacGyver_annotation,385,Object Permanence,0
+MacGyver_annotation,385,Perception and Pattern Recognition,1
+MacGyver_annotation,385,Planning,1
+MacGyver_annotation,385,Procedural Memory,3
+MacGyver_annotation,385,Prospective Memory,0
+MacGyver_annotation,385,Semantic Memory,3
+MacGyver_annotation,385,Spatial Reasoning and Navigation,1
+MacGyver_annotation,385,Theory of Mind,0
+MacGyver_annotation,385,Working Memory,3
+MacGyver_annotation,385,ambiguity,4
+MacGyver_annotation,385,factuality,3
+MacGyver_annotation,399,Causal Reasoning,1
+MacGyver_annotation,399,Cognitive Flexibility,3
+MacGyver_annotation,399,Emotion Perception and Empathy,0
+MacGyver_annotation,399,Episodic Memory,0
+MacGyver_annotation,399,Functional Perception,4
+MacGyver_annotation,399,Inhibitory Control,1
+MacGyver_annotation,399,Language,2
+MacGyver_annotation,399,Mental Simulation,2
+MacGyver_annotation,399,Metacognition,3
+MacGyver_annotation,399,Object Permanence,0
+MacGyver_annotation,399,Perception and Pattern Recognition,2
+MacGyver_annotation,399,Planning,1
+MacGyver_annotation,399,Procedural Memory,2
+MacGyver_annotation,399,Prospective Memory,0
+MacGyver_annotation,399,Semantic Memory,2
+MacGyver_annotation,399,Spatial Reasoning and Navigation,2
+MacGyver_annotation,399,Theory of Mind,0
+MacGyver_annotation,399,Working Memory,3
+MacGyver_annotation,399,ambiguity,5
+MacGyver_annotation,399,factuality,5
+MacGyver_annotation,400,Causal Reasoning,1
+MacGyver_annotation,400,Cognitive Flexibility,3
+MacGyver_annotation,400,Emotion Perception and Empathy,0
+MacGyver_annotation,400,Episodic Memory,0
+MacGyver_annotation,400,Functional Perception,3
+MacGyver_annotation,400,Inhibitory Control,0
+MacGyver_annotation,400,Language,2
+MacGyver_annotation,400,Mental Simulation,2
+MacGyver_annotation,400,Metacognition,2
+MacGyver_annotation,400,Object Permanence,0
+MacGyver_annotation,400,Perception and Pattern Recognition,3
+MacGyver_annotation,400,Planning,1
+MacGyver_annotation,400,Procedural Memory,2
+MacGyver_annotation,400,Prospective Memory,1
+MacGyver_annotation,400,Semantic Memory,2
+MacGyver_annotation,400,Spatial Reasoning and Navigation,2
+MacGyver_annotation,400,Theory of Mind,0
+MacGyver_annotation,400,Working Memory,3
+MacGyver_annotation,400,ambiguity,5
+MacGyver_annotation,400,factuality,5
+MacGyver_annotation,401,Causal Reasoning,2
+MacGyver_annotation,401,Cognitive Flexibility,1
+MacGyver_annotation,401,Emotion Perception and Empathy,0
+MacGyver_annotation,401,Episodic Memory,0
+MacGyver_annotation,401,Functional Perception,3
+MacGyver_annotation,401,Inhibitory Control,1
+MacGyver_annotation,401,Language,2
+MacGyver_annotation,401,Mental Simulation,2
+MacGyver_annotation,401,Metacognition,2
+MacGyver_annotation,401,Object Permanence,0
+MacGyver_annotation,401,Perception and Pattern Recognition,1
+MacGyver_annotation,401,Planning,1
+MacGyver_annotation,401,Procedural Memory,2
+MacGyver_annotation,401,Prospective Memory,0
+MacGyver_annotation,401,Semantic Memory,2
+MacGyver_annotation,401,Spatial Reasoning and Navigation,2
+MacGyver_annotation,401,Theory of Mind,0
+MacGyver_annotation,401,Working Memory,1
+MacGyver_annotation,401,ambiguity,5
+MacGyver_annotation,401,factuality,2
+MacGyver_annotation,402,Causal Reasoning,1
+MacGyver_annotation,402,Cognitive Flexibility,3
+MacGyver_annotation,402,Emotion Perception and Empathy,0
+MacGyver_annotation,402,Episodic Memory,0
+MacGyver_annotation,402,Functional Perception,2
+MacGyver_annotation,402,Inhibitory Control,3
+MacGyver_annotation,402,Language,2
+MacGyver_annotation,402,Mental Simulation,1
+MacGyver_annotation,402,Metacognition,2
+MacGyver_annotation,402,Object Permanence,0
+MacGyver_annotation,402,Perception and Pattern Recognition,1
+MacGyver_annotation,402,Planning,1
+MacGyver_annotation,402,Procedural Memory,2
+MacGyver_annotation,402,Prospective Memory,0
+MacGyver_annotation,402,Semantic Memory,3
+MacGyver_annotation,402,Spatial Reasoning and Navigation,0
+MacGyver_annotation,402,Theory of Mind,0
+MacGyver_annotation,402,Working Memory,2
+MacGyver_annotation,402,ambiguity,5
+MacGyver_annotation,402,factuality,5
+MacGyver_annotation,422,Causal Reasoning,1
+MacGyver_annotation,422,Cognitive Flexibility,1
+MacGyver_annotation,422,Emotion Perception and Empathy,0
+MacGyver_annotation,422,Episodic Memory,0
+MacGyver_annotation,422,Functional Perception,3
+MacGyver_annotation,422,Inhibitory Control,1
+MacGyver_annotation,422,Language,2
+MacGyver_annotation,422,Mental Simulation,1
+MacGyver_annotation,422,Metacognition,2
+MacGyver_annotation,422,Object Permanence,0
+MacGyver_annotation,422,Perception and Pattern Recognition,1
+MacGyver_annotation,422,Planning,1
+MacGyver_annotation,422,Procedural Memory,2
+MacGyver_annotation,422,Prospective Memory,0
+MacGyver_annotation,422,Semantic Memory,2
+MacGyver_annotation,422,Spatial Reasoning and Navigation,2
+MacGyver_annotation,422,Theory of Mind,0
+MacGyver_annotation,422,Working Memory,1
+MacGyver_annotation,422,ambiguity,5
+MacGyver_annotation,422,factuality,5
+MacGyver_annotation,427,Causal Reasoning,1
+MacGyver_annotation,427,Cognitive Flexibility,1
+MacGyver_annotation,427,Emotion Perception and Empathy,0
+MacGyver_annotation,427,Episodic Memory,0
+MacGyver_annotation,427,Functional Perception,3
+MacGyver_annotation,427,Inhibitory Control,1
+MacGyver_annotation,427,Language,2
+MacGyver_annotation,427,Mental Simulation,2
+MacGyver_annotation,427,Metacognition,2
+MacGyver_annotation,427,Object Permanence,0
+MacGyver_annotation,427,Perception and Pattern Recognition,1
+MacGyver_annotation,427,Planning,1
+MacGyver_annotation,427,Procedural Memory,2
+MacGyver_annotation,427,Prospective Memory,0
+MacGyver_annotation,427,Semantic Memory,2
+MacGyver_annotation,427,Spatial Reasoning and Navigation,1
+MacGyver_annotation,427,Theory of Mind,0
+MacGyver_annotation,427,Working Memory,2
+MacGyver_annotation,427,ambiguity,5
+MacGyver_annotation,427,factuality,4
+MacGyver_annotation,428,Causal Reasoning,1
+MacGyver_annotation,428,Cognitive Flexibility,2
+MacGyver_annotation,428,Emotion Perception and Empathy,0
+MacGyver_annotation,428,Episodic Memory,0
+MacGyver_annotation,428,Functional Perception,3
+MacGyver_annotation,428,Inhibitory Control,1
+MacGyver_annotation,428,Language,2
+MacGyver_annotation,428,Mental Simulation,2
+MacGyver_annotation,428,Metacognition,2
+MacGyver_annotation,428,Object Permanence,0
+MacGyver_annotation,428,Perception and Pattern Recognition,3
+MacGyver_annotation,428,Planning,2
+MacGyver_annotation,428,Procedural Memory,2
+MacGyver_annotation,428,Prospective Memory,0
+MacGyver_annotation,428,Semantic Memory,2
+MacGyver_annotation,428,Spatial Reasoning and Navigation,2
+MacGyver_annotation,428,Theory of Mind,0
+MacGyver_annotation,428,Working Memory,2
+MacGyver_annotation,428,ambiguity,5
+MacGyver_annotation,428,factuality,3
+MacGyver_annotation,45,Causal Reasoning,2
+MacGyver_annotation,45,Cognitive Flexibility,3
+MacGyver_annotation,45,Emotion Perception and Empathy,0
+MacGyver_annotation,45,Episodic Memory,0
+MacGyver_annotation,45,Functional Perception,4
+MacGyver_annotation,45,Inhibitory Control,2
+MacGyver_annotation,45,Language,2
+MacGyver_annotation,45,Mental Simulation,2
+MacGyver_annotation,45,Metacognition,4
+MacGyver_annotation,45,Object Permanence,0
+MacGyver_annotation,45,Perception and Pattern Recognition,3
+MacGyver_annotation,45,Planning,2
+MacGyver_annotation,45,Procedural Memory,3
+MacGyver_annotation,45,Prospective Memory,0
+MacGyver_annotation,45,Semantic Memory,3
+MacGyver_annotation,45,Spatial Reasoning and Navigation,2
+MacGyver_annotation,45,Theory of Mind,0
+MacGyver_annotation,45,Working Memory,4
+MacGyver_annotation,45,ambiguity,5
+MacGyver_annotation,45,factuality,4
+MacGyver_annotation,462,Causal Reasoning,2
+MacGyver_annotation,462,Cognitive Flexibility,4
+MacGyver_annotation,462,Emotion Perception and Empathy,0
+MacGyver_annotation,462,Episodic Memory,0
+MacGyver_annotation,462,Functional Perception,3
+MacGyver_annotation,462,Inhibitory Control,1
+MacGyver_annotation,462,Language,2
+MacGyver_annotation,462,Mental Simulation,2
+MacGyver_annotation,462,Metacognition,3
+MacGyver_annotation,462,Object Permanence,0
+MacGyver_annotation,462,Perception and Pattern Recognition,3
+MacGyver_annotation,462,Planning,2
+MacGyver_annotation,462,Procedural Memory,3
+MacGyver_annotation,462,Prospective Memory,2
+MacGyver_annotation,462,Semantic Memory,3
+MacGyver_annotation,462,Spatial Reasoning and Navigation,2
+MacGyver_annotation,462,Theory of Mind,0
+MacGyver_annotation,462,Working Memory,2
+MacGyver_annotation,462,ambiguity,5
+MacGyver_annotation,462,factuality,4
+MacGyver_annotation,474,Causal Reasoning,1
+MacGyver_annotation,474,Cognitive Flexibility,2
+MacGyver_annotation,474,Emotion Perception and Empathy,0
+MacGyver_annotation,474,Episodic Memory,0
+MacGyver_annotation,474,Functional Perception,4
+MacGyver_annotation,474,Inhibitory Control,1
+MacGyver_annotation,474,Language,2
+MacGyver_annotation,474,Mental Simulation,2
+MacGyver_annotation,474,Metacognition,2
+MacGyver_annotation,474,Object Permanence,0
+MacGyver_annotation,474,Perception and Pattern Recognition,2
+MacGyver_annotation,474,Planning,1
+MacGyver_annotation,474,Procedural Memory,2
+MacGyver_annotation,474,Prospective Memory,1
+MacGyver_annotation,474,Semantic Memory,3
+MacGyver_annotation,474,Spatial Reasoning and Navigation,1
+MacGyver_annotation,474,Theory of Mind,0
+MacGyver_annotation,474,Working Memory,3
+MacGyver_annotation,474,ambiguity,5
+MacGyver_annotation,474,factuality,4
+MacGyver_annotation,477,Causal Reasoning,1
+MacGyver_annotation,477,Cognitive Flexibility,3
+MacGyver_annotation,477,Emotion Perception and Empathy,0
+MacGyver_annotation,477,Episodic Memory,0
+MacGyver_annotation,477,Functional Perception,3
+MacGyver_annotation,477,Inhibitory Control,1
+MacGyver_annotation,477,Language,2
+MacGyver_annotation,477,Mental Simulation,2
+MacGyver_annotation,477,Metacognition,3
+MacGyver_annotation,477,Object Permanence,0
+MacGyver_annotation,477,Perception and Pattern Recognition,3
+MacGyver_annotation,477,Planning,1
+MacGyver_annotation,477,Procedural Memory,2
+MacGyver_annotation,477,Prospective Memory,0
+MacGyver_annotation,477,Semantic Memory,2
+MacGyver_annotation,477,Spatial Reasoning and Navigation,2
+MacGyver_annotation,477,Theory of Mind,0
+MacGyver_annotation,477,Working Memory,3
+MacGyver_annotation,477,ambiguity,5
+MacGyver_annotation,477,factuality,3
+MacGyver_annotation,478,Causal Reasoning,1
+MacGyver_annotation,478,Cognitive Flexibility,4
+MacGyver_annotation,478,Emotion Perception and Empathy,0
+MacGyver_annotation,478,Episodic Memory,0
+MacGyver_annotation,478,Functional Perception,4
+MacGyver_annotation,478,Inhibitory Control,1
+MacGyver_annotation,478,Language,2
+MacGyver_annotation,478,Mental Simulation,2
+MacGyver_annotation,478,Metacognition,3
+MacGyver_annotation,478,Object Permanence,0
+MacGyver_annotation,478,Perception and Pattern Recognition,2
+MacGyver_annotation,478,Planning,2
+MacGyver_annotation,478,Procedural Memory,2
+MacGyver_annotation,478,Prospective Memory,0
+MacGyver_annotation,478,Semantic Memory,3
+MacGyver_annotation,478,Spatial Reasoning and Navigation,1
+MacGyver_annotation,478,Theory of Mind,0
+MacGyver_annotation,478,Working Memory,2
+MacGyver_annotation,478,ambiguity,5
+MacGyver_annotation,478,factuality,5
+MacGyver_annotation,482,Causal Reasoning,2
+MacGyver_annotation,482,Cognitive Flexibility,2
+MacGyver_annotation,482,Emotion Perception and Empathy,0
+MacGyver_annotation,482,Episodic Memory,0
+MacGyver_annotation,482,Functional Perception,4
+MacGyver_annotation,482,Inhibitory Control,1
+MacGyver_annotation,482,Language,2
+MacGyver_annotation,482,Mental Simulation,2
+MacGyver_annotation,482,Metacognition,3
+MacGyver_annotation,482,Object Permanence,0
+MacGyver_annotation,482,Perception and Pattern Recognition,2
+MacGyver_annotation,482,Planning,1
+MacGyver_annotation,482,Procedural Memory,2
+MacGyver_annotation,482,Prospective Memory,0
+MacGyver_annotation,482,Semantic Memory,3
+MacGyver_annotation,482,Spatial Reasoning and Navigation,2
+MacGyver_annotation,482,Theory of Mind,0
+MacGyver_annotation,482,Working Memory,4
+MacGyver_annotation,482,ambiguity,5
+MacGyver_annotation,482,factuality,5
+MacGyver_annotation,485,Causal Reasoning,1
+MacGyver_annotation,485,Cognitive Flexibility,2
+MacGyver_annotation,485,Emotion Perception and Empathy,0
+MacGyver_annotation,485,Episodic Memory,0
+MacGyver_annotation,485,Functional Perception,3
+MacGyver_annotation,485,Inhibitory Control,0
+MacGyver_annotation,485,Language,2
+MacGyver_annotation,485,Mental Simulation,1
+MacGyver_annotation,485,Metacognition,2
+MacGyver_annotation,485,Object Permanence,0
+MacGyver_annotation,485,Perception and Pattern Recognition,2
+MacGyver_annotation,485,Planning,1
+MacGyver_annotation,485,Procedural Memory,2
+MacGyver_annotation,485,Prospective Memory,0
+MacGyver_annotation,485,Semantic Memory,2
+MacGyver_annotation,485,Spatial Reasoning and Navigation,1
+MacGyver_annotation,485,Theory of Mind,2
+MacGyver_annotation,485,Working Memory,2
+MacGyver_annotation,485,ambiguity,5
+MacGyver_annotation,485,factuality,4
+MacGyver_annotation,491,Causal Reasoning,1
+MacGyver_annotation,491,Cognitive Flexibility,3
+MacGyver_annotation,491,Emotion Perception and Empathy,0
+MacGyver_annotation,491,Episodic Memory,0
+MacGyver_annotation,491,Functional Perception,3
+MacGyver_annotation,491,Inhibitory Control,1
+MacGyver_annotation,491,Language,2
+MacGyver_annotation,491,Mental Simulation,1
+MacGyver_annotation,491,Metacognition,2
+MacGyver_annotation,491,Object Permanence,0
+MacGyver_annotation,491,Perception and Pattern Recognition,3
+MacGyver_annotation,491,Planning,1
+MacGyver_annotation,491,Procedural Memory,2
+MacGyver_annotation,491,Prospective Memory,0
+MacGyver_annotation,491,Semantic Memory,3
+MacGyver_annotation,491,Spatial Reasoning and Navigation,2
+MacGyver_annotation,491,Theory of Mind,0
+MacGyver_annotation,491,Working Memory,3
+MacGyver_annotation,491,ambiguity,5
+MacGyver_annotation,491,factuality,3
+MacGyver_annotation,513,Causal Reasoning,1
+MacGyver_annotation,513,Cognitive Flexibility,1
+MacGyver_annotation,513,Emotion Perception and Empathy,0
+MacGyver_annotation,513,Episodic Memory,0
+MacGyver_annotation,513,Functional Perception,1
+MacGyver_annotation,513,Inhibitory Control,1
+MacGyver_annotation,513,Language,2
+MacGyver_annotation,513,Mental Simulation,2
+MacGyver_annotation,513,Metacognition,0
+MacGyver_annotation,513,Object Permanence,0
+MacGyver_annotation,513,Perception and Pattern Recognition,1
+MacGyver_annotation,513,Planning,1
+MacGyver_annotation,513,Procedural Memory,2
+MacGyver_annotation,513,Prospective Memory,0
+MacGyver_annotation,513,Semantic Memory,2
+MacGyver_annotation,513,Spatial Reasoning and Navigation,1
+MacGyver_annotation,513,Theory of Mind,0
+MacGyver_annotation,513,Working Memory,3
+MacGyver_annotation,513,ambiguity,5
+MacGyver_annotation,513,factuality,5
+MacGyver_annotation,515,Causal Reasoning,1
+MacGyver_annotation,515,Cognitive Flexibility,1
+MacGyver_annotation,515,Emotion Perception and Empathy,0
+MacGyver_annotation,515,Episodic Memory,0
+MacGyver_annotation,515,Functional Perception,2
+MacGyver_annotation,515,Inhibitory Control,1
+MacGyver_annotation,515,Language,2
+MacGyver_annotation,515,Mental Simulation,2
+MacGyver_annotation,515,Metacognition,2
+MacGyver_annotation,515,Object Permanence,0
+MacGyver_annotation,515,Perception and Pattern Recognition,1
+MacGyver_annotation,515,Planning,1
+MacGyver_annotation,515,Procedural Memory,3
+MacGyver_annotation,515,Prospective Memory,0
+MacGyver_annotation,515,Semantic Memory,2
+MacGyver_annotation,515,Spatial Reasoning and Navigation,1
+MacGyver_annotation,515,Theory of Mind,0
+MacGyver_annotation,515,Working Memory,2
+MacGyver_annotation,515,ambiguity,5
+MacGyver_annotation,515,factuality,5
+MacGyver_annotation,517,Causal Reasoning,1
+MacGyver_annotation,517,Cognitive Flexibility,1
+MacGyver_annotation,517,Emotion Perception and Empathy,0
+MacGyver_annotation,517,Episodic Memory,0
+MacGyver_annotation,517,Functional Perception,3
+MacGyver_annotation,517,Inhibitory Control,0
+MacGyver_annotation,517,Language,2
+MacGyver_annotation,517,Mental Simulation,1
+MacGyver_annotation,517,Metacognition,3
+MacGyver_annotation,517,Object Permanence,1
+MacGyver_annotation,517,Perception and Pattern Recognition,1
+MacGyver_annotation,517,Planning,2
+MacGyver_annotation,517,Procedural Memory,2
+MacGyver_annotation,517,Prospective Memory,0
+MacGyver_annotation,517,Semantic Memory,2
+MacGyver_annotation,517,Spatial Reasoning and Navigation,2
+MacGyver_annotation,517,Theory of Mind,0
+MacGyver_annotation,517,Working Memory,3
+MacGyver_annotation,517,ambiguity,5
+MacGyver_annotation,517,factuality,4
+MacGyver_annotation,522,Causal Reasoning,1
+MacGyver_annotation,522,Cognitive Flexibility,3
+MacGyver_annotation,522,Emotion Perception and Empathy,0
+MacGyver_annotation,522,Episodic Memory,0
+MacGyver_annotation,522,Functional Perception,4
+MacGyver_annotation,522,Inhibitory Control,3
+MacGyver_annotation,522,Language,2
+MacGyver_annotation,522,Mental Simulation,2
+MacGyver_annotation,522,Metacognition,3
+MacGyver_annotation,522,Object Permanence,0
+MacGyver_annotation,522,Perception and Pattern Recognition,3
+MacGyver_annotation,522,Planning,2
+MacGyver_annotation,522,Procedural Memory,2
+MacGyver_annotation,522,Prospective Memory,0
+MacGyver_annotation,522,Semantic Memory,2
+MacGyver_annotation,522,Spatial Reasoning and Navigation,2
+MacGyver_annotation,522,Theory of Mind,0
+MacGyver_annotation,522,Working Memory,3
+MacGyver_annotation,522,ambiguity,5
+MacGyver_annotation,522,factuality,1
+MacGyver_annotation,524,Causal Reasoning,1
+MacGyver_annotation,524,Cognitive Flexibility,2
+MacGyver_annotation,524,Emotion Perception and Empathy,0
+MacGyver_annotation,524,Episodic Memory,0
+MacGyver_annotation,524,Functional Perception,4
+MacGyver_annotation,524,Inhibitory Control,1
+MacGyver_annotation,524,Language,2
+MacGyver_annotation,524,Mental Simulation,2
+MacGyver_annotation,524,Metacognition,2
+MacGyver_annotation,524,Object Permanence,0
+MacGyver_annotation,524,Perception and Pattern Recognition,3
+MacGyver_annotation,524,Planning,1
+MacGyver_annotation,524,Procedural Memory,2
+MacGyver_annotation,524,Prospective Memory,0
+MacGyver_annotation,524,Semantic Memory,2
+MacGyver_annotation,524,Spatial Reasoning and Navigation,2
+MacGyver_annotation,524,Theory of Mind,0
+MacGyver_annotation,524,Working Memory,3
+MacGyver_annotation,524,ambiguity,5
+MacGyver_annotation,524,factuality,4
+MacGyver_annotation,528,Causal Reasoning,2
+MacGyver_annotation,528,Cognitive Flexibility,3
+MacGyver_annotation,528,Emotion Perception and Empathy,0
+MacGyver_annotation,528,Episodic Memory,0
+MacGyver_annotation,528,Functional Perception,3
+MacGyver_annotation,528,Inhibitory Control,1
+MacGyver_annotation,528,Language,2
+MacGyver_annotation,528,Mental Simulation,2
+MacGyver_annotation,528,Metacognition,2
+MacGyver_annotation,528,Object Permanence,0
+MacGyver_annotation,528,Perception and Pattern Recognition,1
+MacGyver_annotation,528,Planning,2
+MacGyver_annotation,528,Procedural Memory,2
+MacGyver_annotation,528,Prospective Memory,0
+MacGyver_annotation,528,Semantic Memory,2
+MacGyver_annotation,528,Spatial Reasoning and Navigation,2
+MacGyver_annotation,528,Theory of Mind,1
+MacGyver_annotation,528,Working Memory,3
+MacGyver_annotation,528,ambiguity,4
+MacGyver_annotation,528,factuality,2
+MacGyver_annotation,554,Causal Reasoning,2
+MacGyver_annotation,554,Cognitive Flexibility,2
+MacGyver_annotation,554,Emotion Perception and Empathy,0
+MacGyver_annotation,554,Episodic Memory,0
+MacGyver_annotation,554,Functional Perception,3
+MacGyver_annotation,554,Inhibitory Control,1
+MacGyver_annotation,554,Language,2
+MacGyver_annotation,554,Mental Simulation,1
+MacGyver_annotation,554,Metacognition,2
+MacGyver_annotation,554,Object Permanence,0
+MacGyver_annotation,554,Perception and Pattern Recognition,2
+MacGyver_annotation,554,Planning,2
+MacGyver_annotation,554,Procedural Memory,2
+MacGyver_annotation,554,Prospective Memory,0
+MacGyver_annotation,554,Semantic Memory,3
+MacGyver_annotation,554,Spatial Reasoning and Navigation,1
+MacGyver_annotation,554,Theory of Mind,0
+MacGyver_annotation,554,Working Memory,3
+MacGyver_annotation,554,ambiguity,5
+MacGyver_annotation,554,factuality,4
+MacGyver_annotation,559,Causal Reasoning,1
+MacGyver_annotation,559,Cognitive Flexibility,0
+MacGyver_annotation,559,Emotion Perception and Empathy,0
+MacGyver_annotation,559,Episodic Memory,0
+MacGyver_annotation,559,Functional Perception,2
+MacGyver_annotation,559,Inhibitory Control,1
+MacGyver_annotation,559,Language,2
+MacGyver_annotation,559,Mental Simulation,1
+MacGyver_annotation,559,Metacognition,2
+MacGyver_annotation,559,Object Permanence,0
+MacGyver_annotation,559,Perception and Pattern Recognition,1
+MacGyver_annotation,559,Planning,1
+MacGyver_annotation,559,Procedural Memory,2
+MacGyver_annotation,559,Prospective Memory,0
+MacGyver_annotation,559,Semantic Memory,2
+MacGyver_annotation,559,Spatial Reasoning and Navigation,2
+MacGyver_annotation,559,Theory of Mind,0
+MacGyver_annotation,559,Working Memory,2
+MacGyver_annotation,559,ambiguity,5
+MacGyver_annotation,559,factuality,5
+MacGyver_annotation,560,Causal Reasoning,1
+MacGyver_annotation,560,Cognitive Flexibility,2
+MacGyver_annotation,560,Emotion Perception and Empathy,0
+MacGyver_annotation,560,Episodic Memory,0
+MacGyver_annotation,560,Functional Perception,3
+MacGyver_annotation,560,Inhibitory Control,1
+MacGyver_annotation,560,Language,2
+MacGyver_annotation,560,Mental Simulation,2
+MacGyver_annotation,560,Metacognition,2
+MacGyver_annotation,560,Object Permanence,0
+MacGyver_annotation,560,Perception and Pattern Recognition,2
+MacGyver_annotation,560,Planning,1
+MacGyver_annotation,560,Procedural Memory,2
+MacGyver_annotation,560,Prospective Memory,0
+MacGyver_annotation,560,Semantic Memory,2
+MacGyver_annotation,560,Spatial Reasoning and Navigation,2
+MacGyver_annotation,560,Theory of Mind,0
+MacGyver_annotation,560,Working Memory,3
+MacGyver_annotation,560,ambiguity,5
+MacGyver_annotation,560,factuality,2
+MacGyver_annotation,573,Causal Reasoning,1
+MacGyver_annotation,573,Cognitive Flexibility,3
+MacGyver_annotation,573,Emotion Perception and Empathy,0
+MacGyver_annotation,573,Episodic Memory,0
+MacGyver_annotation,573,Functional Perception,2
+MacGyver_annotation,573,Inhibitory Control,1
+MacGyver_annotation,573,Language,2
+MacGyver_annotation,573,Mental Simulation,1
+MacGyver_annotation,573,Metacognition,1
+MacGyver_annotation,573,Object Permanence,0
+MacGyver_annotation,573,Perception and Pattern Recognition,2
+MacGyver_annotation,573,Planning,1
+MacGyver_annotation,573,Procedural Memory,2
+MacGyver_annotation,573,Prospective Memory,0
+MacGyver_annotation,573,Semantic Memory,1
+MacGyver_annotation,573,Spatial Reasoning and Navigation,1
+MacGyver_annotation,573,Theory of Mind,0
+MacGyver_annotation,573,Working Memory,1
+MacGyver_annotation,573,ambiguity,4
+MacGyver_annotation,573,factuality,2
+MacGyver_annotation,578,Causal Reasoning,1
+MacGyver_annotation,578,Cognitive Flexibility,0
+MacGyver_annotation,578,Emotion Perception and Empathy,0
+MacGyver_annotation,578,Episodic Memory,0
+MacGyver_annotation,578,Functional Perception,3
+MacGyver_annotation,578,Inhibitory Control,2
+MacGyver_annotation,578,Language,2
+MacGyver_annotation,578,Mental Simulation,2
+MacGyver_annotation,578,Metacognition,3
+MacGyver_annotation,578,Object Permanence,0
+MacGyver_annotation,578,Perception and Pattern Recognition,2
+MacGyver_annotation,578,Planning,1
+MacGyver_annotation,578,Procedural Memory,2
+MacGyver_annotation,578,Prospective Memory,0
+MacGyver_annotation,578,Semantic Memory,1
+MacGyver_annotation,578,Spatial Reasoning and Navigation,2
+MacGyver_annotation,578,Theory of Mind,0
+MacGyver_annotation,578,Working Memory,2
+MacGyver_annotation,578,ambiguity,5
+MacGyver_annotation,578,factuality,4
+MacGyver_annotation,57,Causal Reasoning,2
+MacGyver_annotation,57,Cognitive Flexibility,3
+MacGyver_annotation,57,Emotion Perception and Empathy,0
+MacGyver_annotation,57,Episodic Memory,0
+MacGyver_annotation,57,Functional Perception,4
+MacGyver_annotation,57,Inhibitory Control,3
+MacGyver_annotation,57,Language,2
+MacGyver_annotation,57,Mental Simulation,2
+MacGyver_annotation,57,Metacognition,3
+MacGyver_annotation,57,Object Permanence,0
+MacGyver_annotation,57,Perception and Pattern Recognition,1
+MacGyver_annotation,57,Planning,2
+MacGyver_annotation,57,Procedural Memory,2
+MacGyver_annotation,57,Prospective Memory,0
+MacGyver_annotation,57,Semantic Memory,3
+MacGyver_annotation,57,Spatial Reasoning and Navigation,2
+MacGyver_annotation,57,Theory of Mind,0
+MacGyver_annotation,57,Working Memory,3
+MacGyver_annotation,57,ambiguity,5
+MacGyver_annotation,57,factuality,5
+MacGyver_annotation,588,Causal Reasoning,1
+MacGyver_annotation,588,Cognitive Flexibility,3
+MacGyver_annotation,588,Emotion Perception and Empathy,0
+MacGyver_annotation,588,Episodic Memory,0
+MacGyver_annotation,588,Functional Perception,4
+MacGyver_annotation,588,Inhibitory Control,1
+MacGyver_annotation,588,Language,2
+MacGyver_annotation,588,Mental Simulation,2
+MacGyver_annotation,588,Metacognition,3
+MacGyver_annotation,588,Object Permanence,0
+MacGyver_annotation,588,Perception and Pattern Recognition,3
+MacGyver_annotation,588,Planning,2
+MacGyver_annotation,588,Procedural Memory,3
+MacGyver_annotation,588,Prospective Memory,0
+MacGyver_annotation,588,Semantic Memory,3
+MacGyver_annotation,588,Spatial Reasoning and Navigation,1
+MacGyver_annotation,588,Theory of Mind,0
+MacGyver_annotation,588,Working Memory,3
+MacGyver_annotation,588,ambiguity,5
+MacGyver_annotation,588,factuality,4
+MacGyver_annotation,597,Causal Reasoning,1
+MacGyver_annotation,597,Cognitive Flexibility,2
+MacGyver_annotation,597,Emotion Perception and Empathy,0
+MacGyver_annotation,597,Episodic Memory,0
+MacGyver_annotation,597,Functional Perception,3
+MacGyver_annotation,597,Inhibitory Control,2
+MacGyver_annotation,597,Language,2
+MacGyver_annotation,597,Mental Simulation,2
+MacGyver_annotation,597,Metacognition,2
+MacGyver_annotation,597,Object Permanence,0
+MacGyver_annotation,597,Perception and Pattern Recognition,2
+MacGyver_annotation,597,Planning,1
+MacGyver_annotation,597,Procedural Memory,2
+MacGyver_annotation,597,Prospective Memory,0
+MacGyver_annotation,597,Semantic Memory,2
+MacGyver_annotation,597,Spatial Reasoning and Navigation,1
+MacGyver_annotation,597,Theory of Mind,0
+MacGyver_annotation,597,Working Memory,2
+MacGyver_annotation,597,ambiguity,5
+MacGyver_annotation,597,factuality,5
+MacGyver_annotation,5,Causal Reasoning,1
+MacGyver_annotation,5,Cognitive Flexibility,2
+MacGyver_annotation,5,Emotion Perception and Empathy,0
+MacGyver_annotation,5,Episodic Memory,0
+MacGyver_annotation,5,Functional Perception,4
+MacGyver_annotation,5,Inhibitory Control,1
+MacGyver_annotation,5,Language,2
+MacGyver_annotation,5,Mental Simulation,2
+MacGyver_annotation,5,Metacognition,2
+MacGyver_annotation,5,Object Permanence,1
+MacGyver_annotation,5,Perception and Pattern Recognition,2
+MacGyver_annotation,5,Planning,1
+MacGyver_annotation,5,Procedural Memory,2
+MacGyver_annotation,5,Prospective Memory,0
+MacGyver_annotation,5,Semantic Memory,2
+MacGyver_annotation,5,Spatial Reasoning and Navigation,3
+MacGyver_annotation,5,Theory of Mind,0
+MacGyver_annotation,5,Working Memory,3
+MacGyver_annotation,5,ambiguity,5
+MacGyver_annotation,5,factuality,5
+MacGyver_annotation,60,Causal Reasoning,2
+MacGyver_annotation,60,Cognitive Flexibility,2
+MacGyver_annotation,60,Emotion Perception and Empathy,0
+MacGyver_annotation,60,Episodic Memory,1
+MacGyver_annotation,60,Functional Perception,4
+MacGyver_annotation,60,Inhibitory Control,1
+MacGyver_annotation,60,Language,2
+MacGyver_annotation,60,Mental Simulation,2
+MacGyver_annotation,60,Metacognition,2
+MacGyver_annotation,60,Object Permanence,0
+MacGyver_annotation,60,Perception and Pattern Recognition,2
+MacGyver_annotation,60,Planning,1
+MacGyver_annotation,60,Procedural Memory,2
+MacGyver_annotation,60,Prospective Memory,2
+MacGyver_annotation,60,Semantic Memory,2
+MacGyver_annotation,60,Spatial Reasoning and Navigation,2
+MacGyver_annotation,60,Theory of Mind,0
+MacGyver_annotation,60,Working Memory,2
+MacGyver_annotation,60,ambiguity,5
+MacGyver_annotation,60,factuality,5
+MacGyver_annotation,617,Causal Reasoning,1
+MacGyver_annotation,617,Cognitive Flexibility,2
+MacGyver_annotation,617,Emotion Perception and Empathy,0
+MacGyver_annotation,617,Episodic Memory,0
+MacGyver_annotation,617,Functional Perception,3
+MacGyver_annotation,617,Inhibitory Control,1
+MacGyver_annotation,617,Language,2
+MacGyver_annotation,617,Mental Simulation,2
+MacGyver_annotation,617,Metacognition,2
+MacGyver_annotation,617,Object Permanence,0
+MacGyver_annotation,617,Perception and Pattern Recognition,1
+MacGyver_annotation,617,Planning,1
+MacGyver_annotation,617,Procedural Memory,2
+MacGyver_annotation,617,Prospective Memory,0
+MacGyver_annotation,617,Semantic Memory,1
+MacGyver_annotation,617,Spatial Reasoning and Navigation,2
+MacGyver_annotation,617,Theory of Mind,0
+MacGyver_annotation,617,Working Memory,3
+MacGyver_annotation,617,ambiguity,5
+MacGyver_annotation,617,factuality,5
+MacGyver_annotation,626,Causal Reasoning,2
+MacGyver_annotation,626,Cognitive Flexibility,3
+MacGyver_annotation,626,Emotion Perception and Empathy,0
+MacGyver_annotation,626,Episodic Memory,0
+MacGyver_annotation,626,Functional Perception,4
+MacGyver_annotation,626,Inhibitory Control,1
+MacGyver_annotation,626,Language,2
+MacGyver_annotation,626,Mental Simulation,2
+MacGyver_annotation,626,Metacognition,3
+MacGyver_annotation,626,Object Permanence,1
+MacGyver_annotation,626,Perception and Pattern Recognition,3
+MacGyver_annotation,626,Planning,2
+MacGyver_annotation,626,Procedural Memory,3
+MacGyver_annotation,626,Prospective Memory,0
+MacGyver_annotation,626,Semantic Memory,4
+MacGyver_annotation,626,Spatial Reasoning and Navigation,1
+MacGyver_annotation,626,Theory of Mind,0
+MacGyver_annotation,626,Working Memory,3
+MacGyver_annotation,626,ambiguity,5
+MacGyver_annotation,626,factuality,3
+MacGyver_annotation,628,Causal Reasoning,2
+MacGyver_annotation,628,Cognitive Flexibility,3
+MacGyver_annotation,628,Emotion Perception and Empathy,0
+MacGyver_annotation,628,Episodic Memory,0
+MacGyver_annotation,628,Functional Perception,4
+MacGyver_annotation,628,Inhibitory Control,2
+MacGyver_annotation,628,Language,2
+MacGyver_annotation,628,Mental Simulation,2
+MacGyver_annotation,628,Metacognition,2
+MacGyver_annotation,628,Object Permanence,0
+MacGyver_annotation,628,Perception and Pattern Recognition,3
+MacGyver_annotation,628,Planning,2
+MacGyver_annotation,628,Procedural Memory,2
+MacGyver_annotation,628,Prospective Memory,0
+MacGyver_annotation,628,Semantic Memory,2
+MacGyver_annotation,628,Spatial Reasoning and Navigation,2
+MacGyver_annotation,628,Theory of Mind,0
+MacGyver_annotation,628,Working Memory,3
+MacGyver_annotation,628,ambiguity,4
+MacGyver_annotation,628,factuality,4
+MacGyver_annotation,632,Causal Reasoning,1
+MacGyver_annotation,632,Cognitive Flexibility,2
+MacGyver_annotation,632,Emotion Perception and Empathy,0
+MacGyver_annotation,632,Episodic Memory,0
+MacGyver_annotation,632,Functional Perception,4
+MacGyver_annotation,632,Inhibitory Control,0
+MacGyver_annotation,632,Language,2
+MacGyver_annotation,632,Mental Simulation,1
+MacGyver_annotation,632,Metacognition,2
+MacGyver_annotation,632,Object Permanence,0
+MacGyver_annotation,632,Perception and Pattern Recognition,2
+MacGyver_annotation,632,Planning,1
+MacGyver_annotation,632,Procedural Memory,2
+MacGyver_annotation,632,Prospective Memory,0
+MacGyver_annotation,632,Semantic Memory,2
+MacGyver_annotation,632,Spatial Reasoning and Navigation,2
+MacGyver_annotation,632,Theory of Mind,0
+MacGyver_annotation,632,Working Memory,0
+MacGyver_annotation,632,ambiguity,5
+MacGyver_annotation,632,factuality,5
+MacGyver_annotation,634,Causal Reasoning,1
+MacGyver_annotation,634,Cognitive Flexibility,3
+MacGyver_annotation,634,Emotion Perception and Empathy,0
+MacGyver_annotation,634,Episodic Memory,0
+MacGyver_annotation,634,Functional Perception,3
+MacGyver_annotation,634,Inhibitory Control,1
+MacGyver_annotation,634,Language,2
+MacGyver_annotation,634,Mental Simulation,2
+MacGyver_annotation,634,Metacognition,2
+MacGyver_annotation,634,Object Permanence,0
+MacGyver_annotation,634,Perception and Pattern Recognition,2
+MacGyver_annotation,634,Planning,1
+MacGyver_annotation,634,Procedural Memory,2
+MacGyver_annotation,634,Prospective Memory,0
+MacGyver_annotation,634,Semantic Memory,2
+MacGyver_annotation,634,Spatial Reasoning and Navigation,1
+MacGyver_annotation,634,Theory of Mind,0
+MacGyver_annotation,634,Working Memory,3
+MacGyver_annotation,634,ambiguity,5
+MacGyver_annotation,634,factuality,3
+MacGyver_annotation,645,Causal Reasoning,2
+MacGyver_annotation,645,Cognitive Flexibility,3
+MacGyver_annotation,645,Emotion Perception and Empathy,0
+MacGyver_annotation,645,Episodic Memory,0
+MacGyver_annotation,645,Functional Perception,4
+MacGyver_annotation,645,Inhibitory Control,1
 MacGyver_annotation,645,Language,2
 MacGyver_annotation,645,Mental Simulation,2
 MacGyver_annotation,645,Metacognition,3
-MacGyver_annotation,645,Object permanence,0
+MacGyver_annotation,645,Object Permanence,0
 MacGyver_annotation,645,Perception and Pattern Recognition,2
 MacGyver_annotation,645,Planning,1
-MacGyver_annotation,645,Procedural Memory,2
+MacGyver_annotation,645,Procedural Memory,3
 MacGyver_annotation,645,Prospective Memory,0
-MacGyver_annotation,645,Semantic Memory,2
-MacGyver_annotation,645,Spatial reasoning and navigation,2
+MacGyver_annotation,645,Semantic Memory,3
+MacGyver_annotation,645,Spatial Reasoning and Navigation,3
 MacGyver_annotation,645,Theory of Mind,0
-MacGyver_annotation,645,Working Memory,3
+MacGyver_annotation,645,Working Memory,2
 MacGyver_annotation,645,ambiguity,4
 MacGyver_annotation,645,factuality,4
-MacGyver_annotation,787,Causal Reasoning,2
-MacGyver_annotation,787,Cognitive Flexibility,0
-MacGyver_annotation,787,Emotion Perception & Empathy (EPE),0
-MacGyver_annotation,787,Episodic/Episodic-Like Memory,0
-MacGyver_annotation,787,Executive Function (EF),3
-MacGyver_annotation,787,Functional perception,3
-MacGyver_annotation,787,Inhibitory Control,2
+MacGyver_annotation,648,Causal Reasoning,1
+MacGyver_annotation,648,Cognitive Flexibility,2
+MacGyver_annotation,648,Emotion Perception and Empathy,0
+MacGyver_annotation,648,Episodic Memory,0
+MacGyver_annotation,648,Functional Perception,3
+MacGyver_annotation,648,Inhibitory Control,1
+MacGyver_annotation,648,Language,2
+MacGyver_annotation,648,Mental Simulation,2
+MacGyver_annotation,648,Metacognition,2
+MacGyver_annotation,648,Object Permanence,1
+MacGyver_annotation,648,Perception and Pattern Recognition,1
+MacGyver_annotation,648,Planning,1
+MacGyver_annotation,648,Procedural Memory,2
+MacGyver_annotation,648,Prospective Memory,0
+MacGyver_annotation,648,Semantic Memory,2
+MacGyver_annotation,648,Spatial Reasoning and Navigation,2
+MacGyver_annotation,648,Theory of Mind,0
+MacGyver_annotation,648,Working Memory,2
+MacGyver_annotation,648,ambiguity,5
+MacGyver_annotation,648,factuality,4
+MacGyver_annotation,652,Causal Reasoning,1
+MacGyver_annotation,652,Cognitive Flexibility,3
+MacGyver_annotation,652,Emotion Perception and Empathy,0
+MacGyver_annotation,652,Episodic Memory,0
+MacGyver_annotation,652,Functional Perception,4
+MacGyver_annotation,652,Inhibitory Control,1
+MacGyver_annotation,652,Language,2
+MacGyver_annotation,652,Mental Simulation,2
+MacGyver_annotation,652,Metacognition,4
+MacGyver_annotation,652,Object Permanence,0
+MacGyver_annotation,652,Perception and Pattern Recognition,3
+MacGyver_annotation,652,Planning,1
+MacGyver_annotation,652,Procedural Memory,3
+MacGyver_annotation,652,Prospective Memory,0
+MacGyver_annotation,652,Semantic Memory,2
+MacGyver_annotation,652,Spatial Reasoning and Navigation,3
+MacGyver_annotation,652,Theory of Mind,0
+MacGyver_annotation,652,Working Memory,3
+MacGyver_annotation,652,ambiguity,5
+MacGyver_annotation,652,factuality,2
+MacGyver_annotation,656,Causal Reasoning,2
+MacGyver_annotation,656,Cognitive Flexibility,2
+MacGyver_annotation,656,Emotion Perception and Empathy,0
+MacGyver_annotation,656,Episodic Memory,0
+MacGyver_annotation,656,Functional Perception,3
+MacGyver_annotation,656,Inhibitory Control,1
+MacGyver_annotation,656,Language,2
+MacGyver_annotation,656,Mental Simulation,1
+MacGyver_annotation,656,Metacognition,2
+MacGyver_annotation,656,Object Permanence,0
+MacGyver_annotation,656,Perception and Pattern Recognition,2
+MacGyver_annotation,656,Planning,1
+MacGyver_annotation,656,Procedural Memory,2
+MacGyver_annotation,656,Prospective Memory,0
+MacGyver_annotation,656,Semantic Memory,2
+MacGyver_annotation,656,Spatial Reasoning and Navigation,2
+MacGyver_annotation,656,Theory of Mind,0
+MacGyver_annotation,656,Working Memory,3
+MacGyver_annotation,656,ambiguity,4
+MacGyver_annotation,656,factuality,2
+MacGyver_annotation,662,Causal Reasoning,1
+MacGyver_annotation,662,Cognitive Flexibility,3
+MacGyver_annotation,662,Emotion Perception and Empathy,0
+MacGyver_annotation,662,Episodic Memory,0
+MacGyver_annotation,662,Functional Perception,3
+MacGyver_annotation,662,Inhibitory Control,1
+MacGyver_annotation,662,Language,2
+MacGyver_annotation,662,Mental Simulation,2
+MacGyver_annotation,662,Metacognition,2
+MacGyver_annotation,662,Object Permanence,0
+MacGyver_annotation,662,Perception and Pattern Recognition,2
+MacGyver_annotation,662,Planning,1
+MacGyver_annotation,662,Procedural Memory,2
+MacGyver_annotation,662,Prospective Memory,0
+MacGyver_annotation,662,Semantic Memory,3
+MacGyver_annotation,662,Spatial Reasoning and Navigation,2
+MacGyver_annotation,662,Theory of Mind,0
+MacGyver_annotation,662,Working Memory,2
+MacGyver_annotation,662,ambiguity,5
+MacGyver_annotation,662,factuality,4
+MacGyver_annotation,671,Causal Reasoning,1
+MacGyver_annotation,671,Cognitive Flexibility,2
+MacGyver_annotation,671,Emotion Perception and Empathy,0
+MacGyver_annotation,671,Episodic Memory,0
+MacGyver_annotation,671,Functional Perception,2
+MacGyver_annotation,671,Inhibitory Control,1
+MacGyver_annotation,671,Language,2
+MacGyver_annotation,671,Mental Simulation,1
+MacGyver_annotation,671,Metacognition,2
+MacGyver_annotation,671,Object Permanence,0
+MacGyver_annotation,671,Perception and Pattern Recognition,1
+MacGyver_annotation,671,Planning,1
+MacGyver_annotation,671,Procedural Memory,2
+MacGyver_annotation,671,Prospective Memory,0
+MacGyver_annotation,671,Semantic Memory,2
+MacGyver_annotation,671,Spatial Reasoning and Navigation,2
+MacGyver_annotation,671,Theory of Mind,0
+MacGyver_annotation,671,Working Memory,2
+MacGyver_annotation,671,ambiguity,5
+MacGyver_annotation,671,factuality,5
+MacGyver_annotation,68,Causal Reasoning,2
+MacGyver_annotation,68,Cognitive Flexibility,3
+MacGyver_annotation,68,Emotion Perception and Empathy,0
+MacGyver_annotation,68,Episodic Memory,0
+MacGyver_annotation,68,Functional Perception,4
+MacGyver_annotation,68,Inhibitory Control,1
+MacGyver_annotation,68,Language,2
+MacGyver_annotation,68,Mental Simulation,2
+MacGyver_annotation,68,Metacognition,3
+MacGyver_annotation,68,Object Permanence,0
+MacGyver_annotation,68,Perception and Pattern Recognition,3
+MacGyver_annotation,68,Planning,2
+MacGyver_annotation,68,Procedural Memory,2
+MacGyver_annotation,68,Prospective Memory,0
+MacGyver_annotation,68,Semantic Memory,2
+MacGyver_annotation,68,Spatial Reasoning and Navigation,1
+MacGyver_annotation,68,Theory of Mind,0
+MacGyver_annotation,68,Working Memory,3
+MacGyver_annotation,68,ambiguity,5
+MacGyver_annotation,68,factuality,2
+MacGyver_annotation,690,Causal Reasoning,1
+MacGyver_annotation,690,Cognitive Flexibility,2
+MacGyver_annotation,690,Emotion Perception and Empathy,0
+MacGyver_annotation,690,Episodic Memory,0
+MacGyver_annotation,690,Functional Perception,4
+MacGyver_annotation,690,Inhibitory Control,0
+MacGyver_annotation,690,Language,2
+MacGyver_annotation,690,Mental Simulation,2
+MacGyver_annotation,690,Metacognition,2
+MacGyver_annotation,690,Object Permanence,0
+MacGyver_annotation,690,Perception and Pattern Recognition,3
+MacGyver_annotation,690,Planning,1
+MacGyver_annotation,690,Procedural Memory,2
+MacGyver_annotation,690,Prospective Memory,0
+MacGyver_annotation,690,Semantic Memory,2
+MacGyver_annotation,690,Spatial Reasoning and Navigation,2
+MacGyver_annotation,690,Theory of Mind,0
+MacGyver_annotation,690,Working Memory,3
+MacGyver_annotation,690,ambiguity,5
+MacGyver_annotation,690,factuality,3
+MacGyver_annotation,695,Causal Reasoning,1
+MacGyver_annotation,695,Cognitive Flexibility,3
+MacGyver_annotation,695,Emotion Perception and Empathy,0
+MacGyver_annotation,695,Episodic Memory,0
+MacGyver_annotation,695,Functional Perception,3
+MacGyver_annotation,695,Inhibitory Control,0
+MacGyver_annotation,695,Language,2
+MacGyver_annotation,695,Mental Simulation,2
+MacGyver_annotation,695,Metacognition,2
+MacGyver_annotation,695,Object Permanence,0
+MacGyver_annotation,695,Perception and Pattern Recognition,2
+MacGyver_annotation,695,Planning,2
+MacGyver_annotation,695,Procedural Memory,2
+MacGyver_annotation,695,Prospective Memory,0
+MacGyver_annotation,695,Semantic Memory,2
+MacGyver_annotation,695,Spatial Reasoning and Navigation,2
+MacGyver_annotation,695,Theory of Mind,0
+MacGyver_annotation,695,Working Memory,3
+MacGyver_annotation,695,ambiguity,5
+MacGyver_annotation,695,factuality,5
+MacGyver_annotation,701,Causal Reasoning,1
+MacGyver_annotation,701,Cognitive Flexibility,3
+MacGyver_annotation,701,Emotion Perception and Empathy,0
+MacGyver_annotation,701,Episodic Memory,0
+MacGyver_annotation,701,Functional Perception,3
+MacGyver_annotation,701,Inhibitory Control,0
+MacGyver_annotation,701,Language,2
+MacGyver_annotation,701,Mental Simulation,1
+MacGyver_annotation,701,Metacognition,3
+MacGyver_annotation,701,Object Permanence,0
+MacGyver_annotation,701,Perception and Pattern Recognition,2
+MacGyver_annotation,701,Planning,2
+MacGyver_annotation,701,Procedural Memory,3
+MacGyver_annotation,701,Prospective Memory,0
+MacGyver_annotation,701,Semantic Memory,3
+MacGyver_annotation,701,Spatial Reasoning and Navigation,2
+MacGyver_annotation,701,Theory of Mind,0
+MacGyver_annotation,701,Working Memory,4
+MacGyver_annotation,701,ambiguity,4
+MacGyver_annotation,701,factuality,3
+MacGyver_annotation,710,Causal Reasoning,1
+MacGyver_annotation,710,Cognitive Flexibility,2
+MacGyver_annotation,710,Emotion Perception and Empathy,0
+MacGyver_annotation,710,Episodic Memory,0
+MacGyver_annotation,710,Functional Perception,3
+MacGyver_annotation,710,Inhibitory Control,1
+MacGyver_annotation,710,Language,2
+MacGyver_annotation,710,Mental Simulation,2
+MacGyver_annotation,710,Metacognition,2
+MacGyver_annotation,710,Object Permanence,0
+MacGyver_annotation,710,Perception and Pattern Recognition,2
+MacGyver_annotation,710,Planning,1
+MacGyver_annotation,710,Procedural Memory,2
+MacGyver_annotation,710,Prospective Memory,0
+MacGyver_annotation,710,Semantic Memory,2
+MacGyver_annotation,710,Spatial Reasoning and Navigation,3
+MacGyver_annotation,710,Theory of Mind,0
+MacGyver_annotation,710,Working Memory,3
+MacGyver_annotation,710,ambiguity,5
+MacGyver_annotation,710,factuality,5
+MacGyver_annotation,722,Causal Reasoning,1
+MacGyver_annotation,722,Cognitive Flexibility,3
+MacGyver_annotation,722,Emotion Perception and Empathy,0
+MacGyver_annotation,722,Episodic Memory,0
+MacGyver_annotation,722,Functional Perception,4
+MacGyver_annotation,722,Inhibitory Control,1
+MacGyver_annotation,722,Language,2
+MacGyver_annotation,722,Mental Simulation,2
+MacGyver_annotation,722,Metacognition,2
+MacGyver_annotation,722,Object Permanence,0
+MacGyver_annotation,722,Perception and Pattern Recognition,2
+MacGyver_annotation,722,Planning,2
+MacGyver_annotation,722,Procedural Memory,2
+MacGyver_annotation,722,Prospective Memory,0
+MacGyver_annotation,722,Semantic Memory,2
+MacGyver_annotation,722,Spatial Reasoning and Navigation,2
+MacGyver_annotation,722,Theory of Mind,0
+MacGyver_annotation,722,Working Memory,3
+MacGyver_annotation,722,ambiguity,5
+MacGyver_annotation,722,factuality,3
+MacGyver_annotation,742,Causal Reasoning,1
+MacGyver_annotation,742,Cognitive Flexibility,0
+MacGyver_annotation,742,Emotion Perception and Empathy,0
+MacGyver_annotation,742,Episodic Memory,0
+MacGyver_annotation,742,Functional Perception,4
+MacGyver_annotation,742,Inhibitory Control,2
+MacGyver_annotation,742,Language,2
+MacGyver_annotation,742,Mental Simulation,2
+MacGyver_annotation,742,Metacognition,3
+MacGyver_annotation,742,Object Permanence,0
+MacGyver_annotation,742,Perception and Pattern Recognition,1
+MacGyver_annotation,742,Planning,1
+MacGyver_annotation,742,Procedural Memory,2
+MacGyver_annotation,742,Prospective Memory,2
+MacGyver_annotation,742,Semantic Memory,2
+MacGyver_annotation,742,Spatial Reasoning and Navigation,2
+MacGyver_annotation,742,Theory of Mind,0
+MacGyver_annotation,742,Working Memory,2
+MacGyver_annotation,742,ambiguity,5
+MacGyver_annotation,742,factuality,4
+MacGyver_annotation,749,Causal Reasoning,1
+MacGyver_annotation,749,Cognitive Flexibility,3
+MacGyver_annotation,749,Emotion Perception and Empathy,0
+MacGyver_annotation,749,Episodic Memory,0
+MacGyver_annotation,749,Functional Perception,4
+MacGyver_annotation,749,Inhibitory Control,0
+MacGyver_annotation,749,Language,2
+MacGyver_annotation,749,Mental Simulation,2
+MacGyver_annotation,749,Metacognition,3
+MacGyver_annotation,749,Object Permanence,0
+MacGyver_annotation,749,Perception and Pattern Recognition,2
+MacGyver_annotation,749,Planning,1
+MacGyver_annotation,749,Procedural Memory,2
+MacGyver_annotation,749,Prospective Memory,0
+MacGyver_annotation,749,Semantic Memory,2
+MacGyver_annotation,749,Spatial Reasoning and Navigation,2
+MacGyver_annotation,749,Theory of Mind,0
+MacGyver_annotation,749,Working Memory,3
+MacGyver_annotation,749,ambiguity,5
+MacGyver_annotation,749,factuality,5
+MacGyver_annotation,762,Causal Reasoning,1
+MacGyver_annotation,762,Cognitive Flexibility,3
+MacGyver_annotation,762,Emotion Perception and Empathy,0
+MacGyver_annotation,762,Episodic Memory,0
+MacGyver_annotation,762,Functional Perception,4
+MacGyver_annotation,762,Inhibitory Control,1
+MacGyver_annotation,762,Language,2
+MacGyver_annotation,762,Mental Simulation,2
+MacGyver_annotation,762,Metacognition,2
+MacGyver_annotation,762,Object Permanence,0
+MacGyver_annotation,762,Perception and Pattern Recognition,1
+MacGyver_annotation,762,Planning,2
+MacGyver_annotation,762,Procedural Memory,2
+MacGyver_annotation,762,Prospective Memory,0
+MacGyver_annotation,762,Semantic Memory,2
+MacGyver_annotation,762,Spatial Reasoning and Navigation,2
+MacGyver_annotation,762,Theory of Mind,0
+MacGyver_annotation,762,Working Memory,1
+MacGyver_annotation,762,ambiguity,5
+MacGyver_annotation,762,factuality,2
+MacGyver_annotation,774,Causal Reasoning,1
+MacGyver_annotation,774,Cognitive Flexibility,2
+MacGyver_annotation,774,Emotion Perception and Empathy,0
+MacGyver_annotation,774,Episodic Memory,0
+MacGyver_annotation,774,Functional Perception,4
+MacGyver_annotation,774,Inhibitory Control,2
+MacGyver_annotation,774,Language,2
+MacGyver_annotation,774,Mental Simulation,2
+MacGyver_annotation,774,Metacognition,3
+MacGyver_annotation,774,Object Permanence,1
+MacGyver_annotation,774,Perception and Pattern Recognition,3
+MacGyver_annotation,774,Planning,2
+MacGyver_annotation,774,Procedural Memory,3
+MacGyver_annotation,774,Prospective Memory,1
+MacGyver_annotation,774,Semantic Memory,3
+MacGyver_annotation,774,Spatial Reasoning and Navigation,2
+MacGyver_annotation,774,Theory of Mind,0
+MacGyver_annotation,774,Working Memory,3
+MacGyver_annotation,774,ambiguity,4
+MacGyver_annotation,774,factuality,4
+MacGyver_annotation,787,Causal Reasoning,1
+MacGyver_annotation,787,Cognitive Flexibility,2
+MacGyver_annotation,787,Emotion Perception and Empathy,0
+MacGyver_annotation,787,Episodic Memory,0
+MacGyver_annotation,787,Functional Perception,3
+MacGyver_annotation,787,Inhibitory Control,1
 MacGyver_annotation,787,Language,2
 MacGyver_annotation,787,Mental Simulation,2
-MacGyver_annotation,787,Metacognition,3
-MacGyver_annotation,787,Object permanence,1
+MacGyver_annotation,787,Metacognition,2
+MacGyver_annotation,787,Object Permanence,1
 MacGyver_annotation,787,Perception and Pattern Recognition,2
-MacGyver_annotation,787,Planning,1
+MacGyver_annotation,787,Planning,2
 MacGyver_annotation,787,Procedural Memory,2
 MacGyver_annotation,787,Prospective Memory,0
 MacGyver_annotation,787,Semantic Memory,2
-MacGyver_annotation,787,Spatial reasoning and navigation,2
+MacGyver_annotation,787,Spatial Reasoning and Navigation,3
 MacGyver_annotation,787,Theory of Mind,0
 MacGyver_annotation,787,Working Memory,3
 MacGyver_annotation,787,ambiguity,5
 MacGyver_annotation,787,factuality,2
+MacGyver_annotation,795,Causal Reasoning,1
+MacGyver_annotation,795,Cognitive Flexibility,3
+MacGyver_annotation,795,Emotion Perception and Empathy,0
+MacGyver_annotation,795,Episodic Memory,1
+MacGyver_annotation,795,Functional Perception,3
+MacGyver_annotation,795,Inhibitory Control,2
+MacGyver_annotation,795,Language,2
+MacGyver_annotation,795,Mental Simulation,2
+MacGyver_annotation,795,Metacognition,3
+MacGyver_annotation,795,Object Permanence,1
+MacGyver_annotation,795,Perception and Pattern Recognition,2
+MacGyver_annotation,795,Planning,2
+MacGyver_annotation,795,Procedural Memory,2
+MacGyver_annotation,795,Prospective Memory,2
+MacGyver_annotation,795,Semantic Memory,3
+MacGyver_annotation,795,Spatial Reasoning and Navigation,1
+MacGyver_annotation,795,Theory of Mind,0
+MacGyver_annotation,795,Working Memory,3
+MacGyver_annotation,795,ambiguity,4
+MacGyver_annotation,795,factuality,2
+MacGyver_annotation,805,Causal Reasoning,1
+MacGyver_annotation,805,Cognitive Flexibility,0
+MacGyver_annotation,805,Emotion Perception and Empathy,0
+MacGyver_annotation,805,Episodic Memory,0
+MacGyver_annotation,805,Functional Perception,2
+MacGyver_annotation,805,Inhibitory Control,1
+MacGyver_annotation,805,Language,2
+MacGyver_annotation,805,Mental Simulation,2
+MacGyver_annotation,805,Metacognition,2
+MacGyver_annotation,805,Object Permanence,0
+MacGyver_annotation,805,Perception and Pattern Recognition,1
+MacGyver_annotation,805,Planning,1
+MacGyver_annotation,805,Procedural Memory,2
+MacGyver_annotation,805,Prospective Memory,0
+MacGyver_annotation,805,Semantic Memory,3
+MacGyver_annotation,805,Spatial Reasoning and Navigation,2
+MacGyver_annotation,805,Theory of Mind,0
+MacGyver_annotation,805,Working Memory,3
+MacGyver_annotation,805,ambiguity,3
+MacGyver_annotation,805,factuality,4
+MacGyver_annotation,819,Causal Reasoning,1
+MacGyver_annotation,819,Cognitive Flexibility,2
+MacGyver_annotation,819,Emotion Perception and Empathy,0
+MacGyver_annotation,819,Episodic Memory,0
+MacGyver_annotation,819,Functional Perception,3
+MacGyver_annotation,819,Inhibitory Control,3
+MacGyver_annotation,819,Language,2
+MacGyver_annotation,819,Mental Simulation,2
+MacGyver_annotation,819,Metacognition,2
+MacGyver_annotation,819,Object Permanence,0
+MacGyver_annotation,819,Perception and Pattern Recognition,1
+MacGyver_annotation,819,Planning,2
+MacGyver_annotation,819,Procedural Memory,2
+MacGyver_annotation,819,Prospective Memory,0
+MacGyver_annotation,819,Semantic Memory,2
+MacGyver_annotation,819,Spatial Reasoning and Navigation,2
+MacGyver_annotation,819,Theory of Mind,0
+MacGyver_annotation,819,Working Memory,3
+MacGyver_annotation,819,ambiguity,5
+MacGyver_annotation,819,factuality,5
+MacGyver_annotation,820,Causal Reasoning,1
+MacGyver_annotation,820,Cognitive Flexibility,2
+MacGyver_annotation,820,Emotion Perception and Empathy,0
+MacGyver_annotation,820,Episodic Memory,0
+MacGyver_annotation,820,Functional Perception,3
+MacGyver_annotation,820,Inhibitory Control,1
+MacGyver_annotation,820,Language,2
+MacGyver_annotation,820,Mental Simulation,2
+MacGyver_annotation,820,Metacognition,3
+MacGyver_annotation,820,Object Permanence,0
+MacGyver_annotation,820,Perception and Pattern Recognition,1
+MacGyver_annotation,820,Planning,2
+MacGyver_annotation,820,Procedural Memory,2
+MacGyver_annotation,820,Prospective Memory,2
+MacGyver_annotation,820,Semantic Memory,1
+MacGyver_annotation,820,Spatial Reasoning and Navigation,2
+MacGyver_annotation,820,Theory of Mind,0
+MacGyver_annotation,820,Working Memory,3
+MacGyver_annotation,820,ambiguity,5
+MacGyver_annotation,820,factuality,4
+MacGyver_annotation,825,Causal Reasoning,2
+MacGyver_annotation,825,Cognitive Flexibility,2
+MacGyver_annotation,825,Emotion Perception and Empathy,0
+MacGyver_annotation,825,Episodic Memory,0
+MacGyver_annotation,825,Functional Perception,4
+MacGyver_annotation,825,Inhibitory Control,3
+MacGyver_annotation,825,Language,2
+MacGyver_annotation,825,Mental Simulation,2
+MacGyver_annotation,825,Metacognition,3
+MacGyver_annotation,825,Object Permanence,0
+MacGyver_annotation,825,Perception and Pattern Recognition,2
+MacGyver_annotation,825,Planning,2
+MacGyver_annotation,825,Procedural Memory,2
+MacGyver_annotation,825,Prospective Memory,0
+MacGyver_annotation,825,Semantic Memory,3
+MacGyver_annotation,825,Spatial Reasoning and Navigation,1
+MacGyver_annotation,825,Theory of Mind,0
+MacGyver_annotation,825,Working Memory,2
+MacGyver_annotation,825,ambiguity,5
+MacGyver_annotation,825,factuality,3
+MacGyver_annotation,830,Causal Reasoning,1
+MacGyver_annotation,830,Cognitive Flexibility,2
+MacGyver_annotation,830,Emotion Perception and Empathy,0
+MacGyver_annotation,830,Episodic Memory,0
+MacGyver_annotation,830,Functional Perception,3
+MacGyver_annotation,830,Inhibitory Control,2
+MacGyver_annotation,830,Language,2
+MacGyver_annotation,830,Mental Simulation,2
+MacGyver_annotation,830,Metacognition,3
+MacGyver_annotation,830,Object Permanence,0
+MacGyver_annotation,830,Perception and Pattern Recognition,2
+MacGyver_annotation,830,Planning,1
+MacGyver_annotation,830,Procedural Memory,2
+MacGyver_annotation,830,Prospective Memory,0
+MacGyver_annotation,830,Semantic Memory,2
+MacGyver_annotation,830,Spatial Reasoning and Navigation,2
+MacGyver_annotation,830,Theory of Mind,0
+MacGyver_annotation,830,Working Memory,3
+MacGyver_annotation,830,ambiguity,4
+MacGyver_annotation,830,factuality,3
+MacGyver_annotation,853,Causal Reasoning,1
+MacGyver_annotation,853,Cognitive Flexibility,3
+MacGyver_annotation,853,Emotion Perception and Empathy,0
+MacGyver_annotation,853,Episodic Memory,0
+MacGyver_annotation,853,Functional Perception,4
+MacGyver_annotation,853,Inhibitory Control,1
+MacGyver_annotation,853,Language,2
+MacGyver_annotation,853,Mental Simulation,1
+MacGyver_annotation,853,Metacognition,2
+MacGyver_annotation,853,Object Permanence,0
+MacGyver_annotation,853,Perception and Pattern Recognition,2
+MacGyver_annotation,853,Planning,1
+MacGyver_annotation,853,Procedural Memory,2
+MacGyver_annotation,853,Prospective Memory,0
+MacGyver_annotation,853,Semantic Memory,2
+MacGyver_annotation,853,Spatial Reasoning and Navigation,1
+MacGyver_annotation,853,Theory of Mind,0
+MacGyver_annotation,853,Working Memory,3
+MacGyver_annotation,853,ambiguity,5
+MacGyver_annotation,853,factuality,2
+MacGyver_annotation,86,Causal Reasoning,1
+MacGyver_annotation,86,Cognitive Flexibility,2
+MacGyver_annotation,86,Emotion Perception and Empathy,0
+MacGyver_annotation,86,Episodic Memory,0
+MacGyver_annotation,86,Functional Perception,4
+MacGyver_annotation,86,Inhibitory Control,2
+MacGyver_annotation,86,Language,2
+MacGyver_annotation,86,Mental Simulation,2
+MacGyver_annotation,86,Metacognition,2
+MacGyver_annotation,86,Object Permanence,0
+MacGyver_annotation,86,Perception and Pattern Recognition,2
+MacGyver_annotation,86,Planning,2
+MacGyver_annotation,86,Procedural Memory,2
+MacGyver_annotation,86,Prospective Memory,0
+MacGyver_annotation,86,Semantic Memory,2
+MacGyver_annotation,86,Spatial Reasoning and Navigation,2
+MacGyver_annotation,86,Theory of Mind,0
+MacGyver_annotation,86,Working Memory,3
+MacGyver_annotation,86,ambiguity,5
+MacGyver_annotation,86,factuality,5
+MacGyver_annotation,874,Causal Reasoning,2
+MacGyver_annotation,874,Cognitive Flexibility,3
+MacGyver_annotation,874,Emotion Perception and Empathy,0
+MacGyver_annotation,874,Episodic Memory,0
+MacGyver_annotation,874,Functional Perception,3
+MacGyver_annotation,874,Inhibitory Control,0
+MacGyver_annotation,874,Language,2
+MacGyver_annotation,874,Mental Simulation,2
+MacGyver_annotation,874,Metacognition,2
+MacGyver_annotation,874,Object Permanence,0
+MacGyver_annotation,874,Perception and Pattern Recognition,3
+MacGyver_annotation,874,Planning,1
+MacGyver_annotation,874,Procedural Memory,2
+MacGyver_annotation,874,Prospective Memory,0
+MacGyver_annotation,874,Semantic Memory,2
+MacGyver_annotation,874,Spatial Reasoning and Navigation,2
+MacGyver_annotation,874,Theory of Mind,0
+MacGyver_annotation,874,Working Memory,3
+MacGyver_annotation,874,ambiguity,5
+MacGyver_annotation,874,factuality,2
+MacGyver_annotation,895,Causal Reasoning,1
+MacGyver_annotation,895,Cognitive Flexibility,3
+MacGyver_annotation,895,Emotion Perception and Empathy,0
+MacGyver_annotation,895,Episodic Memory,0
+MacGyver_annotation,895,Functional Perception,4
+MacGyver_annotation,895,Inhibitory Control,2
+MacGyver_annotation,895,Language,2
+MacGyver_annotation,895,Mental Simulation,2
+MacGyver_annotation,895,Metacognition,3
+MacGyver_annotation,895,Object Permanence,0
+MacGyver_annotation,895,Perception and Pattern Recognition,3
+MacGyver_annotation,895,Planning,1
+MacGyver_annotation,895,Procedural Memory,3
+MacGyver_annotation,895,Prospective Memory,0
+MacGyver_annotation,895,Semantic Memory,3
+MacGyver_annotation,895,Spatial Reasoning and Navigation,2
+MacGyver_annotation,895,Theory of Mind,0
+MacGyver_annotation,895,Working Memory,3
+MacGyver_annotation,895,ambiguity,5
+MacGyver_annotation,895,factuality,5
+MacGyver_annotation,903,Causal Reasoning,1
+MacGyver_annotation,903,Cognitive Flexibility,0
+MacGyver_annotation,903,Emotion Perception and Empathy,0
+MacGyver_annotation,903,Episodic Memory,0
+MacGyver_annotation,903,Functional Perception,3
+MacGyver_annotation,903,Inhibitory Control,1
+MacGyver_annotation,903,Language,2
+MacGyver_annotation,903,Mental Simulation,1
+MacGyver_annotation,903,Metacognition,1
+MacGyver_annotation,903,Object Permanence,0
+MacGyver_annotation,903,Perception and Pattern Recognition,1
+MacGyver_annotation,903,Planning,1
+MacGyver_annotation,903,Procedural Memory,1
+MacGyver_annotation,903,Prospective Memory,0
+MacGyver_annotation,903,Semantic Memory,2
+MacGyver_annotation,903,Spatial Reasoning and Navigation,2
+MacGyver_annotation,903,Theory of Mind,0
+MacGyver_annotation,903,Working Memory,2
+MacGyver_annotation,903,ambiguity,5
+MacGyver_annotation,903,factuality,5
+MacGyver_annotation,911,Causal Reasoning,2
+MacGyver_annotation,911,Cognitive Flexibility,3
+MacGyver_annotation,911,Emotion Perception and Empathy,0
+MacGyver_annotation,911,Episodic Memory,0
+MacGyver_annotation,911,Functional Perception,3
+MacGyver_annotation,911,Inhibitory Control,0
+MacGyver_annotation,911,Language,2
+MacGyver_annotation,911,Mental Simulation,2
+MacGyver_annotation,911,Metacognition,3
+MacGyver_annotation,911,Object Permanence,1
+MacGyver_annotation,911,Perception and Pattern Recognition,3
+MacGyver_annotation,911,Planning,2
+MacGyver_annotation,911,Procedural Memory,3
+MacGyver_annotation,911,Prospective Memory,0
+MacGyver_annotation,911,Semantic Memory,3
+MacGyver_annotation,911,Spatial Reasoning and Navigation,3
+MacGyver_annotation,911,Theory of Mind,0
+MacGyver_annotation,911,Working Memory,3
+MacGyver_annotation,911,ambiguity,4
+MacGyver_annotation,911,factuality,3
+MacGyver_annotation,915,Causal Reasoning,0
+MacGyver_annotation,915,Cognitive Flexibility,1
+MacGyver_annotation,915,Emotion Perception and Empathy,0
+MacGyver_annotation,915,Episodic Memory,0
+MacGyver_annotation,915,Functional Perception,1
+MacGyver_annotation,915,Inhibitory Control,1
+MacGyver_annotation,915,Language,2
+MacGyver_annotation,915,Mental Simulation,1
+MacGyver_annotation,915,Metacognition,3
+MacGyver_annotation,915,Object Permanence,0
+MacGyver_annotation,915,Perception and Pattern Recognition,1
+MacGyver_annotation,915,Planning,1
+MacGyver_annotation,915,Procedural Memory,2
+MacGyver_annotation,915,Prospective Memory,0
+MacGyver_annotation,915,Semantic Memory,2
+MacGyver_annotation,915,Spatial Reasoning and Navigation,2
+MacGyver_annotation,915,Theory of Mind,0
+MacGyver_annotation,915,Working Memory,2
+MacGyver_annotation,915,ambiguity,3
+MacGyver_annotation,915,factuality,2
+MacGyver_annotation,917,Causal Reasoning,1
+MacGyver_annotation,917,Cognitive Flexibility,3
+MacGyver_annotation,917,Emotion Perception and Empathy,0
+MacGyver_annotation,917,Episodic Memory,0
+MacGyver_annotation,917,Functional Perception,4
+MacGyver_annotation,917,Inhibitory Control,1
+MacGyver_annotation,917,Language,2
+MacGyver_annotation,917,Mental Simulation,2
+MacGyver_annotation,917,Metacognition,2
+MacGyver_annotation,917,Object Permanence,0
+MacGyver_annotation,917,Perception and Pattern Recognition,1
+MacGyver_annotation,917,Planning,1
+MacGyver_annotation,917,Procedural Memory,2
+MacGyver_annotation,917,Prospective Memory,0
+MacGyver_annotation,917,Semantic Memory,3
+MacGyver_annotation,917,Spatial Reasoning and Navigation,2
+MacGyver_annotation,917,Theory of Mind,0
+MacGyver_annotation,917,Working Memory,2
+MacGyver_annotation,917,ambiguity,4
+MacGyver_annotation,917,factuality,4
+MacGyver_annotation,91,Causal Reasoning,1
+MacGyver_annotation,91,Cognitive Flexibility,2
+MacGyver_annotation,91,Emotion Perception and Empathy,0
+MacGyver_annotation,91,Episodic Memory,0
+MacGyver_annotation,91,Functional Perception,3
+MacGyver_annotation,91,Inhibitory Control,1
+MacGyver_annotation,91,Language,2
+MacGyver_annotation,91,Mental Simulation,1
+MacGyver_annotation,91,Metacognition,2
+MacGyver_annotation,91,Object Permanence,0
+MacGyver_annotation,91,Perception and Pattern Recognition,2
+MacGyver_annotation,91,Planning,1
+MacGyver_annotation,91,Procedural Memory,2
+MacGyver_annotation,91,Prospective Memory,0
+MacGyver_annotation,91,Semantic Memory,2
+MacGyver_annotation,91,Spatial Reasoning and Navigation,2
+MacGyver_annotation,91,Theory of Mind,0
+MacGyver_annotation,91,Working Memory,3
+MacGyver_annotation,91,ambiguity,5
+MacGyver_annotation,91,factuality,5
+MacGyver_annotation,933,Causal Reasoning,1
+MacGyver_annotation,933,Cognitive Flexibility,2
+MacGyver_annotation,933,Emotion Perception and Empathy,0
+MacGyver_annotation,933,Episodic Memory,0
+MacGyver_annotation,933,Functional Perception,3
+MacGyver_annotation,933,Inhibitory Control,1
+MacGyver_annotation,933,Language,2
+MacGyver_annotation,933,Mental Simulation,2
+MacGyver_annotation,933,Metacognition,2
+MacGyver_annotation,933,Object Permanence,0
+MacGyver_annotation,933,Perception and Pattern Recognition,2
+MacGyver_annotation,933,Planning,1
+MacGyver_annotation,933,Procedural Memory,2
+MacGyver_annotation,933,Prospective Memory,1
+MacGyver_annotation,933,Semantic Memory,2
+MacGyver_annotation,933,Spatial Reasoning and Navigation,2
+MacGyver_annotation,933,Theory of Mind,0
+MacGyver_annotation,933,Working Memory,2
+MacGyver_annotation,933,ambiguity,5
+MacGyver_annotation,933,factuality,2
+MacGyver_annotation,943,Causal Reasoning,2
+MacGyver_annotation,943,Cognitive Flexibility,2
+MacGyver_annotation,943,Emotion Perception and Empathy,0
+MacGyver_annotation,943,Episodic Memory,0
+MacGyver_annotation,943,Functional Perception,4
+MacGyver_annotation,943,Inhibitory Control,3
+MacGyver_annotation,943,Language,2
+MacGyver_annotation,943,Mental Simulation,2
+MacGyver_annotation,943,Metacognition,2
+MacGyver_annotation,943,Object Permanence,0
+MacGyver_annotation,943,Perception and Pattern Recognition,2
+MacGyver_annotation,943,Planning,1
+MacGyver_annotation,943,Procedural Memory,2
+MacGyver_annotation,943,Prospective Memory,1
+MacGyver_annotation,943,Semantic Memory,2
+MacGyver_annotation,943,Spatial Reasoning and Navigation,1
+MacGyver_annotation,943,Theory of Mind,0
+MacGyver_annotation,943,Working Memory,2
+MacGyver_annotation,943,ambiguity,5
+MacGyver_annotation,943,factuality,4
+MacGyver_annotation,950,Causal Reasoning,2
+MacGyver_annotation,950,Cognitive Flexibility,1
+MacGyver_annotation,950,Emotion Perception and Empathy,0
+MacGyver_annotation,950,Episodic Memory,0
+MacGyver_annotation,950,Functional Perception,3
+MacGyver_annotation,950,Inhibitory Control,2
+MacGyver_annotation,950,Language,2
+MacGyver_annotation,950,Mental Simulation,2
+MacGyver_annotation,950,Metacognition,3
+MacGyver_annotation,950,Object Permanence,0
+MacGyver_annotation,950,Perception and Pattern Recognition,1
+MacGyver_annotation,950,Planning,1
+MacGyver_annotation,950,Procedural Memory,3
+MacGyver_annotation,950,Prospective Memory,0
+MacGyver_annotation,950,Semantic Memory,3
+MacGyver_annotation,950,Spatial Reasoning and Navigation,3
+MacGyver_annotation,950,Theory of Mind,0
+MacGyver_annotation,950,Working Memory,3
+MacGyver_annotation,950,ambiguity,5
+MacGyver_annotation,950,factuality,5
+MacGyver_annotation,960,Causal Reasoning,2
+MacGyver_annotation,960,Cognitive Flexibility,4
+MacGyver_annotation,960,Emotion Perception and Empathy,1
+MacGyver_annotation,960,Episodic Memory,0
+MacGyver_annotation,960,Functional Perception,4
+MacGyver_annotation,960,Inhibitory Control,1
+MacGyver_annotation,960,Language,2
+MacGyver_annotation,960,Mental Simulation,2
+MacGyver_annotation,960,Metacognition,2
+MacGyver_annotation,960,Object Permanence,0
+MacGyver_annotation,960,Perception and Pattern Recognition,2
+MacGyver_annotation,960,Planning,2
+MacGyver_annotation,960,Procedural Memory,2
+MacGyver_annotation,960,Prospective Memory,0
+MacGyver_annotation,960,Semantic Memory,2
+MacGyver_annotation,960,Spatial Reasoning and Navigation,3
+MacGyver_annotation,960,Theory of Mind,0
+MacGyver_annotation,960,Working Memory,2
+MacGyver_annotation,960,ambiguity,4
+MacGyver_annotation,960,factuality,3
+MacGyver_annotation,964,Causal Reasoning,1
+MacGyver_annotation,964,Cognitive Flexibility,1
+MacGyver_annotation,964,Emotion Perception and Empathy,0
+MacGyver_annotation,964,Episodic Memory,0
+MacGyver_annotation,964,Functional Perception,4
+MacGyver_annotation,964,Inhibitory Control,0
+MacGyver_annotation,964,Language,2
+MacGyver_annotation,964,Mental Simulation,2
+MacGyver_annotation,964,Metacognition,2
+MacGyver_annotation,964,Object Permanence,0
+MacGyver_annotation,964,Perception and Pattern Recognition,2
+MacGyver_annotation,964,Planning,1
+MacGyver_annotation,964,Procedural Memory,1
+MacGyver_annotation,964,Prospective Memory,0
+MacGyver_annotation,964,Semantic Memory,2
+MacGyver_annotation,964,Spatial Reasoning and Navigation,2
+MacGyver_annotation,964,Theory of Mind,0
+MacGyver_annotation,964,Working Memory,3
+MacGyver_annotation,964,ambiguity,5
+MacGyver_annotation,964,factuality,5
+MacGyver_annotation,965,Causal Reasoning,1
+MacGyver_annotation,965,Cognitive Flexibility,2
+MacGyver_annotation,965,Emotion Perception and Empathy,0
+MacGyver_annotation,965,Episodic Memory,0
+MacGyver_annotation,965,Functional Perception,4
+MacGyver_annotation,965,Inhibitory Control,1
+MacGyver_annotation,965,Language,2
+MacGyver_annotation,965,Mental Simulation,2
+MacGyver_annotation,965,Metacognition,3
+MacGyver_annotation,965,Object Permanence,0
+MacGyver_annotation,965,Perception and Pattern Recognition,2
+MacGyver_annotation,965,Planning,1
+MacGyver_annotation,965,Procedural Memory,2
+MacGyver_annotation,965,Prospective Memory,0
+MacGyver_annotation,965,Semantic Memory,2
+MacGyver_annotation,965,Spatial Reasoning and Navigation,2
+MacGyver_annotation,965,Theory of Mind,0
+MacGyver_annotation,965,Working Memory,3
+MacGyver_annotation,965,ambiguity,5
+MacGyver_annotation,965,factuality,4
+MacGyver_annotation,978,Causal Reasoning,1
+MacGyver_annotation,978,Cognitive Flexibility,2
+MacGyver_annotation,978,Emotion Perception and Empathy,0
+MacGyver_annotation,978,Episodic Memory,0
+MacGyver_annotation,978,Functional Perception,4
+MacGyver_annotation,978,Inhibitory Control,2
+MacGyver_annotation,978,Language,2
+MacGyver_annotation,978,Mental Simulation,2
+MacGyver_annotation,978,Metacognition,2
+MacGyver_annotation,978,Object Permanence,0
+MacGyver_annotation,978,Perception and Pattern Recognition,1
+MacGyver_annotation,978,Planning,1
+MacGyver_annotation,978,Procedural Memory,2
+MacGyver_annotation,978,Prospective Memory,0
+MacGyver_annotation,978,Semantic Memory,2
+MacGyver_annotation,978,Spatial Reasoning and Navigation,2
+MacGyver_annotation,978,Theory of Mind,0
+MacGyver_annotation,978,Working Memory,3
+MacGyver_annotation,978,ambiguity,5
+MacGyver_annotation,978,factuality,3
 MacGyver_annotation,981,Causal Reasoning,1
-MacGyver_annotation,981,Cognitive Flexibility,2
-MacGyver_annotation,981,Emotion Perception & Empathy (EPE),0
-MacGyver_annotation,981,Episodic/Episodic-Like Memory,0
-MacGyver_annotation,981,Executive Function (EF),2
-MacGyver_annotation,981,Functional perception,3
+MacGyver_annotation,981,Cognitive Flexibility,0
+MacGyver_annotation,981,Emotion Perception and Empathy,0
+MacGyver_annotation,981,Episodic Memory,0
+MacGyver_annotation,981,Functional Perception,2
 MacGyver_annotation,981,Inhibitory Control,1
 MacGyver_annotation,981,Language,2
-MacGyver_annotation,981,Mental Simulation,2
-MacGyver_annotation,981,Metacognition,2
-MacGyver_annotation,981,Object permanence,0
-MacGyver_annotation,981,Perception and Pattern Recognition,1
+MacGyver_annotation,981,Mental Simulation,1
+MacGyver_annotation,981,Metacognition,3
+MacGyver_annotation,981,Object Permanence,0
+MacGyver_annotation,981,Perception and Pattern Recognition,2
 MacGyver_annotation,981,Planning,1
 MacGyver_annotation,981,Procedural Memory,2
 MacGyver_annotation,981,Prospective Memory,0
 MacGyver_annotation,981,Semantic Memory,2
-MacGyver_annotation,981,Spatial reasoning and navigation,1
+MacGyver_annotation,981,Spatial Reasoning and Navigation,2
 MacGyver_annotation,981,Theory of Mind,0
 MacGyver_annotation,981,Working Memory,2
 MacGyver_annotation,981,ambiguity,5
 MacGyver_annotation,981,factuality,5
+MacGyver_annotation,984,Causal Reasoning,0
+MacGyver_annotation,984,Cognitive Flexibility,1
+MacGyver_annotation,984,Emotion Perception and Empathy,0
+MacGyver_annotation,984,Episodic Memory,0
+MacGyver_annotation,984,Functional Perception,1
+MacGyver_annotation,984,Inhibitory Control,2
+MacGyver_annotation,984,Language,2
+MacGyver_annotation,984,Mental Simulation,2
+MacGyver_annotation,984,Metacognition,2
+MacGyver_annotation,984,Object Permanence,0
+MacGyver_annotation,984,Perception and Pattern Recognition,2
+MacGyver_annotation,984,Planning,2
+MacGyver_annotation,984,Procedural Memory,2
+MacGyver_annotation,984,Prospective Memory,0
+MacGyver_annotation,984,Semantic Memory,2
+MacGyver_annotation,984,Spatial Reasoning and Navigation,2
+MacGyver_annotation,984,Theory of Mind,0
+MacGyver_annotation,984,Working Memory,2
+MacGyver_annotation,984,ambiguity,5
+MacGyver_annotation,984,factuality,3
+MacGyver_annotation,988,Causal Reasoning,1
+MacGyver_annotation,988,Cognitive Flexibility,0
+MacGyver_annotation,988,Emotion Perception and Empathy,0
+MacGyver_annotation,988,Episodic Memory,0
+MacGyver_annotation,988,Functional Perception,2
+MacGyver_annotation,988,Inhibitory Control,1
+MacGyver_annotation,988,Language,1
+MacGyver_annotation,988,Mental Simulation,1
+MacGyver_annotation,988,Metacognition,1
+MacGyver_annotation,988,Object Permanence,0
+MacGyver_annotation,988,Perception and Pattern Recognition,1
+MacGyver_annotation,988,Planning,0
+MacGyver_annotation,988,Procedural Memory,0
+MacGyver_annotation,988,Prospective Memory,0
+MacGyver_annotation,988,Semantic Memory,1
+MacGyver_annotation,988,Spatial Reasoning and Navigation,0
+MacGyver_annotation,988,Theory of Mind,0
+MacGyver_annotation,988,Working Memory,2
+MacGyver_annotation,988,ambiguity,5
+MacGyver_annotation,988,factuality,5
 MacGyver_annotation,98,Causal Reasoning,1
-MacGyver_annotation,98,Cognitive Flexibility,1
-MacGyver_annotation,98,Emotion Perception & Empathy (EPE),0
-MacGyver_annotation,98,Episodic/Episodic-Like Memory,0
-MacGyver_annotation,98,Executive Function (EF),3
-MacGyver_annotation,98,Functional perception,3
+MacGyver_annotation,98,Cognitive Flexibility,2
+MacGyver_annotation,98,Emotion Perception and Empathy,0
+MacGyver_annotation,98,Episodic Memory,0
+MacGyver_annotation,98,Functional Perception,3
 MacGyver_annotation,98,Inhibitory Control,1
 MacGyver_annotation,98,Language,2
-MacGyver_annotation,98,Mental Simulation,1
-MacGyver_annotation,98,Metacognition,3
-MacGyver_annotation,98,Object permanence,0
-MacGyver_annotation,98,Perception and Pattern Recognition,1
+MacGyver_annotation,98,Mental Simulation,2
+MacGyver_annotation,98,Metacognition,2
+MacGyver_annotation,98,Object Permanence,0
+MacGyver_annotation,98,Perception and Pattern Recognition,3
 MacGyver_annotation,98,Planning,1
 MacGyver_annotation,98,Procedural Memory,2
 MacGyver_annotation,98,Prospective Memory,0
 MacGyver_annotation,98,Semantic Memory,2
-MacGyver_annotation,98,Spatial reasoning and navigation,2
+MacGyver_annotation,98,Spatial Reasoning and Navigation,2
 MacGyver_annotation,98,Theory of Mind,0
-MacGyver_annotation,98,Working Memory,2
-MacGyver_annotation,98,ambiguity,4
+MacGyver_annotation,98,Working Memory,3
+MacGyver_annotation,98,ambiguity,5
 MacGyver_annotation,98,factuality,4
+MacGyver_annotation,997,Causal Reasoning,1
+MacGyver_annotation,997,Cognitive Flexibility,3
+MacGyver_annotation,997,Emotion Perception and Empathy,0
+MacGyver_annotation,997,Episodic Memory,0
+MacGyver_annotation,997,Functional Perception,4
+MacGyver_annotation,997,Inhibitory Control,0
+MacGyver_annotation,997,Language,2
+MacGyver_annotation,997,Mental Simulation,2
+MacGyver_annotation,997,Metacognition,2
+MacGyver_annotation,997,Object Permanence,0
+MacGyver_annotation,997,Perception and Pattern Recognition,2
+MacGyver_annotation,997,Planning,2
+MacGyver_annotation,997,Procedural Memory,2
+MacGyver_annotation,997,Prospective Memory,0
+MacGyver_annotation,997,Semantic Memory,2
+MacGyver_annotation,997,Spatial Reasoning and Navigation,2
+MacGyver_annotation,997,Theory of Mind,0
+MacGyver_annotation,997,Working Memory,3
+MacGyver_annotation,997,ambiguity,5
+MacGyver_annotation,997,factuality,4
+MacGyver_annotation,99,Causal Reasoning,1
+MacGyver_annotation,99,Cognitive Flexibility,1
+MacGyver_annotation,99,Emotion Perception and Empathy,0
+MacGyver_annotation,99,Episodic Memory,0
+MacGyver_annotation,99,Functional Perception,3
+MacGyver_annotation,99,Inhibitory Control,0
+MacGyver_annotation,99,Language,2
+MacGyver_annotation,99,Mental Simulation,1
+MacGyver_annotation,99,Metacognition,2
+MacGyver_annotation,99,Object Permanence,0
+MacGyver_annotation,99,Perception and Pattern Recognition,2
+MacGyver_annotation,99,Planning,1
+MacGyver_annotation,99,Procedural Memory,2
+MacGyver_annotation,99,Prospective Memory,0
+MacGyver_annotation,99,Semantic Memory,2
+MacGyver_annotation,99,Spatial Reasoning and Navigation,2
+MacGyver_annotation,99,Theory of Mind,0
+MacGyver_annotation,99,Working Memory,3
+MacGyver_annotation,99,ambiguity,5
+MacGyver_annotation,99,factuality,5
 MacGyver_annotation,9,Causal Reasoning,1
-MacGyver_annotation,9,Cognitive Flexibility,3
-MacGyver_annotation,9,Emotion Perception & Empathy (EPE),0
-MacGyver_annotation,9,Episodic/Episodic-Like Memory,0
-MacGyver_annotation,9,Executive Function (EF),2
-MacGyver_annotation,9,Functional perception,5
+MacGyver_annotation,9,Cognitive Flexibility,4
+MacGyver_annotation,9,Emotion Perception and Empathy,0
+MacGyver_annotation,9,Episodic Memory,0
+MacGyver_annotation,9,Functional Perception,2
 MacGyver_annotation,9,Inhibitory Control,2
 MacGyver_annotation,9,Language,2
 MacGyver_annotation,9,Mental Simulation,2
 MacGyver_annotation,9,Metacognition,3
-MacGyver_annotation,9,Object permanence,0
-MacGyver_annotation,9,Perception and Pattern Recognition,1
+MacGyver_annotation,9,Object Permanence,0
+MacGyver_annotation,9,Perception and Pattern Recognition,3
 MacGyver_annotation,9,Planning,1
 MacGyver_annotation,9,Procedural Memory,1
 MacGyver_annotation,9,Prospective Memory,0
-MacGyver_annotation,9,Semantic Memory,3
-MacGyver_annotation,9,Spatial reasoning and navigation,2
+MacGyver_annotation,9,Semantic Memory,2
+MacGyver_annotation,9,Spatial Reasoning and Navigation,2
 MacGyver_annotation,9,Theory of Mind,0
 MacGyver_annotation,9,Working Memory,3
 MacGyver_annotation,9,ambiguity,5
-MacGyver_annotation,9,factuality,5
+MacGyver_annotation,9,factuality,3
