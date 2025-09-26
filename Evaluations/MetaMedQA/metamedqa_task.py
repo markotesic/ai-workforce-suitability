@@ -110,7 +110,7 @@ def annotate(num_samples: int = DEFAULT_NUM_SAMPLES):
         sample_fields=record_to_sample,
     )
     dataset = convert_input_to_string(dataset)
-    output_path = os.path.join(Path(__file__).parent, "socialnorm_annotations.csv")
+    output_path = os.path.join(Path(__file__).parent, "metamedqa_annotations.csv")
     dataset.shuffle(42)
     dataset = dataset[:num_samples]
 

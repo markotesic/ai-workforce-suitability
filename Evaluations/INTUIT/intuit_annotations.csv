@@ -1,211 +1,4001 @@
 dataset name,sample id,dimension,score
+intuit_annotation,1017,Causal Reasoning,1
+intuit_annotation,1017,Cognitive Flexibility,0
+intuit_annotation,1017,Emotion Perception and Empathy,0
+intuit_annotation,1017,Episodic Memory,0
+intuit_annotation,1017,Functional Perception,1
+intuit_annotation,1017,Inhibitory Control,1
+intuit_annotation,1017,Language,1
+intuit_annotation,1017,Mental Simulation,0
+intuit_annotation,1017,Metacognition,1
+intuit_annotation,1017,Object Permanence,0
+intuit_annotation,1017,Perception and Pattern Recognition,1
+intuit_annotation,1017,Planning,0
+intuit_annotation,1017,Procedural Memory,0
+intuit_annotation,1017,Prospective Memory,0
+intuit_annotation,1017,Semantic Memory,1
+intuit_annotation,1017,Spatial Reasoning and Navigation,0
+intuit_annotation,1017,Theory of Mind,1
+intuit_annotation,1017,Working Memory,2
+intuit_annotation,1017,ambiguity,5
+intuit_annotation,1017,factuality,5
+intuit_annotation,1062,Causal Reasoning,1
+intuit_annotation,1062,Cognitive Flexibility,0
+intuit_annotation,1062,Emotion Perception and Empathy,2
+intuit_annotation,1062,Episodic Memory,0
+intuit_annotation,1062,Functional Perception,1
+intuit_annotation,1062,Inhibitory Control,1
+intuit_annotation,1062,Language,2
+intuit_annotation,1062,Mental Simulation,0
+intuit_annotation,1062,Metacognition,1
+intuit_annotation,1062,Object Permanence,0
+intuit_annotation,1062,Perception and Pattern Recognition,1
+intuit_annotation,1062,Planning,0
+intuit_annotation,1062,Procedural Memory,0
+intuit_annotation,1062,Prospective Memory,0
+intuit_annotation,1062,Semantic Memory,3
+intuit_annotation,1062,Spatial Reasoning and Navigation,0
+intuit_annotation,1062,Theory of Mind,1
+intuit_annotation,1062,Working Memory,1
+intuit_annotation,1062,ambiguity,3
+intuit_annotation,1062,factuality,5
+intuit_annotation,1090,Causal Reasoning,1
+intuit_annotation,1090,Cognitive Flexibility,2
+intuit_annotation,1090,Emotion Perception and Empathy,2
+intuit_annotation,1090,Episodic Memory,1
+intuit_annotation,1090,Functional Perception,1
+intuit_annotation,1090,Inhibitory Control,1
+intuit_annotation,1090,Language,2
+intuit_annotation,1090,Mental Simulation,1
+intuit_annotation,1090,Metacognition,2
+intuit_annotation,1090,Object Permanence,0
+intuit_annotation,1090,Perception and Pattern Recognition,3
+intuit_annotation,1090,Planning,0
+intuit_annotation,1090,Procedural Memory,0
+intuit_annotation,1090,Prospective Memory,0
+intuit_annotation,1090,Semantic Memory,3
+intuit_annotation,1090,Spatial Reasoning and Navigation,0
+intuit_annotation,1090,Theory of Mind,2
+intuit_annotation,1090,Working Memory,1
+intuit_annotation,1090,ambiguity,4
+intuit_annotation,1090,factuality,5
+intuit_annotation,1091,Causal Reasoning,0
+intuit_annotation,1091,Cognitive Flexibility,0
+intuit_annotation,1091,Emotion Perception and Empathy,1
+intuit_annotation,1091,Episodic Memory,1
+intuit_annotation,1091,Functional Perception,1
+intuit_annotation,1091,Inhibitory Control,1
+intuit_annotation,1091,Language,1
+intuit_annotation,1091,Mental Simulation,0
+intuit_annotation,1091,Metacognition,1
+intuit_annotation,1091,Object Permanence,0
+intuit_annotation,1091,Perception and Pattern Recognition,1
+intuit_annotation,1091,Planning,0
+intuit_annotation,1091,Procedural Memory,0
+intuit_annotation,1091,Prospective Memory,0
+intuit_annotation,1091,Semantic Memory,2
+intuit_annotation,1091,Spatial Reasoning and Navigation,0
+intuit_annotation,1091,Theory of Mind,1
+intuit_annotation,1091,Working Memory,2
+intuit_annotation,1091,ambiguity,5
+intuit_annotation,1091,factuality,5
+intuit_annotation,1098,Causal Reasoning,1
+intuit_annotation,1098,Cognitive Flexibility,1
+intuit_annotation,1098,Emotion Perception and Empathy,1
+intuit_annotation,1098,Episodic Memory,0
+intuit_annotation,1098,Functional Perception,1
+intuit_annotation,1098,Inhibitory Control,1
+intuit_annotation,1098,Language,2
+intuit_annotation,1098,Mental Simulation,0
+intuit_annotation,1098,Metacognition,2
+intuit_annotation,1098,Object Permanence,0
+intuit_annotation,1098,Perception and Pattern Recognition,2
+intuit_annotation,1098,Planning,0
+intuit_annotation,1098,Procedural Memory,0
+intuit_annotation,1098,Prospective Memory,0
+intuit_annotation,1098,Semantic Memory,2
+intuit_annotation,1098,Spatial Reasoning and Navigation,0
+intuit_annotation,1098,Theory of Mind,2
+intuit_annotation,1098,Working Memory,2
+intuit_annotation,1098,ambiguity,3
+intuit_annotation,1098,factuality,5
+intuit_annotation,1107,Causal Reasoning,1
+intuit_annotation,1107,Cognitive Flexibility,1
+intuit_annotation,1107,Emotion Perception and Empathy,2
+intuit_annotation,1107,Episodic Memory,2
+intuit_annotation,1107,Functional Perception,1
+intuit_annotation,1107,Inhibitory Control,0
+intuit_annotation,1107,Language,3
+intuit_annotation,1107,Mental Simulation,1
+intuit_annotation,1107,Metacognition,2
+intuit_annotation,1107,Object Permanence,0
+intuit_annotation,1107,Perception and Pattern Recognition,3
+intuit_annotation,1107,Planning,0
+intuit_annotation,1107,Procedural Memory,0
+intuit_annotation,1107,Prospective Memory,0
+intuit_annotation,1107,Semantic Memory,3
+intuit_annotation,1107,Spatial Reasoning and Navigation,0
+intuit_annotation,1107,Theory of Mind,2
+intuit_annotation,1107,Working Memory,2
+intuit_annotation,1107,ambiguity,4
+intuit_annotation,1107,factuality,5
+intuit_annotation,1128,Causal Reasoning,0
+intuit_annotation,1128,Cognitive Flexibility,0
+intuit_annotation,1128,Emotion Perception and Empathy,0
+intuit_annotation,1128,Episodic Memory,0
+intuit_annotation,1128,Functional Perception,0
+intuit_annotation,1128,Inhibitory Control,1
+intuit_annotation,1128,Language,1
+intuit_annotation,1128,Mental Simulation,0
+intuit_annotation,1128,Metacognition,1
+intuit_annotation,1128,Object Permanence,0
+intuit_annotation,1128,Perception and Pattern Recognition,0
+intuit_annotation,1128,Planning,0
+intuit_annotation,1128,Procedural Memory,0
+intuit_annotation,1128,Prospective Memory,0
+intuit_annotation,1128,Semantic Memory,1
+intuit_annotation,1128,Spatial Reasoning and Navigation,0
+intuit_annotation,1128,Theory of Mind,0
+intuit_annotation,1128,Working Memory,1
+intuit_annotation,1128,ambiguity,1
+intuit_annotation,1128,factuality,5
+intuit_annotation,1132,Causal Reasoning,0
+intuit_annotation,1132,Cognitive Flexibility,0
+intuit_annotation,1132,Emotion Perception and Empathy,0
+intuit_annotation,1132,Episodic Memory,0
+intuit_annotation,1132,Functional Perception,0
+intuit_annotation,1132,Inhibitory Control,1
+intuit_annotation,1132,Language,1
+intuit_annotation,1132,Mental Simulation,0
+intuit_annotation,1132,Metacognition,2
+intuit_annotation,1132,Object Permanence,0
+intuit_annotation,1132,Perception and Pattern Recognition,0
+intuit_annotation,1132,Planning,0
+intuit_annotation,1132,Procedural Memory,0
+intuit_annotation,1132,Prospective Memory,0
+intuit_annotation,1132,Semantic Memory,0
+intuit_annotation,1132,Spatial Reasoning and Navigation,0
+intuit_annotation,1132,Theory of Mind,0
+intuit_annotation,1132,Working Memory,0
+intuit_annotation,1132,ambiguity,1
+intuit_annotation,1132,factuality,5
+intuit_annotation,113,Causal Reasoning,0
+intuit_annotation,113,Cognitive Flexibility,0
+intuit_annotation,113,Emotion Perception and Empathy,0
+intuit_annotation,113,Episodic Memory,0
+intuit_annotation,113,Functional Perception,1
+intuit_annotation,113,Inhibitory Control,1
+intuit_annotation,113,Language,1
+intuit_annotation,113,Mental Simulation,0
+intuit_annotation,113,Metacognition,1
+intuit_annotation,113,Object Permanence,0
+intuit_annotation,113,Perception and Pattern Recognition,0
+intuit_annotation,113,Planning,0
+intuit_annotation,113,Procedural Memory,0
+intuit_annotation,113,Prospective Memory,0
+intuit_annotation,113,Semantic Memory,1
+intuit_annotation,113,Spatial Reasoning and Navigation,0
+intuit_annotation,113,Theory of Mind,0
+intuit_annotation,113,Working Memory,0
+intuit_annotation,113,ambiguity,5
+intuit_annotation,113,factuality,1
+intuit_annotation,1181,Causal Reasoning,0
+intuit_annotation,1181,Cognitive Flexibility,0
+intuit_annotation,1181,Emotion Perception and Empathy,0
+intuit_annotation,1181,Episodic Memory,0
+intuit_annotation,1181,Functional Perception,0
+intuit_annotation,1181,Inhibitory Control,1
+intuit_annotation,1181,Language,1
+intuit_annotation,1181,Mental Simulation,0
+intuit_annotation,1181,Metacognition,2
+intuit_annotation,1181,Object Permanence,0
+intuit_annotation,1181,Perception and Pattern Recognition,0
+intuit_annotation,1181,Planning,0
+intuit_annotation,1181,Procedural Memory,0
+intuit_annotation,1181,Prospective Memory,0
+intuit_annotation,1181,Semantic Memory,1
+intuit_annotation,1181,Spatial Reasoning and Navigation,0
+intuit_annotation,1181,Theory of Mind,0
+intuit_annotation,1181,Working Memory,1
+intuit_annotation,1181,ambiguity,5
+intuit_annotation,1181,factuality,5
+intuit_annotation,1190,Causal Reasoning,0
+intuit_annotation,1190,Cognitive Flexibility,0
+intuit_annotation,1190,Emotion Perception and Empathy,0
+intuit_annotation,1190,Episodic Memory,0
+intuit_annotation,1190,Functional Perception,0
+intuit_annotation,1190,Inhibitory Control,2
+intuit_annotation,1190,Language,1
+intuit_annotation,1190,Mental Simulation,0
+intuit_annotation,1190,Metacognition,2
+intuit_annotation,1190,Object Permanence,0
+intuit_annotation,1190,Perception and Pattern Recognition,1
+intuit_annotation,1190,Planning,0
+intuit_annotation,1190,Procedural Memory,0
+intuit_annotation,1190,Prospective Memory,0
+intuit_annotation,1190,Semantic Memory,0
+intuit_annotation,1190,Spatial Reasoning and Navigation,0
+intuit_annotation,1190,Theory of Mind,0
+intuit_annotation,1190,Working Memory,2
+intuit_annotation,1190,ambiguity,5
+intuit_annotation,1190,factuality,5
+intuit_annotation,1249,Causal Reasoning,1
+intuit_annotation,1249,Cognitive Flexibility,3
+intuit_annotation,1249,Emotion Perception and Empathy,2
+intuit_annotation,1249,Episodic Memory,2
+intuit_annotation,1249,Functional Perception,2
+intuit_annotation,1249,Inhibitory Control,4
+intuit_annotation,1249,Language,3
+intuit_annotation,1249,Mental Simulation,1
+intuit_annotation,1249,Metacognition,2
+intuit_annotation,1249,Object Permanence,0
+intuit_annotation,1249,Perception and Pattern Recognition,3
+intuit_annotation,1249,Planning,0
+intuit_annotation,1249,Procedural Memory,0
+intuit_annotation,1249,Prospective Memory,0
+intuit_annotation,1249,Semantic Memory,2
+intuit_annotation,1249,Spatial Reasoning and Navigation,0
+intuit_annotation,1249,Theory of Mind,3
+intuit_annotation,1249,Working Memory,2
+intuit_annotation,1249,ambiguity,5
+intuit_annotation,1249,factuality,5
+intuit_annotation,1293,Causal Reasoning,2
+intuit_annotation,1293,Cognitive Flexibility,3
+intuit_annotation,1293,Emotion Perception and Empathy,3
+intuit_annotation,1293,Episodic Memory,2
+intuit_annotation,1293,Functional Perception,3
+intuit_annotation,1293,Inhibitory Control,4
+intuit_annotation,1293,Language,2
+intuit_annotation,1293,Mental Simulation,1
+intuit_annotation,1293,Metacognition,2
+intuit_annotation,1293,Object Permanence,0
+intuit_annotation,1293,Perception and Pattern Recognition,3
+intuit_annotation,1293,Planning,1
+intuit_annotation,1293,Procedural Memory,0
+intuit_annotation,1293,Prospective Memory,0
+intuit_annotation,1293,Semantic Memory,3
+intuit_annotation,1293,Spatial Reasoning and Navigation,0
+intuit_annotation,1293,Theory of Mind,3
+intuit_annotation,1293,Working Memory,2
+intuit_annotation,1293,ambiguity,5
+intuit_annotation,1293,factuality,5
+intuit_annotation,1379,Causal Reasoning,1
+intuit_annotation,1379,Cognitive Flexibility,3
+intuit_annotation,1379,Emotion Perception and Empathy,3
+intuit_annotation,1379,Episodic Memory,2
+intuit_annotation,1379,Functional Perception,3
+intuit_annotation,1379,Inhibitory Control,3
+intuit_annotation,1379,Language,3
+intuit_annotation,1379,Mental Simulation,1
+intuit_annotation,1379,Metacognition,3
+intuit_annotation,1379,Object Permanence,0
+intuit_annotation,1379,Perception and Pattern Recognition,2
+intuit_annotation,1379,Planning,0
+intuit_annotation,1379,Procedural Memory,0
+intuit_annotation,1379,Prospective Memory,1
+intuit_annotation,1379,Semantic Memory,3
+intuit_annotation,1379,Spatial Reasoning and Navigation,0
+intuit_annotation,1379,Theory of Mind,3
+intuit_annotation,1379,Working Memory,2
+intuit_annotation,1379,ambiguity,4
+intuit_annotation,1379,factuality,5
+intuit_annotation,1403,Causal Reasoning,1
+intuit_annotation,1403,Cognitive Flexibility,1
+intuit_annotation,1403,Emotion Perception and Empathy,2
+intuit_annotation,1403,Episodic Memory,2
+intuit_annotation,1403,Functional Perception,3
+intuit_annotation,1403,Inhibitory Control,3
+intuit_annotation,1403,Language,3
+intuit_annotation,1403,Mental Simulation,1
+intuit_annotation,1403,Metacognition,1
+intuit_annotation,1403,Object Permanence,0
+intuit_annotation,1403,Perception and Pattern Recognition,2
+intuit_annotation,1403,Planning,0
+intuit_annotation,1403,Procedural Memory,0
+intuit_annotation,1403,Prospective Memory,0
+intuit_annotation,1403,Semantic Memory,3
+intuit_annotation,1403,Spatial Reasoning and Navigation,0
+intuit_annotation,1403,Theory of Mind,3
+intuit_annotation,1403,Working Memory,3
+intuit_annotation,1403,ambiguity,5
+intuit_annotation,1403,factuality,5
 intuit_annotation,1455,Causal Reasoning,1
 intuit_annotation,1455,Cognitive Flexibility,0
-intuit_annotation,1455,Emotion Perception & Empathy (EPE),0
-intuit_annotation,1455,Episodic/Episodic-Like Memory,1
-intuit_annotation,1455,Executive Function (EF),1
-intuit_annotation,1455,Functional perception,1
-intuit_annotation,1455,Inhibitory Control,2
+intuit_annotation,1455,Emotion Perception and Empathy,0
+intuit_annotation,1455,Episodic Memory,1
+intuit_annotation,1455,Functional Perception,1
+intuit_annotation,1455,Inhibitory Control,1
 intuit_annotation,1455,Language,1
 intuit_annotation,1455,Mental Simulation,0
-intuit_annotation,1455,Metacognition,0
-intuit_annotation,1455,Object permanence,0
+intuit_annotation,1455,Metacognition,1
+intuit_annotation,1455,Object Permanence,0
 intuit_annotation,1455,Perception and Pattern Recognition,1
 intuit_annotation,1455,Planning,0
 intuit_annotation,1455,Procedural Memory,0
 intuit_annotation,1455,Prospective Memory,0
 intuit_annotation,1455,Semantic Memory,1
-intuit_annotation,1455,Spatial reasoning and navigation,1
+intuit_annotation,1455,Spatial Reasoning and Navigation,1
 intuit_annotation,1455,Theory of Mind,0
-intuit_annotation,1455,Working Memory,2
+intuit_annotation,1455,Working Memory,1
 intuit_annotation,1455,ambiguity,5
 intuit_annotation,1455,factuality,5
+intuit_annotation,146,Causal Reasoning,1
+intuit_annotation,146,Cognitive Flexibility,0
+intuit_annotation,146,Emotion Perception and Empathy,0
+intuit_annotation,146,Episodic Memory,1
+intuit_annotation,146,Functional Perception,1
+intuit_annotation,146,Inhibitory Control,1
+intuit_annotation,146,Language,1
+intuit_annotation,146,Mental Simulation,0
+intuit_annotation,146,Metacognition,1
+intuit_annotation,146,Object Permanence,0
+intuit_annotation,146,Perception and Pattern Recognition,1
+intuit_annotation,146,Planning,0
+intuit_annotation,146,Procedural Memory,0
+intuit_annotation,146,Prospective Memory,0
+intuit_annotation,146,Semantic Memory,1
+intuit_annotation,146,Spatial Reasoning and Navigation,1
+intuit_annotation,146,Theory of Mind,0
+intuit_annotation,146,Working Memory,2
+intuit_annotation,146,ambiguity,5
+intuit_annotation,146,factuality,5
+intuit_annotation,1485,Causal Reasoning,0
+intuit_annotation,1485,Cognitive Flexibility,0
+intuit_annotation,1485,Emotion Perception and Empathy,0
+intuit_annotation,1485,Episodic Memory,1
+intuit_annotation,1485,Functional Perception,0
+intuit_annotation,1485,Inhibitory Control,1
+intuit_annotation,1485,Language,1
+intuit_annotation,1485,Mental Simulation,0
+intuit_annotation,1485,Metacognition,0
+intuit_annotation,1485,Object Permanence,0
+intuit_annotation,1485,Perception and Pattern Recognition,0
+intuit_annotation,1485,Planning,0
+intuit_annotation,1485,Procedural Memory,0
+intuit_annotation,1485,Prospective Memory,0
+intuit_annotation,1485,Semantic Memory,1
+intuit_annotation,1485,Spatial Reasoning and Navigation,0
+intuit_annotation,1485,Theory of Mind,0
+intuit_annotation,1485,Working Memory,1
+intuit_annotation,1485,ambiguity,5
+intuit_annotation,1485,factuality,5
+intuit_annotation,1524,Causal Reasoning,1
+intuit_annotation,1524,Cognitive Flexibility,0
+intuit_annotation,1524,Emotion Perception and Empathy,0
+intuit_annotation,1524,Episodic Memory,1
+intuit_annotation,1524,Functional Perception,2
+intuit_annotation,1524,Inhibitory Control,1
+intuit_annotation,1524,Language,2
+intuit_annotation,1524,Mental Simulation,1
+intuit_annotation,1524,Metacognition,2
+intuit_annotation,1524,Object Permanence,0
+intuit_annotation,1524,Perception and Pattern Recognition,1
+intuit_annotation,1524,Planning,0
+intuit_annotation,1524,Procedural Memory,0
+intuit_annotation,1524,Prospective Memory,0
+intuit_annotation,1524,Semantic Memory,2
+intuit_annotation,1524,Spatial Reasoning and Navigation,0
+intuit_annotation,1524,Theory of Mind,0
+intuit_annotation,1524,Working Memory,1
+intuit_annotation,1524,ambiguity,4
+intuit_annotation,1524,factuality,1
+intuit_annotation,1548,Causal Reasoning,1
+intuit_annotation,1548,Cognitive Flexibility,0
+intuit_annotation,1548,Emotion Perception and Empathy,0
+intuit_annotation,1548,Episodic Memory,1
+intuit_annotation,1548,Functional Perception,1
+intuit_annotation,1548,Inhibitory Control,0
+intuit_annotation,1548,Language,1
+intuit_annotation,1548,Mental Simulation,1
+intuit_annotation,1548,Metacognition,1
+intuit_annotation,1548,Object Permanence,0
+intuit_annotation,1548,Perception and Pattern Recognition,1
+intuit_annotation,1548,Planning,0
+intuit_annotation,1548,Procedural Memory,0
+intuit_annotation,1548,Prospective Memory,0
+intuit_annotation,1548,Semantic Memory,2
+intuit_annotation,1548,Spatial Reasoning and Navigation,1
+intuit_annotation,1548,Theory of Mind,0
+intuit_annotation,1548,Working Memory,2
+intuit_annotation,1548,ambiguity,3
+intuit_annotation,1548,factuality,5
+intuit_annotation,154,Causal Reasoning,0
+intuit_annotation,154,Cognitive Flexibility,0
+intuit_annotation,154,Emotion Perception and Empathy,0
+intuit_annotation,154,Episodic Memory,1
+intuit_annotation,154,Functional Perception,1
+intuit_annotation,154,Inhibitory Control,1
+intuit_annotation,154,Language,1
+intuit_annotation,154,Mental Simulation,0
+intuit_annotation,154,Metacognition,1
+intuit_annotation,154,Object Permanence,0
+intuit_annotation,154,Perception and Pattern Recognition,1
+intuit_annotation,154,Planning,0
+intuit_annotation,154,Procedural Memory,0
+intuit_annotation,154,Prospective Memory,0
+intuit_annotation,154,Semantic Memory,1
+intuit_annotation,154,Spatial Reasoning and Navigation,1
+intuit_annotation,154,Theory of Mind,0
+intuit_annotation,154,Working Memory,1
+intuit_annotation,154,ambiguity,5
+intuit_annotation,154,factuality,5
+intuit_annotation,1597,Causal Reasoning,1
+intuit_annotation,1597,Cognitive Flexibility,0
+intuit_annotation,1597,Emotion Perception and Empathy,0
+intuit_annotation,1597,Episodic Memory,0
+intuit_annotation,1597,Functional Perception,1
+intuit_annotation,1597,Inhibitory Control,1
+intuit_annotation,1597,Language,1
+intuit_annotation,1597,Mental Simulation,1
+intuit_annotation,1597,Metacognition,1
+intuit_annotation,1597,Object Permanence,0
+intuit_annotation,1597,Perception and Pattern Recognition,2
+intuit_annotation,1597,Planning,0
+intuit_annotation,1597,Procedural Memory,0
+intuit_annotation,1597,Prospective Memory,0
+intuit_annotation,1597,Semantic Memory,2
+intuit_annotation,1597,Spatial Reasoning and Navigation,0
+intuit_annotation,1597,Theory of Mind,0
+intuit_annotation,1597,Working Memory,1
+intuit_annotation,1597,ambiguity,3
+intuit_annotation,1597,factuality,5
+intuit_annotation,1598,Causal Reasoning,1
+intuit_annotation,1598,Cognitive Flexibility,0
+intuit_annotation,1598,Emotion Perception and Empathy,0
+intuit_annotation,1598,Episodic Memory,0
+intuit_annotation,1598,Functional Perception,1
+intuit_annotation,1598,Inhibitory Control,1
+intuit_annotation,1598,Language,1
+intuit_annotation,1598,Mental Simulation,1
+intuit_annotation,1598,Metacognition,1
+intuit_annotation,1598,Object Permanence,0
+intuit_annotation,1598,Perception and Pattern Recognition,1
+intuit_annotation,1598,Planning,0
+intuit_annotation,1598,Procedural Memory,0
+intuit_annotation,1598,Prospective Memory,0
+intuit_annotation,1598,Semantic Memory,1
+intuit_annotation,1598,Spatial Reasoning and Navigation,0
+intuit_annotation,1598,Theory of Mind,0
+intuit_annotation,1598,Working Memory,2
+intuit_annotation,1598,ambiguity,5
+intuit_annotation,1598,factuality,5
+intuit_annotation,1637,Causal Reasoning,0
+intuit_annotation,1637,Cognitive Flexibility,1
+intuit_annotation,1637,Emotion Perception and Empathy,0
+intuit_annotation,1637,Episodic Memory,0
+intuit_annotation,1637,Functional Perception,0
+intuit_annotation,1637,Inhibitory Control,1
+intuit_annotation,1637,Language,1
+intuit_annotation,1637,Mental Simulation,0
+intuit_annotation,1637,Metacognition,1
+intuit_annotation,1637,Object Permanence,0
+intuit_annotation,1637,Perception and Pattern Recognition,0
+intuit_annotation,1637,Planning,0
+intuit_annotation,1637,Procedural Memory,0
+intuit_annotation,1637,Prospective Memory,0
+intuit_annotation,1637,Semantic Memory,0
+intuit_annotation,1637,Spatial Reasoning and Navigation,0
+intuit_annotation,1637,Theory of Mind,0
+intuit_annotation,1637,Working Memory,2
+intuit_annotation,1637,ambiguity,1
+intuit_annotation,1637,factuality,5
+intuit_annotation,1678,Causal Reasoning,0
+intuit_annotation,1678,Cognitive Flexibility,0
+intuit_annotation,1678,Emotion Perception and Empathy,0
+intuit_annotation,1678,Episodic Memory,0
+intuit_annotation,1678,Functional Perception,0
+intuit_annotation,1678,Inhibitory Control,0
+intuit_annotation,1678,Language,1
+intuit_annotation,1678,Mental Simulation,0
+intuit_annotation,1678,Metacognition,0
+intuit_annotation,1678,Object Permanence,0
+intuit_annotation,1678,Perception and Pattern Recognition,1
+intuit_annotation,1678,Planning,0
+intuit_annotation,1678,Procedural Memory,0
+intuit_annotation,1678,Prospective Memory,0
+intuit_annotation,1678,Semantic Memory,1
+intuit_annotation,1678,Spatial Reasoning and Navigation,0
+intuit_annotation,1678,Theory of Mind,0
+intuit_annotation,1678,Working Memory,0
+intuit_annotation,1678,ambiguity,1
+intuit_annotation,1678,factuality,5
+intuit_annotation,1760,Causal Reasoning,1
+intuit_annotation,1760,Cognitive Flexibility,0
+intuit_annotation,1760,Emotion Perception and Empathy,1
+intuit_annotation,1760,Episodic Memory,0
+intuit_annotation,1760,Functional Perception,1
+intuit_annotation,1760,Inhibitory Control,0
+intuit_annotation,1760,Language,2
+intuit_annotation,1760,Mental Simulation,1
+intuit_annotation,1760,Metacognition,0
+intuit_annotation,1760,Object Permanence,0
+intuit_annotation,1760,Perception and Pattern Recognition,1
+intuit_annotation,1760,Planning,0
+intuit_annotation,1760,Procedural Memory,0
+intuit_annotation,1760,Prospective Memory,0
+intuit_annotation,1760,Semantic Memory,1
+intuit_annotation,1760,Spatial Reasoning and Navigation,1
+intuit_annotation,1760,Theory of Mind,0
+intuit_annotation,1760,Working Memory,0
+intuit_annotation,1760,ambiguity,5
+intuit_annotation,1760,factuality,5
+intuit_annotation,1773,Causal Reasoning,1
+intuit_annotation,1773,Cognitive Flexibility,0
+intuit_annotation,1773,Emotion Perception and Empathy,1
+intuit_annotation,1773,Episodic Memory,1
+intuit_annotation,1773,Functional Perception,1
+intuit_annotation,1773,Inhibitory Control,0
+intuit_annotation,1773,Language,1
+intuit_annotation,1773,Mental Simulation,1
+intuit_annotation,1773,Metacognition,1
+intuit_annotation,1773,Object Permanence,0
+intuit_annotation,1773,Perception and Pattern Recognition,1
+intuit_annotation,1773,Planning,0
+intuit_annotation,1773,Procedural Memory,0
+intuit_annotation,1773,Prospective Memory,0
+intuit_annotation,1773,Semantic Memory,1
+intuit_annotation,1773,Spatial Reasoning and Navigation,1
+intuit_annotation,1773,Theory of Mind,1
+intuit_annotation,1773,Working Memory,0
+intuit_annotation,1773,ambiguity,5
+intuit_annotation,1773,factuality,5
+intuit_annotation,1774,Causal Reasoning,1
+intuit_annotation,1774,Cognitive Flexibility,0
+intuit_annotation,1774,Emotion Perception and Empathy,0
+intuit_annotation,1774,Episodic Memory,1
+intuit_annotation,1774,Functional Perception,1
+intuit_annotation,1774,Inhibitory Control,0
+intuit_annotation,1774,Language,1
+intuit_annotation,1774,Mental Simulation,1
+intuit_annotation,1774,Metacognition,0
+intuit_annotation,1774,Object Permanence,0
+intuit_annotation,1774,Perception and Pattern Recognition,1
+intuit_annotation,1774,Planning,0
+intuit_annotation,1774,Procedural Memory,0
+intuit_annotation,1774,Prospective Memory,0
+intuit_annotation,1774,Semantic Memory,1
+intuit_annotation,1774,Spatial Reasoning and Navigation,1
+intuit_annotation,1774,Theory of Mind,1
+intuit_annotation,1774,Working Memory,1
+intuit_annotation,1774,ambiguity,4
+intuit_annotation,1774,factuality,5
+intuit_annotation,1784,Causal Reasoning,1
+intuit_annotation,1784,Cognitive Flexibility,2
+intuit_annotation,1784,Emotion Perception and Empathy,1
+intuit_annotation,1784,Episodic Memory,1
+intuit_annotation,1784,Functional Perception,3
+intuit_annotation,1784,Inhibitory Control,0
+intuit_annotation,1784,Language,2
+intuit_annotation,1784,Mental Simulation,1
+intuit_annotation,1784,Metacognition,1
+intuit_annotation,1784,Object Permanence,0
+intuit_annotation,1784,Perception and Pattern Recognition,2
+intuit_annotation,1784,Planning,0
+intuit_annotation,1784,Procedural Memory,0
+intuit_annotation,1784,Prospective Memory,0
+intuit_annotation,1784,Semantic Memory,2
+intuit_annotation,1784,Spatial Reasoning and Navigation,2
+intuit_annotation,1784,Theory of Mind,1
+intuit_annotation,1784,Working Memory,1
+intuit_annotation,1784,ambiguity,5
+intuit_annotation,1784,factuality,5
+intuit_annotation,1816,Causal Reasoning,0
+intuit_annotation,1816,Cognitive Flexibility,0
+intuit_annotation,1816,Emotion Perception and Empathy,0
+intuit_annotation,1816,Episodic Memory,0
+intuit_annotation,1816,Functional Perception,1
+intuit_annotation,1816,Inhibitory Control,1
+intuit_annotation,1816,Language,1
+intuit_annotation,1816,Mental Simulation,1
+intuit_annotation,1816,Metacognition,0
+intuit_annotation,1816,Object Permanence,0
+intuit_annotation,1816,Perception and Pattern Recognition,1
+intuit_annotation,1816,Planning,0
+intuit_annotation,1816,Procedural Memory,1
+intuit_annotation,1816,Prospective Memory,0
+intuit_annotation,1816,Semantic Memory,2
+intuit_annotation,1816,Spatial Reasoning and Navigation,1
+intuit_annotation,1816,Theory of Mind,1
+intuit_annotation,1816,Working Memory,1
+intuit_annotation,1816,ambiguity,5
+intuit_annotation,1816,factuality,5
+intuit_annotation,1817,Causal Reasoning,1
+intuit_annotation,1817,Cognitive Flexibility,0
+intuit_annotation,1817,Emotion Perception and Empathy,0
+intuit_annotation,1817,Episodic Memory,0
+intuit_annotation,1817,Functional Perception,1
+intuit_annotation,1817,Inhibitory Control,1
+intuit_annotation,1817,Language,1
+intuit_annotation,1817,Mental Simulation,1
+intuit_annotation,1817,Metacognition,0
+intuit_annotation,1817,Object Permanence,0
+intuit_annotation,1817,Perception and Pattern Recognition,1
+intuit_annotation,1817,Planning,0
+intuit_annotation,1817,Procedural Memory,0
+intuit_annotation,1817,Prospective Memory,0
+intuit_annotation,1817,Semantic Memory,1
+intuit_annotation,1817,Spatial Reasoning and Navigation,1
+intuit_annotation,1817,Theory of Mind,0
+intuit_annotation,1817,Working Memory,0
+intuit_annotation,1817,ambiguity,5
+intuit_annotation,1817,factuality,5
+intuit_annotation,1832,Causal Reasoning,1
+intuit_annotation,1832,Cognitive Flexibility,0
+intuit_annotation,1832,Emotion Perception and Empathy,0
+intuit_annotation,1832,Episodic Memory,1
+intuit_annotation,1832,Functional Perception,1
+intuit_annotation,1832,Inhibitory Control,0
+intuit_annotation,1832,Language,1
+intuit_annotation,1832,Mental Simulation,1
+intuit_annotation,1832,Metacognition,1
+intuit_annotation,1832,Object Permanence,0
+intuit_annotation,1832,Perception and Pattern Recognition,1
+intuit_annotation,1832,Planning,0
+intuit_annotation,1832,Procedural Memory,0
+intuit_annotation,1832,Prospective Memory,0
+intuit_annotation,1832,Semantic Memory,1
+intuit_annotation,1832,Spatial Reasoning and Navigation,1
+intuit_annotation,1832,Theory of Mind,1
+intuit_annotation,1832,Working Memory,1
+intuit_annotation,1832,ambiguity,4
+intuit_annotation,1832,factuality,5
+intuit_annotation,1849,Causal Reasoning,1
+intuit_annotation,1849,Cognitive Flexibility,0
+intuit_annotation,1849,Emotion Perception and Empathy,0
+intuit_annotation,1849,Episodic Memory,1
+intuit_annotation,1849,Functional Perception,1
+intuit_annotation,1849,Inhibitory Control,0
+intuit_annotation,1849,Language,1
+intuit_annotation,1849,Mental Simulation,1
+intuit_annotation,1849,Metacognition,1
+intuit_annotation,1849,Object Permanence,0
+intuit_annotation,1849,Perception and Pattern Recognition,1
+intuit_annotation,1849,Planning,0
+intuit_annotation,1849,Procedural Memory,0
+intuit_annotation,1849,Prospective Memory,0
+intuit_annotation,1849,Semantic Memory,1
+intuit_annotation,1849,Spatial Reasoning and Navigation,1
+intuit_annotation,1849,Theory of Mind,0
+intuit_annotation,1849,Working Memory,0
+intuit_annotation,1849,ambiguity,4
+intuit_annotation,1849,factuality,5
+intuit_annotation,1891,Causal Reasoning,1
+intuit_annotation,1891,Cognitive Flexibility,0
+intuit_annotation,1891,Emotion Perception and Empathy,0
+intuit_annotation,1891,Episodic Memory,0
+intuit_annotation,1891,Functional Perception,1
+intuit_annotation,1891,Inhibitory Control,0
+intuit_annotation,1891,Language,1
+intuit_annotation,1891,Mental Simulation,1
+intuit_annotation,1891,Metacognition,0
+intuit_annotation,1891,Object Permanence,0
+intuit_annotation,1891,Perception and Pattern Recognition,1
+intuit_annotation,1891,Planning,0
+intuit_annotation,1891,Procedural Memory,0
+intuit_annotation,1891,Prospective Memory,0
+intuit_annotation,1891,Semantic Memory,2
+intuit_annotation,1891,Spatial Reasoning and Navigation,1
+intuit_annotation,1891,Theory of Mind,0
+intuit_annotation,1891,Working Memory,0
+intuit_annotation,1891,ambiguity,4
+intuit_annotation,1891,factuality,5
+intuit_annotation,1951,Causal Reasoning,0
+intuit_annotation,1951,Cognitive Flexibility,0
+intuit_annotation,1951,Emotion Perception and Empathy,0
+intuit_annotation,1951,Episodic Memory,1
+intuit_annotation,1951,Functional Perception,0
+intuit_annotation,1951,Inhibitory Control,0
+intuit_annotation,1951,Language,1
+intuit_annotation,1951,Mental Simulation,0
+intuit_annotation,1951,Metacognition,0
+intuit_annotation,1951,Object Permanence,0
+intuit_annotation,1951,Perception and Pattern Recognition,0
+intuit_annotation,1951,Planning,0
+intuit_annotation,1951,Procedural Memory,0
+intuit_annotation,1951,Prospective Memory,0
+intuit_annotation,1951,Semantic Memory,0
+intuit_annotation,1951,Spatial Reasoning and Navigation,0
+intuit_annotation,1951,Theory of Mind,0
+intuit_annotation,1951,Working Memory,1
+intuit_annotation,1951,ambiguity,5
+intuit_annotation,1951,factuality,5
+intuit_annotation,1969,Causal Reasoning,0
+intuit_annotation,1969,Cognitive Flexibility,0
+intuit_annotation,1969,Emotion Perception and Empathy,0
+intuit_annotation,1969,Episodic Memory,1
+intuit_annotation,1969,Functional Perception,0
+intuit_annotation,1969,Inhibitory Control,1
+intuit_annotation,1969,Language,1
+intuit_annotation,1969,Mental Simulation,0
+intuit_annotation,1969,Metacognition,0
+intuit_annotation,1969,Object Permanence,0
+intuit_annotation,1969,Perception and Pattern Recognition,0
+intuit_annotation,1969,Planning,0
+intuit_annotation,1969,Procedural Memory,0
+intuit_annotation,1969,Prospective Memory,0
+intuit_annotation,1969,Semantic Memory,1
+intuit_annotation,1969,Spatial Reasoning and Navigation,0
+intuit_annotation,1969,Theory of Mind,0
+intuit_annotation,1969,Working Memory,1
+intuit_annotation,1969,ambiguity,5
+intuit_annotation,1969,factuality,5
+intuit_annotation,1985,Causal Reasoning,1
+intuit_annotation,1985,Cognitive Flexibility,0
+intuit_annotation,1985,Emotion Perception and Empathy,0
+intuit_annotation,1985,Episodic Memory,1
+intuit_annotation,1985,Functional Perception,0
+intuit_annotation,1985,Inhibitory Control,1
+intuit_annotation,1985,Language,1
+intuit_annotation,1985,Mental Simulation,0
+intuit_annotation,1985,Metacognition,0
+intuit_annotation,1985,Object Permanence,0
+intuit_annotation,1985,Perception and Pattern Recognition,1
+intuit_annotation,1985,Planning,0
+intuit_annotation,1985,Procedural Memory,0
+intuit_annotation,1985,Prospective Memory,0
+intuit_annotation,1985,Semantic Memory,1
+intuit_annotation,1985,Spatial Reasoning and Navigation,0
+intuit_annotation,1985,Theory of Mind,0
+intuit_annotation,1985,Working Memory,1
+intuit_annotation,1985,ambiguity,5
+intuit_annotation,1985,factuality,5
+intuit_annotation,2008,Causal Reasoning,1
+intuit_annotation,2008,Cognitive Flexibility,0
+intuit_annotation,2008,Emotion Perception and Empathy,1
+intuit_annotation,2008,Episodic Memory,1
+intuit_annotation,2008,Functional Perception,1
+intuit_annotation,2008,Inhibitory Control,1
+intuit_annotation,2008,Language,1
+intuit_annotation,2008,Mental Simulation,0
+intuit_annotation,2008,Metacognition,1
+intuit_annotation,2008,Object Permanence,0
+intuit_annotation,2008,Perception and Pattern Recognition,1
+intuit_annotation,2008,Planning,0
+intuit_annotation,2008,Procedural Memory,0
+intuit_annotation,2008,Prospective Memory,0
+intuit_annotation,2008,Semantic Memory,1
+intuit_annotation,2008,Spatial Reasoning and Navigation,0
+intuit_annotation,2008,Theory of Mind,1
+intuit_annotation,2008,Working Memory,1
+intuit_annotation,2008,ambiguity,5
+intuit_annotation,2008,factuality,5
+intuit_annotation,2022,Causal Reasoning,0
+intuit_annotation,2022,Cognitive Flexibility,0
+intuit_annotation,2022,Emotion Perception and Empathy,1
+intuit_annotation,2022,Episodic Memory,1
+intuit_annotation,2022,Functional Perception,1
+intuit_annotation,2022,Inhibitory Control,1
+intuit_annotation,2022,Language,1
+intuit_annotation,2022,Mental Simulation,0
+intuit_annotation,2022,Metacognition,1
+intuit_annotation,2022,Object Permanence,0
+intuit_annotation,2022,Perception and Pattern Recognition,1
+intuit_annotation,2022,Planning,0
+intuit_annotation,2022,Procedural Memory,0
+intuit_annotation,2022,Prospective Memory,0
+intuit_annotation,2022,Semantic Memory,1
+intuit_annotation,2022,Spatial Reasoning and Navigation,0
+intuit_annotation,2022,Theory of Mind,2
+intuit_annotation,2022,Working Memory,1
+intuit_annotation,2022,ambiguity,5
+intuit_annotation,2022,factuality,5
+intuit_annotation,2034,Causal Reasoning,1
+intuit_annotation,2034,Cognitive Flexibility,0
+intuit_annotation,2034,Emotion Perception and Empathy,1
+intuit_annotation,2034,Episodic Memory,1
+intuit_annotation,2034,Functional Perception,1
+intuit_annotation,2034,Inhibitory Control,1
+intuit_annotation,2034,Language,1
+intuit_annotation,2034,Mental Simulation,1
+intuit_annotation,2034,Metacognition,0
+intuit_annotation,2034,Object Permanence,0
+intuit_annotation,2034,Perception and Pattern Recognition,1
+intuit_annotation,2034,Planning,0
+intuit_annotation,2034,Procedural Memory,0
+intuit_annotation,2034,Prospective Memory,0
+intuit_annotation,2034,Semantic Memory,2
+intuit_annotation,2034,Spatial Reasoning and Navigation,0
+intuit_annotation,2034,Theory of Mind,1
+intuit_annotation,2034,Working Memory,1
+intuit_annotation,2034,ambiguity,3
+intuit_annotation,2034,factuality,5
+intuit_annotation,2061,Causal Reasoning,0
+intuit_annotation,2061,Cognitive Flexibility,0
+intuit_annotation,2061,Emotion Perception and Empathy,0
+intuit_annotation,2061,Episodic Memory,1
+intuit_annotation,2061,Functional Perception,1
+intuit_annotation,2061,Inhibitory Control,1
+intuit_annotation,2061,Language,2
+intuit_annotation,2061,Mental Simulation,0
+intuit_annotation,2061,Metacognition,1
+intuit_annotation,2061,Object Permanence,0
+intuit_annotation,2061,Perception and Pattern Recognition,1
+intuit_annotation,2061,Planning,0
+intuit_annotation,2061,Procedural Memory,0
+intuit_annotation,2061,Prospective Memory,0
+intuit_annotation,2061,Semantic Memory,1
+intuit_annotation,2061,Spatial Reasoning and Navigation,0
+intuit_annotation,2061,Theory of Mind,1
+intuit_annotation,2061,Working Memory,1
+intuit_annotation,2061,ambiguity,5
+intuit_annotation,2061,factuality,5
+intuit_annotation,2114,Causal Reasoning,0
+intuit_annotation,2114,Cognitive Flexibility,0
+intuit_annotation,2114,Emotion Perception and Empathy,0
+intuit_annotation,2114,Episodic Memory,0
+intuit_annotation,2114,Functional Perception,0
+intuit_annotation,2114,Inhibitory Control,1
+intuit_annotation,2114,Language,1
+intuit_annotation,2114,Mental Simulation,0
+intuit_annotation,2114,Metacognition,1
+intuit_annotation,2114,Object Permanence,0
+intuit_annotation,2114,Perception and Pattern Recognition,1
+intuit_annotation,2114,Planning,0
+intuit_annotation,2114,Procedural Memory,0
+intuit_annotation,2114,Prospective Memory,0
+intuit_annotation,2114,Semantic Memory,0
+intuit_annotation,2114,Spatial Reasoning and Navigation,0
+intuit_annotation,2114,Theory of Mind,0
+intuit_annotation,2114,Working Memory,1
+intuit_annotation,2114,ambiguity,4
+intuit_annotation,2114,factuality,5
 intuit_annotation,2137,Causal Reasoning,0
-intuit_annotation,2137,Cognitive Flexibility,0
-intuit_annotation,2137,Emotion Perception & Empathy (EPE),0
-intuit_annotation,2137,Episodic/Episodic-Like Memory,1
-intuit_annotation,2137,Executive Function (EF),1
-intuit_annotation,2137,Functional perception,0
+intuit_annotation,2137,Cognitive Flexibility,1
+intuit_annotation,2137,Emotion Perception and Empathy,0
+intuit_annotation,2137,Episodic Memory,2
+intuit_annotation,2137,Functional Perception,0
 intuit_annotation,2137,Inhibitory Control,1
-intuit_annotation,2137,Language,1
+intuit_annotation,2137,Language,2
 intuit_annotation,2137,Mental Simulation,0
-intuit_annotation,2137,Metacognition,2
-intuit_annotation,2137,Object permanence,0
-intuit_annotation,2137,Perception and Pattern Recognition,2
+intuit_annotation,2137,Metacognition,1
+intuit_annotation,2137,Object Permanence,0
+intuit_annotation,2137,Perception and Pattern Recognition,1
 intuit_annotation,2137,Planning,0
 intuit_annotation,2137,Procedural Memory,0
 intuit_annotation,2137,Prospective Memory,0
-intuit_annotation,2137,Semantic Memory,1
-intuit_annotation,2137,Spatial reasoning and navigation,0
-intuit_annotation,2137,Theory of Mind,2
-intuit_annotation,2137,Working Memory,2
-intuit_annotation,2137,ambiguity,4
+intuit_annotation,2137,Semantic Memory,2
+intuit_annotation,2137,Spatial Reasoning and Navigation,0
+intuit_annotation,2137,Theory of Mind,1
+intuit_annotation,2137,Working Memory,1
+intuit_annotation,2137,ambiguity,3
 intuit_annotation,2137,factuality,5
-intuit_annotation,2742,Causal Reasoning,1
-intuit_annotation,2742,Cognitive Flexibility,1
-intuit_annotation,2742,Emotion Perception & Empathy (EPE),1
-intuit_annotation,2742,Episodic/Episodic-Like Memory,3
-intuit_annotation,2742,Executive Function (EF),4
-intuit_annotation,2742,Functional perception,1
-intuit_annotation,2742,Inhibitory Control,4
+intuit_annotation,2221,Causal Reasoning,1
+intuit_annotation,2221,Cognitive Flexibility,2
+intuit_annotation,2221,Emotion Perception and Empathy,1
+intuit_annotation,2221,Episodic Memory,1
+intuit_annotation,2221,Functional Perception,1
+intuit_annotation,2221,Inhibitory Control,1
+intuit_annotation,2221,Language,2
+intuit_annotation,2221,Mental Simulation,1
+intuit_annotation,2221,Metacognition,1
+intuit_annotation,2221,Object Permanence,0
+intuit_annotation,2221,Perception and Pattern Recognition,1
+intuit_annotation,2221,Planning,0
+intuit_annotation,2221,Procedural Memory,0
+intuit_annotation,2221,Prospective Memory,0
+intuit_annotation,2221,Semantic Memory,2
+intuit_annotation,2221,Spatial Reasoning and Navigation,0
+intuit_annotation,2221,Theory of Mind,2
+intuit_annotation,2221,Working Memory,2
+intuit_annotation,2221,ambiguity,5
+intuit_annotation,2221,factuality,5
+intuit_annotation,2223,Causal Reasoning,1
+intuit_annotation,2223,Cognitive Flexibility,0
+intuit_annotation,2223,Emotion Perception and Empathy,2
+intuit_annotation,2223,Episodic Memory,1
+intuit_annotation,2223,Functional Perception,1
+intuit_annotation,2223,Inhibitory Control,2
+intuit_annotation,2223,Language,1
+intuit_annotation,2223,Mental Simulation,0
+intuit_annotation,2223,Metacognition,1
+intuit_annotation,2223,Object Permanence,0
+intuit_annotation,2223,Perception and Pattern Recognition,1
+intuit_annotation,2223,Planning,0
+intuit_annotation,2223,Procedural Memory,0
+intuit_annotation,2223,Prospective Memory,0
+intuit_annotation,2223,Semantic Memory,2
+intuit_annotation,2223,Spatial Reasoning and Navigation,0
+intuit_annotation,2223,Theory of Mind,2
+intuit_annotation,2223,Working Memory,2
+intuit_annotation,2223,ambiguity,5
+intuit_annotation,2223,factuality,5
+intuit_annotation,224,Causal Reasoning,0
+intuit_annotation,224,Cognitive Flexibility,0
+intuit_annotation,224,Emotion Perception and Empathy,0
+intuit_annotation,224,Episodic Memory,0
+intuit_annotation,224,Functional Perception,0
+intuit_annotation,224,Inhibitory Control,1
+intuit_annotation,224,Language,1
+intuit_annotation,224,Mental Simulation,0
+intuit_annotation,224,Metacognition,1
+intuit_annotation,224,Object Permanence,0
+intuit_annotation,224,Perception and Pattern Recognition,0
+intuit_annotation,224,Planning,0
+intuit_annotation,224,Procedural Memory,0
+intuit_annotation,224,Prospective Memory,0
+intuit_annotation,224,Semantic Memory,1
+intuit_annotation,224,Spatial Reasoning and Navigation,0
+intuit_annotation,224,Theory of Mind,0
+intuit_annotation,224,Working Memory,0
+intuit_annotation,224,ambiguity,2
+intuit_annotation,224,factuality,5
+intuit_annotation,2312,Causal Reasoning,2
+intuit_annotation,2312,Cognitive Flexibility,3
+intuit_annotation,2312,Emotion Perception and Empathy,2
+intuit_annotation,2312,Episodic Memory,1
+intuit_annotation,2312,Functional Perception,2
+intuit_annotation,2312,Inhibitory Control,3
+intuit_annotation,2312,Language,3
+intuit_annotation,2312,Mental Simulation,1
+intuit_annotation,2312,Metacognition,3
+intuit_annotation,2312,Object Permanence,0
+intuit_annotation,2312,Perception and Pattern Recognition,3
+intuit_annotation,2312,Planning,0
+intuit_annotation,2312,Procedural Memory,0
+intuit_annotation,2312,Prospective Memory,0
+intuit_annotation,2312,Semantic Memory,3
+intuit_annotation,2312,Spatial Reasoning and Navigation,0
+intuit_annotation,2312,Theory of Mind,3
+intuit_annotation,2312,Working Memory,1
+intuit_annotation,2312,ambiguity,4
+intuit_annotation,2312,factuality,5
+intuit_annotation,2341,Causal Reasoning,1
+intuit_annotation,2341,Cognitive Flexibility,0
+intuit_annotation,2341,Emotion Perception and Empathy,2
+intuit_annotation,2341,Episodic Memory,1
+intuit_annotation,2341,Functional Perception,1
+intuit_annotation,2341,Inhibitory Control,1
+intuit_annotation,2341,Language,2
+intuit_annotation,2341,Mental Simulation,1
+intuit_annotation,2341,Metacognition,2
+intuit_annotation,2341,Object Permanence,0
+intuit_annotation,2341,Perception and Pattern Recognition,1
+intuit_annotation,2341,Planning,0
+intuit_annotation,2341,Procedural Memory,0
+intuit_annotation,2341,Prospective Memory,0
+intuit_annotation,2341,Semantic Memory,1
+intuit_annotation,2341,Spatial Reasoning and Navigation,0
+intuit_annotation,2341,Theory of Mind,1
+intuit_annotation,2341,Working Memory,0
+intuit_annotation,2341,ambiguity,4
+intuit_annotation,2341,factuality,5
+intuit_annotation,2363,Causal Reasoning,1
+intuit_annotation,2363,Cognitive Flexibility,2
+intuit_annotation,2363,Emotion Perception and Empathy,2
+intuit_annotation,2363,Episodic Memory,1
+intuit_annotation,2363,Functional Perception,1
+intuit_annotation,2363,Inhibitory Control,0
+intuit_annotation,2363,Language,1
+intuit_annotation,2363,Mental Simulation,0
+intuit_annotation,2363,Metacognition,1
+intuit_annotation,2363,Object Permanence,0
+intuit_annotation,2363,Perception and Pattern Recognition,0
+intuit_annotation,2363,Planning,0
+intuit_annotation,2363,Procedural Memory,0
+intuit_annotation,2363,Prospective Memory,0
+intuit_annotation,2363,Semantic Memory,3
+intuit_annotation,2363,Spatial Reasoning and Navigation,0
+intuit_annotation,2363,Theory of Mind,2
+intuit_annotation,2363,Working Memory,1
+intuit_annotation,2363,ambiguity,5
+intuit_annotation,2363,factuality,5
+intuit_annotation,2386,Causal Reasoning,1
+intuit_annotation,2386,Cognitive Flexibility,1
+intuit_annotation,2386,Emotion Perception and Empathy,2
+intuit_annotation,2386,Episodic Memory,1
+intuit_annotation,2386,Functional Perception,1
+intuit_annotation,2386,Inhibitory Control,1
+intuit_annotation,2386,Language,1
+intuit_annotation,2386,Mental Simulation,1
+intuit_annotation,2386,Metacognition,2
+intuit_annotation,2386,Object Permanence,0
+intuit_annotation,2386,Perception and Pattern Recognition,1
+intuit_annotation,2386,Planning,0
+intuit_annotation,2386,Procedural Memory,0
+intuit_annotation,2386,Prospective Memory,0
+intuit_annotation,2386,Semantic Memory,2
+intuit_annotation,2386,Spatial Reasoning and Navigation,0
+intuit_annotation,2386,Theory of Mind,3
+intuit_annotation,2386,Working Memory,2
+intuit_annotation,2386,ambiguity,4
+intuit_annotation,2386,factuality,5
+intuit_annotation,238,Causal Reasoning,0
+intuit_annotation,238,Cognitive Flexibility,0
+intuit_annotation,238,Emotion Perception and Empathy,0
+intuit_annotation,238,Episodic Memory,0
+intuit_annotation,238,Functional Perception,0
+intuit_annotation,238,Inhibitory Control,1
+intuit_annotation,238,Language,1
+intuit_annotation,238,Mental Simulation,0
+intuit_annotation,238,Metacognition,1
+intuit_annotation,238,Object Permanence,0
+intuit_annotation,238,Perception and Pattern Recognition,0
+intuit_annotation,238,Planning,0
+intuit_annotation,238,Procedural Memory,0
+intuit_annotation,238,Prospective Memory,0
+intuit_annotation,238,Semantic Memory,0
+intuit_annotation,238,Spatial Reasoning and Navigation,0
+intuit_annotation,238,Theory of Mind,0
+intuit_annotation,238,Working Memory,1
+intuit_annotation,238,ambiguity,4
+intuit_annotation,238,factuality,5
+intuit_annotation,2395,Causal Reasoning,1
+intuit_annotation,2395,Cognitive Flexibility,0
+intuit_annotation,2395,Emotion Perception and Empathy,2
+intuit_annotation,2395,Episodic Memory,1
+intuit_annotation,2395,Functional Perception,1
+intuit_annotation,2395,Inhibitory Control,1
+intuit_annotation,2395,Language,1
+intuit_annotation,2395,Mental Simulation,1
+intuit_annotation,2395,Metacognition,1
+intuit_annotation,2395,Object Permanence,0
+intuit_annotation,2395,Perception and Pattern Recognition,1
+intuit_annotation,2395,Planning,0
+intuit_annotation,2395,Procedural Memory,0
+intuit_annotation,2395,Prospective Memory,0
+intuit_annotation,2395,Semantic Memory,2
+intuit_annotation,2395,Spatial Reasoning and Navigation,0
+intuit_annotation,2395,Theory of Mind,2
+intuit_annotation,2395,Working Memory,2
+intuit_annotation,2395,ambiguity,4
+intuit_annotation,2395,factuality,5
+intuit_annotation,239,Causal Reasoning,0
+intuit_annotation,239,Cognitive Flexibility,0
+intuit_annotation,239,Emotion Perception and Empathy,0
+intuit_annotation,239,Episodic Memory,0
+intuit_annotation,239,Functional Perception,0
+intuit_annotation,239,Inhibitory Control,1
+intuit_annotation,239,Language,1
+intuit_annotation,239,Mental Simulation,0
+intuit_annotation,239,Metacognition,1
+intuit_annotation,239,Object Permanence,0
+intuit_annotation,239,Perception and Pattern Recognition,1
+intuit_annotation,239,Planning,0
+intuit_annotation,239,Procedural Memory,0
+intuit_annotation,239,Prospective Memory,0
+intuit_annotation,239,Semantic Memory,1
+intuit_annotation,239,Spatial Reasoning and Navigation,0
+intuit_annotation,239,Theory of Mind,0
+intuit_annotation,239,Working Memory,0
+intuit_annotation,239,ambiguity,5
+intuit_annotation,239,factuality,5
+intuit_annotation,2412,Causal Reasoning,0
+intuit_annotation,2412,Cognitive Flexibility,0
+intuit_annotation,2412,Emotion Perception and Empathy,0
+intuit_annotation,2412,Episodic Memory,1
+intuit_annotation,2412,Functional Perception,0
+intuit_annotation,2412,Inhibitory Control,2
+intuit_annotation,2412,Language,1
+intuit_annotation,2412,Mental Simulation,0
+intuit_annotation,2412,Metacognition,0
+intuit_annotation,2412,Object Permanence,0
+intuit_annotation,2412,Perception and Pattern Recognition,1
+intuit_annotation,2412,Planning,0
+intuit_annotation,2412,Procedural Memory,0
+intuit_annotation,2412,Prospective Memory,0
+intuit_annotation,2412,Semantic Memory,0
+intuit_annotation,2412,Spatial Reasoning and Navigation,0
+intuit_annotation,2412,Theory of Mind,0
+intuit_annotation,2412,Working Memory,1
+intuit_annotation,2412,ambiguity,5
+intuit_annotation,2412,factuality,5
+intuit_annotation,2463,Causal Reasoning,0
+intuit_annotation,2463,Cognitive Flexibility,0
+intuit_annotation,2463,Emotion Perception and Empathy,0
+intuit_annotation,2463,Episodic Memory,1
+intuit_annotation,2463,Functional Perception,0
+intuit_annotation,2463,Inhibitory Control,0
+intuit_annotation,2463,Language,1
+intuit_annotation,2463,Mental Simulation,0
+intuit_annotation,2463,Metacognition,0
+intuit_annotation,2463,Object Permanence,0
+intuit_annotation,2463,Perception and Pattern Recognition,0
+intuit_annotation,2463,Planning,0
+intuit_annotation,2463,Procedural Memory,0
+intuit_annotation,2463,Prospective Memory,0
+intuit_annotation,2463,Semantic Memory,1
+intuit_annotation,2463,Spatial Reasoning and Navigation,0
+intuit_annotation,2463,Theory of Mind,0
+intuit_annotation,2463,Working Memory,1
+intuit_annotation,2463,ambiguity,5
+intuit_annotation,2463,factuality,5
+intuit_annotation,2499,Causal Reasoning,1
+intuit_annotation,2499,Cognitive Flexibility,0
+intuit_annotation,2499,Emotion Perception and Empathy,0
+intuit_annotation,2499,Episodic Memory,0
+intuit_annotation,2499,Functional Perception,1
+intuit_annotation,2499,Inhibitory Control,1
+intuit_annotation,2499,Language,2
+intuit_annotation,2499,Mental Simulation,0
+intuit_annotation,2499,Metacognition,0
+intuit_annotation,2499,Object Permanence,0
+intuit_annotation,2499,Perception and Pattern Recognition,1
+intuit_annotation,2499,Planning,0
+intuit_annotation,2499,Procedural Memory,0
+intuit_annotation,2499,Prospective Memory,0
+intuit_annotation,2499,Semantic Memory,1
+intuit_annotation,2499,Spatial Reasoning and Navigation,0
+intuit_annotation,2499,Theory of Mind,0
+intuit_annotation,2499,Working Memory,0
+intuit_annotation,2499,ambiguity,5
+intuit_annotation,2499,factuality,5
+intuit_annotation,2513,Causal Reasoning,0
+intuit_annotation,2513,Cognitive Flexibility,0
+intuit_annotation,2513,Emotion Perception and Empathy,0
+intuit_annotation,2513,Episodic Memory,0
+intuit_annotation,2513,Functional Perception,1
+intuit_annotation,2513,Inhibitory Control,1
+intuit_annotation,2513,Language,1
+intuit_annotation,2513,Mental Simulation,0
+intuit_annotation,2513,Metacognition,1
+intuit_annotation,2513,Object Permanence,0
+intuit_annotation,2513,Perception and Pattern Recognition,1
+intuit_annotation,2513,Planning,0
+intuit_annotation,2513,Procedural Memory,0
+intuit_annotation,2513,Prospective Memory,0
+intuit_annotation,2513,Semantic Memory,1
+intuit_annotation,2513,Spatial Reasoning and Navigation,1
+intuit_annotation,2513,Theory of Mind,0
+intuit_annotation,2513,Working Memory,0
+intuit_annotation,2513,ambiguity,5
+intuit_annotation,2513,factuality,5
+intuit_annotation,2565,Causal Reasoning,0
+intuit_annotation,2565,Cognitive Flexibility,0
+intuit_annotation,2565,Emotion Perception and Empathy,0
+intuit_annotation,2565,Episodic Memory,0
+intuit_annotation,2565,Functional Perception,0
+intuit_annotation,2565,Inhibitory Control,1
+intuit_annotation,2565,Language,1
+intuit_annotation,2565,Mental Simulation,0
+intuit_annotation,2565,Metacognition,1
+intuit_annotation,2565,Object Permanence,0
+intuit_annotation,2565,Perception and Pattern Recognition,1
+intuit_annotation,2565,Planning,0
+intuit_annotation,2565,Procedural Memory,0
+intuit_annotation,2565,Prospective Memory,0
+intuit_annotation,2565,Semantic Memory,1
+intuit_annotation,2565,Spatial Reasoning and Navigation,0
+intuit_annotation,2565,Theory of Mind,0
+intuit_annotation,2565,Working Memory,0
+intuit_annotation,2565,ambiguity,4
+intuit_annotation,2565,factuality,5
+intuit_annotation,2572,Causal Reasoning,0
+intuit_annotation,2572,Cognitive Flexibility,0
+intuit_annotation,2572,Emotion Perception and Empathy,0
+intuit_annotation,2572,Episodic Memory,0
+intuit_annotation,2572,Functional Perception,0
+intuit_annotation,2572,Inhibitory Control,1
+intuit_annotation,2572,Language,1
+intuit_annotation,2572,Mental Simulation,0
+intuit_annotation,2572,Metacognition,1
+intuit_annotation,2572,Object Permanence,0
+intuit_annotation,2572,Perception and Pattern Recognition,1
+intuit_annotation,2572,Planning,0
+intuit_annotation,2572,Procedural Memory,0
+intuit_annotation,2572,Prospective Memory,0
+intuit_annotation,2572,Semantic Memory,1
+intuit_annotation,2572,Spatial Reasoning and Navigation,0
+intuit_annotation,2572,Theory of Mind,0
+intuit_annotation,2572,Working Memory,1
+intuit_annotation,2572,ambiguity,2
+intuit_annotation,2572,factuality,5
+intuit_annotation,2688,Causal Reasoning,1
+intuit_annotation,2688,Cognitive Flexibility,0
+intuit_annotation,2688,Emotion Perception and Empathy,0
+intuit_annotation,2688,Episodic Memory,1
+intuit_annotation,2688,Functional Perception,0
+intuit_annotation,2688,Inhibitory Control,1
+intuit_annotation,2688,Language,2
+intuit_annotation,2688,Mental Simulation,1
+intuit_annotation,2688,Metacognition,1
+intuit_annotation,2688,Object Permanence,0
+intuit_annotation,2688,Perception and Pattern Recognition,1
+intuit_annotation,2688,Planning,0
+intuit_annotation,2688,Procedural Memory,0
+intuit_annotation,2688,Prospective Memory,0
+intuit_annotation,2688,Semantic Memory,1
+intuit_annotation,2688,Spatial Reasoning and Navigation,1
+intuit_annotation,2688,Theory of Mind,0
+intuit_annotation,2688,Working Memory,1
+intuit_annotation,2688,ambiguity,5
+intuit_annotation,2688,factuality,5
+intuit_annotation,2742,Causal Reasoning,2
+intuit_annotation,2742,Cognitive Flexibility,3
+intuit_annotation,2742,Emotion Perception and Empathy,2
+intuit_annotation,2742,Episodic Memory,3
+intuit_annotation,2742,Functional Perception,1
+intuit_annotation,2742,Inhibitory Control,3
 intuit_annotation,2742,Language,2
 intuit_annotation,2742,Mental Simulation,1
 intuit_annotation,2742,Metacognition,2
-intuit_annotation,2742,Object permanence,1
+intuit_annotation,2742,Object Permanence,0
 intuit_annotation,2742,Perception and Pattern Recognition,1
 intuit_annotation,2742,Planning,0
 intuit_annotation,2742,Procedural Memory,0
-intuit_annotation,2742,Prospective Memory,0
+intuit_annotation,2742,Prospective Memory,1
 intuit_annotation,2742,Semantic Memory,1
-intuit_annotation,2742,Spatial reasoning and navigation,1
-intuit_annotation,2742,Theory of Mind,4
-intuit_annotation,2742,Working Memory,2
-intuit_annotation,2742,ambiguity,4
+intuit_annotation,2742,Spatial Reasoning and Navigation,1
+intuit_annotation,2742,Theory of Mind,3
+intuit_annotation,2742,Working Memory,1
+intuit_annotation,2742,ambiguity,5
 intuit_annotation,2742,factuality,5
-intuit_annotation,3224,Causal Reasoning,2
-intuit_annotation,3224,Cognitive Flexibility,3
-intuit_annotation,3224,Emotion Perception & Empathy (EPE),0
-intuit_annotation,3224,Episodic/Episodic-Like Memory,1
-intuit_annotation,3224,Executive Function (EF),3
-intuit_annotation,3224,Functional perception,2
-intuit_annotation,3224,Inhibitory Control,0
+intuit_annotation,2756,Causal Reasoning,2
+intuit_annotation,2756,Cognitive Flexibility,2
+intuit_annotation,2756,Emotion Perception and Empathy,3
+intuit_annotation,2756,Episodic Memory,2
+intuit_annotation,2756,Functional Perception,3
+intuit_annotation,2756,Inhibitory Control,3
+intuit_annotation,2756,Language,3
+intuit_annotation,2756,Mental Simulation,2
+intuit_annotation,2756,Metacognition,2
+intuit_annotation,2756,Object Permanence,2
+intuit_annotation,2756,Perception and Pattern Recognition,2
+intuit_annotation,2756,Planning,0
+intuit_annotation,2756,Procedural Memory,3
+intuit_annotation,2756,Prospective Memory,0
+intuit_annotation,2756,Semantic Memory,2
+intuit_annotation,2756,Spatial Reasoning and Navigation,0
+intuit_annotation,2756,Theory of Mind,3
+intuit_annotation,2756,Working Memory,3
+intuit_annotation,2756,ambiguity,5
+intuit_annotation,2756,factuality,5
+intuit_annotation,2770,Causal Reasoning,1
+intuit_annotation,2770,Cognitive Flexibility,0
+intuit_annotation,2770,Emotion Perception and Empathy,0
+intuit_annotation,2770,Episodic Memory,2
+intuit_annotation,2770,Functional Perception,1
+intuit_annotation,2770,Inhibitory Control,1
+intuit_annotation,2770,Language,2
+intuit_annotation,2770,Mental Simulation,0
+intuit_annotation,2770,Metacognition,1
+intuit_annotation,2770,Object Permanence,1
+intuit_annotation,2770,Perception and Pattern Recognition,2
+intuit_annotation,2770,Planning,0
+intuit_annotation,2770,Procedural Memory,0
+intuit_annotation,2770,Prospective Memory,0
+intuit_annotation,2770,Semantic Memory,2
+intuit_annotation,2770,Spatial Reasoning and Navigation,0
+intuit_annotation,2770,Theory of Mind,1
+intuit_annotation,2770,Working Memory,2
+intuit_annotation,2770,ambiguity,5
+intuit_annotation,2770,factuality,5
+intuit_annotation,2856,Causal Reasoning,1
+intuit_annotation,2856,Cognitive Flexibility,0
+intuit_annotation,2856,Emotion Perception and Empathy,1
+intuit_annotation,2856,Episodic Memory,2
+intuit_annotation,2856,Functional Perception,1
+intuit_annotation,2856,Inhibitory Control,3
+intuit_annotation,2856,Language,3
+intuit_annotation,2856,Mental Simulation,1
+intuit_annotation,2856,Metacognition,2
+intuit_annotation,2856,Object Permanence,0
+intuit_annotation,2856,Perception and Pattern Recognition,2
+intuit_annotation,2856,Planning,0
+intuit_annotation,2856,Procedural Memory,0
+intuit_annotation,2856,Prospective Memory,0
+intuit_annotation,2856,Semantic Memory,2
+intuit_annotation,2856,Spatial Reasoning and Navigation,0
+intuit_annotation,2856,Theory of Mind,3
+intuit_annotation,2856,Working Memory,2
+intuit_annotation,2856,ambiguity,5
+intuit_annotation,2856,factuality,5
+intuit_annotation,2884,Causal Reasoning,0
+intuit_annotation,2884,Cognitive Flexibility,0
+intuit_annotation,2884,Emotion Perception and Empathy,0
+intuit_annotation,2884,Episodic Memory,1
+intuit_annotation,2884,Functional Perception,1
+intuit_annotation,2884,Inhibitory Control,1
+intuit_annotation,2884,Language,1
+intuit_annotation,2884,Mental Simulation,1
+intuit_annotation,2884,Metacognition,1
+intuit_annotation,2884,Object Permanence,1
+intuit_annotation,2884,Perception and Pattern Recognition,1
+intuit_annotation,2884,Planning,0
+intuit_annotation,2884,Procedural Memory,0
+intuit_annotation,2884,Prospective Memory,0
+intuit_annotation,2884,Semantic Memory,1
+intuit_annotation,2884,Spatial Reasoning and Navigation,1
+intuit_annotation,2884,Theory of Mind,0
+intuit_annotation,2884,Working Memory,2
+intuit_annotation,2884,ambiguity,5
+intuit_annotation,2884,factuality,5
+intuit_annotation,2941,Causal Reasoning,0
+intuit_annotation,2941,Cognitive Flexibility,0
+intuit_annotation,2941,Emotion Perception and Empathy,0
+intuit_annotation,2941,Episodic Memory,1
+intuit_annotation,2941,Functional Perception,0
+intuit_annotation,2941,Inhibitory Control,0
+intuit_annotation,2941,Language,1
+intuit_annotation,2941,Mental Simulation,0
+intuit_annotation,2941,Metacognition,1
+intuit_annotation,2941,Object Permanence,0
+intuit_annotation,2941,Perception and Pattern Recognition,1
+intuit_annotation,2941,Planning,0
+intuit_annotation,2941,Procedural Memory,0
+intuit_annotation,2941,Prospective Memory,0
+intuit_annotation,2941,Semantic Memory,1
+intuit_annotation,2941,Spatial Reasoning and Navigation,0
+intuit_annotation,2941,Theory of Mind,0
+intuit_annotation,2941,Working Memory,1
+intuit_annotation,2941,ambiguity,5
+intuit_annotation,2941,factuality,5
+intuit_annotation,2989,Causal Reasoning,0
+intuit_annotation,2989,Cognitive Flexibility,0
+intuit_annotation,2989,Emotion Perception and Empathy,0
+intuit_annotation,2989,Episodic Memory,0
+intuit_annotation,2989,Functional Perception,1
+intuit_annotation,2989,Inhibitory Control,1
+intuit_annotation,2989,Language,1
+intuit_annotation,2989,Mental Simulation,0
+intuit_annotation,2989,Metacognition,1
+intuit_annotation,2989,Object Permanence,0
+intuit_annotation,2989,Perception and Pattern Recognition,1
+intuit_annotation,2989,Planning,0
+intuit_annotation,2989,Procedural Memory,0
+intuit_annotation,2989,Prospective Memory,0
+intuit_annotation,2989,Semantic Memory,1
+intuit_annotation,2989,Spatial Reasoning and Navigation,0
+intuit_annotation,2989,Theory of Mind,1
+intuit_annotation,2989,Working Memory,0
+intuit_annotation,2989,ambiguity,4
+intuit_annotation,2989,factuality,5
+intuit_annotation,3029,Causal Reasoning,1
+intuit_annotation,3029,Cognitive Flexibility,0
+intuit_annotation,3029,Emotion Perception and Empathy,0
+intuit_annotation,3029,Episodic Memory,0
+intuit_annotation,3029,Functional Perception,1
+intuit_annotation,3029,Inhibitory Control,1
+intuit_annotation,3029,Language,2
+intuit_annotation,3029,Mental Simulation,0
+intuit_annotation,3029,Metacognition,2
+intuit_annotation,3029,Object Permanence,0
+intuit_annotation,3029,Perception and Pattern Recognition,2
+intuit_annotation,3029,Planning,0
+intuit_annotation,3029,Procedural Memory,0
+intuit_annotation,3029,Prospective Memory,0
+intuit_annotation,3029,Semantic Memory,1
+intuit_annotation,3029,Spatial Reasoning and Navigation,1
+intuit_annotation,3029,Theory of Mind,1
+intuit_annotation,3029,Working Memory,1
+intuit_annotation,3029,ambiguity,4
+intuit_annotation,3029,factuality,5
+intuit_annotation,3038,Causal Reasoning,1
+intuit_annotation,3038,Cognitive Flexibility,0
+intuit_annotation,3038,Emotion Perception and Empathy,0
+intuit_annotation,3038,Episodic Memory,1
+intuit_annotation,3038,Functional Perception,2
+intuit_annotation,3038,Inhibitory Control,1
+intuit_annotation,3038,Language,1
+intuit_annotation,3038,Mental Simulation,0
+intuit_annotation,3038,Metacognition,2
+intuit_annotation,3038,Object Permanence,0
+intuit_annotation,3038,Perception and Pattern Recognition,1
+intuit_annotation,3038,Planning,0
+intuit_annotation,3038,Procedural Memory,0
+intuit_annotation,3038,Prospective Memory,0
+intuit_annotation,3038,Semantic Memory,2
+intuit_annotation,3038,Spatial Reasoning and Navigation,1
+intuit_annotation,3038,Theory of Mind,2
+intuit_annotation,3038,Working Memory,2
+intuit_annotation,3038,ambiguity,4
+intuit_annotation,3038,factuality,4
+intuit_annotation,30,Causal Reasoning,0
+intuit_annotation,30,Cognitive Flexibility,0
+intuit_annotation,30,Emotion Perception and Empathy,0
+intuit_annotation,30,Episodic Memory,0
+intuit_annotation,30,Functional Perception,0
+intuit_annotation,30,Inhibitory Control,0
+intuit_annotation,30,Language,1
+intuit_annotation,30,Mental Simulation,0
+intuit_annotation,30,Metacognition,0
+intuit_annotation,30,Object Permanence,0
+intuit_annotation,30,Perception and Pattern Recognition,1
+intuit_annotation,30,Planning,0
+intuit_annotation,30,Procedural Memory,0
+intuit_annotation,30,Prospective Memory,0
+intuit_annotation,30,Semantic Memory,1
+intuit_annotation,30,Spatial Reasoning and Navigation,0
+intuit_annotation,30,Theory of Mind,0
+intuit_annotation,30,Working Memory,1
+intuit_annotation,30,ambiguity,5
+intuit_annotation,30,factuality,5
+intuit_annotation,3107,Causal Reasoning,0
+intuit_annotation,3107,Cognitive Flexibility,0
+intuit_annotation,3107,Emotion Perception and Empathy,0
+intuit_annotation,3107,Episodic Memory,1
+intuit_annotation,3107,Functional Perception,0
+intuit_annotation,3107,Inhibitory Control,2
+intuit_annotation,3107,Language,2
+intuit_annotation,3107,Mental Simulation,0
+intuit_annotation,3107,Metacognition,2
+intuit_annotation,3107,Object Permanence,0
+intuit_annotation,3107,Perception and Pattern Recognition,1
+intuit_annotation,3107,Planning,0
+intuit_annotation,3107,Procedural Memory,0
+intuit_annotation,3107,Prospective Memory,0
+intuit_annotation,3107,Semantic Memory,1
+intuit_annotation,3107,Spatial Reasoning and Navigation,0
+intuit_annotation,3107,Theory of Mind,0
+intuit_annotation,3107,Working Memory,1
+intuit_annotation,3107,ambiguity,2
+intuit_annotation,3107,factuality,5
+intuit_annotation,3140,Causal Reasoning,1
+intuit_annotation,3140,Cognitive Flexibility,0
+intuit_annotation,3140,Emotion Perception and Empathy,0
+intuit_annotation,3140,Episodic Memory,0
+intuit_annotation,3140,Functional Perception,3
+intuit_annotation,3140,Inhibitory Control,1
+intuit_annotation,3140,Language,2
+intuit_annotation,3140,Mental Simulation,1
+intuit_annotation,3140,Metacognition,1
+intuit_annotation,3140,Object Permanence,0
+intuit_annotation,3140,Perception and Pattern Recognition,2
+intuit_annotation,3140,Planning,1
+intuit_annotation,3140,Procedural Memory,2
+intuit_annotation,3140,Prospective Memory,0
+intuit_annotation,3140,Semantic Memory,2
+intuit_annotation,3140,Spatial Reasoning and Navigation,2
+intuit_annotation,3140,Theory of Mind,1
+intuit_annotation,3140,Working Memory,3
+intuit_annotation,3140,ambiguity,5
+intuit_annotation,3140,factuality,4
+intuit_annotation,3165,Causal Reasoning,1
+intuit_annotation,3165,Cognitive Flexibility,0
+intuit_annotation,3165,Emotion Perception and Empathy,0
+intuit_annotation,3165,Episodic Memory,1
+intuit_annotation,3165,Functional Perception,1
+intuit_annotation,3165,Inhibitory Control,0
+intuit_annotation,3165,Language,1
+intuit_annotation,3165,Mental Simulation,1
+intuit_annotation,3165,Metacognition,1
+intuit_annotation,3165,Object Permanence,0
+intuit_annotation,3165,Perception and Pattern Recognition,2
+intuit_annotation,3165,Planning,0
+intuit_annotation,3165,Procedural Memory,1
+intuit_annotation,3165,Prospective Memory,0
+intuit_annotation,3165,Semantic Memory,2
+intuit_annotation,3165,Spatial Reasoning and Navigation,2
+intuit_annotation,3165,Theory of Mind,0
+intuit_annotation,3165,Working Memory,1
+intuit_annotation,3165,ambiguity,5
+intuit_annotation,3165,factuality,2
+intuit_annotation,3169,Causal Reasoning,1
+intuit_annotation,3169,Cognitive Flexibility,1
+intuit_annotation,3169,Emotion Perception and Empathy,0
+intuit_annotation,3169,Episodic Memory,0
+intuit_annotation,3169,Functional Perception,2
+intuit_annotation,3169,Inhibitory Control,1
+intuit_annotation,3169,Language,1
+intuit_annotation,3169,Mental Simulation,1
+intuit_annotation,3169,Metacognition,2
+intuit_annotation,3169,Object Permanence,0
+intuit_annotation,3169,Perception and Pattern Recognition,2
+intuit_annotation,3169,Planning,1
+intuit_annotation,3169,Procedural Memory,2
+intuit_annotation,3169,Prospective Memory,0
+intuit_annotation,3169,Semantic Memory,2
+intuit_annotation,3169,Spatial Reasoning and Navigation,2
+intuit_annotation,3169,Theory of Mind,1
+intuit_annotation,3169,Working Memory,3
+intuit_annotation,3169,ambiguity,5
+intuit_annotation,3169,factuality,2
+intuit_annotation,318,Causal Reasoning,1
+intuit_annotation,318,Cognitive Flexibility,0
+intuit_annotation,318,Emotion Perception and Empathy,0
+intuit_annotation,318,Episodic Memory,1
+intuit_annotation,318,Functional Perception,1
+intuit_annotation,318,Inhibitory Control,0
+intuit_annotation,318,Language,1
+intuit_annotation,318,Mental Simulation,0
+intuit_annotation,318,Metacognition,0
+intuit_annotation,318,Object Permanence,0
+intuit_annotation,318,Perception and Pattern Recognition,1
+intuit_annotation,318,Planning,0
+intuit_annotation,318,Procedural Memory,0
+intuit_annotation,318,Prospective Memory,0
+intuit_annotation,318,Semantic Memory,1
+intuit_annotation,318,Spatial Reasoning and Navigation,0
+intuit_annotation,318,Theory of Mind,2
+intuit_annotation,318,Working Memory,1
+intuit_annotation,318,ambiguity,5
+intuit_annotation,318,factuality,5
+intuit_annotation,3219,Causal Reasoning,1
+intuit_annotation,3219,Cognitive Flexibility,2
+intuit_annotation,3219,Emotion Perception and Empathy,0
+intuit_annotation,3219,Episodic Memory,1
+intuit_annotation,3219,Functional Perception,3
+intuit_annotation,3219,Inhibitory Control,2
+intuit_annotation,3219,Language,2
+intuit_annotation,3219,Mental Simulation,1
+intuit_annotation,3219,Metacognition,2
+intuit_annotation,3219,Object Permanence,0
+intuit_annotation,3219,Perception and Pattern Recognition,1
+intuit_annotation,3219,Planning,1
+intuit_annotation,3219,Procedural Memory,2
+intuit_annotation,3219,Prospective Memory,1
+intuit_annotation,3219,Semantic Memory,2
+intuit_annotation,3219,Spatial Reasoning and Navigation,2
+intuit_annotation,3219,Theory of Mind,1
+intuit_annotation,3219,Working Memory,3
+intuit_annotation,3219,ambiguity,4
+intuit_annotation,3219,factuality,5
+intuit_annotation,3224,Causal Reasoning,1
+intuit_annotation,3224,Cognitive Flexibility,1
+intuit_annotation,3224,Emotion Perception and Empathy,0
+intuit_annotation,3224,Episodic Memory,1
+intuit_annotation,3224,Functional Perception,3
+intuit_annotation,3224,Inhibitory Control,1
 intuit_annotation,3224,Language,2
 intuit_annotation,3224,Mental Simulation,1
-intuit_annotation,3224,Metacognition,2
-intuit_annotation,3224,Object permanence,0
+intuit_annotation,3224,Metacognition,1
+intuit_annotation,3224,Object Permanence,0
 intuit_annotation,3224,Perception and Pattern Recognition,2
 intuit_annotation,3224,Planning,1
 intuit_annotation,3224,Procedural Memory,2
-intuit_annotation,3224,Prospective Memory,0
-intuit_annotation,3224,Semantic Memory,1
-intuit_annotation,3224,Spatial reasoning and navigation,2
+intuit_annotation,3224,Prospective Memory,2
+intuit_annotation,3224,Semantic Memory,2
+intuit_annotation,3224,Spatial Reasoning and Navigation,2
 intuit_annotation,3224,Theory of Mind,1
 intuit_annotation,3224,Working Memory,3
 intuit_annotation,3224,ambiguity,5
 intuit_annotation,3224,factuality,5
-intuit_annotation,4732,Causal Reasoning,2
-intuit_annotation,4732,Cognitive Flexibility,0
-intuit_annotation,4732,Emotion Perception & Empathy (EPE),0
-intuit_annotation,4732,Episodic/Episodic-Like Memory,0
-intuit_annotation,4732,Executive Function (EF),2
-intuit_annotation,4732,Functional perception,1
-intuit_annotation,4732,Inhibitory Control,3
-intuit_annotation,4732,Language,2
+intuit_annotation,3239,Causal Reasoning,2
+intuit_annotation,3239,Cognitive Flexibility,2
+intuit_annotation,3239,Emotion Perception and Empathy,0
+intuit_annotation,3239,Episodic Memory,0
+intuit_annotation,3239,Functional Perception,3
+intuit_annotation,3239,Inhibitory Control,2
+intuit_annotation,3239,Language,1
+intuit_annotation,3239,Mental Simulation,2
+intuit_annotation,3239,Metacognition,3
+intuit_annotation,3239,Object Permanence,0
+intuit_annotation,3239,Perception and Pattern Recognition,1
+intuit_annotation,3239,Planning,1
+intuit_annotation,3239,Procedural Memory,2
+intuit_annotation,3239,Prospective Memory,1
+intuit_annotation,3239,Semantic Memory,2
+intuit_annotation,3239,Spatial Reasoning and Navigation,2
+intuit_annotation,3239,Theory of Mind,0
+intuit_annotation,3239,Working Memory,1
+intuit_annotation,3239,ambiguity,4
+intuit_annotation,3239,factuality,5
+intuit_annotation,3259,Causal Reasoning,1
+intuit_annotation,3259,Cognitive Flexibility,2
+intuit_annotation,3259,Emotion Perception and Empathy,0
+intuit_annotation,3259,Episodic Memory,1
+intuit_annotation,3259,Functional Perception,2
+intuit_annotation,3259,Inhibitory Control,3
+intuit_annotation,3259,Language,2
+intuit_annotation,3259,Mental Simulation,2
+intuit_annotation,3259,Metacognition,2
+intuit_annotation,3259,Object Permanence,0
+intuit_annotation,3259,Perception and Pattern Recognition,2
+intuit_annotation,3259,Planning,1
+intuit_annotation,3259,Procedural Memory,2
+intuit_annotation,3259,Prospective Memory,2
+intuit_annotation,3259,Semantic Memory,2
+intuit_annotation,3259,Spatial Reasoning and Navigation,2
+intuit_annotation,3259,Theory of Mind,1
+intuit_annotation,3259,Working Memory,3
+intuit_annotation,3259,ambiguity,5
+intuit_annotation,3259,factuality,5
+intuit_annotation,3305,Causal Reasoning,1
+intuit_annotation,3305,Cognitive Flexibility,2
+intuit_annotation,3305,Emotion Perception and Empathy,1
+intuit_annotation,3305,Episodic Memory,0
+intuit_annotation,3305,Functional Perception,3
+intuit_annotation,3305,Inhibitory Control,2
+intuit_annotation,3305,Language,2
+intuit_annotation,3305,Mental Simulation,1
+intuit_annotation,3305,Metacognition,2
+intuit_annotation,3305,Object Permanence,0
+intuit_annotation,3305,Perception and Pattern Recognition,1
+intuit_annotation,3305,Planning,1
+intuit_annotation,3305,Procedural Memory,3
+intuit_annotation,3305,Prospective Memory,1
+intuit_annotation,3305,Semantic Memory,2
+intuit_annotation,3305,Spatial Reasoning and Navigation,2
+intuit_annotation,3305,Theory of Mind,1
+intuit_annotation,3305,Working Memory,2
+intuit_annotation,3305,ambiguity,5
+intuit_annotation,3305,factuality,5
+intuit_annotation,3359,Causal Reasoning,1
+intuit_annotation,3359,Cognitive Flexibility,3
+intuit_annotation,3359,Emotion Perception and Empathy,0
+intuit_annotation,3359,Episodic Memory,1
+intuit_annotation,3359,Functional Perception,3
+intuit_annotation,3359,Inhibitory Control,2
+intuit_annotation,3359,Language,1
+intuit_annotation,3359,Mental Simulation,2
+intuit_annotation,3359,Metacognition,2
+intuit_annotation,3359,Object Permanence,0
+intuit_annotation,3359,Perception and Pattern Recognition,1
+intuit_annotation,3359,Planning,1
+intuit_annotation,3359,Procedural Memory,3
+intuit_annotation,3359,Prospective Memory,1
+intuit_annotation,3359,Semantic Memory,2
+intuit_annotation,3359,Spatial Reasoning and Navigation,2
+intuit_annotation,3359,Theory of Mind,1
+intuit_annotation,3359,Working Memory,3
+intuit_annotation,3359,ambiguity,5
+intuit_annotation,3359,factuality,5
+intuit_annotation,3387,Causal Reasoning,0
+intuit_annotation,3387,Cognitive Flexibility,0
+intuit_annotation,3387,Emotion Perception and Empathy,0
+intuit_annotation,3387,Episodic Memory,1
+intuit_annotation,3387,Functional Perception,1
+intuit_annotation,3387,Inhibitory Control,0
+intuit_annotation,3387,Language,1
+intuit_annotation,3387,Mental Simulation,0
+intuit_annotation,3387,Metacognition,0
+intuit_annotation,3387,Object Permanence,0
+intuit_annotation,3387,Perception and Pattern Recognition,0
+intuit_annotation,3387,Planning,0
+intuit_annotation,3387,Procedural Memory,0
+intuit_annotation,3387,Prospective Memory,0
+intuit_annotation,3387,Semantic Memory,1
+intuit_annotation,3387,Spatial Reasoning and Navigation,0
+intuit_annotation,3387,Theory of Mind,1
+intuit_annotation,3387,Working Memory,1
+intuit_annotation,3387,ambiguity,5
+intuit_annotation,3387,factuality,5
+intuit_annotation,3388,Causal Reasoning,1
+intuit_annotation,3388,Cognitive Flexibility,0
+intuit_annotation,3388,Emotion Perception and Empathy,0
+intuit_annotation,3388,Episodic Memory,1
+intuit_annotation,3388,Functional Perception,1
+intuit_annotation,3388,Inhibitory Control,0
+intuit_annotation,3388,Language,1
+intuit_annotation,3388,Mental Simulation,0
+intuit_annotation,3388,Metacognition,0
+intuit_annotation,3388,Object Permanence,0
+intuit_annotation,3388,Perception and Pattern Recognition,0
+intuit_annotation,3388,Planning,0
+intuit_annotation,3388,Procedural Memory,0
+intuit_annotation,3388,Prospective Memory,0
+intuit_annotation,3388,Semantic Memory,1
+intuit_annotation,3388,Spatial Reasoning and Navigation,1
+intuit_annotation,3388,Theory of Mind,1
+intuit_annotation,3388,Working Memory,1
+intuit_annotation,3388,ambiguity,5
+intuit_annotation,3388,factuality,5
+intuit_annotation,3411,Causal Reasoning,0
+intuit_annotation,3411,Cognitive Flexibility,0
+intuit_annotation,3411,Emotion Perception and Empathy,0
+intuit_annotation,3411,Episodic Memory,0
+intuit_annotation,3411,Functional Perception,0
+intuit_annotation,3411,Inhibitory Control,1
+intuit_annotation,3411,Language,1
+intuit_annotation,3411,Mental Simulation,0
+intuit_annotation,3411,Metacognition,0
+intuit_annotation,3411,Object Permanence,0
+intuit_annotation,3411,Perception and Pattern Recognition,1
+intuit_annotation,3411,Planning,0
+intuit_annotation,3411,Procedural Memory,0
+intuit_annotation,3411,Prospective Memory,0
+intuit_annotation,3411,Semantic Memory,1
+intuit_annotation,3411,Spatial Reasoning and Navigation,0
+intuit_annotation,3411,Theory of Mind,0
+intuit_annotation,3411,Working Memory,0
+intuit_annotation,3411,ambiguity,5
+intuit_annotation,3411,factuality,5
+intuit_annotation,3431,Causal Reasoning,0
+intuit_annotation,3431,Cognitive Flexibility,0
+intuit_annotation,3431,Emotion Perception and Empathy,0
+intuit_annotation,3431,Episodic Memory,1
+intuit_annotation,3431,Functional Perception,0
+intuit_annotation,3431,Inhibitory Control,1
+intuit_annotation,3431,Language,1
+intuit_annotation,3431,Mental Simulation,0
+intuit_annotation,3431,Metacognition,0
+intuit_annotation,3431,Object Permanence,0
+intuit_annotation,3431,Perception and Pattern Recognition,1
+intuit_annotation,3431,Planning,0
+intuit_annotation,3431,Procedural Memory,0
+intuit_annotation,3431,Prospective Memory,0
+intuit_annotation,3431,Semantic Memory,1
+intuit_annotation,3431,Spatial Reasoning and Navigation,0
+intuit_annotation,3431,Theory of Mind,0
+intuit_annotation,3431,Working Memory,1
+intuit_annotation,3431,ambiguity,5
+intuit_annotation,3431,factuality,5
+intuit_annotation,3435,Causal Reasoning,0
+intuit_annotation,3435,Cognitive Flexibility,0
+intuit_annotation,3435,Emotion Perception and Empathy,0
+intuit_annotation,3435,Episodic Memory,1
+intuit_annotation,3435,Functional Perception,0
+intuit_annotation,3435,Inhibitory Control,1
+intuit_annotation,3435,Language,1
+intuit_annotation,3435,Mental Simulation,0
+intuit_annotation,3435,Metacognition,0
+intuit_annotation,3435,Object Permanence,0
+intuit_annotation,3435,Perception and Pattern Recognition,0
+intuit_annotation,3435,Planning,0
+intuit_annotation,3435,Procedural Memory,0
+intuit_annotation,3435,Prospective Memory,0
+intuit_annotation,3435,Semantic Memory,1
+intuit_annotation,3435,Spatial Reasoning and Navigation,0
+intuit_annotation,3435,Theory of Mind,0
+intuit_annotation,3435,Working Memory,1
+intuit_annotation,3435,ambiguity,5
+intuit_annotation,3435,factuality,5
+intuit_annotation,3481,Causal Reasoning,1
+intuit_annotation,3481,Cognitive Flexibility,0
+intuit_annotation,3481,Emotion Perception and Empathy,0
+intuit_annotation,3481,Episodic Memory,0
+intuit_annotation,3481,Functional Perception,1
+intuit_annotation,3481,Inhibitory Control,1
+intuit_annotation,3481,Language,1
+intuit_annotation,3481,Mental Simulation,0
+intuit_annotation,3481,Metacognition,1
+intuit_annotation,3481,Object Permanence,0
+intuit_annotation,3481,Perception and Pattern Recognition,1
+intuit_annotation,3481,Planning,0
+intuit_annotation,3481,Procedural Memory,0
+intuit_annotation,3481,Prospective Memory,0
+intuit_annotation,3481,Semantic Memory,1
+intuit_annotation,3481,Spatial Reasoning and Navigation,0
+intuit_annotation,3481,Theory of Mind,0
+intuit_annotation,3481,Working Memory,0
+intuit_annotation,3481,ambiguity,5
+intuit_annotation,3481,factuality,5
+intuit_annotation,3483,Causal Reasoning,0
+intuit_annotation,3483,Cognitive Flexibility,0
+intuit_annotation,3483,Emotion Perception and Empathy,0
+intuit_annotation,3483,Episodic Memory,0
+intuit_annotation,3483,Functional Perception,1
+intuit_annotation,3483,Inhibitory Control,0
+intuit_annotation,3483,Language,1
+intuit_annotation,3483,Mental Simulation,0
+intuit_annotation,3483,Metacognition,1
+intuit_annotation,3483,Object Permanence,0
+intuit_annotation,3483,Perception and Pattern Recognition,1
+intuit_annotation,3483,Planning,0
+intuit_annotation,3483,Procedural Memory,0
+intuit_annotation,3483,Prospective Memory,0
+intuit_annotation,3483,Semantic Memory,2
+intuit_annotation,3483,Spatial Reasoning and Navigation,0
+intuit_annotation,3483,Theory of Mind,0
+intuit_annotation,3483,Working Memory,0
+intuit_annotation,3483,ambiguity,5
+intuit_annotation,3483,factuality,5
+intuit_annotation,3564,Causal Reasoning,0
+intuit_annotation,3564,Cognitive Flexibility,0
+intuit_annotation,3564,Emotion Perception and Empathy,0
+intuit_annotation,3564,Episodic Memory,0
+intuit_annotation,3564,Functional Perception,0
+intuit_annotation,3564,Inhibitory Control,1
+intuit_annotation,3564,Language,1
+intuit_annotation,3564,Mental Simulation,0
+intuit_annotation,3564,Metacognition,2
+intuit_annotation,3564,Object Permanence,0
+intuit_annotation,3564,Perception and Pattern Recognition,0
+intuit_annotation,3564,Planning,0
+intuit_annotation,3564,Procedural Memory,0
+intuit_annotation,3564,Prospective Memory,0
+intuit_annotation,3564,Semantic Memory,1
+intuit_annotation,3564,Spatial Reasoning and Navigation,0
+intuit_annotation,3564,Theory of Mind,0
+intuit_annotation,3564,Working Memory,1
+intuit_annotation,3564,ambiguity,3
+intuit_annotation,3564,factuality,5
+intuit_annotation,358,Causal Reasoning,1
+intuit_annotation,358,Cognitive Flexibility,0
+intuit_annotation,358,Emotion Perception and Empathy,0
+intuit_annotation,358,Episodic Memory,0
+intuit_annotation,358,Functional Perception,1
+intuit_annotation,358,Inhibitory Control,1
+intuit_annotation,358,Language,1
+intuit_annotation,358,Mental Simulation,1
+intuit_annotation,358,Metacognition,1
+intuit_annotation,358,Object Permanence,0
+intuit_annotation,358,Perception and Pattern Recognition,1
+intuit_annotation,358,Planning,0
+intuit_annotation,358,Procedural Memory,0
+intuit_annotation,358,Prospective Memory,0
+intuit_annotation,358,Semantic Memory,1
+intuit_annotation,358,Spatial Reasoning and Navigation,0
+intuit_annotation,358,Theory of Mind,1
+intuit_annotation,358,Working Memory,1
+intuit_annotation,358,ambiguity,5
+intuit_annotation,358,factuality,5
+intuit_annotation,3594,Causal Reasoning,0
+intuit_annotation,3594,Cognitive Flexibility,0
+intuit_annotation,3594,Emotion Perception and Empathy,0
+intuit_annotation,3594,Episodic Memory,0
+intuit_annotation,3594,Functional Perception,0
+intuit_annotation,3594,Inhibitory Control,2
+intuit_annotation,3594,Language,1
+intuit_annotation,3594,Mental Simulation,0
+intuit_annotation,3594,Metacognition,2
+intuit_annotation,3594,Object Permanence,0
+intuit_annotation,3594,Perception and Pattern Recognition,0
+intuit_annotation,3594,Planning,0
+intuit_annotation,3594,Procedural Memory,0
+intuit_annotation,3594,Prospective Memory,0
+intuit_annotation,3594,Semantic Memory,1
+intuit_annotation,3594,Spatial Reasoning and Navigation,0
+intuit_annotation,3594,Theory of Mind,0
+intuit_annotation,3594,Working Memory,1
+intuit_annotation,3594,ambiguity,3
+intuit_annotation,3594,factuality,5
+intuit_annotation,3612,Causal Reasoning,0
+intuit_annotation,3612,Cognitive Flexibility,0
+intuit_annotation,3612,Emotion Perception and Empathy,0
+intuit_annotation,3612,Episodic Memory,0
+intuit_annotation,3612,Functional Perception,1
+intuit_annotation,3612,Inhibitory Control,0
+intuit_annotation,3612,Language,2
+intuit_annotation,3612,Mental Simulation,1
+intuit_annotation,3612,Metacognition,0
+intuit_annotation,3612,Object Permanence,0
+intuit_annotation,3612,Perception and Pattern Recognition,1
+intuit_annotation,3612,Planning,0
+intuit_annotation,3612,Procedural Memory,0
+intuit_annotation,3612,Prospective Memory,0
+intuit_annotation,3612,Semantic Memory,1
+intuit_annotation,3612,Spatial Reasoning and Navigation,1
+intuit_annotation,3612,Theory of Mind,1
+intuit_annotation,3612,Working Memory,0
+intuit_annotation,3612,ambiguity,5
+intuit_annotation,3612,factuality,5
+intuit_annotation,3646,Causal Reasoning,1
+intuit_annotation,3646,Cognitive Flexibility,0
+intuit_annotation,3646,Emotion Perception and Empathy,0
+intuit_annotation,3646,Episodic Memory,0
+intuit_annotation,3646,Functional Perception,1
+intuit_annotation,3646,Inhibitory Control,0
+intuit_annotation,3646,Language,1
+intuit_annotation,3646,Mental Simulation,1
+intuit_annotation,3646,Metacognition,0
+intuit_annotation,3646,Object Permanence,1
+intuit_annotation,3646,Perception and Pattern Recognition,1
+intuit_annotation,3646,Planning,1
+intuit_annotation,3646,Procedural Memory,0
+intuit_annotation,3646,Prospective Memory,0
+intuit_annotation,3646,Semantic Memory,1
+intuit_annotation,3646,Spatial Reasoning and Navigation,1
+intuit_annotation,3646,Theory of Mind,2
+intuit_annotation,3646,Working Memory,1
+intuit_annotation,3646,ambiguity,5
+intuit_annotation,3646,factuality,5
+intuit_annotation,3648,Causal Reasoning,1
+intuit_annotation,3648,Cognitive Flexibility,1
+intuit_annotation,3648,Emotion Perception and Empathy,0
+intuit_annotation,3648,Episodic Memory,0
+intuit_annotation,3648,Functional Perception,1
+intuit_annotation,3648,Inhibitory Control,1
+intuit_annotation,3648,Language,2
+intuit_annotation,3648,Mental Simulation,1
+intuit_annotation,3648,Metacognition,1
+intuit_annotation,3648,Object Permanence,0
+intuit_annotation,3648,Perception and Pattern Recognition,1
+intuit_annotation,3648,Planning,0
+intuit_annotation,3648,Procedural Memory,0
+intuit_annotation,3648,Prospective Memory,0
+intuit_annotation,3648,Semantic Memory,1
+intuit_annotation,3648,Spatial Reasoning and Navigation,1
+intuit_annotation,3648,Theory of Mind,1
+intuit_annotation,3648,Working Memory,1
+intuit_annotation,3648,ambiguity,5
+intuit_annotation,3648,factuality,5
+intuit_annotation,3654,Causal Reasoning,1
+intuit_annotation,3654,Cognitive Flexibility,0
+intuit_annotation,3654,Emotion Perception and Empathy,0
+intuit_annotation,3654,Episodic Memory,0
+intuit_annotation,3654,Functional Perception,1
+intuit_annotation,3654,Inhibitory Control,0
+intuit_annotation,3654,Language,1
+intuit_annotation,3654,Mental Simulation,1
+intuit_annotation,3654,Metacognition,1
+intuit_annotation,3654,Object Permanence,1
+intuit_annotation,3654,Perception and Pattern Recognition,1
+intuit_annotation,3654,Planning,0
+intuit_annotation,3654,Procedural Memory,0
+intuit_annotation,3654,Prospective Memory,0
+intuit_annotation,3654,Semantic Memory,1
+intuit_annotation,3654,Spatial Reasoning and Navigation,1
+intuit_annotation,3654,Theory of Mind,2
+intuit_annotation,3654,Working Memory,1
+intuit_annotation,3654,ambiguity,5
+intuit_annotation,3654,factuality,5
+intuit_annotation,3659,Causal Reasoning,1
+intuit_annotation,3659,Cognitive Flexibility,0
+intuit_annotation,3659,Emotion Perception and Empathy,0
+intuit_annotation,3659,Episodic Memory,0
+intuit_annotation,3659,Functional Perception,1
+intuit_annotation,3659,Inhibitory Control,0
+intuit_annotation,3659,Language,2
+intuit_annotation,3659,Mental Simulation,1
+intuit_annotation,3659,Metacognition,1
+intuit_annotation,3659,Object Permanence,0
+intuit_annotation,3659,Perception and Pattern Recognition,1
+intuit_annotation,3659,Planning,0
+intuit_annotation,3659,Procedural Memory,0
+intuit_annotation,3659,Prospective Memory,0
+intuit_annotation,3659,Semantic Memory,1
+intuit_annotation,3659,Spatial Reasoning and Navigation,1
+intuit_annotation,3659,Theory of Mind,1
+intuit_annotation,3659,Working Memory,2
+intuit_annotation,3659,ambiguity,5
+intuit_annotation,3659,factuality,5
+intuit_annotation,3737,Causal Reasoning,1
+intuit_annotation,3737,Cognitive Flexibility,0
+intuit_annotation,3737,Emotion Perception and Empathy,0
+intuit_annotation,3737,Episodic Memory,0
+intuit_annotation,3737,Functional Perception,1
+intuit_annotation,3737,Inhibitory Control,0
+intuit_annotation,3737,Language,2
+intuit_annotation,3737,Mental Simulation,1
+intuit_annotation,3737,Metacognition,0
+intuit_annotation,3737,Object Permanence,0
+intuit_annotation,3737,Perception and Pattern Recognition,1
+intuit_annotation,3737,Planning,0
+intuit_annotation,3737,Procedural Memory,0
+intuit_annotation,3737,Prospective Memory,0
+intuit_annotation,3737,Semantic Memory,1
+intuit_annotation,3737,Spatial Reasoning and Navigation,1
+intuit_annotation,3737,Theory of Mind,1
+intuit_annotation,3737,Working Memory,0
+intuit_annotation,3737,ambiguity,5
+intuit_annotation,3737,factuality,5
+intuit_annotation,3755,Causal Reasoning,1
+intuit_annotation,3755,Cognitive Flexibility,0
+intuit_annotation,3755,Emotion Perception and Empathy,1
+intuit_annotation,3755,Episodic Memory,0
+intuit_annotation,3755,Functional Perception,1
+intuit_annotation,3755,Inhibitory Control,1
+intuit_annotation,3755,Language,1
+intuit_annotation,3755,Mental Simulation,1
+intuit_annotation,3755,Metacognition,1
+intuit_annotation,3755,Object Permanence,0
+intuit_annotation,3755,Perception and Pattern Recognition,1
+intuit_annotation,3755,Planning,0
+intuit_annotation,3755,Procedural Memory,0
+intuit_annotation,3755,Prospective Memory,0
+intuit_annotation,3755,Semantic Memory,1
+intuit_annotation,3755,Spatial Reasoning and Navigation,1
+intuit_annotation,3755,Theory of Mind,1
+intuit_annotation,3755,Working Memory,1
+intuit_annotation,3755,ambiguity,5
+intuit_annotation,3755,factuality,5
+intuit_annotation,3762,Causal Reasoning,1
+intuit_annotation,3762,Cognitive Flexibility,0
+intuit_annotation,3762,Emotion Perception and Empathy,0
+intuit_annotation,3762,Episodic Memory,0
+intuit_annotation,3762,Functional Perception,1
+intuit_annotation,3762,Inhibitory Control,0
+intuit_annotation,3762,Language,1
+intuit_annotation,3762,Mental Simulation,1
+intuit_annotation,3762,Metacognition,0
+intuit_annotation,3762,Object Permanence,1
+intuit_annotation,3762,Perception and Pattern Recognition,1
+intuit_annotation,3762,Planning,0
+intuit_annotation,3762,Procedural Memory,0
+intuit_annotation,3762,Prospective Memory,0
+intuit_annotation,3762,Semantic Memory,1
+intuit_annotation,3762,Spatial Reasoning and Navigation,1
+intuit_annotation,3762,Theory of Mind,2
+intuit_annotation,3762,Working Memory,1
+intuit_annotation,3762,ambiguity,5
+intuit_annotation,3762,factuality,5
+intuit_annotation,377,Causal Reasoning,0
+intuit_annotation,377,Cognitive Flexibility,0
+intuit_annotation,377,Emotion Perception and Empathy,0
+intuit_annotation,377,Episodic Memory,0
+intuit_annotation,377,Functional Perception,1
+intuit_annotation,377,Inhibitory Control,0
+intuit_annotation,377,Language,1
+intuit_annotation,377,Mental Simulation,0
+intuit_annotation,377,Metacognition,1
+intuit_annotation,377,Object Permanence,0
+intuit_annotation,377,Perception and Pattern Recognition,1
+intuit_annotation,377,Planning,0
+intuit_annotation,377,Procedural Memory,0
+intuit_annotation,377,Prospective Memory,0
+intuit_annotation,377,Semantic Memory,1
+intuit_annotation,377,Spatial Reasoning and Navigation,1
+intuit_annotation,377,Theory of Mind,2
+intuit_annotation,377,Working Memory,1
+intuit_annotation,377,ambiguity,5
+intuit_annotation,377,factuality,5
+intuit_annotation,3853,Causal Reasoning,0
+intuit_annotation,3853,Cognitive Flexibility,2
+intuit_annotation,3853,Emotion Perception and Empathy,1
+intuit_annotation,3853,Episodic Memory,1
+intuit_annotation,3853,Functional Perception,0
+intuit_annotation,3853,Inhibitory Control,2
+intuit_annotation,3853,Language,1
+intuit_annotation,3853,Mental Simulation,0
+intuit_annotation,3853,Metacognition,1
+intuit_annotation,3853,Object Permanence,0
+intuit_annotation,3853,Perception and Pattern Recognition,2
+intuit_annotation,3853,Planning,0
+intuit_annotation,3853,Procedural Memory,0
+intuit_annotation,3853,Prospective Memory,0
+intuit_annotation,3853,Semantic Memory,1
+intuit_annotation,3853,Spatial Reasoning and Navigation,0
+intuit_annotation,3853,Theory of Mind,2
+intuit_annotation,3853,Working Memory,1
+intuit_annotation,3853,ambiguity,5
+intuit_annotation,3853,factuality,1
+intuit_annotation,3895,Causal Reasoning,0
+intuit_annotation,3895,Cognitive Flexibility,0
+intuit_annotation,3895,Emotion Perception and Empathy,0
+intuit_annotation,3895,Episodic Memory,1
+intuit_annotation,3895,Functional Perception,0
+intuit_annotation,3895,Inhibitory Control,1
+intuit_annotation,3895,Language,1
+intuit_annotation,3895,Mental Simulation,0
+intuit_annotation,3895,Metacognition,0
+intuit_annotation,3895,Object Permanence,0
+intuit_annotation,3895,Perception and Pattern Recognition,1
+intuit_annotation,3895,Planning,0
+intuit_annotation,3895,Procedural Memory,0
+intuit_annotation,3895,Prospective Memory,0
+intuit_annotation,3895,Semantic Memory,2
+intuit_annotation,3895,Spatial Reasoning and Navigation,0
+intuit_annotation,3895,Theory of Mind,1
+intuit_annotation,3895,Working Memory,1
+intuit_annotation,3895,ambiguity,5
+intuit_annotation,3895,factuality,5
+intuit_annotation,3899,Causal Reasoning,0
+intuit_annotation,3899,Cognitive Flexibility,0
+intuit_annotation,3899,Emotion Perception and Empathy,0
+intuit_annotation,3899,Episodic Memory,1
+intuit_annotation,3899,Functional Perception,0
+intuit_annotation,3899,Inhibitory Control,2
+intuit_annotation,3899,Language,1
+intuit_annotation,3899,Mental Simulation,0
+intuit_annotation,3899,Metacognition,1
+intuit_annotation,3899,Object Permanence,0
+intuit_annotation,3899,Perception and Pattern Recognition,1
+intuit_annotation,3899,Planning,0
+intuit_annotation,3899,Procedural Memory,0
+intuit_annotation,3899,Prospective Memory,0
+intuit_annotation,3899,Semantic Memory,1
+intuit_annotation,3899,Spatial Reasoning and Navigation,0
+intuit_annotation,3899,Theory of Mind,2
+intuit_annotation,3899,Working Memory,1
+intuit_annotation,3899,ambiguity,5
+intuit_annotation,3899,factuality,5
+intuit_annotation,3910,Causal Reasoning,0
+intuit_annotation,3910,Cognitive Flexibility,0
+intuit_annotation,3910,Emotion Perception and Empathy,0
+intuit_annotation,3910,Episodic Memory,1
+intuit_annotation,3910,Functional Perception,1
+intuit_annotation,3910,Inhibitory Control,1
+intuit_annotation,3910,Language,1
+intuit_annotation,3910,Mental Simulation,0
+intuit_annotation,3910,Metacognition,0
+intuit_annotation,3910,Object Permanence,0
+intuit_annotation,3910,Perception and Pattern Recognition,1
+intuit_annotation,3910,Planning,0
+intuit_annotation,3910,Procedural Memory,0
+intuit_annotation,3910,Prospective Memory,0
+intuit_annotation,3910,Semantic Memory,2
+intuit_annotation,3910,Spatial Reasoning and Navigation,0
+intuit_annotation,3910,Theory of Mind,1
+intuit_annotation,3910,Working Memory,1
+intuit_annotation,3910,ambiguity,5
+intuit_annotation,3910,factuality,5
+intuit_annotation,3920,Causal Reasoning,1
+intuit_annotation,3920,Cognitive Flexibility,0
+intuit_annotation,3920,Emotion Perception and Empathy,0
+intuit_annotation,3920,Episodic Memory,0
+intuit_annotation,3920,Functional Perception,0
+intuit_annotation,3920,Inhibitory Control,1
+intuit_annotation,3920,Language,1
+intuit_annotation,3920,Mental Simulation,0
+intuit_annotation,3920,Metacognition,1
+intuit_annotation,3920,Object Permanence,0
+intuit_annotation,3920,Perception and Pattern Recognition,1
+intuit_annotation,3920,Planning,0
+intuit_annotation,3920,Procedural Memory,0
+intuit_annotation,3920,Prospective Memory,0
+intuit_annotation,3920,Semantic Memory,1
+intuit_annotation,3920,Spatial Reasoning and Navigation,0
+intuit_annotation,3920,Theory of Mind,1
+intuit_annotation,3920,Working Memory,1
+intuit_annotation,3920,ambiguity,3
+intuit_annotation,3920,factuality,5
+intuit_annotation,3926,Causal Reasoning,1
+intuit_annotation,3926,Cognitive Flexibility,0
+intuit_annotation,3926,Emotion Perception and Empathy,0
+intuit_annotation,3926,Episodic Memory,0
+intuit_annotation,3926,Functional Perception,1
+intuit_annotation,3926,Inhibitory Control,0
+intuit_annotation,3926,Language,1
+intuit_annotation,3926,Mental Simulation,0
+intuit_annotation,3926,Metacognition,1
+intuit_annotation,3926,Object Permanence,0
+intuit_annotation,3926,Perception and Pattern Recognition,1
+intuit_annotation,3926,Planning,0
+intuit_annotation,3926,Procedural Memory,0
+intuit_annotation,3926,Prospective Memory,0
+intuit_annotation,3926,Semantic Memory,2
+intuit_annotation,3926,Spatial Reasoning and Navigation,0
+intuit_annotation,3926,Theory of Mind,1
+intuit_annotation,3926,Working Memory,1
+intuit_annotation,3926,ambiguity,4
+intuit_annotation,3926,factuality,5
+intuit_annotation,3959,Causal Reasoning,0
+intuit_annotation,3959,Cognitive Flexibility,2
+intuit_annotation,3959,Emotion Perception and Empathy,0
+intuit_annotation,3959,Episodic Memory,1
+intuit_annotation,3959,Functional Perception,0
+intuit_annotation,3959,Inhibitory Control,1
+intuit_annotation,3959,Language,1
+intuit_annotation,3959,Mental Simulation,0
+intuit_annotation,3959,Metacognition,0
+intuit_annotation,3959,Object Permanence,0
+intuit_annotation,3959,Perception and Pattern Recognition,1
+intuit_annotation,3959,Planning,0
+intuit_annotation,3959,Procedural Memory,0
+intuit_annotation,3959,Prospective Memory,0
+intuit_annotation,3959,Semantic Memory,1
+intuit_annotation,3959,Spatial Reasoning and Navigation,0
+intuit_annotation,3959,Theory of Mind,0
+intuit_annotation,3959,Working Memory,1
+intuit_annotation,3959,ambiguity,3
+intuit_annotation,3959,factuality,5
+intuit_annotation,4061,Causal Reasoning,0
+intuit_annotation,4061,Cognitive Flexibility,0
+intuit_annotation,4061,Emotion Perception and Empathy,0
+intuit_annotation,4061,Episodic Memory,0
+intuit_annotation,4061,Functional Perception,0
+intuit_annotation,4061,Inhibitory Control,2
+intuit_annotation,4061,Language,1
+intuit_annotation,4061,Mental Simulation,0
+intuit_annotation,4061,Metacognition,1
+intuit_annotation,4061,Object Permanence,0
+intuit_annotation,4061,Perception and Pattern Recognition,1
+intuit_annotation,4061,Planning,0
+intuit_annotation,4061,Procedural Memory,0
+intuit_annotation,4061,Prospective Memory,0
+intuit_annotation,4061,Semantic Memory,1
+intuit_annotation,4061,Spatial Reasoning and Navigation,0
+intuit_annotation,4061,Theory of Mind,0
+intuit_annotation,4061,Working Memory,1
+intuit_annotation,4061,ambiguity,5
+intuit_annotation,4061,factuality,5
+intuit_annotation,4078,Causal Reasoning,0
+intuit_annotation,4078,Cognitive Flexibility,2
+intuit_annotation,4078,Emotion Perception and Empathy,0
+intuit_annotation,4078,Episodic Memory,1
+intuit_annotation,4078,Functional Perception,0
+intuit_annotation,4078,Inhibitory Control,1
+intuit_annotation,4078,Language,2
+intuit_annotation,4078,Mental Simulation,0
+intuit_annotation,4078,Metacognition,2
+intuit_annotation,4078,Object Permanence,0
+intuit_annotation,4078,Perception and Pattern Recognition,1
+intuit_annotation,4078,Planning,0
+intuit_annotation,4078,Procedural Memory,0
+intuit_annotation,4078,Prospective Memory,0
+intuit_annotation,4078,Semantic Memory,0
+intuit_annotation,4078,Spatial Reasoning and Navigation,0
+intuit_annotation,4078,Theory of Mind,0
+intuit_annotation,4078,Working Memory,2
+intuit_annotation,4078,ambiguity,3
+intuit_annotation,4078,factuality,1
+intuit_annotation,4120,Causal Reasoning,1
+intuit_annotation,4120,Cognitive Flexibility,1
+intuit_annotation,4120,Emotion Perception and Empathy,1
+intuit_annotation,4120,Episodic Memory,1
+intuit_annotation,4120,Functional Perception,1
+intuit_annotation,4120,Inhibitory Control,1
+intuit_annotation,4120,Language,1
+intuit_annotation,4120,Mental Simulation,1
+intuit_annotation,4120,Metacognition,1
+intuit_annotation,4120,Object Permanence,0
+intuit_annotation,4120,Perception and Pattern Recognition,1
+intuit_annotation,4120,Planning,0
+intuit_annotation,4120,Procedural Memory,0
+intuit_annotation,4120,Prospective Memory,0
+intuit_annotation,4120,Semantic Memory,2
+intuit_annotation,4120,Spatial Reasoning and Navigation,0
+intuit_annotation,4120,Theory of Mind,1
+intuit_annotation,4120,Working Memory,1
+intuit_annotation,4120,ambiguity,5
+intuit_annotation,4120,factuality,5
+intuit_annotation,4125,Causal Reasoning,1
+intuit_annotation,4125,Cognitive Flexibility,0
+intuit_annotation,4125,Emotion Perception and Empathy,1
+intuit_annotation,4125,Episodic Memory,1
+intuit_annotation,4125,Functional Perception,1
+intuit_annotation,4125,Inhibitory Control,0
+intuit_annotation,4125,Language,1
+intuit_annotation,4125,Mental Simulation,1
+intuit_annotation,4125,Metacognition,1
+intuit_annotation,4125,Object Permanence,0
+intuit_annotation,4125,Perception and Pattern Recognition,1
+intuit_annotation,4125,Planning,0
+intuit_annotation,4125,Procedural Memory,0
+intuit_annotation,4125,Prospective Memory,0
+intuit_annotation,4125,Semantic Memory,2
+intuit_annotation,4125,Spatial Reasoning and Navigation,0
+intuit_annotation,4125,Theory of Mind,2
+intuit_annotation,4125,Working Memory,1
+intuit_annotation,4125,ambiguity,5
+intuit_annotation,4125,factuality,5
+intuit_annotation,4147,Causal Reasoning,1
+intuit_annotation,4147,Cognitive Flexibility,0
+intuit_annotation,4147,Emotion Perception and Empathy,2
+intuit_annotation,4147,Episodic Memory,1
+intuit_annotation,4147,Functional Perception,1
+intuit_annotation,4147,Inhibitory Control,1
+intuit_annotation,4147,Language,1
+intuit_annotation,4147,Mental Simulation,1
+intuit_annotation,4147,Metacognition,1
+intuit_annotation,4147,Object Permanence,0
+intuit_annotation,4147,Perception and Pattern Recognition,1
+intuit_annotation,4147,Planning,0
+intuit_annotation,4147,Procedural Memory,0
+intuit_annotation,4147,Prospective Memory,0
+intuit_annotation,4147,Semantic Memory,1
+intuit_annotation,4147,Spatial Reasoning and Navigation,0
+intuit_annotation,4147,Theory of Mind,2
+intuit_annotation,4147,Working Memory,1
+intuit_annotation,4147,ambiguity,5
+intuit_annotation,4147,factuality,5
+intuit_annotation,415,Causal Reasoning,1
+intuit_annotation,415,Cognitive Flexibility,0
+intuit_annotation,415,Emotion Perception and Empathy,0
+intuit_annotation,415,Episodic Memory,1
+intuit_annotation,415,Functional Perception,1
+intuit_annotation,415,Inhibitory Control,1
+intuit_annotation,415,Language,2
+intuit_annotation,415,Mental Simulation,1
+intuit_annotation,415,Metacognition,1
+intuit_annotation,415,Object Permanence,0
+intuit_annotation,415,Perception and Pattern Recognition,1
+intuit_annotation,415,Planning,0
+intuit_annotation,415,Procedural Memory,0
+intuit_annotation,415,Prospective Memory,0
+intuit_annotation,415,Semantic Memory,1
+intuit_annotation,415,Spatial Reasoning and Navigation,0
+intuit_annotation,415,Theory of Mind,2
+intuit_annotation,415,Working Memory,0
+intuit_annotation,415,ambiguity,5
+intuit_annotation,415,factuality,5
+intuit_annotation,4194,Causal Reasoning,1
+intuit_annotation,4194,Cognitive Flexibility,0
+intuit_annotation,4194,Emotion Perception and Empathy,2
+intuit_annotation,4194,Episodic Memory,1
+intuit_annotation,4194,Functional Perception,1
+intuit_annotation,4194,Inhibitory Control,3
+intuit_annotation,4194,Language,2
+intuit_annotation,4194,Mental Simulation,1
+intuit_annotation,4194,Metacognition,2
+intuit_annotation,4194,Object Permanence,0
+intuit_annotation,4194,Perception and Pattern Recognition,1
+intuit_annotation,4194,Planning,0
+intuit_annotation,4194,Procedural Memory,0
+intuit_annotation,4194,Prospective Memory,0
+intuit_annotation,4194,Semantic Memory,3
+intuit_annotation,4194,Spatial Reasoning and Navigation,0
+intuit_annotation,4194,Theory of Mind,3
+intuit_annotation,4194,Working Memory,1
+intuit_annotation,4194,ambiguity,5
+intuit_annotation,4194,factuality,5
+intuit_annotation,4202,Causal Reasoning,1
+intuit_annotation,4202,Cognitive Flexibility,1
+intuit_annotation,4202,Emotion Perception and Empathy,2
+intuit_annotation,4202,Episodic Memory,1
+intuit_annotation,4202,Functional Perception,1
+intuit_annotation,4202,Inhibitory Control,1
+intuit_annotation,4202,Language,2
+intuit_annotation,4202,Mental Simulation,1
+intuit_annotation,4202,Metacognition,2
+intuit_annotation,4202,Object Permanence,0
+intuit_annotation,4202,Perception and Pattern Recognition,1
+intuit_annotation,4202,Planning,0
+intuit_annotation,4202,Procedural Memory,0
+intuit_annotation,4202,Prospective Memory,0
+intuit_annotation,4202,Semantic Memory,3
+intuit_annotation,4202,Spatial Reasoning and Navigation,0
+intuit_annotation,4202,Theory of Mind,2
+intuit_annotation,4202,Working Memory,2
+intuit_annotation,4202,ambiguity,5
+intuit_annotation,4202,factuality,5
+intuit_annotation,4224,Causal Reasoning,1
+intuit_annotation,4224,Cognitive Flexibility,0
+intuit_annotation,4224,Emotion Perception and Empathy,1
+intuit_annotation,4224,Episodic Memory,2
+intuit_annotation,4224,Functional Perception,1
+intuit_annotation,4224,Inhibitory Control,0
+intuit_annotation,4224,Language,1
+intuit_annotation,4224,Mental Simulation,1
+intuit_annotation,4224,Metacognition,1
+intuit_annotation,4224,Object Permanence,0
+intuit_annotation,4224,Perception and Pattern Recognition,1
+intuit_annotation,4224,Planning,0
+intuit_annotation,4224,Procedural Memory,0
+intuit_annotation,4224,Prospective Memory,0
+intuit_annotation,4224,Semantic Memory,1
+intuit_annotation,4224,Spatial Reasoning and Navigation,0
+intuit_annotation,4224,Theory of Mind,1
+intuit_annotation,4224,Working Memory,1
+intuit_annotation,4224,ambiguity,5
+intuit_annotation,4224,factuality,5
+intuit_annotation,4266,Causal Reasoning,1
+intuit_annotation,4266,Cognitive Flexibility,1
+intuit_annotation,4266,Emotion Perception and Empathy,2
+intuit_annotation,4266,Episodic Memory,2
+intuit_annotation,4266,Functional Perception,1
+intuit_annotation,4266,Inhibitory Control,3
+intuit_annotation,4266,Language,1
+intuit_annotation,4266,Mental Simulation,1
+intuit_annotation,4266,Metacognition,1
+intuit_annotation,4266,Object Permanence,0
+intuit_annotation,4266,Perception and Pattern Recognition,2
+intuit_annotation,4266,Planning,0
+intuit_annotation,4266,Procedural Memory,0
+intuit_annotation,4266,Prospective Memory,0
+intuit_annotation,4266,Semantic Memory,2
+intuit_annotation,4266,Spatial Reasoning and Navigation,0
+intuit_annotation,4266,Theory of Mind,2
+intuit_annotation,4266,Working Memory,2
+intuit_annotation,4266,ambiguity,5
+intuit_annotation,4266,factuality,5
+intuit_annotation,4332,Causal Reasoning,1
+intuit_annotation,4332,Cognitive Flexibility,0
+intuit_annotation,4332,Emotion Perception and Empathy,0
+intuit_annotation,4332,Episodic Memory,0
+intuit_annotation,4332,Functional Perception,1
+intuit_annotation,4332,Inhibitory Control,0
+intuit_annotation,4332,Language,1
+intuit_annotation,4332,Mental Simulation,1
+intuit_annotation,4332,Metacognition,1
+intuit_annotation,4332,Object Permanence,0
+intuit_annotation,4332,Perception and Pattern Recognition,1
+intuit_annotation,4332,Planning,0
+intuit_annotation,4332,Procedural Memory,0
+intuit_annotation,4332,Prospective Memory,0
+intuit_annotation,4332,Semantic Memory,2
+intuit_annotation,4332,Spatial Reasoning and Navigation,1
+intuit_annotation,4332,Theory of Mind,1
+intuit_annotation,4332,Working Memory,0
+intuit_annotation,4332,ambiguity,5
+intuit_annotation,4332,factuality,5
+intuit_annotation,4357,Causal Reasoning,1
+intuit_annotation,4357,Cognitive Flexibility,0
+intuit_annotation,4357,Emotion Perception and Empathy,0
+intuit_annotation,4357,Episodic Memory,1
+intuit_annotation,4357,Functional Perception,1
+intuit_annotation,4357,Inhibitory Control,1
+intuit_annotation,4357,Language,1
+intuit_annotation,4357,Mental Simulation,1
+intuit_annotation,4357,Metacognition,0
+intuit_annotation,4357,Object Permanence,0
+intuit_annotation,4357,Perception and Pattern Recognition,1
+intuit_annotation,4357,Planning,0
+intuit_annotation,4357,Procedural Memory,0
+intuit_annotation,4357,Prospective Memory,0
+intuit_annotation,4357,Semantic Memory,1
+intuit_annotation,4357,Spatial Reasoning and Navigation,1
+intuit_annotation,4357,Theory of Mind,1
+intuit_annotation,4357,Working Memory,1
+intuit_annotation,4357,ambiguity,5
+intuit_annotation,4357,factuality,5
+intuit_annotation,435,Causal Reasoning,1
+intuit_annotation,435,Cognitive Flexibility,0
+intuit_annotation,435,Emotion Perception and Empathy,0
+intuit_annotation,435,Episodic Memory,0
+intuit_annotation,435,Functional Perception,1
+intuit_annotation,435,Inhibitory Control,0
+intuit_annotation,435,Language,1
+intuit_annotation,435,Mental Simulation,0
+intuit_annotation,435,Metacognition,0
+intuit_annotation,435,Object Permanence,0
+intuit_annotation,435,Perception and Pattern Recognition,1
+intuit_annotation,435,Planning,0
+intuit_annotation,435,Procedural Memory,0
+intuit_annotation,435,Prospective Memory,0
+intuit_annotation,435,Semantic Memory,1
+intuit_annotation,435,Spatial Reasoning and Navigation,0
+intuit_annotation,435,Theory of Mind,0
+intuit_annotation,435,Working Memory,1
+intuit_annotation,435,ambiguity,5
+intuit_annotation,435,factuality,4
+intuit_annotation,4362,Causal Reasoning,0
+intuit_annotation,4362,Cognitive Flexibility,0
+intuit_annotation,4362,Emotion Perception and Empathy,0
+intuit_annotation,4362,Episodic Memory,0
+intuit_annotation,4362,Functional Perception,1
+intuit_annotation,4362,Inhibitory Control,1
+intuit_annotation,4362,Language,1
+intuit_annotation,4362,Mental Simulation,0
+intuit_annotation,4362,Metacognition,1
+intuit_annotation,4362,Object Permanence,0
+intuit_annotation,4362,Perception and Pattern Recognition,1
+intuit_annotation,4362,Planning,0
+intuit_annotation,4362,Procedural Memory,0
+intuit_annotation,4362,Prospective Memory,0
+intuit_annotation,4362,Semantic Memory,1
+intuit_annotation,4362,Spatial Reasoning and Navigation,1
+intuit_annotation,4362,Theory of Mind,0
+intuit_annotation,4362,Working Memory,1
+intuit_annotation,4362,ambiguity,5
+intuit_annotation,4362,factuality,5
+intuit_annotation,437,Causal Reasoning,1
+intuit_annotation,437,Cognitive Flexibility,0
+intuit_annotation,437,Emotion Perception and Empathy,0
+intuit_annotation,437,Episodic Memory,0
+intuit_annotation,437,Functional Perception,1
+intuit_annotation,437,Inhibitory Control,1
+intuit_annotation,437,Language,1
+intuit_annotation,437,Mental Simulation,0
+intuit_annotation,437,Metacognition,1
+intuit_annotation,437,Object Permanence,0
+intuit_annotation,437,Perception and Pattern Recognition,1
+intuit_annotation,437,Planning,0
+intuit_annotation,437,Procedural Memory,0
+intuit_annotation,437,Prospective Memory,0
+intuit_annotation,437,Semantic Memory,1
+intuit_annotation,437,Spatial Reasoning and Navigation,1
+intuit_annotation,437,Theory of Mind,2
+intuit_annotation,437,Working Memory,1
+intuit_annotation,437,ambiguity,5
+intuit_annotation,437,factuality,5
+intuit_annotation,4384,Causal Reasoning,0
+intuit_annotation,4384,Cognitive Flexibility,0
+intuit_annotation,4384,Emotion Perception and Empathy,0
+intuit_annotation,4384,Episodic Memory,1
+intuit_annotation,4384,Functional Perception,0
+intuit_annotation,4384,Inhibitory Control,0
+intuit_annotation,4384,Language,1
+intuit_annotation,4384,Mental Simulation,0
+intuit_annotation,4384,Metacognition,0
+intuit_annotation,4384,Object Permanence,0
+intuit_annotation,4384,Perception and Pattern Recognition,1
+intuit_annotation,4384,Planning,0
+intuit_annotation,4384,Procedural Memory,0
+intuit_annotation,4384,Prospective Memory,0
+intuit_annotation,4384,Semantic Memory,1
+intuit_annotation,4384,Spatial Reasoning and Navigation,1
+intuit_annotation,4384,Theory of Mind,0
+intuit_annotation,4384,Working Memory,1
+intuit_annotation,4384,ambiguity,5
+intuit_annotation,4384,factuality,5
+intuit_annotation,4468,Causal Reasoning,1
+intuit_annotation,4468,Cognitive Flexibility,0
+intuit_annotation,4468,Emotion Perception and Empathy,0
+intuit_annotation,4468,Episodic Memory,0
+intuit_annotation,4468,Functional Perception,1
+intuit_annotation,4468,Inhibitory Control,0
+intuit_annotation,4468,Language,2
+intuit_annotation,4468,Mental Simulation,1
+intuit_annotation,4468,Metacognition,2
+intuit_annotation,4468,Object Permanence,1
+intuit_annotation,4468,Perception and Pattern Recognition,1
+intuit_annotation,4468,Planning,1
+intuit_annotation,4468,Procedural Memory,1
+intuit_annotation,4468,Prospective Memory,0
+intuit_annotation,4468,Semantic Memory,1
+intuit_annotation,4468,Spatial Reasoning and Navigation,1
+intuit_annotation,4468,Theory of Mind,1
+intuit_annotation,4468,Working Memory,3
+intuit_annotation,4468,ambiguity,5
+intuit_annotation,4468,factuality,5
+intuit_annotation,4484,Causal Reasoning,0
+intuit_annotation,4484,Cognitive Flexibility,1
+intuit_annotation,4484,Emotion Perception and Empathy,0
+intuit_annotation,4484,Episodic Memory,0
+intuit_annotation,4484,Functional Perception,0
+intuit_annotation,4484,Inhibitory Control,1
+intuit_annotation,4484,Language,1
+intuit_annotation,4484,Mental Simulation,0
+intuit_annotation,4484,Metacognition,1
+intuit_annotation,4484,Object Permanence,0
+intuit_annotation,4484,Perception and Pattern Recognition,1
+intuit_annotation,4484,Planning,0
+intuit_annotation,4484,Procedural Memory,0
+intuit_annotation,4484,Prospective Memory,0
+intuit_annotation,4484,Semantic Memory,1
+intuit_annotation,4484,Spatial Reasoning and Navigation,0
+intuit_annotation,4484,Theory of Mind,0
+intuit_annotation,4484,Working Memory,0
+intuit_annotation,4484,ambiguity,2
+intuit_annotation,4484,factuality,5
+intuit_annotation,4493,Causal Reasoning,0
+intuit_annotation,4493,Cognitive Flexibility,0
+intuit_annotation,4493,Emotion Perception and Empathy,0
+intuit_annotation,4493,Episodic Memory,0
+intuit_annotation,4493,Functional Perception,0
+intuit_annotation,4493,Inhibitory Control,1
+intuit_annotation,4493,Language,1
+intuit_annotation,4493,Mental Simulation,0
+intuit_annotation,4493,Metacognition,1
+intuit_annotation,4493,Object Permanence,0
+intuit_annotation,4493,Perception and Pattern Recognition,1
+intuit_annotation,4493,Planning,0
+intuit_annotation,4493,Procedural Memory,0
+intuit_annotation,4493,Prospective Memory,0
+intuit_annotation,4493,Semantic Memory,2
+intuit_annotation,4493,Spatial Reasoning and Navigation,0
+intuit_annotation,4493,Theory of Mind,0
+intuit_annotation,4493,Working Memory,1
+intuit_annotation,4493,ambiguity,3
+intuit_annotation,4493,factuality,5
+intuit_annotation,4517,Causal Reasoning,0
+intuit_annotation,4517,Cognitive Flexibility,0
+intuit_annotation,4517,Emotion Perception and Empathy,0
+intuit_annotation,4517,Episodic Memory,0
+intuit_annotation,4517,Functional Perception,0
+intuit_annotation,4517,Inhibitory Control,1
+intuit_annotation,4517,Language,1
+intuit_annotation,4517,Mental Simulation,1
+intuit_annotation,4517,Metacognition,1
+intuit_annotation,4517,Object Permanence,0
+intuit_annotation,4517,Perception and Pattern Recognition,1
+intuit_annotation,4517,Planning,0
+intuit_annotation,4517,Procedural Memory,0
+intuit_annotation,4517,Prospective Memory,0
+intuit_annotation,4517,Semantic Memory,1
+intuit_annotation,4517,Spatial Reasoning and Navigation,0
+intuit_annotation,4517,Theory of Mind,0
+intuit_annotation,4517,Working Memory,0
+intuit_annotation,4517,ambiguity,2
+intuit_annotation,4517,factuality,5
+intuit_annotation,4520,Causal Reasoning,0
+intuit_annotation,4520,Cognitive Flexibility,0
+intuit_annotation,4520,Emotion Perception and Empathy,0
+intuit_annotation,4520,Episodic Memory,0
+intuit_annotation,4520,Functional Perception,0
+intuit_annotation,4520,Inhibitory Control,0
+intuit_annotation,4520,Language,1
+intuit_annotation,4520,Mental Simulation,0
+intuit_annotation,4520,Metacognition,0
+intuit_annotation,4520,Object Permanence,0
+intuit_annotation,4520,Perception and Pattern Recognition,0
+intuit_annotation,4520,Planning,0
+intuit_annotation,4520,Procedural Memory,0
+intuit_annotation,4520,Prospective Memory,0
+intuit_annotation,4520,Semantic Memory,0
+intuit_annotation,4520,Spatial Reasoning and Navigation,0
+intuit_annotation,4520,Theory of Mind,0
+intuit_annotation,4520,Working Memory,1
+intuit_annotation,4520,ambiguity,2
+intuit_annotation,4520,factuality,5
+intuit_annotation,4535,Causal Reasoning,0
+intuit_annotation,4535,Cognitive Flexibility,0
+intuit_annotation,4535,Emotion Perception and Empathy,0
+intuit_annotation,4535,Episodic Memory,0
+intuit_annotation,4535,Functional Perception,0
+intuit_annotation,4535,Inhibitory Control,0
+intuit_annotation,4535,Language,1
+intuit_annotation,4535,Mental Simulation,0
+intuit_annotation,4535,Metacognition,1
+intuit_annotation,4535,Object Permanence,0
+intuit_annotation,4535,Perception and Pattern Recognition,0
+intuit_annotation,4535,Planning,0
+intuit_annotation,4535,Procedural Memory,0
+intuit_annotation,4535,Prospective Memory,0
+intuit_annotation,4535,Semantic Memory,0
+intuit_annotation,4535,Spatial Reasoning and Navigation,1
+intuit_annotation,4535,Theory of Mind,0
+intuit_annotation,4535,Working Memory,0
+intuit_annotation,4535,ambiguity,2
+intuit_annotation,4535,factuality,5
+intuit_annotation,4561,Causal Reasoning,1
+intuit_annotation,4561,Cognitive Flexibility,0
+intuit_annotation,4561,Emotion Perception and Empathy,0
+intuit_annotation,4561,Episodic Memory,0
+intuit_annotation,4561,Functional Perception,1
+intuit_annotation,4561,Inhibitory Control,1
+intuit_annotation,4561,Language,1
+intuit_annotation,4561,Mental Simulation,1
+intuit_annotation,4561,Metacognition,1
+intuit_annotation,4561,Object Permanence,0
+intuit_annotation,4561,Perception and Pattern Recognition,1
+intuit_annotation,4561,Planning,0
+intuit_annotation,4561,Procedural Memory,0
+intuit_annotation,4561,Prospective Memory,0
+intuit_annotation,4561,Semantic Memory,1
+intuit_annotation,4561,Spatial Reasoning and Navigation,1
+intuit_annotation,4561,Theory of Mind,1
+intuit_annotation,4561,Working Memory,1
+intuit_annotation,4561,ambiguity,5
+intuit_annotation,4561,factuality,1
+intuit_annotation,4584,Causal Reasoning,1
+intuit_annotation,4584,Cognitive Flexibility,0
+intuit_annotation,4584,Emotion Perception and Empathy,0
+intuit_annotation,4584,Episodic Memory,0
+intuit_annotation,4584,Functional Perception,1
+intuit_annotation,4584,Inhibitory Control,1
+intuit_annotation,4584,Language,1
+intuit_annotation,4584,Mental Simulation,1
+intuit_annotation,4584,Metacognition,1
+intuit_annotation,4584,Object Permanence,0
+intuit_annotation,4584,Perception and Pattern Recognition,1
+intuit_annotation,4584,Planning,0
+intuit_annotation,4584,Procedural Memory,0
+intuit_annotation,4584,Prospective Memory,0
+intuit_annotation,4584,Semantic Memory,1
+intuit_annotation,4584,Spatial Reasoning and Navigation,1
+intuit_annotation,4584,Theory of Mind,2
+intuit_annotation,4584,Working Memory,1
+intuit_annotation,4584,ambiguity,5
+intuit_annotation,4584,factuality,1
+intuit_annotation,4692,Causal Reasoning,2
+intuit_annotation,4692,Cognitive Flexibility,1
+intuit_annotation,4692,Emotion Perception and Empathy,0
+intuit_annotation,4692,Episodic Memory,0
+intuit_annotation,4692,Functional Perception,3
+intuit_annotation,4692,Inhibitory Control,1
+intuit_annotation,4692,Language,1
+intuit_annotation,4692,Mental Simulation,2
+intuit_annotation,4692,Metacognition,2
+intuit_annotation,4692,Object Permanence,0
+intuit_annotation,4692,Perception and Pattern Recognition,2
+intuit_annotation,4692,Planning,0
+intuit_annotation,4692,Procedural Memory,0
+intuit_annotation,4692,Prospective Memory,0
+intuit_annotation,4692,Semantic Memory,2
+intuit_annotation,4692,Spatial Reasoning and Navigation,2
+intuit_annotation,4692,Theory of Mind,2
+intuit_annotation,4692,Working Memory,2
+intuit_annotation,4692,ambiguity,5
+intuit_annotation,4692,factuality,5
+intuit_annotation,4710,Causal Reasoning,1
+intuit_annotation,4710,Cognitive Flexibility,0
+intuit_annotation,4710,Emotion Perception and Empathy,0
+intuit_annotation,4710,Episodic Memory,0
+intuit_annotation,4710,Functional Perception,1
+intuit_annotation,4710,Inhibitory Control,1
+intuit_annotation,4710,Language,2
+intuit_annotation,4710,Mental Simulation,1
+intuit_annotation,4710,Metacognition,2
+intuit_annotation,4710,Object Permanence,0
+intuit_annotation,4710,Perception and Pattern Recognition,1
+intuit_annotation,4710,Planning,0
+intuit_annotation,4710,Procedural Memory,0
+intuit_annotation,4710,Prospective Memory,0
+intuit_annotation,4710,Semantic Memory,3
+intuit_annotation,4710,Spatial Reasoning and Navigation,1
+intuit_annotation,4710,Theory of Mind,1
+intuit_annotation,4710,Working Memory,2
+intuit_annotation,4710,ambiguity,5
+intuit_annotation,4710,factuality,5
+intuit_annotation,4724,Causal Reasoning,2
+intuit_annotation,4724,Cognitive Flexibility,2
+intuit_annotation,4724,Emotion Perception and Empathy,0
+intuit_annotation,4724,Episodic Memory,0
+intuit_annotation,4724,Functional Perception,2
+intuit_annotation,4724,Inhibitory Control,1
+intuit_annotation,4724,Language,1
+intuit_annotation,4724,Mental Simulation,2
+intuit_annotation,4724,Metacognition,1
+intuit_annotation,4724,Object Permanence,1
+intuit_annotation,4724,Perception and Pattern Recognition,2
+intuit_annotation,4724,Planning,0
+intuit_annotation,4724,Procedural Memory,0
+intuit_annotation,4724,Prospective Memory,0
+intuit_annotation,4724,Semantic Memory,2
+intuit_annotation,4724,Spatial Reasoning and Navigation,3
+intuit_annotation,4724,Theory of Mind,1
+intuit_annotation,4724,Working Memory,3
+intuit_annotation,4724,ambiguity,3
+intuit_annotation,4724,factuality,5
+intuit_annotation,4725,Causal Reasoning,1
+intuit_annotation,4725,Cognitive Flexibility,1
+intuit_annotation,4725,Emotion Perception and Empathy,0
+intuit_annotation,4725,Episodic Memory,0
+intuit_annotation,4725,Functional Perception,2
+intuit_annotation,4725,Inhibitory Control,1
+intuit_annotation,4725,Language,1
+intuit_annotation,4725,Mental Simulation,2
+intuit_annotation,4725,Metacognition,2
+intuit_annotation,4725,Object Permanence,1
+intuit_annotation,4725,Perception and Pattern Recognition,1
+intuit_annotation,4725,Planning,1
+intuit_annotation,4725,Procedural Memory,2
+intuit_annotation,4725,Prospective Memory,0
+intuit_annotation,4725,Semantic Memory,1
+intuit_annotation,4725,Spatial Reasoning and Navigation,2
+intuit_annotation,4725,Theory of Mind,1
+intuit_annotation,4725,Working Memory,3
+intuit_annotation,4725,ambiguity,5
+intuit_annotation,4725,factuality,5
+intuit_annotation,4732,Causal Reasoning,1
+intuit_annotation,4732,Cognitive Flexibility,2
+intuit_annotation,4732,Emotion Perception and Empathy,0
+intuit_annotation,4732,Episodic Memory,0
+intuit_annotation,4732,Functional Perception,1
+intuit_annotation,4732,Inhibitory Control,2
+intuit_annotation,4732,Language,3
 intuit_annotation,4732,Mental Simulation,2
-intuit_annotation,4732,Metacognition,3
-intuit_annotation,4732,Object permanence,1
-intuit_annotation,4732,Perception and Pattern Recognition,3
+intuit_annotation,4732,Metacognition,2
+intuit_annotation,4732,Object Permanence,0
+intuit_annotation,4732,Perception and Pattern Recognition,2
 intuit_annotation,4732,Planning,0
 intuit_annotation,4732,Procedural Memory,1
 intuit_annotation,4732,Prospective Memory,0
-intuit_annotation,4732,Semantic Memory,1
-intuit_annotation,4732,Spatial reasoning and navigation,2
+intuit_annotation,4732,Semantic Memory,2
+intuit_annotation,4732,Spatial Reasoning and Navigation,3
 intuit_annotation,4732,Theory of Mind,2
 intuit_annotation,4732,Working Memory,2
-intuit_annotation,4732,ambiguity,4
+intuit_annotation,4732,ambiguity,3
 intuit_annotation,4732,factuality,3
+intuit_annotation,4755,Causal Reasoning,1
+intuit_annotation,4755,Cognitive Flexibility,1
+intuit_annotation,4755,Emotion Perception and Empathy,0
+intuit_annotation,4755,Episodic Memory,0
+intuit_annotation,4755,Functional Perception,3
+intuit_annotation,4755,Inhibitory Control,0
+intuit_annotation,4755,Language,2
+intuit_annotation,4755,Mental Simulation,2
+intuit_annotation,4755,Metacognition,3
+intuit_annotation,4755,Object Permanence,1
+intuit_annotation,4755,Perception and Pattern Recognition,2
+intuit_annotation,4755,Planning,1
+intuit_annotation,4755,Procedural Memory,2
+intuit_annotation,4755,Prospective Memory,0
+intuit_annotation,4755,Semantic Memory,2
+intuit_annotation,4755,Spatial Reasoning and Navigation,3
+intuit_annotation,4755,Theory of Mind,1
+intuit_annotation,4755,Working Memory,3
+intuit_annotation,4755,ambiguity,3
+intuit_annotation,4755,factuality,5
+intuit_annotation,4776,Causal Reasoning,2
+intuit_annotation,4776,Cognitive Flexibility,2
+intuit_annotation,4776,Emotion Perception and Empathy,0
+intuit_annotation,4776,Episodic Memory,0
+intuit_annotation,4776,Functional Perception,2
+intuit_annotation,4776,Inhibitory Control,3
+intuit_annotation,4776,Language,2
+intuit_annotation,4776,Mental Simulation,1
+intuit_annotation,4776,Metacognition,3
+intuit_annotation,4776,Object Permanence,0
+intuit_annotation,4776,Perception and Pattern Recognition,2
+intuit_annotation,4776,Planning,1
+intuit_annotation,4776,Procedural Memory,1
+intuit_annotation,4776,Prospective Memory,0
+intuit_annotation,4776,Semantic Memory,1
+intuit_annotation,4776,Spatial Reasoning and Navigation,2
+intuit_annotation,4776,Theory of Mind,1
+intuit_annotation,4776,Working Memory,3
+intuit_annotation,4776,ambiguity,5
+intuit_annotation,4776,factuality,5
+intuit_annotation,478,Causal Reasoning,1
+intuit_annotation,478,Cognitive Flexibility,0
+intuit_annotation,478,Emotion Perception and Empathy,0
+intuit_annotation,478,Episodic Memory,0
+intuit_annotation,478,Functional Perception,1
+intuit_annotation,478,Inhibitory Control,1
+intuit_annotation,478,Language,2
+intuit_annotation,478,Mental Simulation,1
+intuit_annotation,478,Metacognition,1
+intuit_annotation,478,Object Permanence,0
+intuit_annotation,478,Perception and Pattern Recognition,1
+intuit_annotation,478,Planning,0
+intuit_annotation,478,Procedural Memory,0
+intuit_annotation,478,Prospective Memory,0
+intuit_annotation,478,Semantic Memory,1
+intuit_annotation,478,Spatial Reasoning and Navigation,1
+intuit_annotation,478,Theory of Mind,2
+intuit_annotation,478,Working Memory,1
+intuit_annotation,478,ambiguity,5
+intuit_annotation,478,factuality,5
+intuit_annotation,4800,Causal Reasoning,0
+intuit_annotation,4800,Cognitive Flexibility,0
+intuit_annotation,4800,Emotion Perception and Empathy,0
+intuit_annotation,4800,Episodic Memory,1
+intuit_annotation,4800,Functional Perception,1
+intuit_annotation,4800,Inhibitory Control,1
+intuit_annotation,4800,Language,1
+intuit_annotation,4800,Mental Simulation,0
+intuit_annotation,4800,Metacognition,0
+intuit_annotation,4800,Object Permanence,0
+intuit_annotation,4800,Perception and Pattern Recognition,1
+intuit_annotation,4800,Planning,0
+intuit_annotation,4800,Procedural Memory,0
+intuit_annotation,4800,Prospective Memory,0
+intuit_annotation,4800,Semantic Memory,1
+intuit_annotation,4800,Spatial Reasoning and Navigation,0
+intuit_annotation,4800,Theory of Mind,1
+intuit_annotation,4800,Working Memory,1
+intuit_annotation,4800,ambiguity,5
+intuit_annotation,4800,factuality,5
+intuit_annotation,4815,Causal Reasoning,1
+intuit_annotation,4815,Cognitive Flexibility,0
+intuit_annotation,4815,Emotion Perception and Empathy,1
+intuit_annotation,4815,Episodic Memory,1
+intuit_annotation,4815,Functional Perception,1
+intuit_annotation,4815,Inhibitory Control,1
+intuit_annotation,4815,Language,1
+intuit_annotation,4815,Mental Simulation,1
+intuit_annotation,4815,Metacognition,0
+intuit_annotation,4815,Object Permanence,0
+intuit_annotation,4815,Perception and Pattern Recognition,1
+intuit_annotation,4815,Planning,0
+intuit_annotation,4815,Procedural Memory,0
+intuit_annotation,4815,Prospective Memory,0
+intuit_annotation,4815,Semantic Memory,2
+intuit_annotation,4815,Spatial Reasoning and Navigation,0
+intuit_annotation,4815,Theory of Mind,1
+intuit_annotation,4815,Working Memory,2
+intuit_annotation,4815,ambiguity,5
+intuit_annotation,4815,factuality,5
+intuit_annotation,4826,Causal Reasoning,0
+intuit_annotation,4826,Cognitive Flexibility,0
+intuit_annotation,4826,Emotion Perception and Empathy,0
+intuit_annotation,4826,Episodic Memory,1
+intuit_annotation,4826,Functional Perception,1
+intuit_annotation,4826,Inhibitory Control,1
+intuit_annotation,4826,Language,1
+intuit_annotation,4826,Mental Simulation,0
+intuit_annotation,4826,Metacognition,1
+intuit_annotation,4826,Object Permanence,0
+intuit_annotation,4826,Perception and Pattern Recognition,1
+intuit_annotation,4826,Planning,0
+intuit_annotation,4826,Procedural Memory,0
+intuit_annotation,4826,Prospective Memory,0
+intuit_annotation,4826,Semantic Memory,1
+intuit_annotation,4826,Spatial Reasoning and Navigation,0
+intuit_annotation,4826,Theory of Mind,1
+intuit_annotation,4826,Working Memory,2
+intuit_annotation,4826,ambiguity,5
+intuit_annotation,4826,factuality,5
+intuit_annotation,4835,Causal Reasoning,1
+intuit_annotation,4835,Cognitive Flexibility,1
+intuit_annotation,4835,Emotion Perception and Empathy,0
+intuit_annotation,4835,Episodic Memory,0
+intuit_annotation,4835,Functional Perception,1
+intuit_annotation,4835,Inhibitory Control,0
+intuit_annotation,4835,Language,1
+intuit_annotation,4835,Mental Simulation,0
+intuit_annotation,4835,Metacognition,1
+intuit_annotation,4835,Object Permanence,0
+intuit_annotation,4835,Perception and Pattern Recognition,1
+intuit_annotation,4835,Planning,0
+intuit_annotation,4835,Procedural Memory,0
+intuit_annotation,4835,Prospective Memory,0
+intuit_annotation,4835,Semantic Memory,2
+intuit_annotation,4835,Spatial Reasoning and Navigation,0
+intuit_annotation,4835,Theory of Mind,1
+intuit_annotation,4835,Working Memory,1
+intuit_annotation,4835,ambiguity,5
+intuit_annotation,4835,factuality,5
 intuit_annotation,4852,Causal Reasoning,1
 intuit_annotation,4852,Cognitive Flexibility,1
-intuit_annotation,4852,Emotion Perception & Empathy (EPE),0
-intuit_annotation,4852,Episodic/Episodic-Like Memory,0
-intuit_annotation,4852,Executive Function (EF),2
-intuit_annotation,4852,Functional perception,3
+intuit_annotation,4852,Emotion Perception and Empathy,0
+intuit_annotation,4852,Episodic Memory,0
+intuit_annotation,4852,Functional Perception,2
 intuit_annotation,4852,Inhibitory Control,1
-intuit_annotation,4852,Language,2
+intuit_annotation,4852,Language,1
 intuit_annotation,4852,Mental Simulation,1
-intuit_annotation,4852,Metacognition,2
-intuit_annotation,4852,Object permanence,0
-intuit_annotation,4852,Perception and Pattern Recognition,2
+intuit_annotation,4852,Metacognition,1
+intuit_annotation,4852,Object Permanence,0
+intuit_annotation,4852,Perception and Pattern Recognition,1
 intuit_annotation,4852,Planning,0
 intuit_annotation,4852,Procedural Memory,0
 intuit_annotation,4852,Prospective Memory,0
-intuit_annotation,4852,Semantic Memory,2
-intuit_annotation,4852,Spatial reasoning and navigation,0
-intuit_annotation,4852,Theory of Mind,2
-intuit_annotation,4852,Working Memory,2
+intuit_annotation,4852,Semantic Memory,1
+intuit_annotation,4852,Spatial Reasoning and Navigation,1
+intuit_annotation,4852,Theory of Mind,1
+intuit_annotation,4852,Working Memory,3
 intuit_annotation,4852,ambiguity,4
 intuit_annotation,4852,factuality,5
 intuit_annotation,4867,Causal Reasoning,1
-intuit_annotation,4867,Cognitive Flexibility,0
-intuit_annotation,4867,Emotion Perception & Empathy (EPE),0
-intuit_annotation,4867,Episodic/Episodic-Like Memory,0
-intuit_annotation,4867,Executive Function (EF),1
-intuit_annotation,4867,Functional perception,1
+intuit_annotation,4867,Cognitive Flexibility,1
+intuit_annotation,4867,Emotion Perception and Empathy,0
+intuit_annotation,4867,Episodic Memory,1
+intuit_annotation,4867,Functional Perception,1
 intuit_annotation,4867,Inhibitory Control,1
 intuit_annotation,4867,Language,1
 intuit_annotation,4867,Mental Simulation,1
 intuit_annotation,4867,Metacognition,1
-intuit_annotation,4867,Object permanence,0
+intuit_annotation,4867,Object Permanence,0
 intuit_annotation,4867,Perception and Pattern Recognition,1
 intuit_annotation,4867,Planning,0
 intuit_annotation,4867,Procedural Memory,0
 intuit_annotation,4867,Prospective Memory,0
-intuit_annotation,4867,Semantic Memory,1
-intuit_annotation,4867,Spatial reasoning and navigation,0
-intuit_annotation,4867,Theory of Mind,2
-intuit_annotation,4867,Working Memory,2
+intuit_annotation,4867,Semantic Memory,2
+intuit_annotation,4867,Spatial Reasoning and Navigation,1
+intuit_annotation,4867,Theory of Mind,1
+intuit_annotation,4867,Working Memory,1
 intuit_annotation,4867,ambiguity,5
 intuit_annotation,4867,factuality,5
+intuit_annotation,490,Causal Reasoning,0
+intuit_annotation,490,Cognitive Flexibility,0
+intuit_annotation,490,Emotion Perception and Empathy,0
+intuit_annotation,490,Episodic Memory,2
+intuit_annotation,490,Functional Perception,0
+intuit_annotation,490,Inhibitory Control,2
+intuit_annotation,490,Language,1
+intuit_annotation,490,Mental Simulation,1
+intuit_annotation,490,Metacognition,1
+intuit_annotation,490,Object Permanence,2
+intuit_annotation,490,Perception and Pattern Recognition,1
+intuit_annotation,490,Planning,0
+intuit_annotation,490,Procedural Memory,0
+intuit_annotation,490,Prospective Memory,0
+intuit_annotation,490,Semantic Memory,1
+intuit_annotation,490,Spatial Reasoning and Navigation,1
+intuit_annotation,490,Theory of Mind,0
+intuit_annotation,490,Working Memory,1
+intuit_annotation,490,ambiguity,5
+intuit_annotation,490,factuality,5
+intuit_annotation,4927,Causal Reasoning,0
+intuit_annotation,4927,Cognitive Flexibility,2
+intuit_annotation,4927,Emotion Perception and Empathy,0
+intuit_annotation,4927,Episodic Memory,2
+intuit_annotation,4927,Functional Perception,2
+intuit_annotation,4927,Inhibitory Control,2
+intuit_annotation,4927,Language,1
+intuit_annotation,4927,Mental Simulation,0
+intuit_annotation,4927,Metacognition,1
+intuit_annotation,4927,Object Permanence,0
+intuit_annotation,4927,Perception and Pattern Recognition,1
+intuit_annotation,4927,Planning,0
+intuit_annotation,4927,Procedural Memory,0
+intuit_annotation,4927,Prospective Memory,0
+intuit_annotation,4927,Semantic Memory,1
+intuit_annotation,4927,Spatial Reasoning and Navigation,1
+intuit_annotation,4927,Theory of Mind,0
+intuit_annotation,4927,Working Memory,2
+intuit_annotation,4927,ambiguity,3
+intuit_annotation,4927,factuality,1
+intuit_annotation,4973,Causal Reasoning,0
+intuit_annotation,4973,Cognitive Flexibility,0
+intuit_annotation,4973,Emotion Perception and Empathy,0
+intuit_annotation,4973,Episodic Memory,0
+intuit_annotation,4973,Functional Perception,0
+intuit_annotation,4973,Inhibitory Control,1
+intuit_annotation,4973,Language,1
+intuit_annotation,4973,Mental Simulation,0
+intuit_annotation,4973,Metacognition,1
+intuit_annotation,4973,Object Permanence,0
+intuit_annotation,4973,Perception and Pattern Recognition,0
+intuit_annotation,4973,Planning,0
+intuit_annotation,4973,Procedural Memory,0
+intuit_annotation,4973,Prospective Memory,0
+intuit_annotation,4973,Semantic Memory,0
+intuit_annotation,4973,Spatial Reasoning and Navigation,0
+intuit_annotation,4973,Theory of Mind,0
+intuit_annotation,4973,Working Memory,2
+intuit_annotation,4973,ambiguity,5
+intuit_annotation,4973,factuality,5
+intuit_annotation,4997,Causal Reasoning,0
+intuit_annotation,4997,Cognitive Flexibility,0
+intuit_annotation,4997,Emotion Perception and Empathy,0
+intuit_annotation,4997,Episodic Memory,0
+intuit_annotation,4997,Functional Perception,0
+intuit_annotation,4997,Inhibitory Control,1
+intuit_annotation,4997,Language,1
+intuit_annotation,4997,Mental Simulation,0
+intuit_annotation,4997,Metacognition,1
+intuit_annotation,4997,Object Permanence,0
+intuit_annotation,4997,Perception and Pattern Recognition,1
+intuit_annotation,4997,Planning,0
+intuit_annotation,4997,Procedural Memory,0
+intuit_annotation,4997,Prospective Memory,0
+intuit_annotation,4997,Semantic Memory,1
+intuit_annotation,4997,Spatial Reasoning and Navigation,0
+intuit_annotation,4997,Theory of Mind,0
+intuit_annotation,4997,Working Memory,1
+intuit_annotation,4997,ambiguity,1
+intuit_annotation,4997,factuality,5
+intuit_annotation,5022,Causal Reasoning,0
+intuit_annotation,5022,Cognitive Flexibility,0
+intuit_annotation,5022,Emotion Perception and Empathy,0
+intuit_annotation,5022,Episodic Memory,0
+intuit_annotation,5022,Functional Perception,0
+intuit_annotation,5022,Inhibitory Control,1
+intuit_annotation,5022,Language,1
+intuit_annotation,5022,Mental Simulation,0
+intuit_annotation,5022,Metacognition,1
+intuit_annotation,5022,Object Permanence,0
+intuit_annotation,5022,Perception and Pattern Recognition,0
+intuit_annotation,5022,Planning,0
+intuit_annotation,5022,Procedural Memory,0
+intuit_annotation,5022,Prospective Memory,0
+intuit_annotation,5022,Semantic Memory,0
+intuit_annotation,5022,Spatial Reasoning and Navigation,0
+intuit_annotation,5022,Theory of Mind,0
+intuit_annotation,5022,Working Memory,0
+intuit_annotation,5022,ambiguity,2
+intuit_annotation,5022,factuality,5
+intuit_annotation,5040,Causal Reasoning,0
+intuit_annotation,5040,Cognitive Flexibility,2
+intuit_annotation,5040,Emotion Perception and Empathy,0
+intuit_annotation,5040,Episodic Memory,0
+intuit_annotation,5040,Functional Perception,2
+intuit_annotation,5040,Inhibitory Control,1
+intuit_annotation,5040,Language,1
+intuit_annotation,5040,Mental Simulation,1
+intuit_annotation,5040,Metacognition,1
+intuit_annotation,5040,Object Permanence,0
+intuit_annotation,5040,Perception and Pattern Recognition,1
+intuit_annotation,5040,Planning,0
+intuit_annotation,5040,Procedural Memory,0
+intuit_annotation,5040,Prospective Memory,0
+intuit_annotation,5040,Semantic Memory,1
+intuit_annotation,5040,Spatial Reasoning and Navigation,0
+intuit_annotation,5040,Theory of Mind,1
+intuit_annotation,5040,Working Memory,2
+intuit_annotation,5040,ambiguity,4
+intuit_annotation,5040,factuality,5
+intuit_annotation,5057,Causal Reasoning,0
+intuit_annotation,5057,Cognitive Flexibility,0
+intuit_annotation,5057,Emotion Perception and Empathy,0
+intuit_annotation,5057,Episodic Memory,1
+intuit_annotation,5057,Functional Perception,1
+intuit_annotation,5057,Inhibitory Control,0
+intuit_annotation,5057,Language,1
+intuit_annotation,5057,Mental Simulation,0
+intuit_annotation,5057,Metacognition,0
+intuit_annotation,5057,Object Permanence,0
+intuit_annotation,5057,Perception and Pattern Recognition,2
+intuit_annotation,5057,Planning,0
+intuit_annotation,5057,Procedural Memory,0
+intuit_annotation,5057,Prospective Memory,0
+intuit_annotation,5057,Semantic Memory,1
+intuit_annotation,5057,Spatial Reasoning and Navigation,0
+intuit_annotation,5057,Theory of Mind,1
+intuit_annotation,5057,Working Memory,1
+intuit_annotation,5057,ambiguity,5
+intuit_annotation,5057,factuality,5
+intuit_annotation,5061,Causal Reasoning,1
+intuit_annotation,5061,Cognitive Flexibility,2
+intuit_annotation,5061,Emotion Perception and Empathy,1
+intuit_annotation,5061,Episodic Memory,1
+intuit_annotation,5061,Functional Perception,1
+intuit_annotation,5061,Inhibitory Control,1
+intuit_annotation,5061,Language,2
+intuit_annotation,5061,Mental Simulation,1
+intuit_annotation,5061,Metacognition,0
+intuit_annotation,5061,Object Permanence,0
+intuit_annotation,5061,Perception and Pattern Recognition,1
+intuit_annotation,5061,Planning,1
+intuit_annotation,5061,Procedural Memory,0
+intuit_annotation,5061,Prospective Memory,1
+intuit_annotation,5061,Semantic Memory,1
+intuit_annotation,5061,Spatial Reasoning and Navigation,0
+intuit_annotation,5061,Theory of Mind,1
+intuit_annotation,5061,Working Memory,1
+intuit_annotation,5061,ambiguity,4
+intuit_annotation,5061,factuality,5
 intuit_annotation,5065,Causal Reasoning,0
 intuit_annotation,5065,Cognitive Flexibility,0
-intuit_annotation,5065,Emotion Perception & Empathy (EPE),0
-intuit_annotation,5065,Episodic/Episodic-Like Memory,0
-intuit_annotation,5065,Executive Function (EF),1
-intuit_annotation,5065,Functional perception,1
+intuit_annotation,5065,Emotion Perception and Empathy,0
+intuit_annotation,5065,Episodic Memory,1
+intuit_annotation,5065,Functional Perception,1
 intuit_annotation,5065,Inhibitory Control,1
 intuit_annotation,5065,Language,1
 intuit_annotation,5065,Mental Simulation,0
-intuit_annotation,5065,Metacognition,0
-intuit_annotation,5065,Object permanence,0
-intuit_annotation,5065,Perception and Pattern Recognition,1
+intuit_annotation,5065,Metacognition,1
+intuit_annotation,5065,Object Permanence,0
+intuit_annotation,5065,Perception and Pattern Recognition,0
 intuit_annotation,5065,Planning,0
 intuit_annotation,5065,Procedural Memory,0
 intuit_annotation,5065,Prospective Memory,0
 intuit_annotation,5065,Semantic Memory,1
-intuit_annotation,5065,Spatial reasoning and navigation,0
+intuit_annotation,5065,Spatial Reasoning and Navigation,0
 intuit_annotation,5065,Theory of Mind,0
-intuit_annotation,5065,Working Memory,2
+intuit_annotation,5065,Working Memory,1
 intuit_annotation,5065,ambiguity,5
 intuit_annotation,5065,factuality,5
+intuit_annotation,5067,Causal Reasoning,0
+intuit_annotation,5067,Cognitive Flexibility,0
+intuit_annotation,5067,Emotion Perception and Empathy,0
+intuit_annotation,5067,Episodic Memory,1
+intuit_annotation,5067,Functional Perception,0
+intuit_annotation,5067,Inhibitory Control,1
+intuit_annotation,5067,Language,1
+intuit_annotation,5067,Mental Simulation,0
+intuit_annotation,5067,Metacognition,0
+intuit_annotation,5067,Object Permanence,0
+intuit_annotation,5067,Perception and Pattern Recognition,0
+intuit_annotation,5067,Planning,0
+intuit_annotation,5067,Procedural Memory,0
+intuit_annotation,5067,Prospective Memory,0
+intuit_annotation,5067,Semantic Memory,1
+intuit_annotation,5067,Spatial Reasoning and Navigation,0
+intuit_annotation,5067,Theory of Mind,0
+intuit_annotation,5067,Working Memory,1
+intuit_annotation,5067,ambiguity,5
+intuit_annotation,5067,factuality,5
+intuit_annotation,5082,Causal Reasoning,0
+intuit_annotation,5082,Cognitive Flexibility,0
+intuit_annotation,5082,Emotion Perception and Empathy,0
+intuit_annotation,5082,Episodic Memory,1
+intuit_annotation,5082,Functional Perception,1
+intuit_annotation,5082,Inhibitory Control,1
+intuit_annotation,5082,Language,1
+intuit_annotation,5082,Mental Simulation,0
+intuit_annotation,5082,Metacognition,1
+intuit_annotation,5082,Object Permanence,0
+intuit_annotation,5082,Perception and Pattern Recognition,2
+intuit_annotation,5082,Planning,0
+intuit_annotation,5082,Procedural Memory,0
+intuit_annotation,5082,Prospective Memory,0
+intuit_annotation,5082,Semantic Memory,1
+intuit_annotation,5082,Spatial Reasoning and Navigation,0
+intuit_annotation,5082,Theory of Mind,0
+intuit_annotation,5082,Working Memory,2
+intuit_annotation,5082,ambiguity,5
+intuit_annotation,5082,factuality,5
 intuit_annotation,5158,Causal Reasoning,1
 intuit_annotation,5158,Cognitive Flexibility,1
-intuit_annotation,5158,Emotion Perception & Empathy (EPE),0
-intuit_annotation,5158,Episodic/Episodic-Like Memory,0
-intuit_annotation,5158,Executive Function (EF),1
-intuit_annotation,5158,Functional perception,1
-intuit_annotation,5158,Inhibitory Control,2
-intuit_annotation,5158,Language,1
+intuit_annotation,5158,Emotion Perception and Empathy,0
+intuit_annotation,5158,Episodic Memory,1
+intuit_annotation,5158,Functional Perception,1
+intuit_annotation,5158,Inhibitory Control,0
+intuit_annotation,5158,Language,2
 intuit_annotation,5158,Mental Simulation,0
-intuit_annotation,5158,Metacognition,0
-intuit_annotation,5158,Object permanence,0
-intuit_annotation,5158,Perception and Pattern Recognition,0
+intuit_annotation,5158,Metacognition,1
+intuit_annotation,5158,Object Permanence,0
+intuit_annotation,5158,Perception and Pattern Recognition,1
 intuit_annotation,5158,Planning,0
 intuit_annotation,5158,Procedural Memory,0
 intuit_annotation,5158,Prospective Memory,1
 intuit_annotation,5158,Semantic Memory,1
-intuit_annotation,5158,Spatial reasoning and navigation,0
+intuit_annotation,5158,Spatial Reasoning and Navigation,0
 intuit_annotation,5158,Theory of Mind,0
-intuit_annotation,5158,Working Memory,2
-intuit_annotation,5158,ambiguity,5
+intuit_annotation,5158,Working Memory,0
+intuit_annotation,5158,ambiguity,3
 intuit_annotation,5158,factuality,3
+intuit_annotation,5181,Causal Reasoning,1
+intuit_annotation,5181,Cognitive Flexibility,2
+intuit_annotation,5181,Emotion Perception and Empathy,0
+intuit_annotation,5181,Episodic Memory,1
+intuit_annotation,5181,Functional Perception,2
+intuit_annotation,5181,Inhibitory Control,1
+intuit_annotation,5181,Language,2
+intuit_annotation,5181,Mental Simulation,1
+intuit_annotation,5181,Metacognition,2
+intuit_annotation,5181,Object Permanence,0
+intuit_annotation,5181,Perception and Pattern Recognition,3
+intuit_annotation,5181,Planning,0
+intuit_annotation,5181,Procedural Memory,0
+intuit_annotation,5181,Prospective Memory,0
+intuit_annotation,5181,Semantic Memory,2
+intuit_annotation,5181,Spatial Reasoning and Navigation,0
+intuit_annotation,5181,Theory of Mind,2
+intuit_annotation,5181,Working Memory,2
+intuit_annotation,5181,ambiguity,3
+intuit_annotation,5181,factuality,1
+intuit_annotation,5190,Causal Reasoning,1
+intuit_annotation,5190,Cognitive Flexibility,1
+intuit_annotation,5190,Emotion Perception and Empathy,0
+intuit_annotation,5190,Episodic Memory,1
+intuit_annotation,5190,Functional Perception,1
+intuit_annotation,5190,Inhibitory Control,2
+intuit_annotation,5190,Language,1
+intuit_annotation,5190,Mental Simulation,1
+intuit_annotation,5190,Metacognition,2
+intuit_annotation,5190,Object Permanence,0
+intuit_annotation,5190,Perception and Pattern Recognition,2
+intuit_annotation,5190,Planning,0
+intuit_annotation,5190,Procedural Memory,0
+intuit_annotation,5190,Prospective Memory,0
+intuit_annotation,5190,Semantic Memory,1
+intuit_annotation,5190,Spatial Reasoning and Navigation,1
+intuit_annotation,5190,Theory of Mind,1
+intuit_annotation,5190,Working Memory,3
+intuit_annotation,5190,ambiguity,5
+intuit_annotation,5190,factuality,5
+intuit_annotation,5203,Causal Reasoning,0
+intuit_annotation,5203,Cognitive Flexibility,0
+intuit_annotation,5203,Emotion Perception and Empathy,0
+intuit_annotation,5203,Episodic Memory,0
+intuit_annotation,5203,Functional Perception,1
+intuit_annotation,5203,Inhibitory Control,1
+intuit_annotation,5203,Language,1
+intuit_annotation,5203,Mental Simulation,0
+intuit_annotation,5203,Metacognition,0
+intuit_annotation,5203,Object Permanence,0
+intuit_annotation,5203,Perception and Pattern Recognition,0
+intuit_annotation,5203,Planning,0
+intuit_annotation,5203,Procedural Memory,0
+intuit_annotation,5203,Prospective Memory,0
+intuit_annotation,5203,Semantic Memory,2
+intuit_annotation,5203,Spatial Reasoning and Navigation,0
+intuit_annotation,5203,Theory of Mind,0
+intuit_annotation,5203,Working Memory,1
+intuit_annotation,5203,ambiguity,5
+intuit_annotation,5203,factuality,5
+intuit_annotation,5221,Causal Reasoning,1
+intuit_annotation,5221,Cognitive Flexibility,2
+intuit_annotation,5221,Emotion Perception and Empathy,0
+intuit_annotation,5221,Episodic Memory,1
+intuit_annotation,5221,Functional Perception,2
+intuit_annotation,5221,Inhibitory Control,1
+intuit_annotation,5221,Language,2
+intuit_annotation,5221,Mental Simulation,1
+intuit_annotation,5221,Metacognition,2
+intuit_annotation,5221,Object Permanence,0
+intuit_annotation,5221,Perception and Pattern Recognition,1
+intuit_annotation,5221,Planning,0
+intuit_annotation,5221,Procedural Memory,0
+intuit_annotation,5221,Prospective Memory,0
+intuit_annotation,5221,Semantic Memory,1
+intuit_annotation,5221,Spatial Reasoning and Navigation,1
+intuit_annotation,5221,Theory of Mind,1
+intuit_annotation,5221,Working Memory,2
+intuit_annotation,5221,ambiguity,5
+intuit_annotation,5221,factuality,5
+intuit_annotation,5259,Causal Reasoning,0
+intuit_annotation,5259,Cognitive Flexibility,1
+intuit_annotation,5259,Emotion Perception and Empathy,0
+intuit_annotation,5259,Episodic Memory,0
+intuit_annotation,5259,Functional Perception,1
+intuit_annotation,5259,Inhibitory Control,2
+intuit_annotation,5259,Language,1
+intuit_annotation,5259,Mental Simulation,0
+intuit_annotation,5259,Metacognition,0
+intuit_annotation,5259,Object Permanence,0
+intuit_annotation,5259,Perception and Pattern Recognition,0
+intuit_annotation,5259,Planning,0
+intuit_annotation,5259,Procedural Memory,0
+intuit_annotation,5259,Prospective Memory,1
+intuit_annotation,5259,Semantic Memory,1
+intuit_annotation,5259,Spatial Reasoning and Navigation,0
+intuit_annotation,5259,Theory of Mind,1
+intuit_annotation,5259,Working Memory,0
+intuit_annotation,5259,ambiguity,5
+intuit_annotation,5259,factuality,5
+intuit_annotation,5351,Causal Reasoning,1
+intuit_annotation,5351,Cognitive Flexibility,2
+intuit_annotation,5351,Emotion Perception and Empathy,0
+intuit_annotation,5351,Episodic Memory,1
+intuit_annotation,5351,Functional Perception,1
+intuit_annotation,5351,Inhibitory Control,2
+intuit_annotation,5351,Language,2
+intuit_annotation,5351,Mental Simulation,2
+intuit_annotation,5351,Metacognition,1
+intuit_annotation,5351,Object Permanence,2
+intuit_annotation,5351,Perception and Pattern Recognition,2
+intuit_annotation,5351,Planning,1
+intuit_annotation,5351,Procedural Memory,0
+intuit_annotation,5351,Prospective Memory,1
+intuit_annotation,5351,Semantic Memory,2
+intuit_annotation,5351,Spatial Reasoning and Navigation,2
+intuit_annotation,5351,Theory of Mind,3
+intuit_annotation,5351,Working Memory,3
+intuit_annotation,5351,ambiguity,5
+intuit_annotation,5351,factuality,5
+intuit_annotation,5354,Causal Reasoning,1
+intuit_annotation,5354,Cognitive Flexibility,2
+intuit_annotation,5354,Emotion Perception and Empathy,0
+intuit_annotation,5354,Episodic Memory,1
+intuit_annotation,5354,Functional Perception,2
+intuit_annotation,5354,Inhibitory Control,0
+intuit_annotation,5354,Language,1
+intuit_annotation,5354,Mental Simulation,1
+intuit_annotation,5354,Metacognition,1
+intuit_annotation,5354,Object Permanence,1
+intuit_annotation,5354,Perception and Pattern Recognition,2
+intuit_annotation,5354,Planning,0
+intuit_annotation,5354,Procedural Memory,0
+intuit_annotation,5354,Prospective Memory,0
+intuit_annotation,5354,Semantic Memory,1
+intuit_annotation,5354,Spatial Reasoning and Navigation,2
+intuit_annotation,5354,Theory of Mind,2
+intuit_annotation,5354,Working Memory,3
+intuit_annotation,5354,ambiguity,5
+intuit_annotation,5354,factuality,5
+intuit_annotation,5355,Causal Reasoning,1
+intuit_annotation,5355,Cognitive Flexibility,1
+intuit_annotation,5355,Emotion Perception and Empathy,0
+intuit_annotation,5355,Episodic Memory,1
+intuit_annotation,5355,Functional Perception,1
+intuit_annotation,5355,Inhibitory Control,1
+intuit_annotation,5355,Language,2
+intuit_annotation,5355,Mental Simulation,1
+intuit_annotation,5355,Metacognition,1
+intuit_annotation,5355,Object Permanence,2
+intuit_annotation,5355,Perception and Pattern Recognition,1
+intuit_annotation,5355,Planning,0
+intuit_annotation,5355,Procedural Memory,1
+intuit_annotation,5355,Prospective Memory,1
+intuit_annotation,5355,Semantic Memory,1
+intuit_annotation,5355,Spatial Reasoning and Navigation,2
+intuit_annotation,5355,Theory of Mind,3
+intuit_annotation,5355,Working Memory,3
+intuit_annotation,5355,ambiguity,5
+intuit_annotation,5355,factuality,5
+intuit_annotation,536,Causal Reasoning,1
+intuit_annotation,536,Cognitive Flexibility,0
+intuit_annotation,536,Emotion Perception and Empathy,0
+intuit_annotation,536,Episodic Memory,3
+intuit_annotation,536,Functional Perception,1
+intuit_annotation,536,Inhibitory Control,1
+intuit_annotation,536,Language,1
+intuit_annotation,536,Mental Simulation,0
+intuit_annotation,536,Metacognition,0
+intuit_annotation,536,Object Permanence,2
+intuit_annotation,536,Perception and Pattern Recognition,1
+intuit_annotation,536,Planning,0
+intuit_annotation,536,Procedural Memory,0
+intuit_annotation,536,Prospective Memory,0
+intuit_annotation,536,Semantic Memory,1
+intuit_annotation,536,Spatial Reasoning and Navigation,1
+intuit_annotation,536,Theory of Mind,0
+intuit_annotation,536,Working Memory,1
+intuit_annotation,536,ambiguity,5
+intuit_annotation,536,factuality,5
+intuit_annotation,5375,Causal Reasoning,1
+intuit_annotation,5375,Cognitive Flexibility,1
+intuit_annotation,5375,Emotion Perception and Empathy,0
+intuit_annotation,5375,Episodic Memory,3
+intuit_annotation,5375,Functional Perception,2
+intuit_annotation,5375,Inhibitory Control,1
+intuit_annotation,5375,Language,2
+intuit_annotation,5375,Mental Simulation,1
+intuit_annotation,5375,Metacognition,1
+intuit_annotation,5375,Object Permanence,2
+intuit_annotation,5375,Perception and Pattern Recognition,2
+intuit_annotation,5375,Planning,1
+intuit_annotation,5375,Procedural Memory,0
+intuit_annotation,5375,Prospective Memory,0
+intuit_annotation,5375,Semantic Memory,1
+intuit_annotation,5375,Spatial Reasoning and Navigation,1
+intuit_annotation,5375,Theory of Mind,2
+intuit_annotation,5375,Working Memory,3
+intuit_annotation,5375,ambiguity,5
+intuit_annotation,5375,factuality,5
+intuit_annotation,537,Causal Reasoning,1
+intuit_annotation,537,Cognitive Flexibility,0
+intuit_annotation,537,Emotion Perception and Empathy,0
+intuit_annotation,537,Episodic Memory,2
+intuit_annotation,537,Functional Perception,0
+intuit_annotation,537,Inhibitory Control,0
+intuit_annotation,537,Language,1
+intuit_annotation,537,Mental Simulation,0
+intuit_annotation,537,Metacognition,0
+intuit_annotation,537,Object Permanence,2
+intuit_annotation,537,Perception and Pattern Recognition,1
+intuit_annotation,537,Planning,0
+intuit_annotation,537,Procedural Memory,0
+intuit_annotation,537,Prospective Memory,1
+intuit_annotation,537,Semantic Memory,0
+intuit_annotation,537,Spatial Reasoning and Navigation,1
+intuit_annotation,537,Theory of Mind,0
+intuit_annotation,537,Working Memory,1
+intuit_annotation,537,ambiguity,5
+intuit_annotation,537,factuality,5
+intuit_annotation,5399,Causal Reasoning,2
+intuit_annotation,5399,Cognitive Flexibility,1
+intuit_annotation,5399,Emotion Perception and Empathy,0
+intuit_annotation,5399,Episodic Memory,2
+intuit_annotation,5399,Functional Perception,1
+intuit_annotation,5399,Inhibitory Control,2
+intuit_annotation,5399,Language,2
+intuit_annotation,5399,Mental Simulation,1
+intuit_annotation,5399,Metacognition,2
+intuit_annotation,5399,Object Permanence,1
+intuit_annotation,5399,Perception and Pattern Recognition,2
+intuit_annotation,5399,Planning,0
+intuit_annotation,5399,Procedural Memory,1
+intuit_annotation,5399,Prospective Memory,2
+intuit_annotation,5399,Semantic Memory,1
+intuit_annotation,5399,Spatial Reasoning and Navigation,1
+intuit_annotation,5399,Theory of Mind,1
+intuit_annotation,5399,Working Memory,2
+intuit_annotation,5399,ambiguity,5
+intuit_annotation,5399,factuality,5
+intuit_annotation,5405,Causal Reasoning,1
+intuit_annotation,5405,Cognitive Flexibility,2
+intuit_annotation,5405,Emotion Perception and Empathy,2
+intuit_annotation,5405,Episodic Memory,2
+intuit_annotation,5405,Functional Perception,1
+intuit_annotation,5405,Inhibitory Control,1
+intuit_annotation,5405,Language,2
+intuit_annotation,5405,Mental Simulation,1
+intuit_annotation,5405,Metacognition,1
+intuit_annotation,5405,Object Permanence,2
+intuit_annotation,5405,Perception and Pattern Recognition,2
+intuit_annotation,5405,Planning,0
+intuit_annotation,5405,Procedural Memory,0
+intuit_annotation,5405,Prospective Memory,1
+intuit_annotation,5405,Semantic Memory,3
+intuit_annotation,5405,Spatial Reasoning and Navigation,1
+intuit_annotation,5405,Theory of Mind,3
+intuit_annotation,5405,Working Memory,3
+intuit_annotation,5405,ambiguity,5
+intuit_annotation,5405,factuality,5
+intuit_annotation,5424,Causal Reasoning,1
+intuit_annotation,5424,Cognitive Flexibility,0
+intuit_annotation,5424,Emotion Perception and Empathy,1
+intuit_annotation,5424,Episodic Memory,1
+intuit_annotation,5424,Functional Perception,1
+intuit_annotation,5424,Inhibitory Control,1
+intuit_annotation,5424,Language,1
+intuit_annotation,5424,Mental Simulation,1
+intuit_annotation,5424,Metacognition,1
+intuit_annotation,5424,Object Permanence,1
+intuit_annotation,5424,Perception and Pattern Recognition,1
+intuit_annotation,5424,Planning,0
+intuit_annotation,5424,Procedural Memory,0
+intuit_annotation,5424,Prospective Memory,0
+intuit_annotation,5424,Semantic Memory,1
+intuit_annotation,5424,Spatial Reasoning and Navigation,1
+intuit_annotation,5424,Theory of Mind,1
+intuit_annotation,5424,Working Memory,1
+intuit_annotation,5424,ambiguity,5
+intuit_annotation,5424,factuality,5
+intuit_annotation,5459,Causal Reasoning,0
+intuit_annotation,5459,Cognitive Flexibility,0
+intuit_annotation,5459,Emotion Perception and Empathy,0
+intuit_annotation,5459,Episodic Memory,1
+intuit_annotation,5459,Functional Perception,0
+intuit_annotation,5459,Inhibitory Control,2
+intuit_annotation,5459,Language,1
+intuit_annotation,5459,Mental Simulation,0
+intuit_annotation,5459,Metacognition,2
+intuit_annotation,5459,Object Permanence,1
+intuit_annotation,5459,Perception and Pattern Recognition,1
+intuit_annotation,5459,Planning,0
+intuit_annotation,5459,Procedural Memory,0
+intuit_annotation,5459,Prospective Memory,0
+intuit_annotation,5459,Semantic Memory,1
+intuit_annotation,5459,Spatial Reasoning and Navigation,0
+intuit_annotation,5459,Theory of Mind,2
+intuit_annotation,5459,Working Memory,3
+intuit_annotation,5459,ambiguity,2
+intuit_annotation,5459,factuality,5
+intuit_annotation,5474,Causal Reasoning,0
+intuit_annotation,5474,Cognitive Flexibility,1
+intuit_annotation,5474,Emotion Perception and Empathy,0
+intuit_annotation,5474,Episodic Memory,1
+intuit_annotation,5474,Functional Perception,1
+intuit_annotation,5474,Inhibitory Control,1
+intuit_annotation,5474,Language,2
+intuit_annotation,5474,Mental Simulation,0
+intuit_annotation,5474,Metacognition,2
+intuit_annotation,5474,Object Permanence,1
+intuit_annotation,5474,Perception and Pattern Recognition,1
+intuit_annotation,5474,Planning,0
+intuit_annotation,5474,Procedural Memory,0
+intuit_annotation,5474,Prospective Memory,0
+intuit_annotation,5474,Semantic Memory,1
+intuit_annotation,5474,Spatial Reasoning and Navigation,0
+intuit_annotation,5474,Theory of Mind,2
+intuit_annotation,5474,Working Memory,2
+intuit_annotation,5474,ambiguity,2
+intuit_annotation,5474,factuality,5
+intuit_annotation,5496,Causal Reasoning,0
+intuit_annotation,5496,Cognitive Flexibility,0
+intuit_annotation,5496,Emotion Perception and Empathy,0
+intuit_annotation,5496,Episodic Memory,1
+intuit_annotation,5496,Functional Perception,0
+intuit_annotation,5496,Inhibitory Control,1
+intuit_annotation,5496,Language,2
+intuit_annotation,5496,Mental Simulation,0
+intuit_annotation,5496,Metacognition,1
+intuit_annotation,5496,Object Permanence,0
+intuit_annotation,5496,Perception and Pattern Recognition,2
+intuit_annotation,5496,Planning,0
+intuit_annotation,5496,Procedural Memory,0
+intuit_annotation,5496,Prospective Memory,0
+intuit_annotation,5496,Semantic Memory,1
+intuit_annotation,5496,Spatial Reasoning and Navigation,0
+intuit_annotation,5496,Theory of Mind,0
+intuit_annotation,5496,Working Memory,2
+intuit_annotation,5496,ambiguity,2
+intuit_annotation,5496,factuality,5
+intuit_annotation,5535,Causal Reasoning,1
+intuit_annotation,5535,Cognitive Flexibility,2
+intuit_annotation,5535,Emotion Perception and Empathy,0
+intuit_annotation,5535,Episodic Memory,2
+intuit_annotation,5535,Functional Perception,0
+intuit_annotation,5535,Inhibitory Control,2
+intuit_annotation,5535,Language,2
+intuit_annotation,5535,Mental Simulation,2
+intuit_annotation,5535,Metacognition,2
+intuit_annotation,5535,Object Permanence,2
+intuit_annotation,5535,Perception and Pattern Recognition,1
+intuit_annotation,5535,Planning,0
+intuit_annotation,5535,Procedural Memory,0
+intuit_annotation,5535,Prospective Memory,2
+intuit_annotation,5535,Semantic Memory,1
+intuit_annotation,5535,Spatial Reasoning and Navigation,1
+intuit_annotation,5535,Theory of Mind,1
+intuit_annotation,5535,Working Memory,2
+intuit_annotation,5535,ambiguity,5
+intuit_annotation,5535,factuality,1
+intuit_annotation,5567,Causal Reasoning,1
+intuit_annotation,5567,Cognitive Flexibility,0
+intuit_annotation,5567,Emotion Perception and Empathy,0
+intuit_annotation,5567,Episodic Memory,1
+intuit_annotation,5567,Functional Perception,1
+intuit_annotation,5567,Inhibitory Control,1
+intuit_annotation,5567,Language,2
+intuit_annotation,5567,Mental Simulation,1
+intuit_annotation,5567,Metacognition,1
+intuit_annotation,5567,Object Permanence,1
+intuit_annotation,5567,Perception and Pattern Recognition,1
+intuit_annotation,5567,Planning,0
+intuit_annotation,5567,Procedural Memory,0
+intuit_annotation,5567,Prospective Memory,0
+intuit_annotation,5567,Semantic Memory,1
+intuit_annotation,5567,Spatial Reasoning and Navigation,1
+intuit_annotation,5567,Theory of Mind,3
+intuit_annotation,5567,Working Memory,1
+intuit_annotation,5567,ambiguity,5
+intuit_annotation,5567,factuality,5
+intuit_annotation,5616,Causal Reasoning,2
+intuit_annotation,5616,Cognitive Flexibility,2
+intuit_annotation,5616,Emotion Perception and Empathy,0
+intuit_annotation,5616,Episodic Memory,2
+intuit_annotation,5616,Functional Perception,2
+intuit_annotation,5616,Inhibitory Control,2
+intuit_annotation,5616,Language,2
+intuit_annotation,5616,Mental Simulation,1
+intuit_annotation,5616,Metacognition,2
+intuit_annotation,5616,Object Permanence,1
+intuit_annotation,5616,Perception and Pattern Recognition,2
+intuit_annotation,5616,Planning,0
+intuit_annotation,5616,Procedural Memory,0
+intuit_annotation,5616,Prospective Memory,1
+intuit_annotation,5616,Semantic Memory,2
+intuit_annotation,5616,Spatial Reasoning and Navigation,1
+intuit_annotation,5616,Theory of Mind,3
+intuit_annotation,5616,Working Memory,2
+intuit_annotation,5616,ambiguity,5
+intuit_annotation,5616,factuality,5
+intuit_annotation,5622,Causal Reasoning,1
+intuit_annotation,5622,Cognitive Flexibility,2
+intuit_annotation,5622,Emotion Perception and Empathy,0
+intuit_annotation,5622,Episodic Memory,3
+intuit_annotation,5622,Functional Perception,2
+intuit_annotation,5622,Inhibitory Control,2
+intuit_annotation,5622,Language,2
+intuit_annotation,5622,Mental Simulation,1
+intuit_annotation,5622,Metacognition,2
+intuit_annotation,5622,Object Permanence,2
+intuit_annotation,5622,Perception and Pattern Recognition,2
+intuit_annotation,5622,Planning,0
+intuit_annotation,5622,Procedural Memory,1
+intuit_annotation,5622,Prospective Memory,2
+intuit_annotation,5622,Semantic Memory,2
+intuit_annotation,5622,Spatial Reasoning and Navigation,1
+intuit_annotation,5622,Theory of Mind,3
+intuit_annotation,5622,Working Memory,3
+intuit_annotation,5622,ambiguity,5
+intuit_annotation,5622,factuality,1
+intuit_annotation,5634,Causal Reasoning,1
+intuit_annotation,5634,Cognitive Flexibility,2
+intuit_annotation,5634,Emotion Perception and Empathy,0
+intuit_annotation,5634,Episodic Memory,3
+intuit_annotation,5634,Functional Perception,2
+intuit_annotation,5634,Inhibitory Control,3
+intuit_annotation,5634,Language,3
+intuit_annotation,5634,Mental Simulation,1
+intuit_annotation,5634,Metacognition,3
+intuit_annotation,5634,Object Permanence,1
+intuit_annotation,5634,Perception and Pattern Recognition,2
+intuit_annotation,5634,Planning,0
+intuit_annotation,5634,Procedural Memory,0
+intuit_annotation,5634,Prospective Memory,0
+intuit_annotation,5634,Semantic Memory,2
+intuit_annotation,5634,Spatial Reasoning and Navigation,1
+intuit_annotation,5634,Theory of Mind,3
+intuit_annotation,5634,Working Memory,3
+intuit_annotation,5634,ambiguity,5
+intuit_annotation,5634,factuality,1
+intuit_annotation,5647,Causal Reasoning,1
+intuit_annotation,5647,Cognitive Flexibility,1
+intuit_annotation,5647,Emotion Perception and Empathy,0
+intuit_annotation,5647,Episodic Memory,2
+intuit_annotation,5647,Functional Perception,1
+intuit_annotation,5647,Inhibitory Control,2
+intuit_annotation,5647,Language,2
+intuit_annotation,5647,Mental Simulation,2
+intuit_annotation,5647,Metacognition,1
+intuit_annotation,5647,Object Permanence,1
+intuit_annotation,5647,Perception and Pattern Recognition,1
+intuit_annotation,5647,Planning,0
+intuit_annotation,5647,Procedural Memory,0
+intuit_annotation,5647,Prospective Memory,1
+intuit_annotation,5647,Semantic Memory,2
+intuit_annotation,5647,Spatial Reasoning and Navigation,1
+intuit_annotation,5647,Theory of Mind,1
+intuit_annotation,5647,Working Memory,2
+intuit_annotation,5647,ambiguity,5
+intuit_annotation,5647,factuality,5
+intuit_annotation,5677,Causal Reasoning,1
+intuit_annotation,5677,Cognitive Flexibility,1
+intuit_annotation,5677,Emotion Perception and Empathy,0
+intuit_annotation,5677,Episodic Memory,3
+intuit_annotation,5677,Functional Perception,1
+intuit_annotation,5677,Inhibitory Control,2
+intuit_annotation,5677,Language,2
+intuit_annotation,5677,Mental Simulation,1
+intuit_annotation,5677,Metacognition,3
+intuit_annotation,5677,Object Permanence,1
+intuit_annotation,5677,Perception and Pattern Recognition,1
+intuit_annotation,5677,Planning,0
+intuit_annotation,5677,Procedural Memory,0
+intuit_annotation,5677,Prospective Memory,0
+intuit_annotation,5677,Semantic Memory,1
+intuit_annotation,5677,Spatial Reasoning and Navigation,1
+intuit_annotation,5677,Theory of Mind,2
+intuit_annotation,5677,Working Memory,3
+intuit_annotation,5677,ambiguity,5
+intuit_annotation,5677,factuality,1
+intuit_annotation,5693,Causal Reasoning,1
+intuit_annotation,5693,Cognitive Flexibility,2
+intuit_annotation,5693,Emotion Perception and Empathy,0
+intuit_annotation,5693,Episodic Memory,0
+intuit_annotation,5693,Functional Perception,1
+intuit_annotation,5693,Inhibitory Control,1
+intuit_annotation,5693,Language,2
+intuit_annotation,5693,Mental Simulation,1
+intuit_annotation,5693,Metacognition,2
+intuit_annotation,5693,Object Permanence,2
+intuit_annotation,5693,Perception and Pattern Recognition,2
+intuit_annotation,5693,Planning,0
+intuit_annotation,5693,Procedural Memory,0
+intuit_annotation,5693,Prospective Memory,1
+intuit_annotation,5693,Semantic Memory,2
+intuit_annotation,5693,Spatial Reasoning and Navigation,1
+intuit_annotation,5693,Theory of Mind,3
+intuit_annotation,5693,Working Memory,3
+intuit_annotation,5693,ambiguity,5
+intuit_annotation,5693,factuality,3
+intuit_annotation,5696,Causal Reasoning,1
+intuit_annotation,5696,Cognitive Flexibility,0
+intuit_annotation,5696,Emotion Perception and Empathy,0
+intuit_annotation,5696,Episodic Memory,2
+intuit_annotation,5696,Functional Perception,0
+intuit_annotation,5696,Inhibitory Control,1
+intuit_annotation,5696,Language,2
+intuit_annotation,5696,Mental Simulation,1
+intuit_annotation,5696,Metacognition,2
+intuit_annotation,5696,Object Permanence,2
+intuit_annotation,5696,Perception and Pattern Recognition,3
+intuit_annotation,5696,Planning,0
+intuit_annotation,5696,Procedural Memory,0
+intuit_annotation,5696,Prospective Memory,0
+intuit_annotation,5696,Semantic Memory,2
+intuit_annotation,5696,Spatial Reasoning and Navigation,2
+intuit_annotation,5696,Theory of Mind,3
+intuit_annotation,5696,Working Memory,3
+intuit_annotation,5696,ambiguity,4
+intuit_annotation,5696,factuality,5
+intuit_annotation,5700,Causal Reasoning,1
+intuit_annotation,5700,Cognitive Flexibility,2
+intuit_annotation,5700,Emotion Perception and Empathy,0
+intuit_annotation,5700,Episodic Memory,1
+intuit_annotation,5700,Functional Perception,1
+intuit_annotation,5700,Inhibitory Control,2
+intuit_annotation,5700,Language,3
+intuit_annotation,5700,Mental Simulation,2
+intuit_annotation,5700,Metacognition,2
+intuit_annotation,5700,Object Permanence,2
+intuit_annotation,5700,Perception and Pattern Recognition,2
+intuit_annotation,5700,Planning,0
+intuit_annotation,5700,Procedural Memory,1
+intuit_annotation,5700,Prospective Memory,1
+intuit_annotation,5700,Semantic Memory,2
+intuit_annotation,5700,Spatial Reasoning and Navigation,2
+intuit_annotation,5700,Theory of Mind,3
+intuit_annotation,5700,Working Memory,3
+intuit_annotation,5700,ambiguity,5
+intuit_annotation,5700,factuality,5
+intuit_annotation,608,Causal Reasoning,1
+intuit_annotation,608,Cognitive Flexibility,0
+intuit_annotation,608,Emotion Perception and Empathy,0
+intuit_annotation,608,Episodic Memory,2
+intuit_annotation,608,Functional Perception,1
+intuit_annotation,608,Inhibitory Control,1
+intuit_annotation,608,Language,2
+intuit_annotation,608,Mental Simulation,1
+intuit_annotation,608,Metacognition,2
+intuit_annotation,608,Object Permanence,1
+intuit_annotation,608,Perception and Pattern Recognition,2
+intuit_annotation,608,Planning,0
+intuit_annotation,608,Procedural Memory,0
+intuit_annotation,608,Prospective Memory,2
+intuit_annotation,608,Semantic Memory,2
+intuit_annotation,608,Spatial Reasoning and Navigation,1
+intuit_annotation,608,Theory of Mind,0
+intuit_annotation,608,Working Memory,2
+intuit_annotation,608,ambiguity,5
+intuit_annotation,608,factuality,1
+intuit_annotation,619,Causal Reasoning,1
+intuit_annotation,619,Cognitive Flexibility,1
+intuit_annotation,619,Emotion Perception and Empathy,0
+intuit_annotation,619,Episodic Memory,2
+intuit_annotation,619,Functional Perception,2
+intuit_annotation,619,Inhibitory Control,0
+intuit_annotation,619,Language,1
+intuit_annotation,619,Mental Simulation,1
+intuit_annotation,619,Metacognition,1
+intuit_annotation,619,Object Permanence,2
+intuit_annotation,619,Perception and Pattern Recognition,1
+intuit_annotation,619,Planning,0
+intuit_annotation,619,Procedural Memory,0
+intuit_annotation,619,Prospective Memory,1
+intuit_annotation,619,Semantic Memory,1
+intuit_annotation,619,Spatial Reasoning and Navigation,1
+intuit_annotation,619,Theory of Mind,2
+intuit_annotation,619,Working Memory,1
+intuit_annotation,619,ambiguity,5
+intuit_annotation,619,factuality,5
+intuit_annotation,61,Causal Reasoning,1
+intuit_annotation,61,Cognitive Flexibility,0
+intuit_annotation,61,Emotion Perception and Empathy,0
+intuit_annotation,61,Episodic Memory,1
+intuit_annotation,61,Functional Perception,1
+intuit_annotation,61,Inhibitory Control,2
+intuit_annotation,61,Language,1
+intuit_annotation,61,Mental Simulation,0
+intuit_annotation,61,Metacognition,1
+intuit_annotation,61,Object Permanence,0
+intuit_annotation,61,Perception and Pattern Recognition,1
+intuit_annotation,61,Planning,0
+intuit_annotation,61,Procedural Memory,0
+intuit_annotation,61,Prospective Memory,0
+intuit_annotation,61,Semantic Memory,1
+intuit_annotation,61,Spatial Reasoning and Navigation,1
+intuit_annotation,61,Theory of Mind,0
+intuit_annotation,61,Working Memory,1
+intuit_annotation,61,ambiguity,5
+intuit_annotation,61,factuality,5
+intuit_annotation,629,Causal Reasoning,1
+intuit_annotation,629,Cognitive Flexibility,0
+intuit_annotation,629,Emotion Perception and Empathy,0
+intuit_annotation,629,Episodic Memory,1
+intuit_annotation,629,Functional Perception,1
+intuit_annotation,629,Inhibitory Control,1
+intuit_annotation,629,Language,2
+intuit_annotation,629,Mental Simulation,1
+intuit_annotation,629,Metacognition,1
+intuit_annotation,629,Object Permanence,2
+intuit_annotation,629,Perception and Pattern Recognition,1
+intuit_annotation,629,Planning,0
+intuit_annotation,629,Procedural Memory,0
+intuit_annotation,629,Prospective Memory,1
+intuit_annotation,629,Semantic Memory,1
+intuit_annotation,629,Spatial Reasoning and Navigation,1
+intuit_annotation,629,Theory of Mind,1
+intuit_annotation,629,Working Memory,2
+intuit_annotation,629,ambiguity,5
+intuit_annotation,629,factuality,5
+intuit_annotation,675,Causal Reasoning,0
+intuit_annotation,675,Cognitive Flexibility,0
+intuit_annotation,675,Emotion Perception and Empathy,0
+intuit_annotation,675,Episodic Memory,2
+intuit_annotation,675,Functional Perception,0
+intuit_annotation,675,Inhibitory Control,1
+intuit_annotation,675,Language,1
+intuit_annotation,675,Mental Simulation,0
+intuit_annotation,675,Metacognition,1
+intuit_annotation,675,Object Permanence,1
+intuit_annotation,675,Perception and Pattern Recognition,1
+intuit_annotation,675,Planning,0
+intuit_annotation,675,Procedural Memory,0
+intuit_annotation,675,Prospective Memory,0
+intuit_annotation,675,Semantic Memory,1
+intuit_annotation,675,Spatial Reasoning and Navigation,1
+intuit_annotation,675,Theory of Mind,0
+intuit_annotation,675,Working Memory,2
+intuit_annotation,675,ambiguity,3
+intuit_annotation,675,factuality,5
 intuit_annotation,676,Causal Reasoning,0
-intuit_annotation,676,Cognitive Flexibility,0
-intuit_annotation,676,Emotion Perception & Empathy (EPE),0
-intuit_annotation,676,Episodic/Episodic-Like Memory,1
-intuit_annotation,676,Executive Function (EF),1
-intuit_annotation,676,Functional perception,0
+intuit_annotation,676,Cognitive Flexibility,1
+intuit_annotation,676,Emotion Perception and Empathy,0
+intuit_annotation,676,Episodic Memory,1
+intuit_annotation,676,Functional Perception,0
 intuit_annotation,676,Inhibitory Control,1
 intuit_annotation,676,Language,1
 intuit_annotation,676,Mental Simulation,0
-intuit_annotation,676,Metacognition,2
-intuit_annotation,676,Object permanence,1
-intuit_annotation,676,Perception and Pattern Recognition,1
+intuit_annotation,676,Metacognition,1
+intuit_annotation,676,Object Permanence,1
+intuit_annotation,676,Perception and Pattern Recognition,0
 intuit_annotation,676,Planning,0
 intuit_annotation,676,Procedural Memory,0
-intuit_annotation,676,Prospective Memory,2
+intuit_annotation,676,Prospective Memory,1
 intuit_annotation,676,Semantic Memory,1
-intuit_annotation,676,Spatial reasoning and navigation,1
-intuit_annotation,676,Theory of Mind,2
-intuit_annotation,676,Working Memory,2
-intuit_annotation,676,ambiguity,3
+intuit_annotation,676,Spatial Reasoning and Navigation,1
+intuit_annotation,676,Theory of Mind,0
+intuit_annotation,676,Working Memory,1
+intuit_annotation,676,ambiguity,4
 intuit_annotation,676,factuality,5
+intuit_annotation,696,Causal Reasoning,0
+intuit_annotation,696,Cognitive Flexibility,0
+intuit_annotation,696,Emotion Perception and Empathy,0
+intuit_annotation,696,Episodic Memory,2
+intuit_annotation,696,Functional Perception,0
+intuit_annotation,696,Inhibitory Control,1
+intuit_annotation,696,Language,1
+intuit_annotation,696,Mental Simulation,0
+intuit_annotation,696,Metacognition,0
+intuit_annotation,696,Object Permanence,2
+intuit_annotation,696,Perception and Pattern Recognition,1
+intuit_annotation,696,Planning,0
+intuit_annotation,696,Procedural Memory,0
+intuit_annotation,696,Prospective Memory,0
+intuit_annotation,696,Semantic Memory,1
+intuit_annotation,696,Spatial Reasoning and Navigation,1
+intuit_annotation,696,Theory of Mind,0
+intuit_annotation,696,Working Memory,1
+intuit_annotation,696,ambiguity,2
+intuit_annotation,696,factuality,5
+intuit_annotation,722,Causal Reasoning,1
+intuit_annotation,722,Cognitive Flexibility,0
+intuit_annotation,722,Emotion Perception and Empathy,0
+intuit_annotation,722,Episodic Memory,1
+intuit_annotation,722,Functional Perception,1
+intuit_annotation,722,Inhibitory Control,1
+intuit_annotation,722,Language,1
+intuit_annotation,722,Mental Simulation,1
+intuit_annotation,722,Metacognition,1
+intuit_annotation,722,Object Permanence,2
+intuit_annotation,722,Perception and Pattern Recognition,1
+intuit_annotation,722,Planning,0
+intuit_annotation,722,Procedural Memory,0
+intuit_annotation,722,Prospective Memory,0
+intuit_annotation,722,Semantic Memory,1
+intuit_annotation,722,Spatial Reasoning and Navigation,1
+intuit_annotation,722,Theory of Mind,0
+intuit_annotation,722,Working Memory,2
+intuit_annotation,722,ambiguity,5
+intuit_annotation,722,factuality,5
+intuit_annotation,725,Causal Reasoning,0
+intuit_annotation,725,Cognitive Flexibility,0
+intuit_annotation,725,Emotion Perception and Empathy,0
+intuit_annotation,725,Episodic Memory,2
+intuit_annotation,725,Functional Perception,1
+intuit_annotation,725,Inhibitory Control,1
+intuit_annotation,725,Language,1
+intuit_annotation,725,Mental Simulation,1
+intuit_annotation,725,Metacognition,0
+intuit_annotation,725,Object Permanence,1
+intuit_annotation,725,Perception and Pattern Recognition,1
+intuit_annotation,725,Planning,0
+intuit_annotation,725,Procedural Memory,0
+intuit_annotation,725,Prospective Memory,2
+intuit_annotation,725,Semantic Memory,1
+intuit_annotation,725,Spatial Reasoning and Navigation,1
+intuit_annotation,725,Theory of Mind,0
+intuit_annotation,725,Working Memory,2
+intuit_annotation,725,ambiguity,5
+intuit_annotation,725,factuality,5
+intuit_annotation,741,Causal Reasoning,1
+intuit_annotation,741,Cognitive Flexibility,0
+intuit_annotation,741,Emotion Perception and Empathy,0
+intuit_annotation,741,Episodic Memory,1
+intuit_annotation,741,Functional Perception,1
+intuit_annotation,741,Inhibitory Control,1
+intuit_annotation,741,Language,1
+intuit_annotation,741,Mental Simulation,0
+intuit_annotation,741,Metacognition,1
+intuit_annotation,741,Object Permanence,2
+intuit_annotation,741,Perception and Pattern Recognition,1
+intuit_annotation,741,Planning,0
+intuit_annotation,741,Procedural Memory,0
+intuit_annotation,741,Prospective Memory,0
+intuit_annotation,741,Semantic Memory,2
+intuit_annotation,741,Spatial Reasoning and Navigation,1
+intuit_annotation,741,Theory of Mind,0
+intuit_annotation,741,Working Memory,2
+intuit_annotation,741,ambiguity,5
+intuit_annotation,741,factuality,5
+intuit_annotation,758,Causal Reasoning,1
+intuit_annotation,758,Cognitive Flexibility,0
+intuit_annotation,758,Emotion Perception and Empathy,0
+intuit_annotation,758,Episodic Memory,2
+intuit_annotation,758,Functional Perception,1
+intuit_annotation,758,Inhibitory Control,1
+intuit_annotation,758,Language,2
+intuit_annotation,758,Mental Simulation,1
+intuit_annotation,758,Metacognition,1
+intuit_annotation,758,Object Permanence,1
+intuit_annotation,758,Perception and Pattern Recognition,1
+intuit_annotation,758,Planning,0
+intuit_annotation,758,Procedural Memory,0
+intuit_annotation,758,Prospective Memory,0
+intuit_annotation,758,Semantic Memory,1
+intuit_annotation,758,Spatial Reasoning and Navigation,1
+intuit_annotation,758,Theory of Mind,0
+intuit_annotation,758,Working Memory,1
+intuit_annotation,758,ambiguity,5
+intuit_annotation,758,factuality,5
+intuit_annotation,809,Causal Reasoning,1
+intuit_annotation,809,Cognitive Flexibility,0
+intuit_annotation,809,Emotion Perception and Empathy,0
+intuit_annotation,809,Episodic Memory,3
+intuit_annotation,809,Functional Perception,2
+intuit_annotation,809,Inhibitory Control,2
+intuit_annotation,809,Language,2
+intuit_annotation,809,Mental Simulation,1
+intuit_annotation,809,Metacognition,1
+intuit_annotation,809,Object Permanence,1
+intuit_annotation,809,Perception and Pattern Recognition,2
+intuit_annotation,809,Planning,0
+intuit_annotation,809,Procedural Memory,0
+intuit_annotation,809,Prospective Memory,1
+intuit_annotation,809,Semantic Memory,2
+intuit_annotation,809,Spatial Reasoning and Navigation,1
+intuit_annotation,809,Theory of Mind,1
+intuit_annotation,809,Working Memory,2
+intuit_annotation,809,ambiguity,5
+intuit_annotation,809,factuality,1
+intuit_annotation,854,Causal Reasoning,1
+intuit_annotation,854,Cognitive Flexibility,0
+intuit_annotation,854,Emotion Perception and Empathy,0
+intuit_annotation,854,Episodic Memory,2
+intuit_annotation,854,Functional Perception,1
+intuit_annotation,854,Inhibitory Control,1
+intuit_annotation,854,Language,2
+intuit_annotation,854,Mental Simulation,1
+intuit_annotation,854,Metacognition,1
+intuit_annotation,854,Object Permanence,1
+intuit_annotation,854,Perception and Pattern Recognition,1
+intuit_annotation,854,Planning,0
+intuit_annotation,854,Procedural Memory,0
+intuit_annotation,854,Prospective Memory,0
+intuit_annotation,854,Semantic Memory,2
+intuit_annotation,854,Spatial Reasoning and Navigation,1
+intuit_annotation,854,Theory of Mind,0
+intuit_annotation,854,Working Memory,2
+intuit_annotation,854,ambiguity,5
+intuit_annotation,854,factuality,5
+intuit_annotation,866,Causal Reasoning,0
+intuit_annotation,866,Cognitive Flexibility,0
+intuit_annotation,866,Emotion Perception and Empathy,0
+intuit_annotation,866,Episodic Memory,2
+intuit_annotation,866,Functional Perception,1
+intuit_annotation,866,Inhibitory Control,2
+intuit_annotation,866,Language,2
+intuit_annotation,866,Mental Simulation,0
+intuit_annotation,866,Metacognition,1
+intuit_annotation,866,Object Permanence,2
+intuit_annotation,866,Perception and Pattern Recognition,1
+intuit_annotation,866,Planning,0
+intuit_annotation,866,Procedural Memory,0
+intuit_annotation,866,Prospective Memory,1
+intuit_annotation,866,Semantic Memory,2
+intuit_annotation,866,Spatial Reasoning and Navigation,1
+intuit_annotation,866,Theory of Mind,0
+intuit_annotation,866,Working Memory,3
+intuit_annotation,866,ambiguity,5
+intuit_annotation,866,factuality,5
+intuit_annotation,86,Causal Reasoning,1
+intuit_annotation,86,Cognitive Flexibility,0
+intuit_annotation,86,Emotion Perception and Empathy,0
+intuit_annotation,86,Episodic Memory,0
+intuit_annotation,86,Functional Perception,1
+intuit_annotation,86,Inhibitory Control,1
+intuit_annotation,86,Language,1
+intuit_annotation,86,Mental Simulation,1
+intuit_annotation,86,Metacognition,1
+intuit_annotation,86,Object Permanence,0
+intuit_annotation,86,Perception and Pattern Recognition,1
+intuit_annotation,86,Planning,0
+intuit_annotation,86,Procedural Memory,0
+intuit_annotation,86,Prospective Memory,0
+intuit_annotation,86,Semantic Memory,1
+intuit_annotation,86,Spatial Reasoning and Navigation,1
+intuit_annotation,86,Theory of Mind,0
+intuit_annotation,86,Working Memory,1
+intuit_annotation,86,ambiguity,5
+intuit_annotation,86,factuality,5
+intuit_annotation,901,Causal Reasoning,1
+intuit_annotation,901,Cognitive Flexibility,0
+intuit_annotation,901,Emotion Perception and Empathy,0
+intuit_annotation,901,Episodic Memory,2
+intuit_annotation,901,Functional Perception,1
+intuit_annotation,901,Inhibitory Control,1
+intuit_annotation,901,Language,2
+intuit_annotation,901,Mental Simulation,1
+intuit_annotation,901,Metacognition,1
+intuit_annotation,901,Object Permanence,2
+intuit_annotation,901,Perception and Pattern Recognition,1
+intuit_annotation,901,Planning,0
+intuit_annotation,901,Procedural Memory,0
+intuit_annotation,901,Prospective Memory,2
+intuit_annotation,901,Semantic Memory,1
+intuit_annotation,901,Spatial Reasoning and Navigation,1
+intuit_annotation,901,Theory of Mind,0
+intuit_annotation,901,Working Memory,2
+intuit_annotation,901,ambiguity,5
+intuit_annotation,901,factuality,5
