@@ -51,9 +51,9 @@ To annotate a task simply run the task python file. For example, to annotate the
 ```bash
 python ./Evaluations/CoQA/CoQA_task.py
 ```
-This will load the CoQA dataset, convert each sample into a string to be insterted into the annotation prompt, and apply the OECD capability rubrics to each sample.
+This will load the CoQA dataset, convert each sample into a string to be inserted into the annotation prompt, and apply the OECD capability rubrics to each sample.
 
-These are then passed to a model for annotation and the results will be saved to `coqa_annotations.csv`. The only custom code needed is to load the dataset (needed for evaluation anyway) and code to covert each sample to a string (relatively simple for most text based tasks).
+These are then passed to a model for annotation and the results will be saved to `coqa_annotations.csv`. The only custom code needed is to load the dataset (needed for evaluation anyway) and code to convert each sample to a string (relatively simple for most text based tasks).
 
 ### Understanding Rubrics
 
