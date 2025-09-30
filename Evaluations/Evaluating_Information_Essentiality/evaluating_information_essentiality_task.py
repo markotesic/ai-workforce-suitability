@@ -115,17 +115,33 @@ def convert_input_to_string(dataset: Dataset) -> Dataset:
 
     return dataset
 
-def annotate(num_samples: int = DEFAULT_NUM_SAMPLES):
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
     dataset_path = os.path.join(Path(__file__).parent, "evaluating_information_essentiality.json")
     output_path = os.path.join(Path(__file__).parent, "evaluating_information_essentiality_annotations.csv")
     dataset = custom_loader(dataset_path=dataset_path)
     dataset = convert_input_to_string(dataset)
+
+    # Shuffle dataset for reproducibility FIRST
     dataset.shuffle(42)
-    dataset = dataset[:num_samples]
+
+    if mode == "append":
+        already_annotated_ids = get_annotated_sample_ids(output_path)
+        if already_annotated_ids:
+            dataset = dataset.filter(lambda sample: sample.id not in already_annotated_ids)
+        # Calculate remaining samples needed
+        remaining_samples = len(dataset)
+        if remaining_samples <= 0:
+            print(f"All samples already annotated for this task.")
+            return
+        # Take only what we need
+        dataset = dataset[:min(num_samples, remaining_samples)]
+    else:
+        # Overwrite mode - take first num_samples after shuffle
+        dataset = dataset[:num_samples]
 
     annotation_task = annotate_task(dataset)
     log = eval(annotation_task, model="openai/azure/gpt-4o" )
-    extract_annotations(log[0], output_path)
+    extract_annotations(log[0], output_path, mode)
 
 if __name__ == "__main__":
     annotate()

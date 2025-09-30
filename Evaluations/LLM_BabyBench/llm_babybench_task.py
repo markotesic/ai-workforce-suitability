@@ -198,7 +198,7 @@ def decompose_task() -> Task:
                 )
 
 
-def annotate(num_samples: int = DEFAULT_NUM_SAMPLES):
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
     # Annotate predict task
     output_path_predict = os.path.join(Path(__file__).parent, "llm_babybench_predict_annotations.csv")
     dataset_predict = hf_dataset("salem-mbzuai/LLM-BabyBench",
@@ -206,12 +206,30 @@ def annotate(num_samples: int = DEFAULT_NUM_SAMPLES):
                                  split="train",
                                  sample_fields=predict_record_to_sample
                                  )
-    dataset_predict.shuffle(42)
-    dataset_predict = dataset_predict[:num_samples]
 
-    annotation_task = annotate_task(dataset_predict)
-    log = eval(annotation_task, model="openai/azure/gpt-4o")
-    extract_annotations(log[0], output_path_predict)
+    # Shuffle dataset for reproducibility FIRST
+    dataset_predict.shuffle(42)
+
+    if mode == "append":
+        already_annotated_ids = get_annotated_sample_ids(output_path_predict)
+        if already_annotated_ids:
+            dataset_predict = dataset_predict.filter(lambda sample: sample.id not in already_annotated_ids)
+        # Calculate remaining samples needed
+        remaining_samples = len(dataset_predict)
+        if remaining_samples <= 0:
+            print(f"All predict samples already annotated. Skipping predict annotation.")
+        else:
+            # Take only what we need
+            dataset_predict = dataset_predict[:min(num_samples, remaining_samples)]
+            annotation_task = annotate_task(dataset_predict)
+            log = eval(annotation_task, model="openai/azure/gpt-4o")
+            extract_annotations(log[0], output_path_predict, mode)
+    else:
+        # Overwrite mode - take first num_samples after shuffle
+        dataset_predict = dataset_predict[:num_samples]
+        annotation_task = annotate_task(dataset_predict)
+        log = eval(annotation_task, model="openai/azure/gpt-4o")
+        extract_annotations(log[0], output_path_predict, mode)
 
     # Annotate plan task
     output_path_plan = os.path.join(Path(__file__).parent, "llm_babybench_plan_annotations.csv")
@@ -220,12 +238,30 @@ def annotate(num_samples: int = DEFAULT_NUM_SAMPLES):
                               split="train",
                               sample_fields=plan_record_to_sample
                               )
-    dataset_plan.shuffle(42)
-    dataset_plan = dataset_plan[:num_samples]
 
-    annotation_task = annotate_task(dataset_plan)
-    log = eval(annotation_task, model="openai/azure/gpt-4o")
-    extract_annotations(log[0], output_path_plan)
+    # Shuffle dataset for reproducibility FIRST
+    dataset_plan.shuffle(42)
+
+    if mode == "append":
+        already_annotated_ids_plan = get_annotated_sample_ids(output_path_plan)
+        if already_annotated_ids_plan:
+            dataset_plan = dataset_plan.filter(lambda sample: sample.id not in already_annotated_ids_plan)
+        # Calculate remaining samples needed
+        remaining_samples_plan = len(dataset_plan)
+        if remaining_samples_plan <= 0:
+            print(f"All plan samples already annotated. Skipping plan annotation.")
+        else:
+            # Take only what we need
+            dataset_plan = dataset_plan[:min(num_samples, remaining_samples_plan)]
+            annotation_task = annotate_task(dataset_plan)
+            log = eval(annotation_task, model="openai/azure/gpt-4o")
+            extract_annotations(log[0], output_path_plan, mode)
+    else:
+        # Overwrite mode - take first num_samples after shuffle
+        dataset_plan = dataset_plan[:num_samples]
+        annotation_task = annotate_task(dataset_plan)
+        log = eval(annotation_task, model="openai/azure/gpt-4o")
+        extract_annotations(log[0], output_path_plan, mode)
 
     # Annotate decompose task
     output_path_decompose = os.path.join(Path(__file__).parent, "llm_babybench_decompose_annotations.csv")
@@ -234,12 +270,30 @@ def annotate(num_samples: int = DEFAULT_NUM_SAMPLES):
                                    split="train",
                                    sample_fields=decompose_record_to_sample
                                    )
-    dataset_decompose.shuffle(42)
-    dataset_decompose = dataset_decompose[:num_samples]
 
-    annotation_task = annotate_task(dataset_decompose)
-    log = eval(annotation_task, model="openai/azure/gpt-4o")
-    extract_annotations(log[0], output_path_decompose)
+    # Shuffle dataset for reproducibility FIRST
+    dataset_decompose.shuffle(42)
+
+    if mode == "append":
+        already_annotated_ids_decompose = get_annotated_sample_ids(output_path_decompose)
+        if already_annotated_ids_decompose:
+            dataset_decompose = dataset_decompose.filter(lambda sample: sample.id not in already_annotated_ids_decompose)
+        # Calculate remaining samples needed
+        remaining_samples_decompose = len(dataset_decompose)
+        if remaining_samples_decompose <= 0:
+            print(f"All decompose samples already annotated. Skipping decompose annotation.")
+        else:
+            # Take only what we need
+            dataset_decompose = dataset_decompose[:min(num_samples, remaining_samples_decompose)]
+            annotation_task = annotate_task(dataset_decompose)
+            log = eval(annotation_task, model="openai/azure/gpt-4o")
+            extract_annotations(log[0], output_path_decompose, mode)
+    else:
+        # Overwrite mode - take first num_samples after shuffle
+        dataset_decompose = dataset_decompose[:num_samples]
+        annotation_task = annotate_task(dataset_decompose)
+        log = eval(annotation_task, model="openai/azure/gpt-4o")
+        extract_annotations(log[0], output_path_decompose, mode)
 
 
 if __name__ == "__main__":

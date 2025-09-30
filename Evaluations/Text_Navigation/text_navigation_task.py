@@ -108,21 +108,40 @@ def text_navigation_task() -> Task:
 
 
 
-def annotate(num_samples: int = DEFAULT_NUM_SAMPLES):
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
+    output_path = os.path.join(Path(__file__).parent, "text_navigation_annotations.csv")
+
+    if mode == "append":
+        # Get already annotated sample IDs
+        already_annotated_ids = get_annotated_sample_ids(output_path)
+
+        # Calculate remaining samples needed
+        remaining_samples = min(num_samples, num_samples - len(already_annotated_ids))
+
+        # Only proceed if there are remaining samples to annotate
+        if remaining_samples <= 0:
+            print(f"All {len(already_annotated_ids)} samples already annotated. Nothing to do.")
+            return
+
+        # Start ID from highest existing ID + 1
+        start_id = max(already_annotated_ids) + 1 if already_annotated_ids else 0
+        num_samples = remaining_samples
+    else:
+        start_id = 0
+
     # make a dataset manually
     samples = []
     for i in range(num_samples):
         input = "You enter a wicked maze.  As the (P)layer, you seek the (m)cguffin.  Find it, if you dare.  If you seek help, simply ask for it. Take the none action to get started."
         maze = maze_game(map_width=15)
         input += f"\n{maze.pretty_state()}"
-        samples.append(Sample(input=input, id=i))
+        samples.append(Sample(input=input, id=start_id + i))
 
     dataset = MemoryDataset(samples=samples, name="text_navigation")
-    output_path = os.path.join(Path(__file__).parent, "text_navigation_annotations.csv")
 
     annotation_task = annotate_task(dataset)
     log = eval(annotation_task, model="openai/azure/gpt-4o" )
-    extract_annotations(log[0], output_path)
+    extract_annotations(log[0], output_path, mode)
 
 if __name__ == "__main__":
     annotate()

@@ -9,6 +9,7 @@ to a CSV file in its respective directory.
 
 import argparse
 import glob
+import json
 import os
 import subprocess
 import sys
@@ -19,6 +20,96 @@ from typing import List, Optional
 from Annotations.convert_rubrics import convert_rubrics_to_json
 
 DEFAULT_NUM_SAMPLES = 10
+
+
+def get_allocation_key_for_task(task_name: str) -> str:
+    """
+    Map task directory names to allocation keys in item_allocations.json.
+
+    Args:
+        task_name: Directory name from Evaluations/ (e.g., "BigBenchHard", "Abstract_Narrative_Understanding")
+
+    Returns:
+        Corresponding key in item_allocations.json or None if not found
+    """
+    # Direct mappings for special cases
+    special_mappings = {
+        "Tiger_MMLU": "TIGER-Lab/MMLU-Pro_annotation",
+        "StepGame": "ZhengyanShi/StepGame_annotation",
+        "MetaMedQA": "maximegmd/MetaMedQA_annotation",
+        "EWoK": "ewok-core/ewok-core-1.0_annotation",
+        "SocialNorm": "socialnormdataset/social_annotation",
+        "OpenTOM": "OpenToM_annotation",  # Note: OpenTOM (directory) -> OpenToM (allocation)
+        "Plan_Bench": "plan_bench_annotation",
+        "AGIEval": "AGIEval_freeform_annotations",  # Default to freeform for AGIEval
+        "EmoBench": "EmoBench_annotation",  # Direct mapping
+        "BigBenchHard": "BigBenchHard_annotation",  # Direct mapping
+        "BigToM": "BigToM_annotation",  # Direct mapping
+        "CoQA": "CoQA_annotation",  # Direct mapping
+        "Crow": "Crow_annotation",  # Direct mapping
+        "Fantom": "Fantom_annotation",  # Direct mapping
+        "MacGyver": "MacGyver_annotation",  # Direct mapping
+    }
+
+    if task_name in special_mappings:
+        return special_mappings[task_name]
+
+    # For most cases: convert to snake_case and add "_annotation" suffix
+    # Convert PascalCase/Title_Case to snake_case
+    import re
+
+    # Handle cases like "Abstract_Narrative_Understanding" -> "abstract_narrative_understanding"
+    snake_case = task_name.replace('_', ' ').replace('-', ' ')
+    snake_case = re.sub(r'([A-Z])', r' \1', snake_case).strip()
+    snake_case = re.sub(r'\s+', '_', snake_case).lower()
+
+    return f"{snake_case}_annotation"
+
+
+def load_sample_allocations(allocations_file: str = None) -> dict:
+    """
+    Load sample allocation counts from JSON file.
+
+    Args:
+        allocations_file: Path to allocations JSON file
+
+    Returns:
+        Dictionary mapping allocation keys to sample counts
+    """
+    if allocations_file is None:
+        allocations_file = os.path.join(Path(__file__).parent, "item_allocations.json")
+
+    try:
+        with open(allocations_file, 'r') as f:
+            return json.load(f)
+    except FileNotFoundError:
+        print(f"Warning: Allocations file {allocations_file} not found. Using default sample counts.")
+        return {}
+    except json.JSONDecodeError as e:
+        print(f"Warning: Error parsing {allocations_file}: {e}. Using default sample counts.")
+        return {}
+
+
+def get_target_sample_count(task_name: str, allocations: dict) -> int:
+    """
+    Get the target sample count for a task from allocations.
+
+    Args:
+        task_name: Task directory name
+        allocations: Dictionary from load_sample_allocations()
+
+    Returns:
+        Target sample count, or DEFAULT_NUM_SAMPLES if not found
+    """
+    allocation_key = get_allocation_key_for_task(task_name)
+    sample_count = allocations.get(allocation_key, DEFAULT_NUM_SAMPLES)
+
+    # Handle zero allocations - use default instead
+    if sample_count == 0:
+        print(f"Warning: {task_name} has 0 samples allocated. Using default of {DEFAULT_NUM_SAMPLES}.")
+        return DEFAULT_NUM_SAMPLES
+
+    return sample_count
 
 def discover_task_files(evaluations_dir: str = "Evaluations") -> List[str]:
     """Discover all *_task.py files in the evaluations directory."""
@@ -32,7 +123,7 @@ def get_task_name(task_file: str) -> str:
     return os.path.basename(os.path.dirname(task_file))
 
 
-def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = False, num_samples: int = DEFAULT_NUM_SAMPLES) -> bool:
+def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = False, num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite") -> bool:
     """
     Run a single task file and return True if successful.
 
@@ -41,18 +132,19 @@ def run_task(task_file: str, timeout: Optional[int] = None, verbose: bool = Fals
         timeout: Optional timeout in seconds
         verbose: If True, show live output from the subprocess
         num_samples: Number of samples to use for annotation
+        mode: Annotation mode - "overwrite" or "append"
 
     Returns:
         True if the task completed successfully, False otherwise
     """
     task_name = get_task_name(task_file)
-    print(f"[{task_name}] Starting annotation task...")
+    print(f"[{task_name}] Starting annotation task (mode: {mode}, samples: {num_samples})...")
 
     start_time = time.time()
 
     # Create the command to import the module and call annotate()
     module_name = os.path.splitext(os.path.basename(task_file))[0]
-    import_cmd = f"import sys; sys.path.insert(0, '.'); from {module_name} import annotate; annotate({num_samples})"
+    import_cmd = f"import sys; sys.path.insert(0, '.'); from {module_name} import annotate; annotate({num_samples}, '{mode}')"
 
     try:
         if verbose:
@@ -109,11 +201,12 @@ def main():
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
-  python run_annotations.py                    # Run all tasks
-  python run_annotations.py --include EmoBench # Run only EmoBench
+  python run_annotations.py                           # Run all tasks (overwrite mode, samples from allocations)
+  python run_annotations.py --mode append             # Run all tasks in append mode
+  python run_annotations.py --include EmoBench        # Run only EmoBench
   python run_annotations.py --exclude BigBenchHard AGIEval  # Exclude specific tasks
-  python run_annotations.py --timeout 1800     # Set 30min timeout per task
-  python run_annotations.py --verbose          # Show live output from tasks
+  python run_annotations.py --timeout 1800            # Set 30min timeout per task
+  python run_annotations.py --verbose --mode append   # Show live output, append new annotations
         """
     )
 
@@ -148,11 +241,20 @@ Examples:
         action="store_true",
         help="Show live output from each task as it runs"
     )
+    parser.add_argument(
+        "--mode",
+        choices=["overwrite", "append"],
+        default="overwrite",
+        help="Annotation mode: 'overwrite' replaces existing annotations, 'append' adds only new annotations (default: overwrite)"
+    )
 
     args = parser.parse_args()
 
     # make sure to update the rubric json file first
     convert_rubrics_to_json(os.path.join(Path(__file__).parent, "rubric_files"), os.path.join(Path(__file__).parent, "rubric.json"))
+
+    # Load sample allocations
+    allocations = load_sample_allocations()
 
     # Change to the script's parent directory to ensure relative paths work
     script_dir = Path(__file__).parent.parent
@@ -204,9 +306,10 @@ Examples:
 
     for i, task_file in enumerate(filtered_tasks, 1):
         task_name = get_task_name(task_file)
+        target_samples = get_target_sample_count(task_name, allocations)
         print(f"[{i}/{len(filtered_tasks)}] Running {task_name}")
 
-        if run_task(task_file, args.timeout, args.verbose, DEFAULT_NUM_SAMPLES):
+        if run_task(task_file, args.timeout, args.verbose, target_samples, args.mode):
             successful += 1
         else:
             failed += 1
