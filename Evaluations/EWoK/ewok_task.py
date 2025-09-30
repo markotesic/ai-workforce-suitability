@@ -118,18 +118,34 @@ def ewok_task() -> Task:
                 solver=basic_agent(),
         )
 
-def annotate(num_samples: int = DEFAULT_NUM_SAMPLES):
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
     dataset = hf_dataset("ewok-core/ewok-core-1.0",
         split="test",
         sample_fields=record_to_sample,
     )
     output_path = os.path.join(Path(__file__).parent, "ewok_annotations.csv")
+
+    # Shuffle dataset for reproducibility FIRST
     dataset.shuffle(42)
-    dataset = dataset[:num_samples]
+
+    if mode == "append":
+        already_annotated_ids = get_annotated_sample_ids(output_path)
+        if already_annotated_ids:
+            dataset = dataset.filter(lambda sample: sample.id not in already_annotated_ids)
+        # Calculate remaining samples needed
+        remaining_samples = len(dataset)
+        if remaining_samples <= 0:
+            print(f"All samples already annotated for this task.")
+            return
+        # Take only what we need
+        dataset = dataset[:min(num_samples, remaining_samples)]
+    else:
+        # Overwrite mode - take first num_samples after shuffle
+        dataset = dataset[:num_samples]
 
     annotation_task = annotate_task(dataset)
     log = eval(annotation_task, model="openai/azure/gpt-4o" )
-    extract_annotations(log[0], output_path)
+    extract_annotations(log[0], output_path, mode)
 
 if __name__ == "__main__":
     annotate()

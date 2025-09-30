@@ -154,28 +154,63 @@ def convert_input_to_string(dataset: Dataset) -> Dataset:
 
     return dataset
 
-def annotate(num_samples: int = DEFAULT_NUM_SAMPLES):
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
     dataset_dir = os.path.join(Path(__file__).parent, "v1_1")
     output_path_mcq = os.path.join(Path(__file__).parent, "agieval_mcq_annotations.csv")
     dataset_mcq = custom_loader(dataset_dir=dataset_dir, mcq=True)
     dataset_mcq = convert_input_to_string(dataset_mcq)
-    dataset_mcq.shuffle(42)
-    dataset_mcq = dataset_mcq[:num_samples]
 
-    annotation_task = annotate_task(dataset_mcq)
-    log = eval(annotation_task, model="openai/azure/gpt-4o" )
-    extract_annotations(log[0], output_path_mcq)
+    # Shuffle dataset for reproducibility FIRST
+    dataset_mcq.shuffle(42)
+
+    if mode == "append":
+        already_annotated_ids = get_annotated_sample_ids(output_path_mcq)
+        if already_annotated_ids:
+            dataset_mcq = dataset_mcq.filter(lambda sample: sample.id not in already_annotated_ids)
+        # Calculate remaining samples needed
+        remaining_samples = len(dataset_mcq)
+        if remaining_samples <= 0:
+            print(f"All MCQ samples already annotated. Skipping MCQ annotation.")
+        else:
+            # Take only what we need
+            dataset_mcq = dataset_mcq[:min(num_samples, remaining_samples)]
+            annotation_task = annotate_task(dataset_mcq)
+            log = eval(annotation_task, model="openai/azure/gpt-4o" )
+            extract_annotations(log[0], output_path_mcq, mode)
+    else:
+        # Overwrite mode - take first num_samples after shuffle
+        dataset_mcq = dataset_mcq[:num_samples]
+        annotation_task = annotate_task(dataset_mcq)
+        log = eval(annotation_task, model="openai/azure/gpt-4o" )
+        extract_annotations(log[0], output_path_mcq, mode)
 
 
     output_path_freeform = os.path.join(Path(__file__).parent, "agieval_freeform_annotations.csv")
     dataset_freeform = custom_loader(dataset_dir=dataset_dir, mcq=False)
     dataset_freeform = convert_input_to_string(dataset_freeform)
+
+    # Shuffle dataset for reproducibility FIRST
     dataset_freeform.shuffle(42)
-    dataset_freeform = dataset_freeform[:num_samples]
+
+    if mode == "append":
+        already_annotated_ids_freeform = get_annotated_sample_ids(output_path_freeform)
+        if already_annotated_ids_freeform:
+            dataset_freeform = dataset_freeform.filter(lambda sample: sample.id not in already_annotated_ids_freeform)
+        # Calculate remaining samples needed
+        remaining_samples_freeform = len(dataset_freeform)
+        if remaining_samples_freeform <= 0:
+            print(f"All freeform samples already annotated. Skipping freeform annotation.")
+            return
+        else:
+            # Take only what we need
+            dataset_freeform = dataset_freeform[:min(num_samples, remaining_samples_freeform)]
+    else:
+        # Overwrite mode - take first num_samples after shuffle
+        dataset_freeform = dataset_freeform[:num_samples]
 
     annotation_task = annotate_task(dataset_freeform)
     log = eval(annotation_task, model="openai/azure/gpt-4o" )
-    extract_annotations(log[0], output_path_freeform)
+    extract_annotations(log[0], output_path_freeform, mode)
 
 
 if __name__ == "__main__":

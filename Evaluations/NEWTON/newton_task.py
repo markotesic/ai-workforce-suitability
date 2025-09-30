@@ -1,5 +1,7 @@
 import os
+import csv
 from pathlib import Path
+from typing import Set
 from inspect_ai import Task, task, eval
 from inspect_ai.dataset import Dataset, FieldSpec, Sample, hf_dataset
 from inspect_ai.scorer import choice
@@ -16,6 +18,22 @@ Answer the following multiple choice question. The last line of your response sh
 
 {choices}
 """.strip()
+
+
+def get_annotated_sample_ids(annotation_csv_path: str) -> Set[str]:
+    """Extract the set of sample IDs that have been annotated from the CSV file."""
+    annotated_ids = set()
+
+    if not os.path.exists(annotation_csv_path):
+        return annotated_ids
+
+    with open(annotation_csv_path, 'r', newline='') as csvfile:
+        reader = csv.DictReader(csvfile)
+        for row in reader:
+            sample_id = row['sample id']  # NEWTON uses string IDs
+            annotated_ids.add(sample_id)
+
+    return annotated_ids
 
 
 def record_to_sample(record) -> Sample:
@@ -79,19 +97,35 @@ def convert_input_to_string(dataset: Dataset) -> Dataset:
 
     return dataset
 
-def annotate(num_samples: int = DEFAULT_NUM_SAMPLES):
+def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
     dataset = hf_dataset("NEWTONReasoning/NEWTON",
         split="confident_questions",
         sample_fields=record_to_sample
     )
     dataset = convert_input_to_string(dataset)
     output_path = os.path.join(Path(__file__).parent, "newton_annotations.csv")
+
+    # Shuffle dataset for reproducibility FIRST
     dataset.shuffle(42)
-    dataset = dataset[:num_samples]
+
+    if mode == "append":
+        already_annotated_ids = get_annotated_sample_ids(output_path)
+        if already_annotated_ids:
+            dataset = dataset.filter(lambda sample: sample.id not in already_annotated_ids)
+        # Calculate remaining samples needed
+        remaining_samples = len(dataset)
+        if remaining_samples <= 0:
+            print(f"All samples already annotated for this task.")
+            return
+        # Take only what we need
+        dataset = dataset[:min(num_samples, remaining_samples)]
+    else:
+        # Overwrite mode - take first num_samples after shuffle
+        dataset = dataset[:num_samples]
 
     annotation_task = annotate_task(dataset)
     log = eval(annotation_task, model="openai/azure/gpt-4o" )
-    extract_annotations(log[0], output_path)
+    extract_annotations(log[0], output_path, mode)
 
 if __name__ == "__main__":
     annotate()

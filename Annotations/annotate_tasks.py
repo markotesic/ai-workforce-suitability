@@ -104,18 +104,69 @@ def combine_dataset(task_dataset: Dataset, rubric_data) -> Dataset:
         new_samples.append(factuality_sample)
     return MemoryDataset(new_samples, name=f"{task_dataset.name}_annotation")
 
-def extract_annotations(log: EvalLog, output_file: str):
+def extract_annotations(log: EvalLog, output_file: str, mode: str = "overwrite"):
+    """
+    Extract annotations from evaluation log and write to CSV file.
+
+    Args:
+        log: Evaluation log containing annotation results
+        output_file: Path to output CSV file
+        mode: "overwrite" to replace file completely, "append" to merge with existing annotations
+    """
     assert log.samples is not None
-    annotations = []
+
+    # Extract new annotations from the log
+    new_annotations = []
     for sample in log.samples:
         score = sample.output.completion
         annotation = (log.eval.dataset.name, sample.metadata["sample_id"], sample.metadata["dimension"], score)
-        annotations.append(annotation)
+        new_annotations.append(annotation)
 
-    with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
-        writer = csv.writer(csvfile)
-        writer.writerow(["dataset name", "sample id", "dimension", "score"])
-        writer.writerows(annotations)
+    if mode == "overwrite" or not os.path.exists(output_file):
+        # Overwrite mode or file doesn't exist - write all new annotations
+        with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
+            writer = csv.writer(csvfile)
+            writer.writerow(["dataset name", "sample id", "dimension", "score"])
+            writer.writerows(new_annotations)
+    elif mode == "append":
+        # Append mode - merge with existing annotations
+        existing_annotations = []
+
+        # Read existing annotations if file exists
+        if os.path.exists(output_file):
+            with open(output_file, 'r', newline='', encoding='utf-8') as csvfile:
+                reader = csv.reader(csvfile)
+                headers = next(reader, None)  # Skip header row
+                if headers:
+                    for row in reader:
+                        if len(row) >= 4:  # Ensure row has all required columns
+                            existing_annotations.append(tuple(row))
+
+        # Create a set of existing (sample_id, dimension) pairs to avoid duplicates
+        existing_keys = set((row[1], row[2]) for row in existing_annotations)
+
+        # Only add new annotations that don't already exist
+        filtered_new_annotations = []
+        for annotation in new_annotations:
+            key = (annotation[1], annotation[2])  # (sample_id, dimension)
+            if key not in existing_keys:
+                filtered_new_annotations.append(annotation)
+
+        # Combine existing and new annotations
+        all_annotations = existing_annotations + filtered_new_annotations
+
+        # Write combined annotations
+        with open(output_file, 'w', newline='', encoding='utf-8') as csvfile:
+            writer = csv.writer(csvfile)
+            writer.writerow(["dataset name", "sample id", "dimension", "score"])
+            writer.writerows(all_annotations)
+
+        print(f"Appended {len(filtered_new_annotations)} new annotations to {output_file}")
+        if len(filtered_new_annotations) < len(new_annotations):
+            skipped = len(new_annotations) - len(filtered_new_annotations)
+            print(f"Skipped {skipped} duplicate annotations")
+    else:
+        raise ValueError(f"Invalid mode: {mode}. Must be 'overwrite' or 'append'")
 
 
 
