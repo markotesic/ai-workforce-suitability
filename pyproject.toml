@@ -24,6 +24,10 @@ classifiers = [
 dependencies = [
     "inspect-ai",
     "numpy",
+    "pandas",
+    "matplotlib",
+    "seaborn",
+    "scipy",
 ]
 
 [project.optional-dependencies]
