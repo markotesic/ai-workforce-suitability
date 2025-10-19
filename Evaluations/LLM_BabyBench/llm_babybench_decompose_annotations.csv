@@ -1,0 +1,201 @@
+dataset name,sample id,dimension,score
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,Causal Reasoning,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,Cognitive Flexibility,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,Emotion Perception and Empathy,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,Episodic Memory,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,Functional Perception,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,Inhibitory Control,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,Language,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,Mental Simulation,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,Metacognition,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,Object Permanence,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,Perception and Pattern Recognition,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,Planning,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,Procedural Memory,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,Prospective Memory,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,Semantic Memory,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,Spatial Reasoning and Navigation,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,Theory of Mind,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,Working Memory,4
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,ambiguity,5
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_2d060908,factuality,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,Causal Reasoning,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,Cognitive Flexibility,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,Emotion Perception and Empathy,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,Episodic Memory,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,Functional Perception,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,Inhibitory Control,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,Language,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,Mental Simulation,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,Metacognition,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,Object Permanence,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,Perception and Pattern Recognition,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,Planning,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,Procedural Memory,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,Prospective Memory,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,Semantic Memory,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,Spatial Reasoning and Navigation,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,Theory of Mind,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,Working Memory,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,ambiguity,4
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_49d78dca,factuality,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,Causal Reasoning,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,Cognitive Flexibility,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,Emotion Perception and Empathy,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,Episodic Memory,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,Functional Perception,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,Inhibitory Control,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,Language,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,Mental Simulation,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,Metacognition,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,Object Permanence,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,Perception and Pattern Recognition,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,Planning,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,Procedural Memory,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,Prospective Memory,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,Semantic Memory,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,Spatial Reasoning and Navigation,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,Theory of Mind,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,Working Memory,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,ambiguity,5
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_4b39c28b,factuality,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,Causal Reasoning,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,Cognitive Flexibility,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,Emotion Perception and Empathy,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,Episodic Memory,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,Functional Perception,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,Inhibitory Control,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,Language,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,Mental Simulation,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,Metacognition,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,Object Permanence,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,Perception and Pattern Recognition,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,Planning,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,Procedural Memory,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,Prospective Memory,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,Semantic Memory,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,Spatial Reasoning and Navigation,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,Theory of Mind,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,Working Memory,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,ambiguity,5
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_545fbf75,factuality,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,Causal Reasoning,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,Cognitive Flexibility,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,Emotion Perception and Empathy,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,Episodic Memory,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,Functional Perception,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,Inhibitory Control,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,Language,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,Mental Simulation,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,Metacognition,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,Object Permanence,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,Perception and Pattern Recognition,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,Planning,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,Procedural Memory,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,Prospective Memory,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,Semantic Memory,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,Spatial Reasoning and Navigation,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,Theory of Mind,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,Working Memory,4
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,ambiguity,5
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_801dfb1b,factuality,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,Causal Reasoning,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,Cognitive Flexibility,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,Emotion Perception and Empathy,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,Episodic Memory,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,Functional Perception,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,Inhibitory Control,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,Language,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,Mental Simulation,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,Metacognition,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,Object Permanence,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,Perception and Pattern Recognition,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,Planning,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,Procedural Memory,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,Prospective Memory,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,Semantic Memory,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,Spatial Reasoning and Navigation,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,Theory of Mind,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,Working Memory,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,ambiguity,5
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_8aea61ea,factuality,5
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,Causal Reasoning,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,Cognitive Flexibility,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,Emotion Perception and Empathy,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,Episodic Memory,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,Functional Perception,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,Inhibitory Control,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,Language,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,Mental Simulation,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,Metacognition,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,Object Permanence,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,Perception and Pattern Recognition,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,Planning,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,Procedural Memory,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,Prospective Memory,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,Semantic Memory,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,Spatial Reasoning and Navigation,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,Theory of Mind,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,Working Memory,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,ambiguity,4
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc427798,factuality,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,Causal Reasoning,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,Cognitive Flexibility,4
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,Emotion Perception and Empathy,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,Episodic Memory,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,Functional Perception,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,Inhibitory Control,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,Language,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,Mental Simulation,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,Metacognition,4
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,Object Permanence,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,Perception and Pattern Recognition,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,Planning,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,Procedural Memory,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,Prospective Memory,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,Semantic Memory,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,Spatial Reasoning and Navigation,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,Theory of Mind,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,Working Memory,4
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,ambiguity,5
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_cc91f6d5,factuality,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,Causal Reasoning,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,Cognitive Flexibility,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,Emotion Perception and Empathy,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,Episodic Memory,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,Functional Perception,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,Inhibitory Control,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,Language,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,Mental Simulation,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,Metacognition,4
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,Object Permanence,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,Perception and Pattern Recognition,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,Planning,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,Procedural Memory,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,Prospective Memory,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,Semantic Memory,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,Spatial Reasoning and Navigation,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,Theory of Mind,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,Working Memory,4
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,ambiguity,5
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_e47c48ff,factuality,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,Causal Reasoning,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,Cognitive Flexibility,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,Emotion Perception and Empathy,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,Episodic Memory,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,Functional Perception,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,Inhibitory Control,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,Language,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,Mental Simulation,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,Metacognition,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,Object Permanence,1
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,Perception and Pattern Recognition,4
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,Planning,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,Procedural Memory,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,Prospective Memory,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,Semantic Memory,2
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,Spatial Reasoning and Navigation,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,Theory of Mind,0
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,Working Memory,3
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,ambiguity,5
+salem-mbzuai/LLM-BabyBench_annotation,babybench_decompose_ff35002e,factuality,5
