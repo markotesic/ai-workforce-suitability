@@ -39,7 +39,7 @@ def predict_record_to_sample(record: Dict[str, Any]) -> Sample:
 
     # Create a unique identifier based on content hash since no index is available
     import hashlib
-    content_hash = hashlib.md5(f"{input}{target}".encode()).hexdigest()[:8]
+    content_hash = hashlib.md5(f"{input}{target}{record['level_name']}".encode()).hexdigest()[:8]
 
     sample = Sample(input=input,
                     target=target,
@@ -74,7 +74,7 @@ def plan_record_to_sample(record: Dict[str, Any]) -> Sample:
 
     # Create a unique identifier based on content hash since no index is available
     import hashlib
-    content_hash = hashlib.md5(f"{input}{target}".encode()).hexdigest()[:8]
+    content_hash = hashlib.md5(f"{input}{target}{record['level_name']}".encode()).hexdigest()[:8]
 
     sample = Sample(input=input,
                     target=target,
@@ -136,7 +136,7 @@ def decompose_record_to_sample(record: Dict[str, Any]) -> Sample:
 
     # Create a unique identifier based on content hash since no index is available
     import hashlib
-    content_hash = hashlib.md5(input.encode()).hexdigest()[:8]
+    content_hash = hashlib.md5(f"{input}{record['level_name']}".encode()).hexdigest()[:8]
 
     sample = Sample(input=input,
                     metadata=record,
