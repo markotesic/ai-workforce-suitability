@@ -21,5 +21,6 @@
   "maximegmd/MetaMedQA_annotation": 1173,
   "plan_bench_annotation": 1800,
   "socialnormdataset/social_annotation": 0,
-  "text_navigation_annotation": 1213
+  "text_navigation_annotation": 1413,
+  "LLM_BabyBench_annotation": 200
 }

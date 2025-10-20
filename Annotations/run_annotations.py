@@ -49,6 +49,8 @@ def get_allocation_key_for_task(task_name: str) -> str:
         "Crow": "Crow_annotation",  # Direct mapping
         "Fantom": "Fantom_annotation",  # Direct mapping
         "MacGyver": "MacGyver_annotation",  # Direct mapping
+        "INTUIT" : "intuit_annotation",
+        "LLM_BabyBench" : "LLM_BabyBench_annotation",
     }
 
     if task_name in special_mappings:
