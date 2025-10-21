@@ -100,7 +100,7 @@ def annotate(num_samples: int = DEFAULT_NUM_SAMPLES, mode: str = "overwrite"):
             id="question_id",
             input="question",
             choices="options",
-            target="answer_index",
+            target="answer",
             metadata=["test", "entry_point"]
         )
     )
