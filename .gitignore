@@ -5,3 +5,10 @@
 
 /ai_workforce_suitability.egg-info
 Evaluations/INTUIT/battery_for_ai_clean.csv
+
+.DS_Store
+.idea/
+*.iml
+*.iws
+*.ipr
+*.xml
