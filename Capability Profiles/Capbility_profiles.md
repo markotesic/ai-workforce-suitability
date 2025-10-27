@@ -1,0 +1,1 @@
+This folder contains code for generating capability profiles of LLMs using benchmark demand profiles and LLM performance scores on all selected annotated items.

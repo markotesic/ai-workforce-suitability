@@ -1,0 +1,1 @@
+This folder contains code for generating workforce suitability scores for work activities.
