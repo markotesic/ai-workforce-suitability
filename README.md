@@ -8,11 +8,11 @@ The pipeline connects benchmark datasets (annotated for cognitive demands), LLM 
 
 The goal of this project is to bridge **AI evaluation** and **workforce analysis** by creating comparable profiles of *capabilities* and *demands*.
 
-1. **Annotate AI Benchmarks for Cognitive Capabilities**  
+1. **Annotate AI Benchmarks for Cognitive Capabilities** *(done)*
    - Benchmarks are automatically annotated using structured rubrics representing 18 core cognitive capabilities (e.g., Cognitive Flexibility, Episodic Memory, Metacognition, Planning, Theory of Mind).
 
 
-2. **Extract Benchmark Demand Profiles**  
+2. **Extract Benchmark Demand Profiles** *(done)*
    - The above annotations are used to produce *benchmark demand profiles* that describe how much of each capability is required for each benchmark task instance.
 
 
