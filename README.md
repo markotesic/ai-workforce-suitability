@@ -1,6 +1,38 @@
 # AI Workforce Suitability
 
-A package for evaluating AI workforce suitability through various tasks and annotations using the Inspect AI framework.
+This repository develops a framework for assessing how well large language models (LLMs) possess the core cognitive capabilities required for human work activities.
+
+The pipeline connects benchmark datasets (annotated for cognitive demands), LLM performance evaluations, and workforce activity surveys, to estimate AI suitability scores — i.e., how suitable a given LLM is for performing the cognitive aspects of particular jobs.
+
+## Overview
+
+The goal of this project is to bridge **AI evaluation** and **workforce analysis** by creating comparable profiles of *capabilities* and *demands*.
+
+1. **Annotate AI Benchmarks for Cognitive Capabilities**  
+   - Benchmarks are automatically annotated using structured rubrics representing 18 core cognitive capabilities (e.g., Cognitive Flexibility, Episodic Memory, Metacognition, Planning, Theory of Mind).
+
+
+2. **Extract Benchmark Demand Profiles**  
+   - The above annotations are used to produce *benchmark demand profiles* that describe how much of each capability is required for each benchmark task instance.
+
+
+3. **Evaluate LLMs on Annotated Benchmark Instances** *(in progress)*  
+   - LLMs are evaluated on the annotated benchmark instances to obtain performance scores.
+
+
+4. **Create LLM Capability Profiles** *(in progress)*
+    - Performance data are combined with benchmark demand profiles to infer *capability profiles* of each model.
+    - These tell us the capability levels of each model for each capability.
+   
+
+5. **Collect Workforce Activity Demand Profiles** *(in progress)*  
+   - Human participants rate the degree to which each of the 18 cognitive capabilities is needed for specific work activities (using questionnaires).  
+   - These form *work activity demand profiles*.
+
+
+6. **Match LLM Capabilities to Workforce Demands** *(planned)*
+   - By comparing LLM capability profiles with work activity demand profiles, the we estimates **AI suitability scores**
+   - These scores indicate how likely an LLM is to have the core cognitive capabilities required for performing work activities in different job domains.
 
 ## Getting Started
 
