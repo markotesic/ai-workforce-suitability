@@ -1,7 +1,7 @@
 # custom/custom_minigrid_envs/register.py
 
 from gymnasium.envs.registration import register
-from Evaluations.LLM_BabyBench.goto import CustomGoToRedBallEnv
+from Annotated_Benchmarks.LLM_BabyBench.goto import CustomGoToRedBallEnv
 
 def register_envs():
     """Register all custom environments with Gymnasium"""

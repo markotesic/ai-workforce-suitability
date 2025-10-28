@@ -6,7 +6,7 @@ from typing import Any, Tuple, List, Union
 
 from minigrid.core.actions import Actions
 
-from Evaluations.LLM_BabyBench.babyaibot import (
+from Annotated_Benchmarks.LLM_BabyBench.babyaibot import (
     BabyAIBot,
     Subgoal,
     ExploreSubgoal,

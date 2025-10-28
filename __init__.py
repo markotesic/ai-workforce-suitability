@@ -4,7 +4,7 @@ A package for evaluating AI workforce suitability through various tasks and anno
 """
 
 from . import Annotations
-from . import Evaluations
+from . import Annotated_Benchmarks
 
 __version__ = "0.1.0"
-__all__ = ["Annotations", "Evaluations"]
+__all__ = ["Annotations", "Annotated_Benchmarks"]

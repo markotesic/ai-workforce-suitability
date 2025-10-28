@@ -4,8 +4,8 @@ from typing import Any, Tuple, Dict
 
 import gymnasium as gym
 
-from Evaluations.LLM_BabyBench.register import register_envs
-from Evaluations.LLM_BabyBench.utils import str_action_seq_to_int
+from Annotated_Benchmarks.LLM_BabyBench.register import register_envs
+from Annotated_Benchmarks.LLM_BabyBench.utils import str_action_seq_to_int
 
 def manhattan_distance(pred_state: Tuple[Tuple[int, int], int], true_state: Tuple[Tuple[int, int], int]) -> int:
     ((x1, y1), dir1) = pred_state

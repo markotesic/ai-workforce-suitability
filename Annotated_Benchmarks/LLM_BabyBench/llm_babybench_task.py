@@ -10,9 +10,9 @@ from inspect_ai._util.answer import answer_character
 
 from Annotations.annotate_tasks import annotate_task, extract_annotations
 from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
-from Evaluations.LLM_BabyBench.decompose import DecomposeEvaluator
-from Evaluations.LLM_BabyBench.plan import PlanEvaluator
-from Evaluations.LLM_BabyBench.register import register_envs
+from Annotated_Benchmarks.LLM_BabyBench.decompose import DecomposeEvaluator
+from Annotated_Benchmarks.LLM_BabyBench.plan import PlanEvaluator
+from Annotated_Benchmarks.LLM_BabyBench.register import register_envs
 import gymnasium as gym
 from gymnasium import Env
 

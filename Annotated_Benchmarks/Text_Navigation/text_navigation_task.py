@@ -16,7 +16,7 @@ from pydantic import Field
 
 from Annotations.annotate_tasks import annotate_task, extract_annotations
 from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
-from Evaluations.Text_Navigation.maze import maze_game
+from Annotated_Benchmarks.Text_Navigation.maze import maze_game
 
 
 def get_annotated_sample_ids(annotation_csv_path: str) -> Set[int]:
