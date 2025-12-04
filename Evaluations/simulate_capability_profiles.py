@@ -106,7 +106,13 @@ def build_single_agent_optionC(
 
         if pool == "add":
             contrib = kappa[None, :] * margin
+            #### note z_core calculation changed from original as the simulated agent profiles were not being recovered
             z_core = alpha + at.sum(contrib, axis=1)
+            # num = at.sum(contrib, axis=1)
+            # den = at.sum(kappa[None, :] * is_on, axis=1)
+            # den = pm.math.maximum(den, 1e-6)
+            # z_core = alpha + num / den
+
 
         elif pool == "geom":
             u = tau * (kappa[None, :] * margin)
