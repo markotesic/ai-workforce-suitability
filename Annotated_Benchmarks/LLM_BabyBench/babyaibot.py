@@ -602,7 +602,9 @@ class ExploreSubgoal(Subgoal):
             self.bot.stack.append(GoNextToSubgoal(self.bot, door_obj, reason="Open"))
             return
 
-        assert False, "0nothing left to explore"
+        # Nothing left to explore - pop this subgoal and let evaluation continue
+        self.bot.stack.pop()
+        return None
 
     def is_exploratory(self):
         return True

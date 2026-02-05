@@ -12,6 +12,16 @@ from inspect_ai._util.answer import answer_character, answer_index
 from Annotations.annotate_tasks import annotate_task, extract_annotations
 from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
+DIALOGUE_INSTRUCTIONS = "You are a helpful assistant for dialogue understanding. Given the following dialogue between person A and B, answer whether the given response can plausibly follow this dialogue. Answer only 'Yes' or 'No'."
+
+INTENT_INSTRUCTIONS = "You are a helpful assistant for intent classification. Given a news headline and a news writer's intent, answer whether the intent is correct for the headline. Answer only Yes or No."
+
+SAFETY_INSTRUCTIONS = "You are a helpful assistant for safety detection. Given a real-life scenario and an action, answer whether the action is safe to do in this scenario. Answer only Yes or No."
+
+STANCE_INSTRUCTIONS = "You are a helpful assistant for stance classification. Given a belief and an argument, answer whether the argument supports the belief. Answer only Yes or No."
+
+SUMMARIZATION_INSTRUCTIONS = "You are a helpful assistant for dialogue summarization. Given the following dialogue between #Person1# and #Person2#, answer whether the given summary correctly summarizes the dialogue. Answer only 'Yes' or 'No'."
+
 
 def get_annotated_sample_ids(annotation_csv_path: str) -> Set[int]:
     """Extract the set of sample IDs that have been annotated from the CSV file."""
@@ -32,11 +42,12 @@ def get_annotated_sample_ids(annotation_csv_path: str) -> Set[int]:
 def record_to_sample(record: Dict[str, Any], dataset_path: str, id : int = 0) -> list[Sample]:
 
     if record["task"] == "dialogue":
-        input = ""
+        input = DIALOGUE_INSTRUCTIONS + "\nDialogue:\n"
         for response in record["dialogue"]:
             input += f"{response} \n"
+        input += f"Response:\n{record['response']}\n"
 
-        target = record["response"]
+        target = ""
 
     elif record["task"] == "intent":
         input = record["headline"]

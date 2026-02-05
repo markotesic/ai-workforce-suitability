@@ -11,6 +11,8 @@ from inspect_ai._util.answer import answer_character
 from Annotations.annotate_tasks import annotate_task, extract_annotations
 from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
+current_hashes = []
+
 INPUT_TEMPLATE = """
 # INSTRUCTIONS
 
@@ -90,6 +92,11 @@ def record_to_sample(record) -> list[Sample]:
     # Create a unique identifier based on content hash since no index is available
     import hashlib
     content_hash = hashlib.md5(f"{context_1}{context_2}{scenario_1}{scenario_2}".encode()).hexdigest()[:8]
+
+    if content_hash in current_hashes:
+        return []
+    else:
+        current_hashes.append(content_hash)
 
     sample_1 = Sample(input= INPUT_TEMPLATE.format(context_1=context_1, context_2=context_2, scenario=scenario_1),
                       target="1",

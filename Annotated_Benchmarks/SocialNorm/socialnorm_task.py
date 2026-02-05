@@ -11,6 +11,8 @@ from inspect_ai._util.answer import answer_character
 from Annotations.annotate_tasks import annotate_task, extract_annotations
 from Annotations.run_annotations import DEFAULT_NUM_SAMPLES
 
+current_hashes = []
+
 SINGLE_ANSWER_TEMPLATE_COT = r"""
 Answer the following multiple choice question. The last line of your response should be of the following format: 'ANSWER: $LETTER' (without quotes) where LETTER is one of {letters}. Think step by step before answering.
 
@@ -36,7 +38,7 @@ def get_annotated_sample_ids(annotation_csv_path: str) -> Set[str]:
     return annotated_ids
 
 
-def record_to_sample(record: Dict[str, Any]) -> Sample:
+def record_to_sample(record: Dict[str, Any]) -> Sample | list[Sample]:
     input = record["question"]
     target = answer_character(record["answer_idx"])
     choices = record["choices"]
@@ -44,6 +46,10 @@ def record_to_sample(record: Dict[str, Any]) -> Sample:
     # Create a unique identifier based on content hash since no index is available
     import hashlib
     content_hash = hashlib.md5(f"{input}{''.join(choices)}{target}".encode()).hexdigest()[:8]
+    if content_hash in current_hashes:
+        return []
+    else:
+        current_hashes.append(content_hash)
 
     return Sample(
         input=input,

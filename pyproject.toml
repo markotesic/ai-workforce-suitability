@@ -42,7 +42,7 @@ dev = [
 
 [tool.setuptools.packages.find]
 where = ["."]
-include = ["ai_workforce_suitability*", "Annotations*", "Evaluations*"]
+include = ["ai_workforce_suitability*", "Annotations*", "Evaluations*", "Annotated_Benchmarks*"]
 
 [tool.black]
 line-length = 88
