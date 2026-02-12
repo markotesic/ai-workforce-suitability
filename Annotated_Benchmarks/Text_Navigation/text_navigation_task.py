@@ -9,9 +9,10 @@ from pathlib import Path
 from typing import Any, Optional, Set
 from inspect_ai import Task, task, eval
 from inspect_ai.dataset import MemoryDataset, Sample
+from inspect_ai.scorer import Score, Scorer, Target, accuracy, scorer, stderr, stderr
 from inspect_ai.solver import Generate, Solver, TaskState, basic_agent, solver, use_tools
 from inspect_ai.tool import Tool, tool
-from inspect_ai.util import StoreModel, store_as
+from inspect_ai.util import StoreModel, message_limit, store_as
 from pydantic import Field
 
 from Annotations.annotate_tasks import annotate_task, extract_annotations
@@ -84,6 +85,19 @@ def add_step_tool() -> Solver:
     return solve
 
 
+@scorer(metrics=[accuracy(), stderr()])
+def message_limit_scorer() -> Scorer:
+    """A simple scorer that marks the sample as correct if it ends before the message limit is reached."""
+    async def score(state: TaskState, target: Target) -> Score:
+        if not state.message_limit:
+            value = 0.0
+        else:
+            value = 1.0 if len(state.messages) < state.message_limit else 0.0
+    
+        return Score(value=value)
+    return score
+
+
 
 @task
 def text_navigation_task() -> Task:
@@ -103,6 +117,7 @@ def text_navigation_task() -> Task:
                     basic_agent(),
                     ],
                 message_limit=30,
+                scorer=message_limit_scorer()
                 )
 
 
